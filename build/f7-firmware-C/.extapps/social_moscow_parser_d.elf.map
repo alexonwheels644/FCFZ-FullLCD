@@ -1,0 +1,454 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+                              build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o (pow)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o) (__ieee754_pow)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o) (__ieee754_sqrt)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o) (finite)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o) (fabs)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o) (__math_uflow)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o) (scalbn)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+                              build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o (__aeabi_dmul)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o) (__aeabi_dsub)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o) (__aeabi_ddiv)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o) (__aeabi_dcmpeq)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o) (__aeabi_dcmpun)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o (__aeabi_uldivmod)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_fixunsdfdi.o)
+                              build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o (__aeabi_d2ulz)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_fixunsdfdi.o) (__aeabi_d2uiz)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.__math_may_uflow
+                0x00000000       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.__math_divzero
+                0x00000000       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.__math_invalid
+                0x00000000       0x54 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.__math_check_uflow
+                0x00000000       0x40 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.__math_check_oflow
+                0x00000000       0x64 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .text          0x00000000      0x254 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_fixunsdfdi.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_fixunsdfdi.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000     0x2084
+ *(.text)
+ .text          0x00000000      0x378 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x00000000                __aeabi_drsub
+                0x00000008                __aeabi_dsub
+                0x00000008                __subdf3
+                0x0000000c                __aeabi_dadd
+                0x0000000c                __adddf3
+                0x00000284                __floatunsidf
+                0x00000284                __aeabi_ui2d
+                0x000002a4                __floatsidf
+                0x000002a4                __aeabi_i2d
+                0x000002c8                __aeabi_f2d
+                0x000002c8                __extendsfdf2
+                0x0000030c                __floatundidf
+                0x0000030c                __aeabi_ul2d
+                0x0000031c                __floatdidf
+                0x0000031c                __aeabi_l2d
+ .text          0x00000378      0x424 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                0x00000378                __aeabi_dmul
+                0x00000378                __muldf3
+                0x000005cc                __divdf3
+                0x000005cc                __aeabi_ddiv
+ .text          0x0000079c      0x110 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                0x0000079c                __gtdf2
+                0x0000079c                __gedf2
+                0x000007a4                __ltdf2
+                0x000007a4                __ledf2
+                0x000007ac                __nedf2
+                0x000007ac                __eqdf2
+                0x000007ac                __cmpdf2
+                0x00000828                __aeabi_cdrcmple
+                0x00000838                __aeabi_cdcmpeq
+                0x00000838                __aeabi_cdcmple
+                0x00000848                __aeabi_dcmpeq
+                0x0000085c                __aeabi_dcmplt
+                0x00000870                __aeabi_dcmple
+                0x00000884                __aeabi_dcmpge
+                0x00000898                __aeabi_dcmpgt
+ .text          0x000008ac       0x2c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+                0x000008ac                __unorddf2
+                0x000008ac                __aeabi_dcmpun
+ .text          0x000008d8       0x30 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x000008d8                __aeabi_uldivmod
+ .text          0x00000908       0x3c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_fixunsdfdi.o)
+                0x00000908                __fixunsdfdi
+                0x00000908                __aeabi_d2ulz
+ .text          0x00000944      0x2bc c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x00000944                __udivmoddi4
+ .text          0x00000c00        0x4 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x00000c00                __aeabi_idiv0
+                0x00000c00                __aeabi_ldiv0
+ .text          0x00000c04       0x40 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                0x00000c04                __aeabi_d2uiz
+                0x00000c04                __fixunsdfsi
+ *(.stub)
+ *(.text*)
+ *fill*         0x00000c44        0x4 
+ .text.hex_num  0x00000c48       0xc8 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .text.social_moscow_parse
+                0x00000d10      0x28c build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .text.social_moscow_verify_type
+                0x00000f9c       0x98 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .text.social_moscow_verify
+                0x00001034       0x20 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .text.social_moscow_read
+                0x00001054      0x130 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .text.social_moscow_plugin_ep
+                0x00001184        0x8 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+                0x00001184                social_moscow_plugin_ep
+ .text.pow      0x0000118c       0xe0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+                0x0000118c                pow
+ *fill*         0x0000126c        0x4 
+ .text.__ieee754_pow
+                0x00001270      0xaac c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+                0x00001270                __ieee754_pow
+ .text.__ieee754_sqrt
+                0x00001d1c      0x1cc c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+                0x00001d1c                __ieee754_sqrt
+ .text.finite   0x00001ee8       0x16 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+                0x00001ee8                finite
+ .text.fabs     0x00001efe       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+                0x00001efe                fabs
+ .text.with_errno
+                0x00001f0e       0x24 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.xflow    0x00001f32       0x32 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ *fill*         0x00001f64        0x4 
+ .text.__math_uflow
+                0x00001f68       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+                0x00001f68                __math_uflow
+ .text.__math_oflow
+                0x00001f78       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+                0x00001f78                __math_oflow
+ .text.scalbn   0x00001f88       0xfc c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+                0x00001f88                scalbn
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00002088      0x4a8
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.social_moscow_parse.str1.1
+                0x00002088       0x60 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .rodata.social_moscow_verify_type.str1.1
+                0x000020e8       0x4f build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .rodata.social_moscow_read.str1.1
+                0x00002137       0x14 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .rodata.str1.1
+                0x0000214b       0x17 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ *fill*         0x00002162        0x2 
+ .rodata.social_moscow_plugin_descriptor
+                0x00002164        0xc build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .rodata.social_moscow_plugin
+                0x00002170       0x10 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .rodata.social_moscow_4k_keys
+                0x00002180      0x280 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .rodata.social_moscow_1k_keys
+                0x00002400      0x100 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .rodata.dp_l   0x00002500       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .rodata.dp_h   0x00002510       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .rodata.bp     0x00002520       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+
+.ARM.exidx      0x00000000        0x8
+ .ARM.exidx     0x00000000        0x8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+
+.data           0x00000008       0x10
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.tiny     0x00000008        0x8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .data.one      0x00000010        0x8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x48
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x48 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x15a0
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x15a0 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+
+.debug_abbrev   0x00000000      0x3a1
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3a1 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+
+.debug_line     0x00000000      0x92b
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x36e build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .debug_line.text.hex_num
+                0x0000036e      0x158 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .debug_line.text.social_moscow_parse
+                0x000004c6      0x240 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .debug_line.text.social_moscow_verify_type
+                0x00000706       0x9d build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .debug_line.text.social_moscow_verify
+                0x000007a3       0x36 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .debug_line.text.social_moscow_read
+                0x000007d9      0x139 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .debug_line.text.social_moscow_plugin_ep
+                0x00000912       0x19 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .debug_line_end
+                0x0000092b        0x0 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+
+.debug_frame    0x00000000      0x100
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x100 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+
+.debug_str      0x00000000      0xc0c
+ *(.debug_str)
+ .debug_str     0x00000000      0xc0c build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000      0x4a0
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_line_str
+                0x000000aa       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_line_str
+                0x00000154       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_line_str
+                0x000001fe       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .debug_line_str
+                0x000002a8       0xa5 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line_str
+                0x0000034d       0xa9 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_line_str
+                0x000003f6       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+
+.debug_loclists
+                0x00000000      0x619
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x619 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000       0xf6
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0xf6 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/social_moscow_parser/plugins/supported_cards/social_moscow.o
+ .ARM.attributes
+                0x00000034       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+ .ARM.attributes
+                0x00000068       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .ARM.attributes
+                0x0000009c       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .ARM.attributes
+                0x000000d0       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+ .ARM.attributes
+                0x00000104       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+ .ARM.attributes
+                0x00000138       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .ARM.attributes
+                0x0000016c       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .ARM.attributes
+                0x000001a0       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x000001c2       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000001e4       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000206       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000228       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x0000024a       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000026c       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_fixunsdfdi.o)
+ .ARM.attributes
+                0x000002a0       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000002d4       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000002f6       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/social_moscow_parser_d.elf elf32-littlearm)
+LOAD linker stubs

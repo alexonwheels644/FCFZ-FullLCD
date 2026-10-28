@@ -1,0 +1,2834 @@
+Archive member included to satisfy reference by file (symbol)
+
+build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+                              build/f7-firmware-C/.extapps/passy/secure_messaging.o (mbedtls_sha1_init)
+build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                              build/f7-firmware-C/.extapps/passy/passy_common.o (mbedtls_des_init)
+build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+                              build/f7-firmware-C/lib\libmbedtls.a(sha1.o) (mbedtls_platform_zeroize)
+build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+                              build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o (asn_DEF_COM)
+build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+                              build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o (asn_DEF_DG1)
+build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(COM.o) (asn_DEF_DataGroups)
+build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(COM.o) (asn_DEF_LDSVersion)
+build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(DG1.o) (asn_DEF_MRZ)
+build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o) (asn_SPC_OCTET_STRING_specs)
+build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o) (OCTET_STRING_decode_oer)
+build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(COM.o) (asn_DEF_UnicodeVersion)
+build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o) (VisibleString_constraint)
+build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+                              build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o (asn_decode)
+build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(asn_application.o) (asn_random_fill)
+build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(asn_application.o) (ber_decode)
+build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o) (ber_fetch_length)
+build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o) (ber_fetch_tag)
+build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(COM.o) (SEQUENCE_constraint)
+build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o) (SEQUENCE_decode_oer)
+build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o) (asn_generic_no_constraint)
+build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(asn_application.o) (der_encode)
+build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(asn_application.o) (oer_decode)
+build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(asn_application.o) (oer_encode)
+build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o) (oer_fetch_length)
+build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(asn_application.o) (xer_decode)
+build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(asn_application.o) (xer_encode)
+build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o) (pxml_parse)
+build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o) (OPEN_TYPE_ber_get)
+build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o) (OPEN_TYPE_oer_get)
+build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o) (asn_bit_data_new_contiguous)
+build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o) (CHOICE_print)
+build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o) (CHOICE_decode_oer)
+build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o) (asn_TYPE_outmost_tag)
+build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o) (uper_open_type_put)
+build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o) (uper_get_length)
+build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+                              build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o) (uper_encode_to_new_buffer)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/bsearch.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/bsearch.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/bsearch.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/bsearch.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/memmem.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/memmem.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/memmem.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/memmem.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy.o
+ .text.passy_text_store_set
+                0x00000000       0x24 build/f7-firmware-C/.extapps/passy/passy.o
+ .text.passy_text_store_clear
+                0x00000000       0x10 build/f7-firmware-C/.extapps/passy/passy.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_text_store_set
+                0x00000000       0x2e build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_text_store_clear
+                0x00000000       0x18 build/f7-firmware-C/.extapps/passy/passy.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/passy_common.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .data.padding  0x00000000       0x10 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .rodata.I_EPassport_logo_svg
+                0x00000000        0xc build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .rodata.I_EPassportLogo_97x61
+                0x00000000        0xc build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .rodata._I_EPassport_logo_svg
+                0x00000000        0x4 build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .rodata._I_EPassport_logo_svg_0
+                0x00000000       0xde build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .rodata._I_EPassportLogo_97x61
+                0x00000000        0x4 build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .rodata._I_EPassportLogo_97x61_0
+                0x00000000       0xc6 build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .debug_info    0x00000000      0x1cd build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .debug_abbrev  0x00000000       0xb5 build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .debug_aranges
+                0x00000000       0x18 build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .debug_line    0x00000000      0x13d build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .debug_str     0x00000000      0x2af build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .text          0x00000000        0x0 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .text.mbedtls_sha1_clone
+                0x00000000       0x10 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .text.mbedtls_sha1
+                0x00000000       0x54 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_line.text.mbedtls_sha1_clone
+                0x00000000       0x1e build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_line.text.mbedtls_sha1
+                0x00000000       0x68 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .text.mbedtls_des_key_set_parity
+                0x00000000       0x1c build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .text.mbedtls_des_key_check_key_parity
+                0x00000000       0x24 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .text.mbedtls_des_key_check_weak
+                0x00000000       0x30 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .text.des3_set3key
+                0x00000000       0x6c build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .text.mbedtls_des3_set3key_enc
+                0x00000000       0x28 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .text.mbedtls_des3_set3key_dec
+                0x00000000       0x28 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.weak_key_table
+                0x00000000       0x80 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.odd_parity_table
+                0x00000000       0x80 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des_key_set_parity
+                0x00000000       0x53 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des_key_check_key_parity
+                0x00000000       0x47 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des_key_check_weak
+                0x00000000       0x4a build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.des3_set3key
+                0x00000000       0xd5 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des3_set3key_enc
+                0x00000000       0x26 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des3_set3key_dec
+                0x00000000       0x27 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .text.mbedtls_zeroize_and_free
+                0x00000000       0x1c build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .debug_line.text.mbedtls_zeroize_and_free
+                0x00000000       0x2b build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .text.OCTET_STRING__convert_binary
+                0x00000000       0xa0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .text.OCTET_STRING_decode_xer_binary
+                0x00000000       0x2c build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .text.OCTET_STRING_fromBuf
+                0x00000000       0x6c build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .text.OCTET_STRING_new_fromBuf
+                0x00000000       0x48 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .data.asn_DEF_OCTET_STRING
+                0x00000000       0x34 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .rodata.asn_DEF_OCTET_STRING_tags
+                0x00000000        0x4 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING__convert_binary
+                0x00000000      0x13c build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_decode_xer_binary
+                0x00000000       0x26 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_fromBuf
+                0x00000000       0x94 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_new_fromBuf
+                0x00000000       0x66 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .rodata.str1.1
+                0x00000000        0xe build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .data.asn_DEF_VisibleString
+                0x00000000       0x34 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .data.asn_DEF_VisibleString_constraints
+                0x00000000       0x30 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .rodata.asn_DEF_VisibleString_tags
+                0x00000000        0x8 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .text.callback_count_bytes_cb
+                0x00000000       0x18 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .text.callback_failure_catch_cb
+                0x00000000       0x14 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .text.overrun_encoder_cb
+                0x00000000       0x30 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .text.dynamic_encoder_cb
+                0x00000000       0x60 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .rodata.asn_encode_internal.constprop.0.str1.1
+                0x00000000        0x2 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .text.asn_encode_internal.constprop.0
+                0x00000000      0x140 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .text.asn_encode
+                0x00000000       0x68 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .text.asn_encode_to_buffer
+                0x00000000       0x60 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .text.asn_encode_to_new_buffer
+                0x00000000       0x48 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_line.text.callback_count_bytes_cb
+                0x00000000       0x3b build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_line.text.callback_failure_catch_cb
+                0x00000000       0x37 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_line.text.overrun_encoder_cb
+                0x00000000       0x48 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_line.text.dynamic_encoder_cb
+                0x00000000       0x9e build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_line.text.asn_encode_internal.constprop.0
+                0x00000000      0x18e build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_line.text.asn_encode
+                0x00000000       0x7d build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_line.text.asn_encode_to_buffer
+                0x00000000       0x74 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_line.text.asn_encode_to_new_buffer
+                0x00000000       0x80 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .text.ber_tlv_tag_fwrite
+                0x00000000       0x40 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .text.ber_tlv_tag_string
+                0x00000000       0x18 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .bss.buf.0     0x00000000       0x2f build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_line.text.ber_tlv_tag_fwrite
+                0x00000000       0x53 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_line.text.ber_tlv_tag_string
+                0x00000000       0x25 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .rodata._asn_i_ctfailcb.str1.1
+                0x00000000       0x13 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .text._asn_i_ctfailcb
+                0x00000000       0x6c build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .text.asn_generic_unknown_constraint
+                0x00000000        0x4 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .text.asn_check_constraints
+                0x00000000       0x30 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_line.text._asn_i_ctfailcb
+                0x00000000       0xb4 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_line.text.asn_generic_unknown_constraint
+                0x00000000       0x11 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_line.text.asn_check_constraints
+                0x00000000       0x86 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .text.encode_to_buffer_cb
+                0x00000000       0x30 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .text.der_encode
+                0x00000000       0x1a build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .text.der_encode_to_buffer
+                0x00000000       0x28 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_line.text.encode_to_buffer_cb
+                0x00000000       0x4c build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_line.text.der_encode
+                0x00000000       0x31 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_line.text.der_encode_to_buffer
+                0x00000000       0x4c build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .text.oer_decode_primitive
+                0x00000000       0x9c build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_line.text.oer_decode_primitive
+                0x00000000      0x139 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .text.encode_to_buffer_cb
+                0x00000000       0x30 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .text.oer_encode
+                0x00000000       0x1a build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .text.oer_encode_to_buffer
+                0x00000000       0x40 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .text.oer_encode_primitive
+                0x00000000       0x4c build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_line.text.encode_to_buffer_cb
+                0x00000000       0x4c build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_line.text.oer_encode
+                0x00000000       0x31 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_line.text.oer_encode_to_buffer
+                0x00000000       0x59 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_line.text.oer_encode_primitive
+                0x00000000       0xd5 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .text.xer_whitespace_span
+                0x00000000       0x2c build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_line.text.xer_whitespace_span
+                0x00000000       0x43 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .text.xer__print2fp
+                0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .text.xer__buffer_append
+                0x00000000       0x78 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .rodata.xer_encode.str1.1
+                0x00000000        0xa build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .text.xer_encode
+                0x00000000       0xe8 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .text.xer_fprint
+                0x00000000       0x4c build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .rodata.xer_equivalent.str1.1
+                0x00000000      0x263 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .text.xer_equivalent
+                0x00000000      0x28c build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_info    0x00000000     0x1b83 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_abbrev  0x00000000      0x32c build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_loclists
+                0x00000000      0x544 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_aranges
+                0x00000000       0x40 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_rnglists
+                0x00000000       0x39 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_line    0x00000000      0x312 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_str     0x00000000      0xf57 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_line.text.xer__print2fp
+                0x00000000       0x27 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_line.text.xer__buffer_append
+                0x00000000       0xb6 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_line.text.xer_encode
+                0x00000000      0x107 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_line.text.xer_fprint
+                0x00000000       0x65 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_line.text.xer_equivalent
+                0x00000000      0x229 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .debug_frame   0x00000000       0xe4 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .data.asn_OP_OPEN_TYPE
+                0x00000000       0x34 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .rodata.asn_bit_data_string.str1.1
+                0x00000000       0x21 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .text.asn_bit_data_string
+                0x00000000       0x50 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .text.asn_get_many_bits
+                0x00000000       0x98 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .text.asn_put_many_bits
+                0x00000000       0x6c build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .bss.buf.0     0x00000000       0x40 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .bss.n.1       0x00000000        0x4 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_line.text.asn_bit_data_string
+                0x00000000       0x41 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_line.text.asn_get_many_bits
+                0x00000000      0x115 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_line.text.asn_put_many_bits
+                0x00000000       0xb2 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text._search4tag
+                0x00000000       0x2a build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .rodata.CHOICE_print.str1.1
+                0x00000000        0x9 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_print
+                0x00000000       0x6c build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_decode_ber
+                0x00000000      0x310 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_encode_der
+                0x00000000       0xf4 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_outmost_tag
+                0x00000000       0x50 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_decode_xer
+                0x00000000      0x250 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .rodata.CHOICE_encode_xer.str1.1
+                0x00000000        0xe build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_encode_xer
+                0x00000000      0x1bc build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_free
+                0x00000000       0x7c build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_random_fill
+                0x00000000       0xc8 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text._get_member_ptr.constprop.0
+                0x00000000       0x50 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_compare
+                0x00000000       0x54 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .rodata.CHOICE_constraint.str1.1
+                0x00000000       0xa4 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_constraint
+                0x00000000       0xd4 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_decode_uper
+                0x00000000      0x130 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_encode_uper
+                0x00000000      0x120 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_variant_get_presence
+                0x00000000       0x14 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .data.asn_OP_CHOICE
+                0x00000000       0x34 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text._search4tag
+                0x00000000       0x60 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_print
+                0x00000000       0xb3 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_decode_ber
+                0x00000000      0x44d build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_encode_der
+                0x00000000      0x18b build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_outmost_tag
+                0x00000000       0x89 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_decode_xer
+                0x00000000      0x3c0 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_encode_xer
+                0x00000000      0x298 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_free
+                0x00000000       0xaa build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_random_fill
+                0x00000000      0x10e build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text._get_member_ptr.constprop.0
+                0x00000000       0xaa build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_compare
+                0x00000000       0x89 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_constraint
+                0x00000000       0xf4 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_decode_uper
+                0x00000000      0x27a build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_encode_uper
+                0x00000000      0x1d5 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_variant_get_presence
+                0x00000000       0x27 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .text._search4tag
+                0x00000000       0x2a build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .text.CHOICE_decode_oer
+                0x00000000      0x1b8 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .text.CHOICE_encode_oer
+                0x00000000      0x128 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_info    0x00000000     0x1608 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_abbrev  0x00000000      0x3a9 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_loclists
+                0x00000000      0x93e build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_aranges
+                0x00000000       0x30 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_rnglists
+                0x00000000       0xff build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_line    0x00000000      0x31e build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_str     0x00000000      0xcda build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_line.text._search4tag
+                0x00000000       0x61 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_line.text.CHOICE_decode_oer
+                0x00000000      0x305 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_line.text.CHOICE_encode_oer
+                0x00000000      0x260 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .debug_frame   0x00000000       0x80 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .text._print2fp
+                0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .text.get_asn1c_environment_version
+                0x00000000        0x6 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .text.asn_TYPE_outmost_tag
+                0x00000000       0x20 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .rodata.asn_fprint.str1.1
+                0x00000000        0x2 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .text.asn_fprint
+                0x00000000       0x64 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .text.ASN_DEBUG_f
+                0x00000000       0x38 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_info    0x00000000     0x1498 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_abbrev  0x00000000      0x33e build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_loclists
+                0x00000000      0x163 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_aranges
+                0x00000000       0x40 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_rnglists
+                0x00000000       0x2b build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_line    0x00000000      0x311 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_str     0x00000000      0xdea build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_line.text._print2fp
+                0x00000000       0x27 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_line.text.get_asn1c_environment_version
+                0x00000000       0x18 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_line.text.asn_TYPE_outmost_tag
+                0x00000000       0x40 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_line.text.asn_fprint
+                0x00000000       0x78 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_line.text.ASN_DEBUG_f
+                0x00000000       0x3a build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .debug_frame   0x00000000       0xbc build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .text.uper_open_type_get_simple
+                0x00000000      0x124 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .text.uper_sot_suck
+                0x00000000       0x24 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .text.uper_open_type_put
+                0x00000000       0x78 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .text.uper_open_type_get
+                0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .rodata.uper_open_type_skip.str1.1
+                0x00000000       0x14 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .text.uper_open_type_skip
+                0x00000000       0x3c build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_info    0x00000000     0x1345 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_abbrev  0x00000000      0x372 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_loclists
+                0x00000000      0x4b4 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_aranges
+                0x00000000       0x40 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_rnglists
+                0x00000000       0x52 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_line    0x00000000      0x310 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_str     0x00000000      0xbc2 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_line.text.uper_open_type_get_simple
+                0x00000000      0x165 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_line.text.uper_sot_suck
+                0x00000000       0x58 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_line.text.uper_open_type_put
+                0x00000000       0xbc build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_line.text.uper_open_type_get
+                0x00000000       0x26 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_line.text.uper_open_type_skip
+                0x00000000       0x54 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .debug_frame   0x00000000       0xc4 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text.uper_get_length.part.0.constprop.0
+                0x00000000       0x4c build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text.uper_get_length
+                0x00000000       0x2c build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text.uper_get_nslength
+                0x00000000       0x4c build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text.uper_get_nsnnwn
+                0x00000000       0x3c build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text.uper_put_nsnnwn
+                0x00000000       0x58 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text.uper_get_constrained_whole_number
+                0x00000000       0x48 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text.uper_put_constrained_whole_number_u
+                0x00000000       0x30 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text.uper_put_length
+                0x00000000       0x6c build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text.uper_put_nslength
+                0x00000000       0x40 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text.per_long_range_rebase
+                0x00000000       0x38 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text.per_long_range_unrebase
+                0x00000000       0x1e build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_info    0x00000000      0x9d5 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_abbrev  0x00000000      0x2e1 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_loclists
+                0x00000000      0x59c build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_aranges
+                0x00000000       0x70 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_rnglists
+                0x00000000       0x6a build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line    0x00000000      0x1d1 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_str     0x00000000      0x448 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line.text.uper_get_length.part.0.constprop.0
+                0x00000000       0x9d build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line.text.uper_get_length
+                0x00000000       0x59 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line.text.uper_get_nslength
+                0x00000000       0x79 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line.text.uper_get_nsnnwn
+                0x00000000       0x6c build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line.text.uper_put_nsnnwn
+                0x00000000       0x73 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line.text.uper_get_constrained_whole_number
+                0x00000000       0x77 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line.text.uper_put_constrained_whole_number_u
+                0x00000000       0x3f build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line.text.uper_put_length
+                0x00000000       0x9c build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line.text.uper_put_nslength
+                0x00000000       0x55 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line.text.per_long_range_rebase
+                0x00000000       0x8d build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line.text.per_long_range_unrebase
+                0x00000000       0x5b build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .debug_frame   0x00000000      0x170 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .text.ignore_output
+                0x00000000        0x4 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .text.encode_to_buffer_cb
+                0x00000000       0x30 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .text.encode_dyn_cb
+                0x00000000       0x68 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .text.uper_encode
+                0x00000000       0xbc build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .text.uper_encode_to_buffer
+                0x00000000       0x28 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .text.uper_encode_to_new_buffer
+                0x00000000       0x6c build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_info    0x00000000     0x10af build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_abbrev  0x00000000      0x2aa build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_loclists
+                0x00000000      0x356 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_aranges
+                0x00000000       0x48 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_rnglists
+                0x00000000       0x56 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_line    0x00000000      0x2fd build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_str     0x00000000      0xb4d build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_line.text.ignore_output
+                0x00000000       0x1a build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_line.text.encode_to_buffer_cb
+                0x00000000       0x4c build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_line.text.encode_dyn_cb
+                0x00000000       0x9e build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_line.text.uper_encode
+                0x00000000      0x100 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_line.text.uper_encode_to_buffer
+                0x00000000       0x3a build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_line.text.uper_encode_to_new_buffer
+                0x00000000       0x8a build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ .debug_frame   0x00000000       0xd0 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+LOAD build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+LOAD build/f7-firmware-C/.extapps/passy/bsearch.o
+LOAD build/f7-firmware-C/.extapps/passy/memmem.o
+LOAD build/f7-firmware-C/.extapps/passy/passy.o
+LOAD build/f7-firmware-C/.extapps/passy/passy_common.o
+LOAD build/f7-firmware-C/.extapps/passy/passy_reader.o
+LOAD build/f7-firmware-C/.extapps/passy/secure_messaging.o
+LOAD build/f7-firmware-C/.extapps/passy/passy_icons.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD build/f7-firmware-C/lib\libmbedtls.a
+LOAD build/f7-firmware-C/.extapps/passy/asn1
+LOAD build/f7-firmware-C/lib\libmbedtls.a
+
+.text           0x00000000     0x8934
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.passy_scene_adv_warning_widget_callback
+                0x00000000       0x14 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+                0x00000000                passy_scene_adv_warning_widget_callback
+ .text.passy_scene_adv_warning_on_enter
+                0x00000014       0xe4 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+                0x00000014                passy_scene_adv_warning_on_enter
+ .text.passy_scene_adv_warning_on_event
+                0x000000f8       0x48 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+                0x000000f8                passy_scene_adv_warning_on_event
+ .text.passy_scene_adv_warning_on_exit
+                0x00000140        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+                0x00000140                passy_scene_adv_warning_on_exit
+ .text.passy_scene_advanced_menu_submenu_callback
+                0x0000014c        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+                0x0000014c                passy_scene_advanced_menu_submenu_callback
+ .text.passy_scene_advanced_menu_on_enter
+                0x00000158      0x1a4 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+                0x00000158                passy_scene_advanced_menu_on_enter
+ .text.passy_scene_advanced_menu_on_event
+                0x000002fc       0x54 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+                0x000002fc                passy_scene_advanced_menu_on_event
+ .text.passy_scene_advanced_menu_on_exit
+                0x00000350        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+                0x00000350                passy_scene_advanced_menu_on_exit
+ .text.passy_scene_delete_widget_callback
+                0x0000035c       0x14 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+                0x0000035c                passy_scene_delete_widget_callback
+ .text.passy_scene_delete_on_enter
+                0x00000370       0x7c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+                0x00000370                passy_scene_delete_on_enter
+ .text.passy_scene_delete_on_event
+                0x000003ec       0x58 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+                0x000003ec                passy_scene_delete_on_event
+ .text.passy_scene_delete_on_exit
+                0x00000444        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+                0x00000444                passy_scene_delete_on_exit
+ .text.passy_scene_delete_success_popup_callback
+                0x00000450        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+                0x00000450                passy_scene_delete_success_popup_callback
+ .text.passy_scene_delete_success_on_enter
+                0x0000045c       0x80 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+                0x0000045c                passy_scene_delete_success_on_enter
+ .text.passy_scene_delete_success_on_event
+                0x000004dc       0x24 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+                0x000004dc                passy_scene_delete_success_on_event
+ .text.passy_scene_delete_success_on_exit
+                0x00000500        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+                0x00000500                passy_scene_delete_success_on_exit
+ .text.passy_scene_dob_input_text_input_callback
+                0x0000050c        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+                0x0000050c                passy_scene_dob_input_text_input_callback
+ .text.passy_scene_dob_input_on_enter
+                0x00000518       0x6c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+                0x00000518                passy_scene_dob_input_on_enter
+ .text.passy_scene_dob_input_on_event
+                0x00000584       0x3c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+                0x00000584                passy_scene_dob_input_on_event
+ .text.passy_scene_dob_input_on_exit
+                0x000005c0       0x24 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+                0x000005c0                passy_scene_dob_input_on_exit
+ .text.passy_scene_doe_input_text_input_callback
+                0x000005e4        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+                0x000005e4                passy_scene_doe_input_text_input_callback
+ .text.passy_scene_doe_input_on_enter
+                0x000005f0       0x6c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+                0x000005f0                passy_scene_doe_input_on_enter
+ .text.passy_scene_doe_input_on_event
+                0x0000065c       0x4c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+                0x0000065c                passy_scene_doe_input_on_event
+ .text.passy_scene_doe_input_on_exit
+                0x000006a8       0x24 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+                0x000006a8                passy_scene_doe_input_on_exit
+ .text.passy_scene_known_issues_on_enter
+                0x000006cc       0x64 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+                0x000006cc                passy_scene_known_issues_on_enter
+ .text.passy_scene_known_issues_on_event
+                0x00000730       0x28 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+                0x00000730                passy_scene_known_issues_on_event
+ .text.passy_scene_known_issues_on_exit
+                0x00000758        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+                0x00000758                passy_scene_known_issues_on_exit
+ .text.passy_scene_main_menu_submenu_callback
+                0x00000764        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+                0x00000764                passy_scene_main_menu_submenu_callback
+ .text.passy_scene_main_menu_on_enter
+                0x00000770       0xd0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+                0x00000770                passy_scene_main_menu_on_enter
+ .text.passy_scene_main_menu_on_event
+                0x00000840       0x7c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+                0x00000840                passy_scene_main_menu_on_event
+ .text.passy_scene_main_menu_on_exit
+                0x000008bc        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+                0x000008bc                passy_scene_main_menu_on_exit
+ .text.passy_scene_passport_number_input_text_input_callback
+                0x000008c8        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+                0x000008c8                passy_scene_passport_number_input_text_input_callback
+ .text.passy_scene_passport_number_input_on_enter
+                0x000008d4       0x60 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+                0x000008d4                passy_scene_passport_number_input_on_enter
+ .text.passy_scene_passport_number_input_on_event
+                0x00000934       0xa0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+                0x00000934                passy_scene_passport_number_input_on_event
+ .text.passy_scene_passport_number_input_on_exit
+                0x000009d4       0x24 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+                0x000009d4                passy_scene_passport_number_input_on_exit
+ .text.passy_scene_detect_scan_callback
+                0x000009f8       0x74 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+                0x000009f8                passy_scene_detect_scan_callback
+ .text.passy_scene_read_on_enter
+                0x00000a6c       0x84 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+                0x00000a6c                passy_scene_read_on_enter
+ .text.passy_scene_read_on_event
+                0x00000af0      0x1c8 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+                0x00000af0                passy_scene_read_on_event
+ .text.passy_scene_read_on_exit
+                0x00000cb8       0x74 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+                0x00000cb8                passy_scene_read_on_exit
+ .text.passy_scene_read_error_widget_callback
+                0x00000d2c       0x14 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+                0x00000d2c                passy_scene_read_error_widget_callback
+ .text.passy_scene_read_error_on_enter
+                0x00000d40       0xe4 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+                0x00000d40                passy_scene_read_error_on_enter
+ .text.passy_scene_read_error_on_event
+                0x00000e24       0x4c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+                0x00000e24                passy_scene_read_error_on_event
+ .text.passy_scene_read_error_on_exit
+                0x00000e70        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+                0x00000e70                passy_scene_read_error_on_exit
+ .text.passy_scene_read_success_on_enter
+                0x00000e7c      0x3d8 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+                0x00000e7c                passy_scene_read_success_on_enter
+ .text.passy_scene_read_success_on_event
+                0x00001254       0x30 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+                0x00001254                passy_scene_read_success_on_event
+ .text.passy_scene_read_success_on_exit
+                0x00001284        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+                0x00001284                passy_scene_read_success_on_exit
+ .text.bsearch  0x00001290       0x36 build/f7-firmware-C/.extapps/passy/bsearch.o
+                0x00001290                bsearch
+ *fill*         0x000012c6        0x2 
+ .text.memmem   0x000012c8       0x48 build/f7-firmware-C/.extapps/passy/memmem.o
+                0x000012c8                memmem
+ .text.passy_custom_event_callback
+                0x00001310        0xc build/f7-firmware-C/.extapps/passy/passy.o
+                0x00001310                passy_custom_event_callback
+ .text.passy_back_event_callback
+                0x0000131c        0xc build/f7-firmware-C/.extapps/passy/passy.o
+                0x0000131c                passy_back_event_callback
+ .text.passy_tick_event_callback
+                0x00001328        0xc build/f7-firmware-C/.extapps/passy/passy.o
+                0x00001328                passy_tick_event_callback
+ .text.passy_show_loading_popup
+                0x00001334       0x28 build/f7-firmware-C/.extapps/passy/passy.o
+                0x00001334                passy_show_loading_popup
+ .text.passy_load_mrz_info
+                0x0000135c      0x134 build/f7-firmware-C/.extapps/passy/passy.o
+                0x0000135c                passy_load_mrz_info
+ .text.passy_save_mrz_info
+                0x00001490       0xe0 build/f7-firmware-C/.extapps/passy/passy.o
+                0x00001490                passy_save_mrz_info
+ .text.passy_delete_mrz_info
+                0x00001570       0x94 build/f7-firmware-C/.extapps/passy/passy.o
+                0x00001570                passy_delete_mrz_info
+ .text.passy_alloc
+                0x00001604      0x1e8 build/f7-firmware-C/.extapps/passy/passy.o
+                0x00001604                passy_alloc
+ .text.passy_free
+                0x000017ec      0x11c build/f7-firmware-C/.extapps/passy/passy.o
+                0x000017ec                passy_free
+ .text.passy_blink_start
+                0x00001908       0x10 build/f7-firmware-C/.extapps/passy/passy.o
+                0x00001908                passy_blink_start
+ .text.passy_blink_stop
+                0x00001918       0x10 build/f7-firmware-C/.extapps/passy/passy.o
+                0x00001918                passy_blink_stop
+ .text.passy_app
+                0x00001928       0x30 build/f7-firmware-C/.extapps/passy/passy.o
+                0x00001928                passy_app
+ .text.print_struct_callback
+                0x00001958       0x30 build/f7-firmware-C/.extapps/passy/passy_common.o
+                0x00001958                print_struct_callback
+ .text.passy_log_bitbuffer
+                0x00001988       0xa0 build/f7-firmware-C/.extapps/passy/passy_common.o
+                0x00001988                passy_log_bitbuffer
+ .text.passy_log_buffer
+                0x00001a28       0x88 build/f7-firmware-C/.extapps/passy/passy_common.o
+                0x00001a28                passy_log_buffer
+ .text.passy_mac
+                0x00001ab0       0xe4 build/f7-firmware-C/.extapps/passy/passy_common.o
+                0x00001ab0                passy_mac
+ .text.passy_checksum
+                0x00001b94       0xac build/f7-firmware-C/.extapps/passy/passy_common.o
+                0x00001b94                passy_checksum
+ .text.asn1_length
+                0x00001c40       0x26 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x00001c40                asn1_length
+ .text.asn1_length_length
+                0x00001c66       0x20 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x00001c66                asn1_length_length
+ *fill*         0x00001c86        0x2 
+ .text.passy_reader_alloc
+                0x00001c88      0x124 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x00001c88                passy_reader_alloc
+ .text.passy_reader_free
+                0x00001dac       0x2c build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x00001dac                passy_reader_free
+ .text.passy_reader_send
+                0x00001dd8      0x134 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x00001dd8                passy_reader_send
+ .text.passy_reader_select_application
+                0x00001f0c       0x40 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x00001f0c                passy_reader_select_application
+ .text.passy_reader_get_challenge
+                0x00001f4c       0x3c build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x00001f4c                passy_reader_get_challenge
+ .text.passy_reader_authenticate
+                0x00001f88      0x200 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x00001f88                passy_reader_authenticate
+ .text.passy_reader_select_file
+                0x00002188       0x70 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x00002188                passy_reader_select_file
+ .text.passy_reader_read_binary
+                0x000021f8       0xa4 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x000021f8                passy_reader_read_binary
+ .text.passy_reader_read_com
+                0x0000229c       0xc0 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x0000229c                passy_reader_read_com
+ .text.passy_reader_read_dg1
+                0x0000235c       0xd8 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x0000235c                passy_reader_read_dg1
+ .text.passy_reader_read_dg2_or_dg7
+                0x00002434      0x228 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x00002434                passy_reader_read_dg2_or_dg7
+ .text.passy_reader_state_machine
+                0x0000265c      0x108 build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x0000265c                passy_reader_state_machine
+ .text.passy_reader_poller_callback
+                0x00002764       0xfc build/f7-firmware-C/.extapps/passy/passy_reader.o
+                0x00002764                passy_reader_poller_callback
+ .text.secure_messaging_adjust_parity
+                0x00002860       0x32 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+                0x00002860                secure_messaging_adjust_parity
+ *fill*         0x00002892        0x2 
+ .text.secure_messaging_key_diversification
+                0x00002894       0x60 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+                0x00002894                secure_messaging_key_diversification
+ .text.secure_messaging_alloc
+                0x000028f4       0xf4 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+                0x000028f4                secure_messaging_alloc
+ .text.secure_messaging_free
+                0x000029e8        0x8 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+                0x000029e8                secure_messaging_free
+ .text.secure_messaging_calculate_session_keys
+                0x000029f0       0x60 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+                0x000029f0                secure_messaging_calculate_session_keys
+ .text.secure_messaging_increment_context
+                0x00002a50       0x18 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+                0x00002a50                secure_messaging_increment_context
+ .text.secure_messaging_wrap_apdu
+                0x00002a68      0x220 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+                0x00002a68                secure_messaging_wrap_apdu
+ .text.secure_messaging_unwrap_rapdu
+                0x00002c88      0x1e0 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+                0x00002c88                secure_messaging_unwrap_rapdu
+ .text.mbedtls_sha1_init
+                0x00002e68        0xc build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+                0x00002e68                mbedtls_sha1_init
+ .text.mbedtls_sha1_free
+                0x00002e74       0x10 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+                0x00002e74                mbedtls_sha1_free
+ .text.mbedtls_sha1_starts
+                0x00002e84       0x34 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+                0x00002e84                mbedtls_sha1_starts
+ .text.mbedtls_internal_sha1_process
+                0x00002eb8      0xeac build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+                0x00002eb8                mbedtls_internal_sha1_process
+ .text.mbedtls_sha1_update
+                0x00003d64       0x7c build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+                0x00003d64                mbedtls_sha1_update
+ .text.mbedtls_sha1_finish
+                0x00003de0       0xa4 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+                0x00003de0                mbedtls_sha1_finish
+ .text.mbedtls_des_init
+                0x00003e84        0xc build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x00003e84                mbedtls_des_init
+ .text.mbedtls_des_free
+                0x00003e90       0x10 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x00003e90                mbedtls_des_free
+ .text.mbedtls_des3_init
+                0x00003ea0       0x10 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x00003ea0                mbedtls_des3_init
+ .text.mbedtls_des3_free
+                0x00003eb0       0x10 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x00003eb0                mbedtls_des3_free
+ .text.mbedtls_des_setkey
+                0x00003ec0      0x32c build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x00003ec0                mbedtls_des_setkey
+ .text.des3_set2key
+                0x000041ec       0x6c build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .text.mbedtls_des_setkey_enc
+                0x00004258       0x10 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x00004258                mbedtls_des_setkey_enc
+ .text.mbedtls_des_setkey_dec
+                0x00004268       0x30 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x00004268                mbedtls_des_setkey_dec
+ .text.mbedtls_des3_set2key_enc
+                0x00004298       0x28 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x00004298                mbedtls_des3_set2key_enc
+ .text.mbedtls_des3_set2key_dec
+                0x000042c0       0x28 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x000042c0                mbedtls_des3_set2key_dec
+ .text.mbedtls_des_crypt_ecb
+                0x000042e8      0x1d0 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x000042e8                mbedtls_des_crypt_ecb
+ .text.mbedtls_des_crypt_cbc
+                0x000044b8       0xb0 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x000044b8                mbedtls_des_crypt_cbc
+ .text.mbedtls_des3_crypt_ecb
+                0x00004568      0x3d0 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x00004568                mbedtls_des3_crypt_ecb
+ .text.mbedtls_des3_crypt_cbc
+                0x00004938       0xb0 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+                0x00004938                mbedtls_des3_crypt_cbc
+ .text.mbedtls_platform_zeroize
+                0x000049e8       0x18 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+                0x000049e8                mbedtls_platform_zeroize
+ .text.OCTET_STRING_encode_xer
+                0x00004a00      0x19c build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x00004a00                OCTET_STRING_encode_xer
+ .text.OCTET_STRING_print
+                0x00004b9c       0xd8 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x00004b9c                OCTET_STRING_print
+ .text.OCTET_STRING__convert_hexadecimal
+                0x00004c74       0xc4 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .text.OCTET_STRING_decode_ber
+                0x00004d38      0x6cc build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x00004d38                OCTET_STRING_decode_ber
+ .text.OCTET_STRING_encode_der
+                0x00005404       0xec build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x00005404                OCTET_STRING_encode_der
+ .text.OCTET_STRING__decode_xer
+                0x000054f0       0xa0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .text.OCTET_STRING_decode_xer_hex
+                0x00005590       0x2c build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x00005590                OCTET_STRING_decode_xer_hex
+ .text.OCTET_STRING__handle_control_chars
+                0x000055bc       0x64 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .text.OCTET_STRING__random_char
+                0x00005620       0x50 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .text.OCTET_STRING_compare
+                0x00005670       0x48 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x00005670                OCTET_STRING_compare
+ .text.OCTET_STRING_free
+                0x000056b8       0x78 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x000056b8                OCTET_STRING_free
+ .text.OCTET_STRING__convert_entrefs
+                0x00005730      0x1bc build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .text.OCTET_STRING_encode_xer_utf8
+                0x000058ec       0xac build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x000058ec                OCTET_STRING_encode_xer_utf8
+ .text.OCTET_STRING_decode_xer_utf8
+                0x00005998       0x30 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x00005998                OCTET_STRING_decode_xer_utf8
+ .text.OCTET_STRING_print_utf8
+                0x000059c8       0x20 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x000059c8                OCTET_STRING_print_utf8
+ .text.OCTET_STRING_random_length_constrained
+                0x000059e8       0xbc build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x000059e8                OCTET_STRING_random_length_constrained
+ .text.OCTET_STRING_random_fill
+                0x00005aa4      0x18c build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x00005aa4                OCTET_STRING_random_fill
+ .text.OCTET_STRING_decode_oer
+                0x00005c30       0xf4 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+                0x00005c30                OCTET_STRING_decode_oer
+ .text.OCTET_STRING_encode_oer
+                0x00005d24       0xa0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+                0x00005d24                OCTET_STRING_encode_oer
+ .text.VisibleString_constraint
+                0x00005dc4       0x78 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+                0x00005dc4                VisibleString_constraint
+ .text.asn_decode
+                0x00005e3c       0x98 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+                0x00005e3c                asn_decode
+ .text.asn_random_fill
+                0x00005ed4       0x30 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+                0x00005ed4                asn_random_fill
+ .text.asn_random_between
+                0x00005f04       0x94 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+                0x00005f04                asn_random_between
+ .text.ber_decode
+                0x00005f98       0x32 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+                0x00005f98                ber_decode
+ *fill*         0x00005fca        0x2 
+ .text.ber_check_tags
+                0x00005fcc      0x1d4 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+                0x00005fcc                ber_check_tags
+ .text.ber_fetch_length
+                0x000061a0       0x5e build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+                0x000061a0                ber_fetch_length
+ *fill*         0x000061fe        0x2 
+ .text.ber_skip_length
+                0x00006200       0x9c build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+                0x00006200                ber_skip_length
+ .text.der_tlv_length_serialize
+                0x0000629c       0x56 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+                0x0000629c                der_tlv_length_serialize
+ .text.ber_fetch_tag
+                0x000062f2       0x56 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+                0x000062f2                ber_fetch_tag
+ .text.ber_tlv_tag_snprint
+                0x00006348       0x44 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+                0x00006348                ber_tlv_tag_snprint
+ .text.ber_tlv_tag_serialize
+                0x0000638c       0x8a build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+                0x0000638c                ber_tlv_tag_serialize
+ .text._t2e_cmp
+                0x00006416       0x36 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .text.SEQUENCE_compare
+                0x0000644c       0x7e build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+                0x0000644c                SEQUENCE_compare
+ *fill*         0x000064ca        0x2 
+ .text.SEQUENCE_decode_ber
+                0x000064cc      0x438 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+                0x000064cc                SEQUENCE_decode_ber
+ .text.SEQUENCE_encode_der
+                0x00006904      0x16c build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+                0x00006904                SEQUENCE_encode_der
+ .text.SEQUENCE_decode_xer
+                0x00006a70      0x284 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+                0x00006a70                SEQUENCE_decode_xer
+ .text.SEQUENCE_encode_xer
+                0x00006cf4      0x1f4 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+                0x00006cf4                SEQUENCE_encode_xer
+ .text.SEQUENCE_print
+                0x00006ee8      0x138 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+                0x00006ee8                SEQUENCE_print
+ .text.SEQUENCE_free
+                0x00007020       0x8c build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+                0x00007020                SEQUENCE_free
+ .text.SEQUENCE_random_fill
+                0x000070ac       0xf8 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+                0x000070ac                SEQUENCE_random_fill
+ .text.SEQUENCE_constraint
+                0x000071a4       0xc4 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+                0x000071a4                SEQUENCE_constraint
+ .text.element_ptr
+                0x00007268       0x10 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .text.SEQUENCE_decode_oer
+                0x00007278      0x3cc build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+                0x00007278                SEQUENCE_decode_oer
+ .text.SEQUENCE_encode_oer
+                0x00007644      0x2b4 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+                0x00007644                SEQUENCE_encode_oer
+ .text.asn_generic_no_constraint
+                0x000078f8        0x4 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+                0x000078f8                asn_generic_no_constraint
+ .text.der_write_TL
+                0x000078fc       0x7c build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .text.der_write_tags
+                0x00007978       0xdc build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+                0x00007978                der_write_tags
+ .text.oer_decode
+                0x00007a54       0x32 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+                0x00007a54                oer_decode
+ *fill*         0x00007a86        0x2 
+ .text.oer_open_type_skip
+                0x00007a88       0x18 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+                0x00007a88                oer_open_type_skip
+ .text.oer_open_type_get
+                0x00007aa0       0x84 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+                0x00007aa0                oer_open_type_get
+ .text.oer__count_bytes
+                0x00007b24        0xa build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ *fill*         0x00007b2e        0x2 
+ .text.oer_open_type_put
+                0x00007b30       0x74 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+                0x00007b30                oer_open_type_put
+ .text.oer_fetch_length
+                0x00007ba4       0x64 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+                0x00007ba4                oer_fetch_length
+ .text.oer_serialize_length
+                0x00007c08       0x74 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+                0x00007c08                oer_serialize_length
+ .text.xer__token_cb
+                0x00007c7c       0x10 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .text.xer_decode
+                0x00007c8c       0x32 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+                0x00007c8c                xer_decode
+ *fill*         0x00007cbe        0x2 
+ .text.xer_next_token
+                0x00007cc0       0x60 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+                0x00007cc0                xer_next_token
+ .text.xer_check_tag
+                0x00007d20       0x98 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+                0x00007d20                xer_check_tag
+ .text.xer_decode_general
+                0x00007db8      0x15c build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+                0x00007db8                xer_decode_general
+ .text.xer_skip_unknown
+                0x00007f14       0x3e build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+                0x00007f14                xer_skip_unknown
+ *fill*         0x00007f52        0x2 
+ .text.pxml_parse
+                0x00007f54      0x2c0 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+                0x00007f54                pxml_parse
+ .text.OPEN_TYPE_ber_get
+                0x00008214      0x100 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+                0x00008214                OPEN_TYPE_ber_get
+ .text.OPEN_TYPE_xer_get
+                0x00008314      0x1cc build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+                0x00008314                OPEN_TYPE_xer_get
+ .text.OPEN_TYPE_oer_get
+                0x000084e0       0xe8 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+                0x000084e0                OPEN_TYPE_oer_get
+ .text.asn_bit_data_new_contiguous
+                0x000085c8       0x3c build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+                0x000085c8                asn_bit_data_new_contiguous
+ .text.asn_get_undo
+                0x00008604       0x12 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+                0x00008604                asn_get_undo
+ *fill*         0x00008616        0x2 
+ .text.asn_get_few_bits
+                0x00008618      0x108 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+                0x00008618                asn_get_few_bits
+ .text.asn_put_few_bits
+                0x00008720      0x138 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+                0x00008720                asn_put_few_bits
+ .text.asn_put_aligned_flush
+                0x00008858       0x58 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+                0x00008858                asn_put_aligned_flush
+ .text._fetch_present_idx
+                0x000088b0       0x1c build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text._set_present_idx
+                0x000088cc       0x18 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .text.CHOICE_variant_set_presence
+                0x000088e4       0x50 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+                0x000088e4                CHOICE_variant_set_presence
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00008934     0x1c2c
+ *(.rodata)
+ .rodata        0x00008934        0x8 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .rodata        0x0000893c        0x7 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ *fill*         0x00008943        0x1 
+ .rodata        0x00008944       0x44 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.passy_scene_handlers
+                0x00008988       0x10 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+                0x00008988                passy_scene_handlers
+ .rodata.passy_on_exit_handlers
+                0x00008998       0x30 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+                0x00008998                passy_on_exit_handlers
+ .rodata.passy_on_event_handlers
+                0x000089c8       0x30 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+                0x000089c8                passy_on_event_handlers
+ .rodata.passy_on_enter_handlers
+                0x000089f8       0x30 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+                0x000089f8                passy_on_enter_handlers
+ .rodata.passy_scene_adv_warning_on_enter.str1.1
+                0x00008a28       0x6d build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .rodata.passy_scene_advanced_menu_on_enter.str1.1
+                0x00008a95       0x78 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ *fill*         0x00008b0d        0x1 
+ .rodata.dg_file_ids
+                0x00008b0e       0x1a build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .rodata.dg_ids
+                0x00008b28       0x10 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .rodata.str1.1
+                0x00008b38       0x7a build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ *fill*         0x00008bb2        0x2 
+ .rodata.dg_names
+                0x00008bb4       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .rodata.passy_scene_delete_on_enter.str1.1
+                0x00008be8       0x21 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .rodata.passy_scene_delete_success_on_enter.str1.1
+                0x00008c09        0x8 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .rodata.passy_scene_dob_input_on_enter.str1.1
+                0x00008c11        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .rodata.passy_scene_doe_input_on_enter.str1.1
+                0x00008c1d        0xc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .rodata.passy_scene_known_issues_on_enter.str1.1
+                0x00008c29       0x78 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .rodata.passy_scene_main_menu_on_enter.str1.1
+                0x00008ca1       0x59 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .rodata.passy_scene_passport_number_input_on_enter.str1.1
+                0x00008cfa       0x10 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .rodata.passy_scene_detect_scan_callback.str1.1
+                0x00008d0a       0x33 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .rodata.passy_scene_read_on_enter.str1.1
+                0x00008d3d        0xd build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .rodata.passy_scene_read_on_event.str1.1
+                0x00008d4a       0x58 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .rodata.passy_scene_read_error_on_enter.str1.1
+                0x00008da2       0x46 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .rodata.passy_scene_read_success_on_enter.str1.1
+                0x00008de8      0x1c0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .rodata.passy_load_mrz_info.str1.1
+                0x00008fa8       0x68 build/f7-firmware-C/.extapps/passy/passy.o
+ .rodata.passy_delete_mrz_info.str1.1
+                0x00009010       0x14 build/f7-firmware-C/.extapps/passy/passy.o
+ .rodata.passy_alloc.str1.1
+                0x00009024       0x21 build/f7-firmware-C/.extapps/passy/passy.o
+ *fill*         0x00009045        0x3 
+ .rodata.passy_sequence_blink_stop
+                0x00009048        0x8 build/f7-firmware-C/.extapps/passy/passy.o
+ .rodata.passy_sequence_blink_start_blue
+                0x00009050       0x10 build/f7-firmware-C/.extapps/passy/passy.o
+ .rodata.passy_log_bitbuffer.str1.1
+                0x00009060       0x1d build/f7-firmware-C/.extapps/passy/passy_common.o
+ .rodata.passy_checksum.str1.1
+                0x0000907d       0x27 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .rodata.passy_reader_alloc.str1.1
+                0x000090a4       0x45 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.passy_reader_send.str1.1
+                0x000090e9       0xb2 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.passy_reader_authenticate.str1.1
+                0x0000919b       0x31 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.passy_reader_select_file.str1.1
+                0x000091cc       0x19 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.passy_reader_read_binary.str1.1
+                0x000091e5       0x14 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.passy_reader_read_dg1.str1.1
+                0x000091f9        0x4 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.passy_reader_read_dg2_or_dg7.str1.1
+                0x000091fd       0x59 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.passy_reader_state_machine.str1.1
+                0x00009256       0x1f build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.passy_reader_poller_callback.str1.1
+                0x00009275       0x5e build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.jpeg2k_cs_header
+                0x000092d3        0x4 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.jpeg2k_header
+                0x000092d7        0x6 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.jpeg_header
+                0x000092dd        0x4 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .rodata.secure_messaging_alloc.str1.1
+                0x000092e1       0x2e build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .rodata.secure_messaging_wrap_apdu.str1.1
+                0x0000930f       0x3e build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .rodata.secure_messaging_unwrap_rapdu.str1.1
+                0x0000934d       0x61 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ *fill*         0x000093ae        0x2 
+ .rodata.RHs    0x000093b0       0x40 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.LHs    0x000093f0       0x40 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.SB8    0x00009430      0x100 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.SB7    0x00009530      0x100 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.SB6    0x00009630      0x100 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.SB5    0x00009730      0x100 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.SB4    0x00009830      0x100 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.SB3    0x00009930      0x100 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.SB2    0x00009a30      0x100 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.SB1    0x00009b30      0x100 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .rodata.str1.1
+                0x00009c30       0x29 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ *fill*         0x00009c59        0x3 
+ .rodata.asn_MAP_COM_tag2el_1
+                0x00009c5c       0x30 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .rodata.asn_DEF_COM_tags_1
+                0x00009c8c        0x8 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .rodata.str1.1
+                0x00009c94        0x8 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .rodata.asn_MAP_DG1_tag2el_1
+                0x00009c9c       0x10 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .rodata.asn_DEF_DG1_tags_1
+                0x00009cac        0x8 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .rodata.str1.1
+                0x00009cb4        0xb build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ *fill*         0x00009cbf        0x1 
+ .rodata.asn_DEF_DataGroups_tags_1
+                0x00009cc0        0x4 build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .rodata.str1.1
+                0x00009cc4        0xb build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ *fill*         0x00009ccf        0x1 
+ .rodata.asn_DEF_LDSVersion_tags_1
+                0x00009cd0        0x4 build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .rodata.str1.1
+                0x00009cd4        0x4 build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .rodata.asn_DEF_MRZ_tags_1
+                0x00009cd8        0x4 build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .rodata.OCTET_STRING_encode_xer.str1.1
+                0x00009cdc       0x18 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .rodata.OCTET_STRING_print.str1.1
+                0x00009cf4        0x9 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .rodata.str1.1
+                0x00009cfd       0xf3 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .rodata.OCTET_STRING__xer_escape_table
+                0x00009df0      0x1f8 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .rodata.str1.1
+                0x00009fe8        0xf build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ *fill*         0x00009ff7        0x1 
+ .rodata.asn_DEF_UnicodeVersion_tags_1
+                0x00009ff8        0x4 build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .rodata.VisibleString_constraint.str1.1
+                0x00009ffc       0x8f build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .rodata.ber_tlv_tag_snprint.str1.1
+                0x0000a08b       0x12 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .rodata.str1.1
+                0x0000a09d       0x17 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .rodata.CSWTCH.6
+                0x0000a0b4        0xc build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .rodata.SEQUENCE_encode_xer.str1.1
+                0x0000a0c0        0xe build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .rodata.SEQUENCE_print.str1.1
+                0x0000a0ce       0x15 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .rodata.SEQUENCE_constraint.str1.1
+                0x0000a0e3       0x7b build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ *fill*         0x0000a15e        0x2 
+ .rodata._charclass
+                0x0000a160      0x400 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+
+.data           0x0000a560      0x398
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.print_logs
+                0x0000a560        0x1 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .data.SW_success
+                0x0000a561        0x2 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .data.get_challenge
+                0x0000a563        0x5 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .data.select_header
+                0x0000a568        0x4 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .data.passport_aid
+                0x0000a56c        0x7 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ *fill*         0x0000a573        0x1 
+ .data.memset_func
+                0x0000a574        0x4 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .data.asn_DEF_COM
+                0x0000a578       0x34 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+                0x0000a578                asn_DEF_COM
+ .data.asn_SPC_COM_specs_1
+                0x0000a5ac       0x20 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .data.asn_MBR_COM_1
+                0x0000a5cc       0x9c build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .data.asn_DEF_DG1
+                0x0000a668       0x34 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+                0x0000a668                asn_DEF_DG1
+ .data.asn_SPC_DG1_specs_1
+                0x0000a69c       0x20 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .data.asn_MBR_DG1_1
+                0x0000a6bc       0x34 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .data.asn_DEF_DataGroups
+                0x0000a6f0       0x34 build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+                0x0000a6f0                asn_DEF_DataGroups
+ .data.asn_DEF_LDSVersion
+                0x0000a724       0x34 build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+                0x0000a724                asn_DEF_LDSVersion
+ .data.asn_PER_type_LDSVersion_constr_1
+                0x0000a758       0x30 build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+                0x0000a758                asn_PER_type_LDSVersion_constr_1
+ .data.asn_DEF_MRZ
+                0x0000a788       0x34 build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+                0x0000a788                asn_DEF_MRZ
+ .data.asn_PER_type_MRZ_constr_1
+                0x0000a7bc       0x30 build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+                0x0000a7bc                asn_PER_type_MRZ_constr_1
+ .data.asn_OP_OCTET_STRING
+                0x0000a7ec       0x34 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x0000a7ec                asn_OP_OCTET_STRING
+ .data.asn_SPC_OCTET_STRING_specs
+                0x0000a820        0xc build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+                0x0000a820                asn_SPC_OCTET_STRING_specs
+ .data.asn_DEF_UnicodeVersion
+                0x0000a82c       0x34 build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+                0x0000a82c                asn_DEF_UnicodeVersion
+ .data.asn_PER_type_UnicodeVersion_constr_1
+                0x0000a860       0x30 build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+                0x0000a860                asn_PER_type_UnicodeVersion_constr_1
+ .data.asn_OP_VisibleString
+                0x0000a890       0x34 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+                0x0000a890                asn_OP_VisibleString
+ .data.asn_OP_SEQUENCE
+                0x0000a8c4       0x34 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+                0x0000a8c4                asn_OP_SEQUENCE
+
+.bss            0x0000a8f8       0x84
+ *(.bss)
+ *(.bss*)
+ .bss.passy_reader
+                0x0000a8f8        0x4 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .bss.asn1_log  0x0000a8fc       0x80 build/f7-firmware-C/.extapps/passy/passy_common.o
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0xbf8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+ .debug_aranges
+                0x00000018       0x38 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_aranges
+                0x00000050       0x38 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_aranges
+                0x00000088       0x38 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_aranges
+                0x000000c0       0x38 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_aranges
+                0x000000f8       0x38 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_aranges
+                0x00000130       0x38 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_aranges
+                0x00000168       0x30 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_aranges
+                0x00000198       0x38 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_aranges
+                0x000001d0       0x38 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_aranges
+                0x00000208       0x38 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_aranges
+                0x00000240       0x38 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_aranges
+                0x00000278       0x30 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_aranges
+                0x000002a8       0x20 build/f7-firmware-C/.extapps/passy/bsearch.o
+ .debug_aranges
+                0x000002c8       0x20 build/f7-firmware-C/.extapps/passy/memmem.o
+ .debug_aranges
+                0x000002e8       0x88 build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_aranges
+                0x00000370       0x40 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_aranges
+                0x000003b0       0x90 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_aranges
+                0x00000440       0x58 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_aranges
+                0x00000498       0x58 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_aranges
+                0x000004f0       0xb8 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_aranges
+                0x000005a8       0x28 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .debug_aranges
+                0x000005d0       0x18 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .debug_aranges
+                0x000005e8       0x18 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .debug_aranges
+                0x00000600       0x18 build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .debug_aranges
+                0x00000618       0x18 build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .debug_aranges
+                0x00000630       0x18 build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .debug_aranges
+                0x00000648       0xc0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_aranges
+                0x00000708       0x28 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .debug_aranges
+                0x00000730       0x18 build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .debug_aranges
+                0x00000748       0x20 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .debug_aranges
+                0x00000768       0x60 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_aranges
+                0x000007c8       0x28 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .debug_aranges
+                0x000007f0       0x28 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .debug_aranges
+                0x00000818       0x30 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_aranges
+                0x00000848       0x40 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_aranges
+                0x00000888       0x68 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_aranges
+                0x000008f0       0x30 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_aranges
+                0x00000920       0x38 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_aranges
+                0x00000958       0x40 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_aranges
+                0x00000998       0x38 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_aranges
+                0x000009d0       0x48 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_aranges
+                0x00000a18       0x28 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .debug_aranges
+                0x00000a40       0x50 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_aranges
+                0x00000a90       0x20 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .debug_aranges
+                0x00000ab0       0x28 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .debug_aranges
+                0x00000ad8       0x20 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .debug_aranges
+                0x00000af8       0x58 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_aranges
+                0x00000b50       0xa8 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x32cd2
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x51c build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+ .debug_info    0x0000051c      0xdff build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_info    0x0000131b     0x1b96 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_info    0x00002eb1      0xc90 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_info    0x00003b41      0xba7 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_info    0x000046e8      0xb55 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_info    0x0000523d      0xb82 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_info    0x00005dbf      0x9e6 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_info    0x000067a5      0xca4 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_info    0x00007449      0xbe1 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_info    0x0000802a     0x131e build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_info    0x00009348     0x1007 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_info    0x0000a34f     0x2205 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_info    0x0000c554      0x186 build/f7-firmware-C/.extapps/passy/bsearch.o
+ .debug_info    0x0000c6da      0x16e build/f7-firmware-C/.extapps/passy/memmem.o
+ .debug_info    0x0000c848     0x209e build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_info    0x0000e8e6      0xae7 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_info    0x0000f3cd     0x2cae build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_info    0x0001207b     0x11c9 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_info    0x00013244      0xae3 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_info    0x00013d27     0x130c build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_info    0x00015033      0x204 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .debug_info    0x00015237      0xd00 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .debug_info    0x00015f37      0xce8 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .debug_info    0x00016c1f      0xc10 build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .debug_info    0x0001782f      0xbab build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .debug_info    0x000183da      0xbab build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .debug_info    0x00018f85     0x38c7 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_info    0x0001c84c     0x10cf build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .debug_info    0x0001d91b      0xbab build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .debug_info    0x0001e4c6      0xeea build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .debug_info    0x0001f3b0     0x1793 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_info    0x00020b43      0xcc7 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .debug_info    0x0002180a     0x10ed build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .debug_info    0x000228f7      0x4ba build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_info    0x00022db1      0xb87 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_info    0x00023938     0x2539 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_info    0x00025e71     0x1b20 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_info    0x00027991      0xe32 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_info    0x000287c3     0x106b build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_info    0x0002982e     0x1041 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_info    0x0002a86f     0x1044 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_info    0x0002b8b3      0x2ac build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .debug_info    0x0002bb5f     0x1326 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_info    0x0002ce85      0x5e9 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .debug_info    0x0002d46e     0x1411 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .debug_info    0x0002e87f      0xea0 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .debug_info    0x0002f71f      0x844 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_info    0x0002ff63     0x2d6f build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+
+.debug_abbrev   0x00000000     0x7749
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x137 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+ .debug_abbrev  0x00000137      0x299 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_abbrev  0x000003d0      0x304 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_abbrev  0x000006d4      0x2c5 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_abbrev  0x00000999      0x258 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_abbrev  0x00000bf1      0x247 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_abbrev  0x00000e38      0x246 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_abbrev  0x0000107e      0x25c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_abbrev  0x000012da      0x23d build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_abbrev  0x00001517      0x291 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_abbrev  0x000017a8      0x299 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_abbrev  0x00001a41      0x2f3 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_abbrev  0x00001d34      0x360 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_abbrev  0x00002094       0xe5 build/f7-firmware-C/.extapps/passy/bsearch.o
+ .debug_abbrev  0x00002179       0xdf build/f7-firmware-C/.extapps/passy/memmem.o
+ .debug_abbrev  0x00002258      0x40d build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_abbrev  0x00002665      0x261 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_abbrev  0x000028c6      0x4d3 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_abbrev  0x00002d99      0x2a8 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_abbrev  0x00003041      0x372 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_abbrev  0x000033b3      0x2f9 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_abbrev  0x000036ac      0x166 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .debug_abbrev  0x00003812      0x13d build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .debug_abbrev  0x0000394f      0x13d build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .debug_abbrev  0x00003a8c      0x13d build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .debug_abbrev  0x00003bc9      0x13f build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .debug_abbrev  0x00003d08      0x13f build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .debug_abbrev  0x00003e47      0x50c build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_abbrev  0x00004353      0x22b build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .debug_abbrev  0x0000457e      0x13f build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .debug_abbrev  0x000046bd      0x1cf build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .debug_abbrev  0x0000488c      0x386 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_abbrev  0x00004c12      0x21b build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .debug_abbrev  0x00004e2d      0x270 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .debug_abbrev  0x0000509d      0x23d build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_abbrev  0x000052da      0x2b6 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_abbrev  0x00005590      0x39b build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_abbrev  0x0000592b      0x3a9 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_abbrev  0x00005cd4      0x29d build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_abbrev  0x00005f71      0x21c build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_abbrev  0x0000618d      0x23c build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_abbrev  0x000063c9      0x242 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_abbrev  0x0000660b      0x16b build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .debug_abbrev  0x00006776      0x2c6 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_abbrev  0x00006a3c      0x171 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .debug_abbrev  0x00006bad      0x26e build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .debug_abbrev  0x00006e1b      0x1f5 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .debug_abbrev  0x00007010      0x25f build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_abbrev  0x0000726f      0x4da build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+
+.debug_line     0x00000000    0x146a7
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x152 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+ .debug_line_end
+                0x00000152        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+ .debug_line    0x00000152      0x4ab build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_line.text.passy_scene_adv_warning_widget_callback
+                0x000005fd       0x29 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_line.text.passy_scene_adv_warning_on_enter
+                0x00000626       0x63 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_line.text.passy_scene_adv_warning_on_event
+                0x00000689       0x63 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_line.text.passy_scene_adv_warning_on_exit
+                0x000006ec       0x17 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_line_end
+                0x00000703        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_line    0x00000703      0x67d build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_line.text.passy_scene_advanced_menu_submenu_callback
+                0x00000d80       0x18 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_line.text.passy_scene_advanced_menu_on_enter
+                0x00000d98      0x132 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_line.text.passy_scene_advanced_menu_on_event
+                0x00000eca       0x60 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_line.text.passy_scene_advanced_menu_on_exit
+                0x00000f2a       0x18 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_line_end
+                0x00000f42        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_line    0x00000f42      0x4fe build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_line.text.passy_scene_delete_widget_callback
+                0x00001440       0x25 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_line.text.passy_scene_delete_on_enter
+                0x00001465       0x30 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_line.text.passy_scene_delete_on_event
+                0x00001495       0x6e build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_line.text.passy_scene_delete_on_exit
+                0x00001503       0x17 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_line_end
+                0x0000151a        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_line    0x0000151a      0x469 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_line.text.passy_scene_delete_success_popup_callback
+                0x00001983       0x15 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_line.text.passy_scene_delete_success_on_enter
+                0x00001998       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_line.text.passy_scene_delete_success_on_event
+                0x000019cc       0x3e build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_line.text.passy_scene_delete_success_on_exit
+                0x00001a0a       0x17 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_line_end
+                0x00001a21        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_line    0x00001a21      0x489 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_line.text.passy_scene_dob_input_text_input_callback
+                0x00001eaa       0x15 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_line.text.passy_scene_dob_input_on_enter
+                0x00001ebf       0x49 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_line.text.passy_scene_dob_input_on_event
+                0x00001f08       0x42 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_line.text.passy_scene_dob_input_on_exit
+                0x00001f4a       0x27 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_line_end
+                0x00001f71        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_line    0x00001f71      0x489 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_line.text.passy_scene_doe_input_text_input_callback
+                0x000023fa       0x15 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_line.text.passy_scene_doe_input_on_enter
+                0x0000240f       0x49 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_line.text.passy_scene_doe_input_on_event
+                0x00002458       0x4a build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_line.text.passy_scene_doe_input_on_exit
+                0x000024a2       0x27 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_line_end
+                0x000024c9        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_line    0x000024c9      0x43b build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_line.text.passy_scene_known_issues_on_enter
+                0x00002904       0x29 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_line.text.passy_scene_known_issues_on_event
+                0x0000292d       0x49 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_line.text.passy_scene_known_issues_on_exit
+                0x00002976       0x17 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_line_end
+                0x0000298d        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_line    0x0000298d      0x456 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_line.text.passy_scene_main_menu_submenu_callback
+                0x00002de3       0x18 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_line.text.passy_scene_main_menu_on_enter
+                0x00002dfb       0x61 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_line.text.passy_scene_main_menu_on_event
+                0x00002e5c       0x85 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_line.text.passy_scene_main_menu_on_exit
+                0x00002ee1       0x18 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_line_end
+                0x00002ef9        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_line    0x00002ef9      0x4a0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_line.text.passy_scene_passport_number_input_text_input_callback
+                0x00003399       0x15 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_line.text.passy_scene_passport_number_input_on_enter
+                0x000033ae       0x48 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_line.text.passy_scene_passport_number_input_on_event
+                0x000033f6       0xa0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_line.text.passy_scene_passport_number_input_on_exit
+                0x00003496       0x27 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_line_end
+                0x000034bd        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_line    0x000034bd      0x602 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_line.text.passy_scene_detect_scan_callback
+                0x00003abf       0x80 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_line.text.passy_scene_read_on_enter
+                0x00003b3f       0x53 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_line.text.passy_scene_read_on_event
+                0x00003b92      0x11e build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_line.text.passy_scene_read_on_exit
+                0x00003cb0       0x61 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_line_end
+                0x00003d11        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_line    0x00003d11      0x4f1 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_line.text.passy_scene_read_error_widget_callback
+                0x00004202       0x29 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_line.text.passy_scene_read_error_on_enter
+                0x0000422b       0x73 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_line.text.passy_scene_read_error_on_event
+                0x0000429e       0x65 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_line.text.passy_scene_read_error_on_exit
+                0x00004303       0x18 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_line_end
+                0x0000431b        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_line    0x0000431b      0x6fb build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_line.text.passy_scene_read_success_on_enter
+                0x00004a16      0x28c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_line.text.passy_scene_read_success_on_event
+                0x00004ca2       0x49 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_line.text.passy_scene_read_success_on_exit
+                0x00004ceb       0x18 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_line_end
+                0x00004d03        0x0 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_line    0x00004d03       0xeb build/f7-firmware-C/.extapps/passy/bsearch.o
+ .debug_line.text.bsearch
+                0x00004dee       0x70 build/f7-firmware-C/.extapps/passy/bsearch.o
+ .debug_line_end
+                0x00004e5e        0x0 build/f7-firmware-C/.extapps/passy/bsearch.o
+ .debug_line    0x00004e5e       0xf8 build/f7-firmware-C/.extapps/passy/memmem.o
+ .debug_line.text.memmem
+                0x00004f56       0x70 build/f7-firmware-C/.extapps/passy/memmem.o
+ .debug_line_end
+                0x00004fc6        0x0 build/f7-firmware-C/.extapps/passy/memmem.o
+ .debug_line    0x00004fc6      0x4ff build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_custom_event_callback
+                0x000054c5       0x20 build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_back_event_callback
+                0x000054e5       0x1f build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_tick_event_callback
+                0x00005504       0x1c build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_show_loading_popup
+                0x00005520       0x3d build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_load_mrz_info
+                0x0000555d       0xc4 build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_save_mrz_info
+                0x00005621       0x98 build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_delete_mrz_info
+                0x000056b9       0x69 build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_alloc
+                0x00005722      0x15a build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_free
+                0x0000587c       0x6e build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_blink_start
+                0x000058ea       0x17 build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_blink_stop
+                0x00005901       0x17 build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line.text.passy_app
+                0x00005918       0x2d build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line_end
+                0x00005945        0x0 build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_line    0x00005945      0x213 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_line.text.print_struct_callback
+                0x00005b58       0x34 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_line.text.passy_log_bitbuffer
+                0x00005b8c       0xa1 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_line.text.passy_log_buffer
+                0x00005c2d       0x8e build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_line.text.passy_mac
+                0x00005cbb       0xab build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_line.text.passy_checksum
+                0x00005d66       0xe0 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_line_end
+                0x00005e46        0x0 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_line    0x00005e46      0x5bf build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.asn1_length
+                0x00006405       0x49 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.asn1_length_length
+                0x0000644e       0x37 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_alloc
+                0x00006485       0xda build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_free
+                0x0000655f       0x3b build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_send
+                0x0000659a      0x116 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_select_application
+                0x000066b0       0x3a build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_get_challenge
+                0x000066ea       0x50 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_authenticate
+                0x0000673a      0x12a build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_select_file
+                0x00006864       0x6c build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_read_binary
+                0x000068d0       0x7e build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_read_com
+                0x0000694e       0xd1 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_read_dg1
+                0x00006a1f       0xd8 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_read_dg2_or_dg7
+                0x00006af7      0x199 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_state_machine
+                0x00006c90      0x107 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line.text.passy_reader_poller_callback
+                0x00006d97      0x103 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line_end
+                0x00006e9a        0x0 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_line    0x00006e9a      0x241 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_line.text.secure_messaging_adjust_parity
+                0x000070db       0x82 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_line.text.secure_messaging_key_diversification
+                0x0000715d       0x38 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_line.text.secure_messaging_alloc
+                0x00007195       0xa9 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_line.text.secure_messaging_free
+                0x0000723e       0x1b build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_line.text.secure_messaging_calculate_session_keys
+                0x00007259       0x7b build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_line.text.secure_messaging_increment_context
+                0x000072d4       0x46 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_line.text.secure_messaging_wrap_apdu
+                0x0000731a      0x195 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_line.text.secure_messaging_unwrap_rapdu
+                0x000074af      0x1eb build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_line_end
+                0x0000769a        0x0 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_line    0x0000769a      0x1e1 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_line.text.mbedtls_sha1_init
+                0x0000787b       0x16 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_line.text.mbedtls_sha1_free
+                0x00007891       0x24 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_line.text.mbedtls_sha1_starts
+                0x000078b5       0x33 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_line.text.mbedtls_internal_sha1_process
+                0x000078e8      0x651 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_line.text.mbedtls_sha1_update
+                0x00007f39       0xc6 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_line.text.mbedtls_sha1_finish
+                0x00007fff      0x1e0 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_line_end
+                0x000081df        0x0 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_line    0x000081df      0x1eb build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des_init
+                0x000083ca       0x17 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des_free
+                0x000083e1       0x21 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des3_init
+                0x00008402       0x17 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des3_free
+                0x00008419       0x21 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des_setkey
+                0x0000843a      0x30b build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.des3_set2key
+                0x00008745       0xf1 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des_setkey_enc
+                0x00008836       0x23 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des_setkey_dec
+                0x00008859       0xa4 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des3_set2key_enc
+                0x000088fd       0x26 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des3_set2key_dec
+                0x00008923       0x27 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des_crypt_ecb
+                0x0000894a      0x1a0 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des_crypt_cbc
+                0x00008aea      0x1f4 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des3_crypt_ecb
+                0x00008cde      0x2f1 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line.text.mbedtls_des3_crypt_cbc
+                0x00008fcf      0x1f4 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line_end
+                0x000091c3        0x0 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_line    0x000091c3      0x103 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .debug_line.text.mbedtls_platform_zeroize
+                0x000092c6       0x3a build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .debug_line_end
+                0x00009300        0x0 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .debug_line    0x00009300      0x321 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .debug_line_end
+                0x00009621        0x0 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .debug_line    0x00009621      0x2f6 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .debug_line_end
+                0x00009917        0x0 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .debug_line    0x00009917      0x2f8 build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .debug_line_end
+                0x00009c0f        0x0 build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .debug_line    0x00009c0f      0x2f9 build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .debug_line_end
+                0x00009f08        0x0 build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .debug_line    0x00009f08      0x2eb build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .debug_line_end
+                0x0000a1f3        0x0 build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .debug_line    0x0000a1f3      0x33f build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_encode_xer
+                0x0000a532      0x336 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_print
+                0x0000a868      0x161 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING__convert_hexadecimal
+                0x0000a9c9      0x148 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_decode_ber
+                0x0000ab11      0xca1 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_encode_der
+                0x0000b7b2      0x162 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING__decode_xer
+                0x0000b914       0xdc build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_decode_xer_hex
+                0x0000b9f0       0x26 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING__handle_control_chars
+                0x0000ba16       0x9b build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING__random_char
+                0x0000bab1       0x6f build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_compare
+                0x0000bb20       0x88 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_free
+                0x0000bba8       0xb9 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING__convert_entrefs
+                0x0000bc61      0x2f8 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_encode_xer_utf8
+                0x0000bf59      0x136 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_decode_xer_utf8
+                0x0000c08f       0x26 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_print_utf8
+                0x0000c0b5       0x4a build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_random_length_constrained
+                0x0000c0ff       0xf6 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line.text.OCTET_STRING_random_fill
+                0x0000c1f5      0x263 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line_end
+                0x0000c458        0x0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_line    0x0000c458      0x328 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .debug_line.text.OCTET_STRING_decode_oer
+                0x0000c780      0x196 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .debug_line.text.OCTET_STRING_encode_oer
+                0x0000c916      0x132 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .debug_line_end
+                0x0000ca48        0x0 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .debug_line    0x0000ca48      0x301 build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .debug_line_end
+                0x0000cd49        0x0 build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .debug_line    0x0000cd49      0x312 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .debug_line.text.VisibleString_constraint
+                0x0000d05b       0x9e build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .debug_line_end
+                0x0000d0f9        0x0 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .debug_line    0x0000d0f9      0x30c build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_line.text.asn_decode
+                0x0000d405       0xb6 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_line_end
+                0x0000d4bb        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_line    0x0000d4bb      0x2e7 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .debug_line.text.asn_random_fill
+                0x0000d7a2       0x43 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .debug_line.text.asn_random_between
+                0x0000d7e5       0xa8 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .debug_line_end
+                0x0000d88d        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .debug_line    0x0000d88d      0x309 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .debug_line.text.ber_decode
+                0x0000db96       0x5e build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .debug_line.text.ber_check_tags
+                0x0000dbf4      0x3eb build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .debug_line_end
+                0x0000dfdf        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .debug_line    0x0000dfdf      0x1f8 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_line.text.ber_fetch_length
+                0x0000e1d7       0xc2 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_line.text.ber_skip_length
+                0x0000e299      0x129 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_line.text.der_tlv_length_serialize
+                0x0000e3c2       0xdf build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_line_end
+                0x0000e4a1        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_line    0x0000e4a1      0x1ed build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_line.text.ber_fetch_tag
+                0x0000e68e       0xb8 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_line.text.ber_tlv_tag_snprint
+                0x0000e746       0x65 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_line.text.ber_tlv_tag_serialize
+                0x0000e7ab      0x162 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_line_end
+                0x0000e90d        0x0 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_line    0x0000e90d      0x339 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line.text._t2e_cmp
+                0x0000ec46       0x70 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line.text.SEQUENCE_compare
+                0x0000ecb6       0xd1 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line.text.SEQUENCE_decode_ber
+                0x0000ed87      0x645 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line.text.SEQUENCE_encode_der
+                0x0000f3cc      0x216 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line.text.SEQUENCE_decode_xer
+                0x0000f5e2      0x3e1 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line.text.SEQUENCE_encode_xer
+                0x0000f9c3      0x317 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line.text.SEQUENCE_print
+                0x0000fcda      0x166 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line.text.SEQUENCE_free
+                0x0000fe40       0xbc build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line.text.SEQUENCE_random_fill
+                0x0000fefc      0x177 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line.text.SEQUENCE_constraint
+                0x00010073       0xe7 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line_end
+                0x0001015a        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_line    0x0001015a      0x34f build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_line.text.element_ptr
+                0x000104a9       0x30 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_line.text.SEQUENCE_decode_oer
+                0x000104d9      0x64b build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_line.text.SEQUENCE_encode_oer
+                0x00010b24      0x484 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_line_end
+                0x00010fa8        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_line    0x00010fa8      0x2fd build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_line.text.asn_generic_no_constraint
+                0x000112a5       0x1d build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_line_end
+                0x000112c2        0x0 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_line    0x000112c2      0x305 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_line.text.der_write_TL
+                0x000115c7       0xd1 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_line.text.der_write_tags
+                0x00011698      0x1b0 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_line_end
+                0x00011848        0x0 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_line    0x00011848      0x312 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_line.text.oer_decode
+                0x00011b5a       0x5f build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_line.text.oer_open_type_skip
+                0x00011bb9       0x26 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_line.text.oer_open_type_get
+                0x00011bdf       0xa3 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_line_end
+                0x00011c82        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_line    0x00011c82      0x306 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_line.text.oer__count_bytes
+                0x00011f88       0x24 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_line.text.oer_open_type_put
+                0x00011fac       0x86 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_line_end
+                0x00012032        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_line    0x00012032      0x1c3 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .debug_line.text.oer_fetch_length
+                0x000121f5       0xea build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .debug_line.text.oer_serialize_length
+                0x000122df       0x9c build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .debug_line_end
+                0x0001237b        0x0 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .debug_line    0x0001237b      0x308 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_line.text.xer__token_cb
+                0x00012683       0x31 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_line.text.xer_decode
+                0x000126b4       0x5e build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_line.text.xer_next_token
+                0x00012712       0x94 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_line.text.xer_check_tag
+                0x000127a6      0x123 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_line.text.xer_decode_general
+                0x000128c9      0x225 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_line.text.xer_skip_unknown
+                0x00012aee       0x39 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_line_end
+                0x00012b27        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_line    0x00012b27      0x157 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .debug_line.text.pxml_parse
+                0x00012c7e      0x450 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .debug_line_end
+                0x000130ce        0x0 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .debug_line    0x000130ce      0x311 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .debug_line.text.OPEN_TYPE_ber_get
+                0x000133df      0x137 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .debug_line.text.OPEN_TYPE_xer_get
+                0x00013516      0x28a build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .debug_line_end
+                0x000137a0        0x0 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .debug_line    0x000137a0      0x306 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .debug_line.text.OPEN_TYPE_oer_get
+                0x00013aa6      0x137 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .debug_line_end
+                0x00013bdd        0x0 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .debug_line    0x00013bdd      0x1e7 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_line.text.asn_bit_data_new_contiguous
+                0x00013dc4       0x68 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_line.text.asn_get_undo
+                0x00013e2c       0x2e build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_line.text.asn_get_few_bits
+                0x00013e5a      0x1a0 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_line.text.asn_put_few_bits
+                0x00013ffa      0x1d5 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_line.text.asn_put_aligned_flush
+                0x000141cf       0x9b build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_line_end
+                0x0001426a        0x0 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_line    0x0001426a      0x34a build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text._fetch_present_idx
+                0x000145b4       0x42 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text._set_present_idx
+                0x000145f6       0x44 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line.text.CHOICE_variant_set_presence
+                0x0001463a       0x6d build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .debug_line_end
+                0x000146a7        0x0 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+
+.debug_frame    0x00000000     0x2200
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x90 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_frame   0x00000090       0x80 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_frame   0x00000110       0x7c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_frame   0x0000018c       0x74 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_frame   0x00000200       0x84 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_frame   0x00000284       0x84 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_frame   0x00000308       0x60 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_frame   0x00000368       0x78 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_frame   0x000003e0       0x8c build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_frame   0x0000046c       0xbc build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_frame   0x00000528       0x90 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_frame   0x000005b8       0x78 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_frame   0x00000630       0x34 build/f7-firmware-C/.extapps/passy/bsearch.o
+ .debug_frame   0x00000664       0x34 build/f7-firmware-C/.extapps/passy/memmem.o
+ .debug_frame   0x00000698      0x1a0 build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_frame   0x00000838       0xe4 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_frame   0x0000091c      0x238 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_frame   0x00000b54      0x11c build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_frame   0x00000c70       0xf4 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_frame   0x00000d64      0x250 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_frame   0x00000fb4       0x44 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .debug_frame   0x00000ff8      0x338 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_frame   0x00001330       0x60 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .debug_frame   0x00001390       0x38 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .debug_frame   0x000013c8      0x144 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_frame   0x0000150c       0x60 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .debug_frame   0x0000156c       0x64 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .debug_frame   0x000015d0       0x70 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_frame   0x00001640       0xa8 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_frame   0x000016e8      0x1e4 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_frame   0x000018cc       0x80 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_frame   0x0000194c       0x84 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_frame   0x000019d0       0xc8 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_frame   0x00001a98       0xa8 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_frame   0x00001b40       0xd0 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_frame   0x00001c10       0x54 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .debug_frame   0x00001c64       0xe0 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_frame   0x00001d44       0x3c build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .debug_frame   0x00001d80       0x70 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .debug_frame   0x00001df0       0x3c build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .debug_frame   0x00001e2c      0x104 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_frame   0x00001f30      0x2d0 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+
+.debug_str      0x00000000    0x219ee
+ *(.debug_str)
+ .debug_str     0x00000000      0x8f4 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+ .debug_str     0x000008f4      0xa84 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_str     0x00001378     0x14a6 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_str     0x0000281e      0xa25 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_str     0x00003243      0xa9f build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_str     0x00003ce2      0xa30 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_str     0x00004712      0xa44 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_str     0x00005156      0x7fd build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_str     0x00005953      0xaa5 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_str     0x000063f8      0xa6e build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_str     0x00006e66     0x12d6 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_str     0x0000813c      0xf8b build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_str     0x000090c7     0x1c0b build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_str     0x0000acd2      0x1eb build/f7-firmware-C/.extapps/passy/bsearch.o
+ .debug_str     0x0000aebd      0x220 build/f7-firmware-C/.extapps/passy/memmem.o
+ .debug_str     0x0000b0dd     0x16dc build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_str     0x0000c7b9      0x4cc build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_str     0x0000cc85     0x146b build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_str     0x0000e0f0      0x7cb build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_str     0x0000e8bb      0x347 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_str     0x0000ec02      0x47a build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_str     0x0000f07c      0x211 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .debug_str     0x0000f28d      0xbe4 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .debug_str     0x0000fe71      0xbb3 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .debug_str     0x00010a24      0xb7b build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .debug_str     0x0001159f      0xacd build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .debug_str     0x0001206c      0xab1 build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .debug_str     0x00012b1d     0x136a build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_str     0x00013e87      0xc40 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .debug_str     0x00014ac7      0xadd build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .debug_str     0x000155a4      0xc5a build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .debug_str     0x000161fe      0xd5a build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_str     0x00016f58      0xa78 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .debug_str     0x000179d0      0xb56 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .debug_str     0x00018526      0x30f build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_str     0x00018835      0x64c build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_str     0x00018e81      0xfd7 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_str     0x00019e58      0xe50 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_str     0x0001aca8      0xae8 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_str     0x0001b790      0xb3f build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_str     0x0001c2cf      0xb4c build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_str     0x0001ce1b      0xb35 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_str     0x0001d950      0x28e build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .debug_str     0x0001dbde      0xcf3 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_str     0x0001e8d1      0x357 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .debug_str     0x0001ec28      0xcf3 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .debug_str     0x0001f91b      0xb93 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .debug_str     0x000204ae      0x415 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_str     0x000208c3     0x112b build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000    0x106aa
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x2b4 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_loclists
+                0x000002b4      0x29a build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_loclists
+                0x0000054e      0x1de build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_loclists
+                0x0000072c      0x10d build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_loclists
+                0x00000839      0x113 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_loclists
+                0x0000094c      0x14b build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_loclists
+                0x00000a97      0x113 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_loclists
+                0x00000baa      0x1c1 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_loclists
+                0x00000d6b      0x1a5 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_loclists
+                0x00000f10      0x37e build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_loclists
+                0x0000128e      0x265 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_loclists
+                0x000014f3      0x1f5 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_loclists
+                0x000016e8       0xbd build/f7-firmware-C/.extapps/passy/bsearch.o
+ .debug_loclists
+                0x000017a5       0xd0 build/f7-firmware-C/.extapps/passy/memmem.o
+ .debug_loclists
+                0x00001875      0x380 build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_loclists
+                0x00001bf5      0x320 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_loclists
+                0x00001f15      0xa1a build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_loclists
+                0x0000292f      0x534 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_loclists
+                0x00002e63      0x3a8 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_loclists
+                0x0000320b     0x194d build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_loclists
+                0x00004b58       0xb6 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .debug_loclists
+                0x00004c0e     0x2b6d build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_loclists
+                0x0000777b      0x43c build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .debug_loclists
+                0x00007bb7      0x131 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .debug_loclists
+                0x00007ce8      0x83a build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_loclists
+                0x00008522      0x196 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .debug_loclists
+                0x000086b8      0x534 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .debug_loclists
+                0x00008bec      0x46a build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_loclists
+                0x00009056      0x62f build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_loclists
+                0x00009685     0x1a25 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_loclists
+                0x0000b0aa      0xda6 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_loclists
+                0x0000be50      0x182 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_loclists
+                0x0000bfd2      0x474 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_loclists
+                0x0000c446      0x39a build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_loclists
+                0x0000c7e0      0x413 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_loclists
+                0x0000cbf3      0x280 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .debug_loclists
+                0x0000ce73      0x671 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_loclists
+                0x0000d4e4      0x740 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .debug_loclists
+                0x0000dc24      0x82a build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .debug_loclists
+                0x0000e44e      0x191 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .debug_loclists
+                0x0000e5df      0x607 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_loclists
+                0x0000ebe6     0x1ac4 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000     0x16fe
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x26 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .debug_rnglists
+                0x00000026       0x63 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .debug_rnglists
+                0x00000089       0x25 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .debug_rnglists
+                0x000000ae       0x26 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .debug_rnglists
+                0x000000d4       0x25 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .debug_rnglists
+                0x000000f9       0x25 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .debug_rnglists
+                0x0000011e       0x1f build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .debug_rnglists
+                0x0000013d       0x26 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .debug_rnglists
+                0x00000163       0x38 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .debug_rnglists
+                0x0000019b       0x27 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .debug_rnglists
+                0x000001c2       0x26 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .debug_rnglists
+                0x000001e8       0x63 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .debug_rnglists
+                0x0000024b       0x13 build/f7-firmware-C/.extapps/passy/bsearch.o
+ .debug_rnglists
+                0x0000025e       0x13 build/f7-firmware-C/.extapps/passy/memmem.o
+ .debug_rnglists
+                0x00000271       0x72 build/f7-firmware-C/.extapps/passy/passy.o
+ .debug_rnglists
+                0x000002e3       0xba build/f7-firmware-C/.extapps/passy/passy_common.o
+ .debug_rnglists
+                0x0000039d      0x116 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .debug_rnglists
+                0x000004b3       0x93 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .debug_rnglists
+                0x00000546      0x123 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .debug_rnglists
+                0x00000669      0x210 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .debug_rnglists
+                0x00000879       0x19 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .debug_rnglists
+                0x00000892      0x371 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .debug_rnglists
+                0x00000c03       0x49 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .debug_rnglists
+                0x00000c4c       0x1f build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .debug_rnglists
+                0x00000c6b       0x60 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .debug_rnglists
+                0x00000ccb       0x36 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .debug_rnglists
+                0x00000d01       0x85 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .debug_rnglists
+                0x00000d86       0x5c build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .debug_rnglists
+                0x00000de2       0x2c build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .debug_rnglists
+                0x00000e0e      0x222 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .debug_rnglists
+                0x00001030      0x1f7 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .debug_rnglists
+                0x00001227       0x25 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .debug_rnglists
+                0x0000124c       0x47 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .debug_rnglists
+                0x00001293       0x33 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .debug_rnglists
+                0x000012c6       0x31 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .debug_rnglists
+                0x000012f7       0x19 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .debug_rnglists
+                0x00001310       0x87 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .debug_rnglists
+                0x00001397       0xc2 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .debug_rnglists
+                0x00001459       0x5c build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .debug_rnglists
+                0x000014b5       0x20 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .debug_rnglists
+                0x000014d5       0x4c build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .debug_rnglists
+                0x00001521      0x1dd build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_adv_warning.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_advanced_menu.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_delete_success.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_dob_input.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_doe_input.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_known_issues.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_main_menu.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_passport_number_input.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read.o
+ .ARM.attributes
+                0x0000023c       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_error.o
+ .ARM.attributes
+                0x00000270       0x34 build/f7-firmware-C/.extapps/passy/scenes/passy_scene_read_success.o
+ .ARM.attributes
+                0x000002a4       0x34 build/f7-firmware-C/.extapps/passy/bsearch.o
+ .ARM.attributes
+                0x000002d8       0x34 build/f7-firmware-C/.extapps/passy/memmem.o
+ .ARM.attributes
+                0x0000030c       0x34 build/f7-firmware-C/.extapps/passy/passy.o
+ .ARM.attributes
+                0x00000340       0x34 build/f7-firmware-C/.extapps/passy/passy_common.o
+ .ARM.attributes
+                0x00000374       0x34 build/f7-firmware-C/.extapps/passy/passy_reader.o
+ .ARM.attributes
+                0x000003a8       0x34 build/f7-firmware-C/.extapps/passy/secure_messaging.o
+ .ARM.attributes
+                0x000003dc       0x34 build/f7-firmware-C/.extapps/passy/passy_icons.o
+ .ARM.attributes
+                0x00000410       0x34 build/f7-firmware-C/lib\libmbedtls.a(sha1.o)
+ .ARM.attributes
+                0x00000444       0x34 build/f7-firmware-C/lib\libmbedtls.a(des.o)
+ .ARM.attributes
+                0x00000478       0x34 build/f7-firmware-C/lib\libmbedtls.a(platform_util.o)
+ .ARM.attributes
+                0x000004ac       0x34 build/f7-firmware-C/.extapps/passy/asn1(COM.o)
+ .ARM.attributes
+                0x000004e0       0x34 build/f7-firmware-C/.extapps/passy/asn1(DG1.o)
+ .ARM.attributes
+                0x00000514       0x34 build/f7-firmware-C/.extapps/passy/asn1(DataGroups.o)
+ .ARM.attributes
+                0x00000548       0x34 build/f7-firmware-C/.extapps/passy/asn1(LDSVersion.o)
+ .ARM.attributes
+                0x0000057c       0x34 build/f7-firmware-C/.extapps/passy/asn1(MRZ.o)
+ .ARM.attributes
+                0x000005b0       0x34 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING.o)
+ .ARM.attributes
+                0x000005e4       0x34 build/f7-firmware-C/.extapps/passy/asn1(OCTET_STRING_oer.o)
+ .ARM.attributes
+                0x00000618       0x34 build/f7-firmware-C/.extapps/passy/asn1(UnicodeVersion.o)
+ .ARM.attributes
+                0x0000064c       0x34 build/f7-firmware-C/.extapps/passy/asn1(VisibleString.o)
+ .ARM.attributes
+                0x00000680       0x34 build/f7-firmware-C/.extapps/passy/asn1(asn_application.o)
+ .ARM.attributes
+                0x000006b4       0x34 build/f7-firmware-C/.extapps/passy/asn1(asn_random_fill.o)
+ .ARM.attributes
+                0x000006e8       0x34 build/f7-firmware-C/.extapps/passy/asn1(ber_decoder.o)
+ .ARM.attributes
+                0x0000071c       0x34 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_length.o)
+ .ARM.attributes
+                0x00000750       0x34 build/f7-firmware-C/.extapps/passy/asn1(ber_tlv_tag.o)
+ .ARM.attributes
+                0x00000784       0x34 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE.o)
+ .ARM.attributes
+                0x000007b8       0x34 build/f7-firmware-C/.extapps/passy/asn1(constr_SEQUENCE_oer.o)
+ .ARM.attributes
+                0x000007ec       0x34 build/f7-firmware-C/.extapps/passy/asn1(constraints.o)
+ .ARM.attributes
+                0x00000820       0x34 build/f7-firmware-C/.extapps/passy/asn1(der_encoder.o)
+ .ARM.attributes
+                0x00000854       0x34 build/f7-firmware-C/.extapps/passy/asn1(oer_decoder.o)
+ .ARM.attributes
+                0x00000888       0x34 build/f7-firmware-C/.extapps/passy/asn1(oer_encoder.o)
+ .ARM.attributes
+                0x000008bc       0x34 build/f7-firmware-C/.extapps/passy/asn1(oer_support.o)
+ .ARM.attributes
+                0x000008f0       0x34 build/f7-firmware-C/.extapps/passy/asn1(xer_decoder.o)
+ .ARM.attributes
+                0x00000924       0x34 build/f7-firmware-C/.extapps/passy/asn1(xer_encoder.o)
+ .ARM.attributes
+                0x00000958       0x34 build/f7-firmware-C/.extapps/passy/asn1(xer_support.o)
+ .ARM.attributes
+                0x0000098c       0x34 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE.o)
+ .ARM.attributes
+                0x000009c0       0x34 build/f7-firmware-C/.extapps/passy/asn1(OPEN_TYPE_oer.o)
+ .ARM.attributes
+                0x000009f4       0x34 build/f7-firmware-C/.extapps/passy/asn1(asn_bit_data.o)
+ .ARM.attributes
+                0x00000a28       0x34 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE.o)
+ .ARM.attributes
+                0x00000a5c       0x34 build/f7-firmware-C/.extapps/passy/asn1(constr_CHOICE_oer.o)
+ .ARM.attributes
+                0x00000a90       0x34 build/f7-firmware-C/.extapps/passy/asn1(constr_TYPE.o)
+ .ARM.attributes
+                0x00000ac4       0x34 build/f7-firmware-C/.extapps/passy/asn1(per_opentype.o)
+ .ARM.attributes
+                0x00000af8       0x34 build/f7-firmware-C/.extapps/passy/asn1(per_support.o)
+ .ARM.attributes
+                0x00000b2c       0x34 build/f7-firmware-C/.extapps/passy/asn1(per_encoder.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/passy_d.elf elf32-littlearm)
+LOAD linker stubs

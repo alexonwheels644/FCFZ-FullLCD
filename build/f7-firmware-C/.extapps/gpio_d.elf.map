@@ -1,0 +1,1029 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+LOAD build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+LOAD build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+LOAD build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+LOAD build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+LOAD build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+LOAD build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+LOAD build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+LOAD build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+LOAD build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+LOAD build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+LOAD build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+LOAD build/f7-firmware-C/.extapps/gpio/gpio_app.o
+LOAD build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+LOAD build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+LOAD build/f7-firmware-C/.extapps/gpio/gpio_items.o
+LOAD build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD build/f7-firmware-C/lib\libassets.a
+LOAD build/f7-firmware-C/lib\libassets.a
+
+.text           0x00000000     0x20c8
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.gpio_scene_i2c_scanner_ok_callback
+                0x00000000       0x44 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+                0x00000000                gpio_scene_i2c_scanner_ok_callback
+ .text.gpio_scene_i2c_scanner_on_enter
+                0x00000044       0x38 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+                0x00000044                gpio_scene_i2c_scanner_on_enter
+ .text.gpio_scene_i2c_scanner_on_event
+                0x0000007c        0xe build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+                0x0000007c                gpio_scene_i2c_scanner_on_event
+ *fill*         0x0000008a        0x2 
+ .text.gpio_scene_i2c_scanner_on_exit
+                0x0000008c       0x10 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+                0x0000008c                gpio_scene_i2c_scanner_on_exit
+ .text.gpio_scene_i2c_sfp_ok_callback
+                0x0000009c       0x44 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+                0x0000009c                gpio_scene_i2c_sfp_ok_callback
+ .text.gpio_scene_i2c_sfp_on_enter
+                0x000000e0       0x38 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+                0x000000e0                gpio_scene_i2c_sfp_on_enter
+ .text.gpio_scene_i2c_sfp_on_event
+                0x00000118        0xe build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+                0x00000118                gpio_scene_i2c_sfp_on_event
+ *fill*         0x00000126        0x2 
+ .text.gpio_scene_i2c_sfp_on_exit
+                0x00000128       0x10 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+                0x00000128                gpio_scene_i2c_sfp_on_exit
+ .text.gpio_scene_start_var_list_change_callback
+                0x00000138       0x48 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .text.gpio_scene_start_var_list_enter_callback
+                0x00000180       0x28 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .text.gpio_scene_start_on_enter
+                0x000001a8       0xdc build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+                0x000001a8                gpio_scene_start_on_enter
+ .text.gpio_scene_start_on_event
+                0x00000284       0xa0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+                0x00000284                gpio_scene_start_on_event
+ .text.gpio_scene_start_on_exit
+                0x00000324        0xc build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+                0x00000324                gpio_scene_start_on_exit
+ .text.gpio_scene_test_ok_callback
+                0x00000330       0x24 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+                0x00000330                gpio_scene_test_ok_callback
+ .text.gpio_scene_test_on_enter
+                0x00000354       0x34 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+                0x00000354                gpio_scene_test_on_enter
+ .text.gpio_scene_test_on_event
+                0x00000388        0xe build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+                0x00000388                gpio_scene_test_on_event
+ *fill*         0x00000396        0x2 
+ .text.gpio_scene_test_on_exit
+                0x00000398        0xc build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+                0x00000398                gpio_scene_test_on_exit
+ .text.gpio_scene_usb_uart_callback
+                0x000003a4       0x10 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+                0x000003a4                gpio_scene_usb_uart_callback
+ .text.gpio_scene_usb_uart_dialog_callback
+                0x000003b4       0x44 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+                0x000003b4                gpio_scene_usb_uart_dialog_callback
+ .text.gpio_scene_usb_uart_on_enter
+                0x000003f8       0x74 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+                0x000003f8                gpio_scene_usb_uart_on_enter
+ .text.gpio_scene_usb_uart_on_event
+                0x0000046c       0xec build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+                0x0000046c                gpio_scene_usb_uart_on_event
+ .text.gpio_scene_usb_uart_on_exit
+                0x00000558       0x10 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+                0x00000558                gpio_scene_usb_uart_on_exit
+ .text.gpio_scene_usb_uart_close_rpc_on_enter
+                0x00000568       0x64 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+                0x00000568                gpio_scene_usb_uart_close_rpc_on_enter
+ .text.gpio_scene_usb_uart_close_rpc_on_event
+                0x000005cc       0x40 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+                0x000005cc                gpio_scene_usb_uart_close_rpc_on_event
+ .text.gpio_scene_usb_uart_close_rpc_on_exit
+                0x0000060c        0xc build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+                0x0000060c                gpio_scene_usb_uart_close_rpc_on_exit
+ .text.line_software_de_re_cb
+                0x00000618       0x44 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .text.line_flow_cb
+                0x0000065c       0x44 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .text.line_baudrate_cb
+                0x000006a0       0x78 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .text.line_vcp_cb
+                0x00000718       0x44 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .text.gpio_scene_usb_uart_cfg_on_event
+                0x0000075c       0x2c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+                0x0000075c                gpio_scene_usb_uart_cfg_on_event
+ .text.line_ensure_flow_invariant
+                0x00000788       0x54 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+                0x00000788                line_ensure_flow_invariant
+ .text.line_port_cb
+                0x000007dc       0x54 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .text.gpio_scene_usb_uart_cfg_on_enter
+                0x00000830      0x178 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+                0x00000830                gpio_scene_usb_uart_cfg_on_enter
+ .text.gpio_scene_usb_uart_cfg_on_exit
+                0x000009a8       0x38 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+                0x000009a8                gpio_scene_usb_uart_cfg_on_exit
+ .text.gpio_i2c_scanner_draw_callback
+                0x000009e0      0x164 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .text.gpio_i2c_scanner_input_callback
+                0x00000b44       0x14 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .text.gpio_i2c_scanner_alloc
+                0x00000b58       0x54 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+                0x00000b58                gpio_i2c_scanner_alloc
+ .text.gpio_i2c_scanner_free
+                0x00000bac       0x1c build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+                0x00000bac                gpio_i2c_scanner_free
+ .text.gpio_i2c_scanner_get_view
+                0x00000bc8        0x4 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+                0x00000bc8                gpio_i2c_scanner_get_view
+ .text.gpio_i2c_scanner_set_ok_callback
+                0x00000bcc       0x28 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+                0x00000bcc                gpio_i2c_scanner_set_ok_callback
+ .text.gpio_i2c_scanner_update_state
+                0x00000bf4       0x38 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+                0x00000bf4                gpio_i2c_scanner_update_state
+ .text.gpio_i2c_sfp_draw_callback
+                0x00000c2c      0x130 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .text.gpio_i2c_sfp_input_callback
+                0x00000d5c       0x14 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .text.gpio_i2c_sfp_alloc
+                0x00000d70       0x54 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+                0x00000d70                gpio_i2c_sfp_alloc
+ .text.gpio_i2c_sfp_free
+                0x00000dc4       0x1c build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+                0x00000dc4                gpio_i2c_sfp_free
+ .text.gpio_i2c_sfp_get_view
+                0x00000de0        0x4 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+                0x00000de0                gpio_i2c_sfp_get_view
+ .text.gpio_i2c_sfp_set_ok_callback
+                0x00000de4       0x28 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+                0x00000de4                gpio_i2c_sfp_set_ok_callback
+ .text.gpio_i2c_sfp_update_state
+                0x00000e0c       0x70 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+                0x00000e0c                gpio_i2c_sfp_update_state
+ .text.gpio_test_draw_callback
+                0x00000e7c       0x6c build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .text.gpio_test_input_callback
+                0x00000ee8       0xc8 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .text.gpio_test_alloc
+                0x00000fb0       0x70 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+                0x00000fb0                gpio_test_alloc
+ .text.gpio_test_free
+                0x00001020       0x1c build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+                0x00001020                gpio_test_free
+ .text.gpio_test_get_view
+                0x0000103c        0x4 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+                0x0000103c                gpio_test_get_view
+ .text.gpio_test_set_ok_callback
+                0x00001040       0x28 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+                0x00001040                gpio_test_set_ok_callback
+ .text.gpio_usb_uart_draw_callback
+                0x00001068      0x258 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .text.gpio_usb_uart_input_callback
+                0x000012c0       0x1e build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ *fill*         0x000012de        0x2 
+ .text.gpio_usb_uart_alloc
+                0x000012e0       0x54 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+                0x000012e0                gpio_usb_uart_alloc
+ .text.gpio_usb_uart_free
+                0x00001334       0x1c build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+                0x00001334                gpio_usb_uart_free
+ .text.gpio_usb_uart_get_view
+                0x00001350        0x4 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+                0x00001350                gpio_usb_uart_get_view
+ .text.gpio_usb_uart_set_callback
+                0x00001354       0x28 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+                0x00001354                gpio_usb_uart_set_callback
+ .text.gpio_usb_uart_update_state
+                0x0000137c       0x5c build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+                0x0000137c                gpio_usb_uart_update_state
+ .text.gpio_app_tick_event_callback
+                0x000013d8        0xc build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .text.gpio_app_back_event_callback
+                0x000013e4        0xc build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .text.gpio_app_custom_event_callback
+                0x000013f0        0xc build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .text.gpio_app_alloc
+                0x000013fc      0x1a0 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+                0x000013fc                gpio_app_alloc
+ .text.gpio_app_free
+                0x0000159c       0xdc build/f7-firmware-C/.extapps/gpio/gpio_app.o
+                0x0000159c                gpio_app_free
+ .text.gpio_app
+                0x00001678       0x24 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+                0x00001678                gpio_app
+ .text.gpio_i2c_scanner_run_once
+                0x0000169c       0x60 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+                0x0000169c                gpio_i2c_scanner_run_once
+ .text.str_part
+                0x000016fc       0x1e build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+                0x000016fc                str_part
+ *fill*         0x0000171a        0x2 
+ .text.gpio_i2c_sfp_run_once
+                0x0000171c       0xf8 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+                0x0000171c                gpio_i2c_sfp_run_once
+ .text.gpio_items_alloc
+                0x00001814       0x70 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+                0x00001814                gpio_items_alloc
+ .text.gpio_items_free
+                0x00001884       0x18 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+                0x00001884                gpio_items_free
+ .text.gpio_items_get_count
+                0x0000189c        0x4 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+                0x0000189c                gpio_items_get_count
+ .text.gpio_items_configure_pin
+                0x000018a0       0x2c build/f7-firmware-C/.extapps/gpio/gpio_items.o
+                0x000018a0                gpio_items_configure_pin
+ .text.gpio_items_configure_all_pins
+                0x000018cc       0x24 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+                0x000018cc                gpio_items_configure_all_pins
+ .text.gpio_items_set_pin
+                0x000018f0       0x18 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+                0x000018f0                gpio_items_set_pin
+ .text.gpio_items_set_all_pins
+                0x00001908       0x20 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+                0x00001908                gpio_items_set_all_pins
+ .text.gpio_items_get_pin_name
+                0x00001928       0x1c build/f7-firmware-C/.extapps/gpio/gpio_items.o
+                0x00001928                gpio_items_get_pin_name
+ .text.vcp_state_callback
+                0x00001944        0x2 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ *fill*         0x00001946        0x2 
+ .text.vcp_on_line_config
+                0x00001948       0x1c build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.vcp_on_cdc_control_line
+                0x00001964       0x1c build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.vcp_on_cdc_rx
+                0x00001980       0x1c build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.usb_uart_vcp_init
+                0x0000199c       0x68 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.vcp_on_cdc_tx_complete
+                0x00001a04       0x28 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.usb_uart_serial_init
+                0x00001a2c       0x38 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.usb_uart_tx_thread
+                0x00001a64       0xa8 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.usb_uart_on_irq_rx_dma_cb
+                0x00001b0c       0x70 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.usb_uart_set_baudrate.part.0
+                0x00001b7c       0x24 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.usb_uart_set_baudrate
+                0x00001ba0       0x24 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.usb_uart_update_ctrl_lines.part.0
+                0x00001bc4       0x40 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.usb_uart_worker
+                0x00001c04      0x3d4 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .text.usb_uart_enable
+                0x00001fd8       0x48 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+                0x00001fd8                usb_uart_enable
+ .text.usb_uart_disable
+                0x00002020       0x3c build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+                0x00002020                usb_uart_disable
+ .text.usb_uart_set_config
+                0x0000205c       0x50 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+                0x0000205c                usb_uart_set_config
+ .text.usb_uart_get_config
+                0x000020ac        0xe build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+                0x000020ac                usb_uart_get_config
+ .text.usb_uart_get_state
+                0x000020ba        0xe build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+                0x000020ba                usb_uart_get_state
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x000020c8      0x494
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.gpio_scene_handlers
+                0x000020c8       0x10 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+                0x000020c8                gpio_scene_handlers
+ .rodata.gpio_scene_on_exit_handlers
+                0x000020d8       0x1c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+                0x000020d8                gpio_scene_on_exit_handlers
+ .rodata.gpio_scene_on_event_handlers
+                0x000020f4       0x1c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+                0x000020f4                gpio_scene_on_event_handlers
+ .rodata.gpio_scene_on_enter_handlers
+                0x00002110       0x1c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+                0x00002110                gpio_scene_on_enter_handlers
+ .rodata.gpio_scene_start_on_enter.str1.1
+                0x0000212c       0x4a build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ *fill*         0x00002176        0x2 
+ .rodata.gpio_otg_text
+                0x00002178        0x8 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+                0x00002178                gpio_otg_text
+ .rodata.gpio_scene_usb_uart_on_event.str1.1
+                0x00002180       0x19 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .rodata.gpio_scene_usb_uart_close_rpc_on_enter.str1.1
+                0x00002199       0x48 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .rodata.line_baudrate_cb.str1.1
+                0x000021e1        0x9 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .rodata.gpio_scene_usb_uart_cfg_on_enter.str1.1
+                0x000021ea       0x36 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .rodata.str1.1
+                0x00002220       0x2b build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ *fill*         0x0000224b        0x1 
+ .rodata.software_de_re
+                0x0000224c        0x8 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .rodata.baudrate_list
+                0x00002254       0x30 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .rodata.flow_pins
+                0x00002284       0x10 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .rodata.uart_ch
+                0x00002294        0x8 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .rodata.vcp_ch
+                0x0000229c        0x8 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .rodata.gpio_i2c_scanner_draw_callback.str1.1
+                0x000022a4       0x47 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .rodata.gpio_i2c_sfp_draw_callback.str1.1
+                0x000022eb       0x5d build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .rodata.gpio_test_draw_callback.str1.1
+                0x00002348       0x31 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .rodata.gpio_usb_uart_draw_callback.str1.1
+                0x00002379       0x4e build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .rodata.gpio_app_alloc.str1.1
+                0x000023c7       0x21 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .rodata.str1.1
+                0x000023e8      0x11c build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .rodata.gpio_items_get_pin_name.str1.1
+                0x00002504        0x4 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .rodata.usb_uart_worker.str1.1
+                0x00002508       0x18 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .rodata.usb_uart_enable.str1.1
+                0x00002520        0xe build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ *fill*         0x0000252e        0x2 
+ .rodata.cdc_cb
+                0x00002530       0x14 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .rodata.flow_pins
+                0x00002544       0x18 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+
+.data           0x0000255c      0x400
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.sfp_connector_map
+                0x0000255c      0x400 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+                0x0000255c                sfp_connector_map
+
+.bss            0x0000295c        0xc
+ *(.bss)
+ *(.bss*)
+ .bss.i2c_scanner_state
+                0x0000295c        0x4 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .bss.i2c_sfp_state
+                0x00002960        0x4 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .bss.scene_usb_uart
+                0x00002964        0x4 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x498
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+ .debug_aranges
+                0x00000018       0x38 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_aranges
+                0x00000050       0x38 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_aranges
+                0x00000088       0x40 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_aranges
+                0x000000c8       0x38 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_aranges
+                0x00000100       0x40 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_aranges
+                0x00000140       0x30 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_aranges
+                0x00000170       0x60 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_aranges
+                0x000001d0       0x50 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_aranges
+                0x00000220       0x50 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_aranges
+                0x00000270       0x48 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_aranges
+                0x000002b8       0x50 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_aranges
+                0x00000308       0x48 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_aranges
+                0x00000350       0x20 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .debug_aranges
+                0x00000370       0x28 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .debug_aranges
+                0x00000398       0x58 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_aranges
+                0x000003f0       0xa8 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xd361
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x3e1 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+ .debug_info    0x000003e1      0x9c6 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_info    0x00000da7      0xa40 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_info    0x000017e7      0xc01 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_info    0x000023e8      0x970 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_info    0x00002d58      0xdd8 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_info    0x00003b30      0x73d build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_info    0x0000426d     0x109b build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_info    0x00005308      0xba6 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_info    0x00005eae      0xcc5 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_info    0x00006b73      0xa9d build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_info    0x00007610     0x10f6 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_info    0x00008706     0x108c build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_info    0x00009792      0x3d5 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .debug_info    0x00009b67      0x81e build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .debug_info    0x0000a385      0x80e build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_info    0x0000ab93     0x27ce build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+
+.debug_abbrev   0x00000000     0x2ebf
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x137 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+ .debug_abbrev  0x00000137      0x2b9 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_abbrev  0x000003f0      0x2b9 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_abbrev  0x000006a9      0x24e build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_abbrev  0x000008f7      0x26c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_abbrev  0x00000b63      0x2d2 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_abbrev  0x00000e35      0x1f1 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_abbrev  0x00001026      0x28f build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_abbrev  0x000012b5      0x33c build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_abbrev  0x000015f1      0x310 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_abbrev  0x00001901      0x310 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_abbrev  0x00001c11      0x34c build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_abbrev  0x00001f5d      0x2a9 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_abbrev  0x00002206      0x1e7 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .debug_abbrev  0x000023ed      0x27d build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .debug_abbrev  0x0000266a      0x2a7 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_abbrev  0x00002911      0x5ae build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+
+.debug_line     0x00000000     0x5749
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x14a build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+ .debug_line_end
+                0x0000014a        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+ .debug_line    0x0000014a      0x476 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_line.text.gpio_scene_i2c_scanner_ok_callback
+                0x000005c0       0x41 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_line.text.gpio_scene_i2c_scanner_on_enter
+                0x00000601       0x3c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_line.text.gpio_scene_i2c_scanner_on_event
+                0x0000063d       0x24 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_line.text.gpio_scene_i2c_scanner_on_exit
+                0x00000661       0x17 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_line_end
+                0x00000678        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_line    0x00000678      0x46e build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_line.text.gpio_scene_i2c_sfp_ok_callback
+                0x00000ae6       0x41 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_line.text.gpio_scene_i2c_sfp_on_enter
+                0x00000b27       0x3c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_line.text.gpio_scene_i2c_sfp_on_event
+                0x00000b63       0x24 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_line.text.gpio_scene_i2c_sfp_on_exit
+                0x00000b87       0x17 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_line_end
+                0x00000b9e        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_line    0x00000b9e      0x3e7 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_line.text.gpio_scene_start_var_list_change_callback
+                0x00000f85       0x59 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_line.text.gpio_scene_start_var_list_enter_callback
+                0x00000fde       0x2e build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_line.text.gpio_scene_start_on_enter
+                0x0000100c       0x72 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_line.text.gpio_scene_start_on_event
+                0x0000107e       0x71 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_line.text.gpio_scene_start_on_exit
+                0x000010ef       0x18 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_line_end
+                0x00001107        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_line    0x00001107      0x38a build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_line.text.gpio_scene_test_ok_callback
+                0x00001491       0x42 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_line.text.gpio_scene_test_on_enter
+                0x000014d3       0x2c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_line.text.gpio_scene_test_on_event
+                0x000014ff       0x24 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_line.text.gpio_scene_test_on_exit
+                0x00001523       0x1b build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_line_end
+                0x0000153e        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_line    0x0000153e      0x462 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_line.text.gpio_scene_usb_uart_callback
+                0x000019a0       0x24 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_line.text.gpio_scene_usb_uart_dialog_callback
+                0x000019c4       0x47 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_line.text.gpio_scene_usb_uart_on_enter
+                0x00001a0b       0x60 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_line.text.gpio_scene_usb_uart_on_event
+                0x00001a6b       0xab build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_line.text.gpio_scene_usb_uart_on_exit
+                0x00001b16       0x18 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_line_end
+                0x00001b2e        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_line    0x00001b2e      0x362 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_line.text.gpio_scene_usb_uart_close_rpc_on_enter
+                0x00001e90       0x30 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_line.text.gpio_scene_usb_uart_close_rpc_on_event
+                0x00001ec0       0x4c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_line.text.gpio_scene_usb_uart_close_rpc_on_exit
+                0x00001f0c       0x17 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_line_end
+                0x00001f23        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_line    0x00001f23      0x471 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_line.text.line_software_de_re_cb
+                0x00002394       0x52 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_line.text.line_flow_cb
+                0x000023e6       0x52 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_line.text.line_baudrate_cb
+                0x00002438       0x73 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_line.text.line_vcp_cb
+                0x000024ab       0x51 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_line.text.gpio_scene_usb_uart_cfg_on_event
+                0x000024fc       0x43 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_line.text.line_ensure_flow_invariant
+                0x0000253f       0x57 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_line.text.line_port_cb
+                0x00002596       0x63 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_line.text.gpio_scene_usb_uart_cfg_on_enter
+                0x000025f9       0xf4 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_line.text.gpio_scene_usb_uart_cfg_on_exit
+                0x000026ed       0x3a build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_line_end
+                0x00002727        0x0 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_line    0x00002727      0x2aa build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_line.text.gpio_i2c_scanner_draw_callback
+                0x000029d1       0xcf build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_line.text.gpio_i2c_scanner_input_callback
+                0x00002aa0       0x3c build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_line.text.gpio_i2c_scanner_alloc
+                0x00002adc       0x3d build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_line.text.gpio_i2c_scanner_free
+                0x00002b19       0x31 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_line.text.gpio_i2c_scanner_get_view
+                0x00002b4a       0x1e build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_line.text.gpio_i2c_scanner_set_ok_callback
+                0x00002b68       0x37 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_line.text.gpio_i2c_scanner_update_state
+                0x00002b9f       0x6f build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_line_end
+                0x00002c0e        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_line    0x00002c0e      0x29e build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_line.text.gpio_i2c_sfp_draw_callback
+                0x00002eac       0x5b build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_line.text.gpio_i2c_sfp_input_callback
+                0x00002f07       0x3c build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_line.text.gpio_i2c_sfp_alloc
+                0x00002f43       0x3d build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_line.text.gpio_i2c_sfp_free
+                0x00002f80       0x31 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_line.text.gpio_i2c_sfp_get_view
+                0x00002fb1       0x1e build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_line.text.gpio_i2c_sfp_set_ok_callback
+                0x00002fcf       0x37 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_line.text.gpio_i2c_sfp_update_state
+                0x00003006       0x48 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_line_end
+                0x0000304e        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_line    0x0000304e      0x277 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_line.text.gpio_test_draw_callback
+                0x000032c5       0x31 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_line.text.gpio_test_input_callback
+                0x000032f6       0xc9 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_line.text.gpio_test_alloc
+                0x000033bf       0x4b build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_line.text.gpio_test_free
+                0x0000340a       0x31 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_line.text.gpio_test_get_view
+                0x0000343b       0x1e build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_line.text.gpio_test_set_ok_callback
+                0x00003459       0x37 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_line_end
+                0x00003490        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_line    0x00003490      0x327 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_line.text.gpio_usb_uart_draw_callback
+                0x000037b7       0xb7 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_line.text.gpio_usb_uart_input_callback
+                0x0000386e       0x50 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_line.text.gpio_usb_uart_alloc
+                0x000038be       0x3d build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_line.text.gpio_usb_uart_free
+                0x000038fb       0x31 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_line.text.gpio_usb_uart_get_view
+                0x0000392c       0x1e build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_line.text.gpio_usb_uart_set_callback
+                0x0000394a       0x37 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_line.text.gpio_usb_uart_update_state
+                0x00003981       0x4e build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_line_end
+                0x000039cf        0x0 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_line    0x000039cf      0x42a build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_line.text.gpio_app_tick_event_callback
+                0x00003df9       0x1b build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_line.text.gpio_app_back_event_callback
+                0x00003e14       0x1e build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_line.text.gpio_app_custom_event_callback
+                0x00003e32       0x1d build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_line.text.gpio_app_alloc
+                0x00003e4f       0xfd build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_line.text.gpio_app_free
+                0x00003f4c       0x4a build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_line.text.gpio_app
+                0x00003f96       0x31 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_line_end
+                0x00003fc7        0x0 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_line    0x00003fc7      0x1cc build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .debug_line.text.gpio_i2c_scanner_run_once
+                0x00004193       0x85 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .debug_line_end
+                0x00004218        0x0 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .debug_line    0x00004218      0x25d build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .debug_line.text.str_part
+                0x00004475       0x58 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .debug_line.text.gpio_i2c_sfp_run_once
+                0x000044cd       0xce build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .debug_line_end
+                0x0000459b        0x0 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .debug_line    0x0000459b      0x259 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_line.text.gpio_items_alloc
+                0x000047f4       0xf9 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_line.text.gpio_items_free
+                0x000048ed       0x2c build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_line.text.gpio_items_get_count
+                0x00004919       0x19 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_line.text.gpio_items_configure_pin
+                0x00004932       0x64 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_line.text.gpio_items_configure_all_pins
+                0x00004996       0x4b build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_line.text.gpio_items_set_pin
+                0x000049e1       0x51 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_line.text.gpio_items_set_all_pins
+                0x00004a32       0x4b build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_line.text.gpio_items_get_pin_name
+                0x00004a7d       0x30 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_line_end
+                0x00004aad        0x0 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_line    0x00004aad      0x440 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.vcp_state_callback
+                0x00004eed       0x1a build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.vcp_on_line_config
+                0x00004f07       0x25 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.vcp_on_cdc_control_line
+                0x00004f2c       0x25 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.vcp_on_cdc_rx
+                0x00004f51       0x24 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_vcp_init
+                0x00004f75       0x5e build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.vcp_on_cdc_tx_complete
+                0x00004fd3       0x28 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_serial_init
+                0x00004ffb       0x3f build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_tx_thread
+                0x0000503a      0x13a build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_on_irq_rx_dma_cb
+                0x00005174       0x6f build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_set_baudrate.part.0
+                0x000051e3       0x40 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_set_baudrate
+                0x00005223       0x30 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_update_ctrl_lines.part.0
+                0x00005253       0xa3 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_worker
+                0x000052f6      0x35b build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_enable
+                0x00005651       0x44 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_disable
+                0x00005695       0x33 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_set_config
+                0x000056c8       0x3f build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_get_config
+                0x00005707       0x21 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line.text.usb_uart_get_state
+                0x00005728       0x21 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ .debug_line_end
+                0x00005749        0x0 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+
+.debug_frame    0x00000000      0xc20
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x7c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_frame   0x0000007c       0x7c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_frame   0x000000f8       0xa8 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_frame   0x000001a0       0x64 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_frame   0x00000204       0xa8 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_frame   0x000002ac       0x6c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_frame   0x00000318      0x15c build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_frame   0x00000474       0xe4 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_frame   0x00000558       0xe0 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_frame   0x00000638       0xc0 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_frame   0x000006f8       0xe4 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_frame   0x000007dc       0x9c build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_frame   0x00000878       0x40 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .debug_frame   0x000008b8       0x68 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .debug_frame   0x00000920       0xdc build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_frame   0x000009fc      0x224 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+
+.debug_str      0x00000000     0xa972
+ *(.debug_str)
+ .debug_str     0x00000000      0x662 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+ .debug_str     0x00000662      0xbdf build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_str     0x00001241      0xbd4 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_str     0x00001e15      0xd45 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_str     0x00002b5a      0xc35 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_str     0x0000378f      0xfac build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_str     0x0000473b      0x7c8 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_str     0x00004f03      0x9c8 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_str     0x000058cb      0x73b build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_str     0x00006006      0x69d build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_str     0x000066a3      0x6af build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_str     0x00006d52      0x934 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_str     0x00007686      0xc14 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_str     0x0000829a      0x499 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .debug_str     0x00008733      0x583 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .debug_str     0x00008cb6      0x79d build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_str     0x00009453     0x151f build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0x2026
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x108 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_loclists
+                0x00000108      0x108 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_loclists
+                0x00000210      0x2a4 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_loclists
+                0x000004b4      0x131 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_loclists
+                0x000005e5      0x27b build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_loclists
+                0x00000860       0xbb build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_loclists
+                0x0000091b      0x2b7 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_loclists
+                0x00000bd2      0x26b build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_loclists
+                0x00000e3d      0x205 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_loclists
+                0x00001042      0x330 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_loclists
+                0x00001372      0x2c5 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_loclists
+                0x00001637      0x120 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_loclists
+                0x00001757       0x53 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .debug_loclists
+                0x000017aa       0xa6 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .debug_loclists
+                0x00001850      0x1ef build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_loclists
+                0x00001a3f      0x5e7 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x53f
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x31 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .debug_rnglists
+                0x00000031       0x31 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .debug_rnglists
+                0x00000062       0x2d build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .debug_rnglists
+                0x0000008f       0x31 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .debug_rnglists
+                0x000000c0       0x44 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .debug_rnglists
+                0x00000104       0x1f build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .debug_rnglists
+                0x00000123       0x44 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .debug_rnglists
+                0x00000167       0x6e build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .debug_rnglists
+                0x000001d5       0x5c build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .debug_rnglists
+                0x00000231       0x6a build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .debug_rnglists
+                0x0000029b       0x5c build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .debug_rnglists
+                0x000002f7       0x33 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .debug_rnglists
+                0x0000032a       0x22 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .debug_rnglists
+                0x0000034c       0x26 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .debug_rnglists
+                0x00000372       0xa9 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .debug_rnglists
+                0x0000041b      0x124 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_scanner.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_i2c_sfp.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_start.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_test.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_close_rpc.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/gpio/scenes/gpio_scene_usb_uart_config.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_scanner.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/gpio/views/gpio_i2c_sfp.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/gpio/views/gpio_test.o
+ .ARM.attributes
+                0x0000023c       0x34 build/f7-firmware-C/.extapps/gpio/views/gpio_usb_uart.o
+ .ARM.attributes
+                0x00000270       0x34 build/f7-firmware-C/.extapps/gpio/gpio_app.o
+ .ARM.attributes
+                0x000002a4       0x34 build/f7-firmware-C/.extapps/gpio/gpio_i2c_scanner_control.o
+ .ARM.attributes
+                0x000002d8       0x34 build/f7-firmware-C/.extapps/gpio/gpio_i2c_sfp_control.o
+ .ARM.attributes
+                0x0000030c       0x34 build/f7-firmware-C/.extapps/gpio/gpio_items.o
+ .ARM.attributes
+                0x00000340       0x34 build/f7-firmware-C/.extapps/gpio/usb_uart_bridge.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/gpio_d.elf elf32-littlearm)
+LOAD linker stubs

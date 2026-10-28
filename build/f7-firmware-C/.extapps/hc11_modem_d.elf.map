@@ -1,0 +1,1079 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o (__aeabi_f2d)
+build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                              build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o (cc1101_strobe)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .rodata.mode1_nb_wake_up_pkts
+                0x00000000        0x1 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .rodata.I_hc11_modem
+                0x00000000        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .rodata._I_hc11_modem
+                0x00000000        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .rodata._I_hc11_modem_0
+                0x00000000       0x15 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_get_partnumber
+                0x00000000       0x16 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_get_version
+                0x00000000       0x16 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_get_rssi
+                0x00000000       0x16 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_reset
+                0x00000000        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_get_status
+                0x00000000        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_wait_status_state
+                0x00000000       0x34 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_shutdown
+                0x00000000        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_calibrate
+                0x00000000        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_switch_to_idle
+                0x00000000        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_switch_to_rx
+                0x00000000        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_switch_to_tx
+                0x00000000        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_flush_rx
+                0x00000000        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_flush_tx
+                0x00000000        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .rodata.cc1101_set_frequency.str1.1
+                0x00000000       0x32 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_set_frequency
+                0x00000000       0x88 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_set_intermediate_frequency
+                0x00000000       0x24 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_set_pa_table
+                0x00000000       0x32 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_write_fifo
+                0x00000000       0x2a build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_read_fifo
+                0x00000000       0x38 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_get_partnumber
+                0x00000000       0x22 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_get_version
+                0x00000000       0x23 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_get_rssi
+                0x00000000       0x23 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_reset
+                0x00000000       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_get_status
+                0x00000000       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_wait_status_state
+                0x00000000       0x59 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_shutdown
+                0x00000000       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_calibrate
+                0x00000000       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_switch_to_idle
+                0x00000000       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_switch_to_rx
+                0x00000000       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_switch_to_tx
+                0x00000000       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_flush_rx
+                0x00000000       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_flush_tx
+                0x00000000       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_set_frequency
+                0x00000000       0x68 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_set_intermediate_frequency
+                0x00000000       0x37 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_set_pa_table
+                0x00000000       0x38 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_write_fifo
+                0x00000000       0x2e build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_read_fifo
+                0x00000000       0x42 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+LOAD build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+LOAD build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+LOAD build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+LOAD build/f7-firmware-C/.extapps/hc11_modem/main.o
+LOAD build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+LOAD build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+LOAD build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+LOAD build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+LOAD build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+LOAD build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD build/f7-firmware-C/lib\libhwdrivers.a
+LOAD build/f7-firmware-C/lib\libhwdrivers.a
+
+.text           0x00000000     0x2436
+ *(.text)
+ .text          0x00000000      0x378 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x00000000                __aeabi_drsub
+                0x00000008                __aeabi_dsub
+                0x00000008                __subdf3
+                0x0000000c                __aeabi_dadd
+                0x0000000c                __adddf3
+                0x00000284                __floatunsidf
+                0x00000284                __aeabi_ui2d
+                0x000002a4                __floatsidf
+                0x000002a4                __aeabi_i2d
+                0x000002c8                __aeabi_f2d
+                0x000002c8                __extendsfdf2
+                0x0000030c                __floatundidf
+                0x0000030c                __aeabi_ul2d
+                0x0000031c                __floatdidf
+                0x0000031c                __aeabi_l2d
+ *(.stub)
+ *(.text*)
+ .text.submenu_callback
+                0x00000378       0x60 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+                0x00000378                submenu_callback
+ .text.return_to_submenu_callback
+                0x000003d8       0x1c build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+                0x000003d8                return_to_submenu_callback
+ .text.submenu_exit_callback
+                0x000003f4       0x20 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+                0x000003f4                submenu_exit_callback
+ .text.led_off_timer_callback
+                0x00000414       0x10 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .text.set_led_control
+                0x00000424       0x2c build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+                0x00000424                set_led_control
+ .text.release_led_control
+                0x00000450       0x3c build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+                0x00000450                release_led_control
+ .text.start_led_flash
+                0x0000048c       0x44 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+                0x0000048c                start_led_flash
+ .text.config_channel_change
+                0x000004d0       0x58 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+                0x000004d0                config_channel_change
+ .text.config_address_change
+                0x00000528       0x58 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+                0x00000528                config_address_change
+ .text.config_txpower_change
+                0x00000580       0x58 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+                0x00000580                config_txpower_change
+ .text.config_mode_change
+                0x000005d8       0x58 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+                0x000005d8                config_mode_change
+ .text.config_passthru_chan_change
+                0x00000630       0x58 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+                0x00000630                config_passthru_chan_change
+ .text.main_rx_thread
+                0x00000688       0x6c build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .text.cc1101_enable_rx.constprop.0
+                0x000006f4       0x34 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .text.hc11_rx_tx_thread
+                0x00000728      0x62c build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .text.cc1101_gdo0_int_callback
+                0x00000d54       0x2c build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .text.set_raw_data_handler
+                0x00000d80        0xa build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+                0x00000d80                set_raw_data_handler
+ *fill*         0x00000d8a        0x2 
+ .text.radio_tx
+                0x00000d8c       0x48 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+                0x00000d8c                radio_tx
+ .text.hc11_radio_comm_app_init
+                0x00000dd4       0xec build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+                0x00000dd4                hc11_radio_comm_app_init
+ .text.start_radio
+                0x00000ec0       0x40 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+                0x00000ec0                start_radio
+ .text.stop_radio
+                0x00000f00       0x1c build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+                0x00000f00                stop_radio
+ .text.hc11_radio_comm_app_free
+                0x00000f1c       0x88 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+                0x00000f1c                hc11_radio_comm_app_free
+ .text.hc11_modem_app_entry
+                0x00000fa4      0x3d4 build/f7-firmware-C/.extapps/hc11_modem/main.o
+                0x00000fa4                hc11_modem_app_entry
+ .text.set_backlight_control
+                0x00001378       0x18 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+                0x00001378                set_backlight_control
+ .text.release_backlight_control
+                0x00001390       0x10 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+                0x00001390                release_backlight_control
+ .text.set_backlight
+                0x000013a0       0x2c build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+                0x000013a0                set_backlight
+ .text.vcp_on_cdc_rx
+                0x000013cc       0x48 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .text.raw_data_handler
+                0x00001414       0x34 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .text.vcp_on_cdc_tx_complete
+                0x00001448       0x1c build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .text.start_stop_radio
+                0x00001464       0x50 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .text.vcp_on_state_change
+                0x000014b4       0x28 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .text.log_serial_bytes
+                0x000014dc      0x104 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .text.vcp_rx_tx_thread
+                0x000015e0      0x1e4 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .text.passthru_view_enter_callback
+                0x000017c4      0x1a4 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+                0x000017c4                passthru_view_enter_callback
+ .text.passthru_view_exit_callback
+                0x00001968       0xe8 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+                0x00001968                passthru_view_exit_callback
+ .text.passthru_view_draw_callback
+                0x00001a50      0x264 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+                0x00001a50                passthru_view_draw_callback
+ .text.passthru_view_input_callback
+                0x00001cb4       0xa4 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+                0x00001cb4                passthru_view_input_callback
+ .text.load_configuration
+                0x00001d58      0x370 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+                0x00001d58                load_configuration
+ .text.save_configuration
+                0x000020c8       0xc0 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+                0x000020c8                save_configuration
+ .text.about_view_enter_callback
+                0x00002188       0x20 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+                0x00002188                about_view_enter_callback
+ .text.about_view_draw_callback
+                0x000021a8      0x130 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+                0x000021a8                about_view_draw_callback
+ .text.about_view_input_callback
+                0x000022d8       0x9c build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+                0x000022d8                about_view_input_callback
+ .text.cc1101_spi_trx.isra.0
+                0x00002374       0x4c build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_strobe
+                0x000023c0       0x20 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x000023c0                cc1101_strobe
+ .text.cc1101_write_reg
+                0x000023e0       0x26 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x000023e0                cc1101_write_reg
+ .text.cc1101_read_reg
+                0x00002406       0x30 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x00002406                cc1101_read_reg
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00002438      0xc9d
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.submenu_callback.str1.1
+                0x00002438       0x63 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .rodata.return_to_submenu_callback.str1.1
+                0x0000249b       0x17 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .rodata.submenu_exit_callback.str1.1
+                0x000024b2        0x5 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .rodata.set_led_control.str1.1
+                0x000024b7        0xd build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .rodata.config_channel_change.str1.1
+                0x000024c4       0x25 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .rodata.config_address_change.str1.1
+                0x000024e9       0x1a build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .rodata.config_txpower_change.str1.1
+                0x00002503       0x1b build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .rodata.config_mode_change.str1.1
+                0x0000251e       0x17 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .rodata.config_passthru_chan_change.str1.1
+                0x00002535       0x2a build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .rodata.hc11_rx_tx_thread.str1.1
+                0x0000255f       0xcf build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .rodata.hc11_radio_comm_app_init.str1.1
+                0x0000262e       0x21 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .rodata.hc11_radio_comm_app_free.str1.1
+                0x0000264f        0x9 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .rodata.tx_power_to_patable_zero
+                0x00002658        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .rodata.mode3_pkt_sizes_seq
+                0x00002660        0x7 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+                0x00002660                mode3_pkt_sizes_seq
+ .rodata.hc11_modem_app_entry.str1.1
+                0x00002667       0x35 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .rodata.passthru_view_update_every
+                0x0000269c        0x2 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x0000269c                passthru_view_update_every
+ .rodata.min_led_flash_duration
+                0x0000269e        0x2 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x0000269e                min_led_flash_duration
+ .rodata.nb_config_passthru_chan_values
+                0x000026a0        0x1 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x000026a0                nb_config_passthru_chan_values
+ .rodata.str1.1
+                0x000026a1      0x15a build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .rodata.config_passthru_chan_values
+                0x000027fb        0x2 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x000027fb                config_passthru_chan_values
+ .rodata.nb_config_mode_values
+                0x000027fd        0x1 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x000027fd                nb_config_mode_values
+ .rodata.config_mode_values
+                0x000027fe        0x2 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x000027fe                config_mode_values
+ .rodata.nb_config_txpower_values
+                0x00002800        0x1 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x00002800                nb_config_txpower_values
+ .rodata.config_txpower_values
+                0x00002801        0x8 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x00002801                config_txpower_values
+ .rodata.nb_config_address_values
+                0x00002809        0x1 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x00002809                nb_config_address_values
+ .rodata.config_address_values
+                0x0000280a       0x10 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x0000280a                config_address_values
+ .rodata.nb_config_channel_values
+                0x0000281a        0x1 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x0000281a                nb_config_channel_values
+ .rodata.config_channel_values
+                0x0000281b       0x14 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x0000281b                config_channel_values
+ .rodata.set_backlight_control.str1.1
+                0x0000282f        0xd build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .rodata.log_serial_bytes.str1.1
+                0x0000283c       0x15 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .rodata.passthru_view_enter_callback.str1.1
+                0x00002851       0x18 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .rodata.passthru_view_draw_callback.str1.1
+                0x00002869        0xf build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .rodata.passthru_view_input_callback.str1.1
+                0x00002878       0x3b build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ *fill*         0x000028b3        0x1 
+ .rodata.hex_icons
+                0x000028b4       0x40 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .rodata.load_configuration.str1.1
+                0x000028f4      0x1ae build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .rodata.save_configuration.str1.1
+                0x00002aa2       0x73 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .rodata.about_view_draw_callback.str1.1
+                0x00002b15       0xc3 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .rodata.about_view_input_callback.str1.1
+                0x00002bd8       0x46 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ *fill*         0x00002c1e        0x2 
+ .rodata.I_ok_button
+                0x00002c20        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002c20                I_ok_button
+ .rodata.I_inter_bytes_space
+                0x00002c2c        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002c2c                I_inter_bytes_space
+ .rodata.I_hex_F
+                0x00002c38        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002c38                I_hex_F
+ .rodata.I_hex_E
+                0x00002c44        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002c44                I_hex_E
+ .rodata.I_hex_D
+                0x00002c50        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002c50                I_hex_D
+ .rodata.I_hex_C
+                0x00002c5c        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002c5c                I_hex_C
+ .rodata.I_hex_B
+                0x00002c68        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002c68                I_hex_B
+ .rodata.I_hex_A
+                0x00002c74        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002c74                I_hex_A
+ .rodata.I_hex_9
+                0x00002c80        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002c80                I_hex_9
+ .rodata.I_hex_8
+                0x00002c8c        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002c8c                I_hex_8
+ .rodata.I_hex_7
+                0x00002c98        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002c98                I_hex_7
+ .rodata.I_hex_6
+                0x00002ca4        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002ca4                I_hex_6
+ .rodata.I_hex_5
+                0x00002cb0        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002cb0                I_hex_5
+ .rodata.I_hex_4
+                0x00002cbc        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002cbc                I_hex_4
+ .rodata.I_hex_3
+                0x00002cc8        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002cc8                I_hex_3
+ .rodata.I_hex_2
+                0x00002cd4        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002cd4                I_hex_2
+ .rodata.I_hex_1
+                0x00002ce0        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002ce0                I_hex_1
+ .rodata.I_hex_0
+                0x00002cec        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002cec                I_hex_0
+ .rodata.I_flipper_hc11_serial_traffic
+                0x00002cf8        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002cf8                I_flipper_hc11_serial_traffic
+ .rodata.I_disconnected
+                0x00002d04        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d04                I_disconnected
+ .rodata.I_connected
+                0x00002d10        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d10                I_connected
+ .rodata.I_arrow_right
+                0x00002d1c        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d1c                I_arrow_right
+ .rodata.I_arrow_left
+                0x00002d28        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d28                I_arrow_left
+ .rodata.I_about_splash
+                0x00002d34        0xc build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d34                I_about_splash
+ .rodata._I_ok_button
+                0x00002d40        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d40                _I_ok_button
+ .rodata._I_ok_button_0
+                0x00002d44        0x9 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d44                _I_ok_button_0
+ *fill*         0x00002d4d        0x3 
+ .rodata._I_inter_bytes_space
+                0x00002d50        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d50                _I_inter_bytes_space
+ .rodata._I_inter_bytes_space_0
+                0x00002d54        0x6 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d54                _I_inter_bytes_space_0
+ *fill*         0x00002d5a        0x2 
+ .rodata._I_hex_F
+                0x00002d5c        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d5c                _I_hex_F
+ .rodata._I_hex_F_0
+                0x00002d60        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d60                _I_hex_F_0
+ .rodata._I_hex_E
+                0x00002d68        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d68                _I_hex_E
+ .rodata._I_hex_E_0
+                0x00002d6c        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d6c                _I_hex_E_0
+ .rodata._I_hex_D
+                0x00002d74        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d74                _I_hex_D
+ .rodata._I_hex_D_0
+                0x00002d78        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d78                _I_hex_D_0
+ .rodata._I_hex_C
+                0x00002d80        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d80                _I_hex_C
+ .rodata._I_hex_C_0
+                0x00002d84        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d84                _I_hex_C_0
+ .rodata._I_hex_B
+                0x00002d8c        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d8c                _I_hex_B
+ .rodata._I_hex_B_0
+                0x00002d90        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d90                _I_hex_B_0
+ .rodata._I_hex_A
+                0x00002d98        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d98                _I_hex_A
+ .rodata._I_hex_A_0
+                0x00002d9c        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002d9c                _I_hex_A_0
+ .rodata._I_hex_9
+                0x00002da4        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002da4                _I_hex_9
+ .rodata._I_hex_9_0
+                0x00002da8        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002da8                _I_hex_9_0
+ .rodata._I_hex_8
+                0x00002db0        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002db0                _I_hex_8
+ .rodata._I_hex_8_0
+                0x00002db4        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002db4                _I_hex_8_0
+ .rodata._I_hex_7
+                0x00002dbc        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002dbc                _I_hex_7
+ .rodata._I_hex_7_0
+                0x00002dc0        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002dc0                _I_hex_7_0
+ .rodata._I_hex_6
+                0x00002dc8        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002dc8                _I_hex_6
+ .rodata._I_hex_6_0
+                0x00002dcc        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002dcc                _I_hex_6_0
+ .rodata._I_hex_5
+                0x00002dd4        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002dd4                _I_hex_5
+ .rodata._I_hex_5_0
+                0x00002dd8        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002dd8                _I_hex_5_0
+ .rodata._I_hex_4
+                0x00002de0        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002de0                _I_hex_4
+ .rodata._I_hex_4_0
+                0x00002de4        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002de4                _I_hex_4_0
+ .rodata._I_hex_3
+                0x00002dec        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002dec                _I_hex_3
+ .rodata._I_hex_3_0
+                0x00002df0        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002df0                _I_hex_3_0
+ .rodata._I_hex_2
+                0x00002df8        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002df8                _I_hex_2
+ .rodata._I_hex_2_0
+                0x00002dfc        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002dfc                _I_hex_2_0
+ .rodata._I_hex_1
+                0x00002e04        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002e04                _I_hex_1
+ .rodata._I_hex_1_0
+                0x00002e08        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002e08                _I_hex_1_0
+ .rodata._I_hex_0
+                0x00002e10        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002e10                _I_hex_0
+ .rodata._I_hex_0_0
+                0x00002e14        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002e14                _I_hex_0_0
+ .rodata._I_flipper_hc11_serial_traffic
+                0x00002e1c        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002e1c                _I_flipper_hc11_serial_traffic
+ .rodata._I_flipper_hc11_serial_traffic_0
+                0x00002e20       0xcd build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002e20                _I_flipper_hc11_serial_traffic_0
+ *fill*         0x00002eed        0x3 
+ .rodata._I_disconnected
+                0x00002ef0        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002ef0                _I_disconnected
+ .rodata._I_disconnected_0
+                0x00002ef4       0x11 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002ef4                _I_disconnected_0
+ *fill*         0x00002f05        0x3 
+ .rodata._I_connected
+                0x00002f08        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002f08                _I_connected
+ .rodata._I_connected_0
+                0x00002f0c       0x11 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002f0c                _I_connected_0
+ *fill*         0x00002f1d        0x3 
+ .rodata._I_arrow_right
+                0x00002f20        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002f20                _I_arrow_right
+ .rodata._I_arrow_right_0
+                0x00002f24        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002f24                _I_arrow_right_0
+ .rodata._I_arrow_left
+                0x00002f2c        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002f2c                _I_arrow_left
+ .rodata._I_arrow_left_0
+                0x00002f30        0x8 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002f30                _I_arrow_left_0
+ .rodata._I_about_splash
+                0x00002f38        0x4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002f38                _I_about_splash
+ .rodata._I_about_splash_0
+                0x00002f3c      0x199 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+                0x00002f3c                _I_about_splash_0
+
+.data           0x000030d8      0x140
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.cc1101_regs
+                0x000030d8       0x46 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ *fill*         0x0000311e        0x2 
+ .data.config_passthru_chan_names
+                0x00003120        0x8 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x00003120                config_passthru_chan_names
+ .data.config_passthru_chan_label
+                0x00003128        0x4 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x00003128                config_passthru_chan_label
+ .data.config_mode_names
+                0x0000312c        0x8 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x0000312c                config_mode_names
+ .data.config_mode_label
+                0x00003134        0x4 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x00003134                config_mode_label
+ .data.config_txpower_names
+                0x00003138       0x20 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x00003138                config_txpower_names
+ .data.config_txpower_label
+                0x00003158        0x4 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x00003158                config_txpower_label
+ .data.config_address_names
+                0x0000315c       0x40 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x0000315c                config_address_names
+ .data.config_address_label
+                0x0000319c        0x4 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x0000319c                config_address_label
+ .data.config_channel_names
+                0x000031a0       0x50 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x000031a0                config_channel_names
+ .data.config_channel_label
+                0x000031f0        0x4 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x000031f0                config_channel_label
+ .data.submenu_item_names
+                0x000031f4        0xc build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x000031f4                submenu_item_names
+ .data.config_file
+                0x00003200        0x4 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+                0x00003200                config_file
+ .data.cdc_callbacks
+                0x00003204       0x14 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x320
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_aranges
+                0x00000030       0x38 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_aranges
+                0x00000068       0x40 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_aranges
+                0x000000a8       0x68 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_aranges
+                0x00000110       0x20 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .debug_aranges
+                0x00000130       0x18 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .debug_aranges
+                0x00000148       0x30 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_aranges
+                0x00000178       0x70 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_aranges
+                0x000001e8       0x28 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .debug_aranges
+                0x00000210       0x30 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_aranges
+                0x00000240       0x18 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .debug_aranges
+                0x00000258       0xc8 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xa3c5
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4a7 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_info    0x000004a7      0x66e build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_info    0x00000b15      0x71b build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_info    0x00001230     0x1d5c build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_info    0x00002f8c     0x10b2 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .debug_info    0x0000403e      0x3f8 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .debug_info    0x00004436      0x48f build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_info    0x000048c5     0x298c build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_info    0x00007251      0xbc2 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .debug_info    0x00007e13      0x992 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_info    0x000087a5      0x73f build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .debug_info    0x00008ee4     0x14e1 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_abbrev   0x00000000     0x1c63
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x159 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_abbrev  0x00000159      0x1f9 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_abbrev  0x00000352      0x182 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_abbrev  0x000004d4      0x501 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_abbrev  0x000009d5      0x2a7 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .debug_abbrev  0x00000c7c       0x92 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .debug_abbrev  0x00000d0e      0x1b9 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_abbrev  0x00000ec7      0x570 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_abbrev  0x00001437      0x1b9 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .debug_abbrev  0x000015f0      0x265 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_abbrev  0x00001855       0xbe build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .debug_abbrev  0x00001913      0x350 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_line     0x00000000     0x39ef
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x203 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_line.text.submenu_callback
+                0x00000203       0x5f build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_line.text.return_to_submenu_callback
+                0x00000262       0x23 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_line.text.submenu_exit_callback
+                0x00000285       0x23 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_line_end
+                0x000002a8        0x0 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_line    0x000002a8      0x1b2 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_line.text.led_off_timer_callback
+                0x0000045a       0x17 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_line.text.set_led_control
+                0x00000471       0x40 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_line.text.release_led_control
+                0x000004b1       0x28 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_line.text.start_led_flash
+                0x000004d9       0x40 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_line_end
+                0x00000519        0x0 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_line    0x00000519      0x1fa build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_line.text.config_channel_change
+                0x00000713       0x4d build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_line.text.config_address_change
+                0x00000760       0x4d build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_line.text.config_txpower_change
+                0x000007ad       0x4d build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_line.text.config_mode_change
+                0x000007fa       0x4e build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_line.text.config_passthru_chan_change
+                0x00000848       0x4e build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_line_end
+                0x00000896        0x0 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_line    0x00000896      0x400 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line.text.main_rx_thread
+                0x00000c96       0x9f build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line.text.cc1101_enable_rx.constprop.0
+                0x00000d35       0x47 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line.text.hc11_rx_tx_thread
+                0x00000d7c      0x656 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line.text.cc1101_gdo0_int_callback
+                0x000013d2       0x40 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line.text.set_raw_data_handler
+                0x00001412       0x24 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line.text.radio_tx
+                0x00001436       0x3a build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line.text.hc11_radio_comm_app_init
+                0x00001470       0x95 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line.text.start_radio
+                0x00001505       0x56 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line.text.stop_radio
+                0x0000155b       0x23 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line.text.hc11_radio_comm_app_free
+                0x0000157e       0x35 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line_end
+                0x000015b3        0x0 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_line    0x000015b3      0x374 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .debug_line.text.hc11_modem_app_entry
+                0x00001927      0x1df build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .debug_line_end
+                0x00001b06        0x0 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .debug_line    0x00001b06      0x105 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .debug_line_end
+                0x00001c0b        0x0 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .debug_line    0x00001c0b      0x1a9 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_line.text.set_backlight_control
+                0x00001db4       0x29 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_line.text.release_backlight_control
+                0x00001ddd       0x14 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_line.text.set_backlight
+                0x00001df1       0x27 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_line_end
+                0x00001e18        0x0 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_line    0x00001e18      0x4bd build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line.text.vcp_on_cdc_rx
+                0x000022d5       0x45 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line.text.raw_data_handler
+                0x0000231a       0x3a build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line.text.vcp_on_cdc_tx_complete
+                0x00002354       0x2a build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line.text.start_stop_radio
+                0x0000237e       0x4d build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line.text.vcp_on_state_change
+                0x000023cb       0x3c build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line.text.log_serial_bytes
+                0x00002407       0xf6 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line.text.vcp_rx_tx_thread
+                0x000024fd      0x204 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line.text.passthru_view_enter_callback
+                0x00002701      0x146 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line.text.passthru_view_exit_callback
+                0x00002847       0xb5 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line.text.passthru_view_draw_callback
+                0x000028fc      0x1dd build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line.text.passthru_view_input_callback
+                0x00002ad9       0xb3 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line_end
+                0x00002b8c        0x0 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_line    0x00002b8c      0x2bb build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .debug_line.text.load_configuration
+                0x00002e47      0x209 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .debug_line.text.save_configuration
+                0x00003050       0x84 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .debug_line_end
+                0x000030d4        0x0 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .debug_line    0x000030d4      0x2a0 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_line.text.about_view_enter_callback
+                0x00003374       0x31 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_line.text.about_view_draw_callback
+                0x000033a5       0x61 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_line.text.about_view_input_callback
+                0x00003406       0xaf build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_line_end
+                0x000034b5        0x0 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_line    0x000034b5      0x14c build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .debug_line_end
+                0x00003601        0x0 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .debug_line    0x00003601      0x2c5 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_spi_trx.isra.0
+                0x000038c6       0x74 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_strobe
+                0x0000393a       0x34 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_write_reg
+                0x0000396e       0x36 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_read_reg
+                0x000039a4       0x4b build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line_end
+                0x000039ef        0x0 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_frame    0x00000000      0x850
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x68 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_frame   0x00000068       0x74 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_frame   0x000000dc       0xc4 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_frame   0x000001a0      0x154 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_frame   0x000002f4       0x3c build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .debug_frame   0x00000330       0x48 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_frame   0x00000378      0x1b8 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_frame   0x00000530       0x94 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .debug_frame   0x000005c4       0x78 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_frame   0x0000063c      0x214 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_str      0x00000000     0x7b10
+ *(.debug_str)
+ .debug_str     0x00000000      0x4e4 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_str     0x000004e4      0x92a build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_str     0x00000e0e      0x5b7 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_str     0x000013c5     0x131e build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_str     0x000026e3      0xde3 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .debug_str     0x000034c6      0x41a build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .debug_str     0x000038e0      0x7d1 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_str     0x000040b1     0x16a1 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_str     0x00005752      0x8b7 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .debug_str     0x00006009      0x693 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_str     0x0000669c      0x5c4 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .debug_str     0x00006c60      0xeb0 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000       0xaa
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+
+.debug_loclists
+                0x00000000     0x19a0
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000       0xfd build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_loclists
+                0x000000fd      0x101 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_loclists
+                0x000001fe      0x13d build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_loclists
+                0x0000033b      0x638 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_loclists
+                0x00000973       0x6c build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .debug_loclists
+                0x000009df       0x88 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_loclists
+                0x00000a67      0x6aa build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_loclists
+                0x00001111      0x1fc build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .debug_loclists
+                0x0000130d      0x1ab build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_loclists
+                0x000014b8      0x4e8 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x288
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x1f build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .debug_rnglists
+                0x0000001f       0x25 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .debug_rnglists
+                0x00000044       0x2b build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .debug_rnglists
+                0x0000006f       0x5a build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .debug_rnglists
+                0x000000c9       0x38 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .debug_rnglists
+                0x00000101       0x1f build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .debug_rnglists
+                0x00000120       0x7c build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .debug_rnglists
+                0x0000019c       0x1b build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .debug_rnglists
+                0x000001b7       0x33 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .debug_rnglists
+                0x000001ea       0x9e build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/hc11_modem/submenu.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/hc11_modem/led_control.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/hc11_modem/config_view.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/hc11_modem/hc11_radio_comm.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/hc11_modem/main.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/hc11_modem/parameters.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/hc11_modem/backlight_control.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/hc11_modem/passthru_view.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/hc11_modem/config_save_restore.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/hc11_modem/about_view.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/hc11_modem/hc11_modem_icons.o
+ .ARM.attributes
+                0x0000023c       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000025e       0x34 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/hc11_modem_d.elf elf32-littlearm)
+LOAD linker stubs

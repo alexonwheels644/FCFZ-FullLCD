@@ -1,0 +1,2061 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+                              build/f7-firmware-C/.extapps/flip_social/loading/loading.o (cosf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o) (__kernel_cosf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+                              build/f7-firmware-C/.extapps/flip_social/loading/loading.o (sinf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o) (__kernel_sinf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o) (__ieee754_rem_pio2f)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o) (fabsf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o) (__kernel_rem_pio2f)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o) (scalbnf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o) (floorf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+                              build/f7-firmware-C/.extapps/flip_social/run/run.o (operator delete(void*, unsigned int))
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_opv.o)
+                              build/f7-firmware-C/.extapps/flip_social/settings/settings.o (operator delete[](void*))
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_op.o)
+                              build/f7-firmware-C/.extapps/flip_social/run/run.o (operator new(unsigned int))
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+                              build/f7-firmware-C/.extapps/flip_social/run/run.o (std::__throw_bad_alloc())
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o) (operator delete(void*))
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_handler.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_op.o) (std::get_new_handler())
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .text.easy_flipper_callback_exit_app
+                0x00000000       0x20 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_view.str1.1
+                0x00000000       0x3f build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .text.easy_flipper_set_view
+                0x00000000       0xa0 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_menu.str1.1
+                0x00000000       0x3f build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .text.easy_flipper_set_menu
+                0x00000000       0x6c build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_uart_text_input.str1.1
+                0x00000000       0x54 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .text.easy_flipper_set_uart_text_input
+                0x00000000       0xb0 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_dialog_ex.str1.1
+                0x00000000       0x48 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .text.easy_flipper_set_dialog_ex
+                0x00000000      0x114 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_popup.str1.1
+                0x00000000       0x41 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .text.easy_flipper_set_popup
+                0x00000000       0xdc build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_loading.str1.1
+                0x00000000       0x45 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .text.easy_flipper_set_loading
+                0x00000000       0x6c build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_char_to_furi_string.str1.1
+                0x00000000       0x38 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .text.easy_flipper_set_char_to_furi_string
+                0x00000000       0x3c build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_callback_exit_app
+                0x00000000       0x27 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_view
+                0x00000000       0x85 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_menu
+                0x00000000       0x60 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_uart_text_input
+                0x00000000       0x84 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_dialog_ex
+                0x00000000       0xad build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_popup
+                0x00000000       0x8c build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_loading
+                0x00000000       0x60 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_char_to_furi_string
+                0x00000000       0x4b build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_load_from_file_with_limit.str1.1
+                0x00000000       0x39 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.flipper_http_load_from_file_with_limit
+                0x00000000      0x190 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_process_response_async.str1.1
+                0x00000000       0x33 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.flipper_http_process_response_async
+                0x00000000       0x80 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_loading_task.str1.1
+                0x00000000       0x32 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.flipper_http_loading_task
+                0x00000000       0xd0 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_parse_json.str1.1
+                0x00000000       0x7a build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.flipper_http_parse_json
+                0x00000000       0x68 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_parse_json_array.str1.1
+                0x00000000       0x97 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.flipper_http_parse_json_array
+                0x00000000       0x6c build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_websocket_start.str1.1
+                0x00000000       0xa5 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.flipper_http_websocket_start
+                0x00000000       0x6c build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_websocket_stop.str1.1
+                0x00000000        0xe build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.flipper_http_websocket_stop
+                0x00000000       0x34 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_load_from_file_with_limit
+                0x00000000      0x120 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_process_response_async
+                0x00000000       0x87 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_loading_task
+                0x00000000       0x8a build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_parse_json
+                0x00000000       0x64 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_parse_json_array
+                0x00000000       0x6b build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_websocket_start
+                0x00000000       0x6b build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_websocket_stop
+                0x00000000       0x34 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .text.canvas_draw_str_multi
+                0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .debug_line.text.canvas_draw_str_multi
+                0x00000000       0x30 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .text.jsmn_init
+                0x00000000        0xe build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .rodata.get_json.str1.1
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .text.get_json
+                0x00000000       0x40 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .rodata.get_json_array_values.str1.1
+                0x00000000       0x8d build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .text.get_json_array_values
+                0x00000000      0x1f8 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_line.text.jsmn_init
+                0x00000000       0x27 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_line.text.get_json
+                0x00000000       0x49 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_line.text.get_json_array_values
+                0x00000000      0x22f build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .text.skip_token
+                0x00000000       0x62 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .text.jsmn_init_furi
+                0x00000000        0xe build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .rodata.get_json_furi.str1.1
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .text.get_json_furi
+                0x00000000       0x38 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .rodata.get_json_array_value_furi.str1.1
+                0x00000000       0x86 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .text.get_json_array_value_furi
+                0x00000000      0x138 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .rodata.get_json_array_values_furi.str1.1
+                0x00000000       0x88 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .text.get_json_array_values_furi
+                0x00000000      0x18c build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_line.text.skip_token
+                0x00000000       0xef build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_line.text.jsmn_init_furi
+                0x00000000       0x27 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_line.text.get_json_furi
+                0x00000000       0x34 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_line.text.get_json_array_value_furi
+                0x00000000      0x145 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_line.text.get_json_array_values_furi
+                0x00000000      0x1a9 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .rodata._ZN8Keyboard11getModeNameEv.str1.1
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .text._ZN8Keyboard11getModeNameEv
+                0x00000000       0x30 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .text._ZNK8Keyboard13getTextLengthEv
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .text._ZN8Keyboard5resetEv
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .text._ZN8Keyboard9resetTextEv
+                0x00000000        0x6 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard11getModeNameEv
+                0x00000000       0x2a build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZNK8Keyboard13getTextLengthEv
+                0x00000000       0x1b build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard5resetEv
+                0x00000000       0x34 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard9resetTextEv
+                0x00000000       0x12 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.get_row_size
+                0x00000000       0x10 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_timer_callback
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_backspace_cb
+                0x00000000       0x28 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.char_to_uppercase
+                0x00000000       0x5e build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .rodata.uart_text_input_view_draw_callback.str1.1
+                0x00000000       0x1e build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_view_draw_callback
+                0x00000000      0x2d0 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_handle_right.constprop.0
+                0x00000000       0x20 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_handle_left.constprop.0
+                0x00000000       0x20 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_handle_down.constprop.0
+                0x00000000       0x28 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_handle_up.constprop.0
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_handle_ok
+                0x00000000      0x13c build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_view_input_callback
+                0x00000000       0xe0 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_free
+                0x00000000       0x50 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .rodata.uart_text_input_reset.str1.1
+                0x00000000        0x1 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_reset
+                0x00000000       0x48 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_alloc
+                0x00000000       0x94 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_get_view
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_set_result_callback
+                0x00000000       0x48 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_set_validator
+                0x00000000       0x28 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_get_validator_callback
+                0x00000000       0x20 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_get_validator_callback_context
+                0x00000000       0x20 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text.uart_text_input_set_header_text
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .rodata.CSWTCH.5
+                0x00000000       0x10 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .rodata.CSWTCH.3
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .rodata.keyboard_keys_row_4
+                0x00000000       0x2a build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .rodata.keyboard_keys_row_3
+                0x00000000       0x2d build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .rodata.keyboard_keys_row_2
+                0x00000000       0x30 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .rodata.keyboard_keys_row_1
+                0x00000000       0x30 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_info    0x00000000     0x19a6 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_abbrev  0x00000000      0x440 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_loclists
+                0x00000000      0x8ca build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_aranges
+                0x00000000       0xb8 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_rnglists
+                0x00000000      0x190 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line    0x00000000      0x30e build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_str     0x00000000      0xd40 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.get_row_size
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_timer_callback
+                0x00000000       0x34 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_backspace_cb
+                0x00000000       0x52 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.char_to_uppercase
+                0x00000000       0x7c build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_view_draw_callback
+                0x00000000      0x211 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_handle_right.constprop.0
+                0x00000000       0x36 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_handle_left.constprop.0
+                0x00000000       0x42 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_handle_down.constprop.0
+                0x00000000       0x4e build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_handle_up.constprop.0
+                0x00000000       0x4b build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_handle_ok
+                0x00000000      0x182 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_view_input_callback
+                0x00000000       0xb3 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_free
+                0x00000000       0x3f build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_reset
+                0x00000000       0x44 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_alloc
+                0x00000000       0x58 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_get_view
+                0x00000000       0x1e build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_set_result_callback
+                0x00000000       0x62 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_set_validator
+                0x00000000       0x38 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_get_validator_callback
+                0x00000000       0x31 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_get_validator_callback_context
+                0x00000000       0x31 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line.text.uart_text_input_set_header_text
+                0x00000000       0x36 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .debug_frame   0x00000000      0x260 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/app.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/app.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata._ZN13FlipSocialApp11httpRequestEPKc10HTTPMethodS1_S1_.str1.1
+                0x00000000       0x89 build/f7-firmware-C/.extapps/flip_social/app.o
+ .text._ZN13FlipSocialApp11httpRequestEPKc10HTTPMethodS1_S1_
+                0x00000000       0xa0 build/f7-firmware-C/.extapps/flip_social/app.o
+ .text._ZN13FlipSocialApp12setHttpStateE9HTTPState
+                0x00000000        0xa build/f7-firmware-C/.extapps/flip_social/app.o
+ .text._ZN13FlipSocialApp20settingsItemSelectedEm
+                0x00000000       0x10 build/f7-firmware-C/.extapps/flip_social/app.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp11httpRequestEPKc10HTTPMethodS1_S1_
+                0x00000000       0x8c build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp12setHttpStateE9HTTPState
+                0x00000000       0x2f build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp20settingsItemSelectedEm
+                0x00000000       0x3f build/f7-firmware-C/.extapps/flip_social/app.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_icon_menu_128x64px
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_flip_social_register
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_flip_social_post_2
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_flip_social_post_1
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_flip_social_main_menu
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_flip_social_logged_out_menu
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_flip_social_enter_message
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_KeySave_24x11
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_KeySaveSelected_24x11
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_KeyBackspace_16x9
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_KeyBackspaceSelected_16x9
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata.I_ButtonBACK_10x8
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_icon_menu_128x64px
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_icon_menu_128x64px_0
+                0x00000000       0x8a build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_register
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_register_0
+                0x00000000     0x2fc4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_post_2
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_post_2_0
+                0x00000000     0x3bda build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_post_1
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_post_1_0
+                0x00000000     0x3c00 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_main_menu
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_main_menu_0
+                0x00000000     0x291b build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_logged_out_menu
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_logged_out_menu_0
+                0x00000000     0x2adc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_enter_message
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_flip_social_enter_message_0
+                0x00000000     0x38f0 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_KeySave_24x11
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_KeySave_24x11_0
+                0x00000000       0x22 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_KeySaveSelected_24x11
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_KeySaveSelected_24x11_0
+                0x00000000       0x1e build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_KeyBackspace_16x9
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_KeyBackspace_16x9_0
+                0x00000000       0x13 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_KeyBackspaceSelected_16x9
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_KeyBackspaceSelected_16x9_0
+                0x00000000       0x13 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_ButtonBACK_10x8
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .rodata._I_ButtonBACK_10x8_0
+                0x00000000       0x11 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_opv.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_opv.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_opv.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_op.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_op.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_op.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text.unlikely._ZSt21__throw_bad_exceptionv
+                0x00000000        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text.unlikely._ZSt16__throw_bad_castv
+                0x00000000        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text.unlikely._ZSt18__throw_bad_typeidv
+                0x00000000        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text.unlikely._ZSt20__throw_domain_errorPKc
+                0x00000000        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text.unlikely._ZSt24__throw_invalid_argumentPKc
+                0x00000000        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text.unlikely._ZSt20__throw_out_of_rangePKc
+                0x00000000        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text.unlikely._ZSt24__throw_out_of_range_fmtPKcz
+                0x00000000        0x8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text.unlikely._ZSt21__throw_runtime_errorPKc
+                0x00000000        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text.unlikely._ZSt19__throw_range_errorPKc
+                0x00000000        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text.unlikely._ZSt22__throw_overflow_errorPKc
+                0x00000000        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text.unlikely._ZSt23__throw_underflow_errorPKc
+                0x00000000        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_handler.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_handler.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_handler.o)
+ .text._ZSt15set_new_handlerPFvvE
+                0x00000000       0x20 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_handler.o)
+ .rodata._ZSt7nothrow
+                0x00000000        0x1 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_handler.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/flip_social/about/about.o
+LOAD build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+LOAD build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+LOAD build/f7-firmware-C/.extapps/flip_social/font/font.o
+LOAD build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+LOAD build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+LOAD build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+LOAD build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+LOAD build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+LOAD build/f7-firmware-C/.extapps/flip_social/run/run.o
+LOAD build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+LOAD build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+LOAD build/f7-firmware-C/.extapps/flip_social/update/update.o
+LOAD build/f7-firmware-C/.extapps/flip_social/app.o
+LOAD build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000     0x86b0
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text._ZN15FlipSocialAbout17callbackToSubmenuEPv
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flip_social/about/about.o
+                0x00000000                FlipSocialAbout::callbackToSubmenu(void*)
+ .text._ZN15FlipSocialAboutC2EPP14ViewDispatcher
+                0x00000004       0x28 build/f7-firmware-C/.extapps/flip_social/about/about.o
+                0x00000004                FlipSocialAbout::FlipSocialAbout(ViewDispatcher**)
+                0x00000004                FlipSocialAbout::FlipSocialAbout(ViewDispatcher**)
+ .text._ZN15FlipSocialAboutD2Ev
+                0x0000002c       0x28 build/f7-firmware-C/.extapps/flip_social/about/about.o
+                0x0000002c                FlipSocialAbout::~FlipSocialAbout()
+                0x0000002c                FlipSocialAbout::~FlipSocialAbout()
+ .text.easy_flipper_dialog
+                0x00000054       0x78 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+                0x00000054                easy_flipper_dialog
+ .text.easy_flipper_set_buffer
+                0x000000cc       0x40 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+                0x000000cc                easy_flipper_set_buffer
+ .text.easy_flipper_set_view_dispatcher
+                0x0000010c       0x58 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+                0x0000010c                easy_flipper_set_view_dispatcher
+ .text.easy_flipper_set_submenu
+                0x00000164       0x78 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+                0x00000164                easy_flipper_set_submenu
+ .text.easy_flipper_set_widget
+                0x000001dc       0x84 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+                0x000001dc                easy_flipper_set_widget
+ .text.easy_flipper_set_variable_item_list
+                0x00000260       0x78 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+                0x00000260                easy_flipper_set_variable_item_list
+ .text.easy_flipper_set_text_input
+                0x000002d8       0xb0 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+                0x000002d8                easy_flipper_set_text_input
+ .text._flipper_http_rx_callback
+                0x00000388       0x58 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.set_header.constprop.0
+                0x000003e0      0x11c build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.get_timeout_timer_callback
+                0x000004fc       0x38 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.flipper_http_alloc
+                0x00000534      0x214 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+                0x00000534                flipper_http_alloc
+ .text.flipper_http_free
+                0x00000748       0xa4 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+                0x00000748                flipper_http_free
+ .text.flipper_http_append_to_file
+                0x000007ec       0xec build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+                0x000007ec                flipper_http_append_to_file
+ .text.flipper_http_rx_callback
+                0x000008d8      0x46c build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.flipper_http_worker
+                0x00000d44      0x104 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .text.flipper_http_load_from_file
+                0x00000e48      0x154 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+                0x00000e48                flipper_http_load_from_file
+ .text.flipper_http_send_data
+                0x00000f9c       0xb8 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+                0x00000f9c                flipper_http_send_data
+ .text.flipper_http_request
+                0x00001054      0x13c build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+                0x00001054                flipper_http_request
+ .text.flipper_http_save_wifi
+                0x00001190       0x64 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+                0x00001190                flipper_http_save_wifi
+ .text.flipper_http_send_command
+                0x000011f4       0x90 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+                0x000011f4                flipper_http_send_command
+ .text.canvas_set_font_custom
+                0x00001284       0x38 build/f7-firmware-C/.extapps/flip_social/font/font.o
+                0x00001284                canvas_set_font_custom
+ .text.skip_token
+                0x000012bc       0x62 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ *fill*         0x0000131e        0x2 
+ .text.jsmn_parse
+                0x00001320      0x314 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+                0x00001320                jsmn_parse
+ .text.jsoneq   0x00001634       0x40 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+                0x00001634                jsoneq
+ .text.json_token_count
+                0x00001674       0x38 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+                0x00001674                json_token_count
+ .text.get_json_value
+                0x000016ac      0x154 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+                0x000016ac                get_json_value
+ .text.get_json_array_value
+                0x00001800      0x164 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+                0x00001800                get_json_array_value
+ .text.jsmn_parse_furi
+                0x00001964      0x32c build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+                0x00001964                jsmn_parse_furi
+ .text.json_token_count_furi
+                0x00001c90       0x28 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+                0x00001c90                json_token_count_furi
+ .text.get_json_value_furi
+                0x00001cb8      0x194 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+                0x00001cb8                get_json_value_furi
+ .text.char_to_furi_string
+                0x00001e4c       0x3c build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+                0x00001e4c                char_to_furi_string
+ .text.jsmn_memory_check
+                0x00001e88       0x1c build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+                0x00001e88                jsmn_memory_check
+ .text._ZN7LoadingC2EP6Canvas
+                0x00001ea4       0x18 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+                0x00001ea4                Loading::Loading(Canvas*)
+                0x00001ea4                Loading::Loading(Canvas*)
+ .text._ZN7Loading4stopEv
+                0x00001ebc        0xa build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+                0x00001ebc                Loading::stop()
+ *fill*         0x00001ec6        0x2 
+ .text._ZN7Loading11drawSpinnerEv
+                0x00001ec8      0x168 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+                0x00001ec8                Loading::drawSpinner()
+ .text._ZN7Loading7animateEv
+                0x00002030       0x80 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+                0x00002030                Loading::animate()
+ .text._ZN8KeyboardC2Ev
+                0x000020b0        0xe build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000020b0                Keyboard::Keyboard()
+                0x000020b0                Keyboard::Keyboard()
+ .text._ZN8KeyboardD2Ev
+                0x000020be        0x2 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000020be                Keyboard::~Keyboard()
+                0x000020be                Keyboard::~Keyboard()
+ .text._ZN8Keyboard9clearTextEv
+                0x000020c0        0x6 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000020c0                Keyboard::clearText()
+ *fill*         0x000020c6        0x2 
+ .text._ZN8Keyboard18getCurrentKeyboardEv
+                0x000020c8       0x24 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000020c8                Keyboard::getCurrentKeyboard()
+ .text._ZN8Keyboard26clampCursorToValidPositionEv
+                0x000020ec       0x38 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000020ec                Keyboard::clampCursorToValidPosition()
+ .text._ZN8Keyboard4drawEP6CanvasPKcS3_
+                0x00002124      0x280 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x00002124                Keyboard::draw(Canvas*, char const*, char const*)
+ .text._ZN8Keyboard4drawEP6CanvasPKc
+                0x000023a4       0x14 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000023a4                Keyboard::draw(Canvas*, char const*)
+ .text._ZN8Keyboard15getStringLengthEPKcj
+                0x000023b8       0x12 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000023b8                Keyboard::getStringLength(char const*, unsigned int)
+ .text._ZNK8Keyboard7getTextEv
+                0x000023ca        0x4 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000023ca                Keyboard::getText() const
+ *fill*         0x000023ce        0x2 
+ .text._ZN8Keyboard11handleInputEhPcj
+                0x000023d0      0x18c build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000023d0                Keyboard::handleInput(unsigned char, char*, unsigned int)
+ .text._ZN8Keyboard11handleInputEh
+                0x0000255c       0x18 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x0000255c                Keyboard::handleInput(unsigned char)
+ .text._ZN8Keyboard7setTextEPKc
+                0x00002574       0x20 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x00002574                Keyboard::setText(char const*)
+ .text._ZN13FlipSocialRun15drawFeedMessageEP6CanvasPKcii.part.0
+                0x00002594      0x15c build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .text._ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE11_M_allocateEj.isra.0
+                0x000026f0       0x3c build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .text._ZNSt12_Vector_baseIPKcSaIS1_EE11_M_allocateEj.isra.0
+                0x0000272c       0x30 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .text._ZNSt15__uniq_ptr_implI7LoadingSt14default_deleteIS0_EEaSEOS3_.isra.0
+                0x0000275c       0x1c build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .text._ZNK13FlipSocialApp12getHttpStateEv.isra.0
+                0x00002778        0x6 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ *fill*         0x0000277e        0x2 
+ .text._ZNSt6vectorIPKcSaIS1_EE12emplace_backIJS1_EEERS1_DpOT_.isra.0
+                0x00002780       0x9c build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .text._ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EED1Ev.isra.0
+                0x0000281c       0x34 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .text._ZN13FlipSocialRunC2EPv
+                0x00002850       0x98 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00002850                FlipSocialRun::FlipSocialRun(void*)
+                0x00002850                FlipSocialRun::FlipSocialRun(void*)
+ .text._ZN13FlipSocialRun13debounceInputEv
+                0x000028e8       0x2c build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x000028e8                FlipSocialRun::debounceInput()
+ .text._ZN13FlipSocialRun15drawFeedMessageEP6CanvasPKcii
+                0x00002914       0x34 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00002914                FlipSocialRun::drawFeedMessage(Canvas*, char const*, int, int)
+ .text._ZN13FlipSocialRun12drawFeedItemEP6CanvasPcS2_S2_S2_S2_
+                0x00002948      0x114 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00002948                FlipSocialRun::drawFeedItem(Canvas*, char*, char*, char*, char*, char*)
+ .text._ZN13FlipSocialRun8drawMenuEP6CanvashPPKch
+                0x00002a5c      0x2f4 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00002a5c                FlipSocialRun::drawMenu(Canvas*, unsigned char, char const**, unsigned char)
+ .text._ZN13FlipSocialRun16drawMainMenuViewEP6Canvas
+                0x00002d50       0x30 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00002d50                FlipSocialRun::drawMainMenuView(Canvas*)
+ .text._ZN13FlipSocialRun14drawWrappedBioEP6CanvasPKchh
+                0x00002d80      0x10c build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00002d80                FlipSocialRun::drawWrappedBio(Canvas*, char const*, unsigned char, unsigned char)
+ .text._ZN13FlipSocialRun15drawProfileViewEP6Canvas
+                0x00002e8c      0x2b8 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00002e8c                FlipSocialRun::drawProfileView(Canvas*)
+ .text._ZN13FlipSocialRun14getMessageUserEPcj
+                0x00003144       0xd0 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00003144                FlipSocialRun::getMessageUser(char*, unsigned int)
+ .text._ZN13FlipSocialRun15getSelectedPostEPcj
+                0x00003214      0x104 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00003214                FlipSocialRun::getSelectedPost(char*, unsigned int)
+ .text._ZN13FlipSocialRun21httpRequestIsFinishedEv
+                0x00003318       0x38 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00003318                FlipSocialRun::httpRequestIsFinished()
+ .text._ZN13FlipSocialRun11userRequestE11RequestType
+                0x00003350      0x9ac build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00003350                FlipSocialRun::userRequest(RequestType)
+ .text._ZN13FlipSocialRunD2Ev
+                0x00003cfc       0x20 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00003cfc                FlipSocialRun::~FlipSocialRun()
+                0x00003cfc                FlipSocialRun::~FlipSocialRun()
+ .text._ZN13FlipSocialRun12drawFeedViewEP6Canvas
+                0x00003d1c      0x36c build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00003d1c                FlipSocialRun::drawFeedView(Canvas*)
+ .text._ZN13FlipSocialRun13drawLoginViewEP6Canvas
+                0x00004088      0x1ec build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00004088                FlipSocialRun::drawLoginView(Canvas*)
+ .text._ZN13FlipSocialRun20drawRegistrationViewEP6Canvas
+                0x00004274      0x190 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00004274                FlipSocialRun::drawRegistrationView(Canvas*)
+ .text._ZN13FlipSocialRun16drawUserInfoViewEP6Canvas
+                0x00004404      0x21c build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00004404                FlipSocialRun::drawUserInfoView(Canvas*)
+ .text._ZN13FlipSocialRun16drawCommentsViewEP6Canvas
+                0x00004620      0x584 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00004620                FlipSocialRun::drawCommentsView(Canvas*)
+ .text._ZN13FlipSocialRun16drawMessagesViewEP6Canvas
+                0x00004ba4      0x4b8 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00004ba4                FlipSocialRun::drawMessagesView(Canvas*)
+ .text._ZN13FlipSocialRun11updateInputEP10InputEvent
+                0x0000505c      0x5d4 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x0000505c                FlipSocialRun::updateInput(InputEvent*)
+ .text._ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12emplace_backIJS5_EEERS5_DpOT_.isra.0
+                0x00005630       0x90 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag.isra.0
+                0x000056c0       0x50 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .text._ZN13FlipSocialRun20drawMessageUsersViewEP6Canvas
+                0x00005710      0x2e4 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00005710                FlipSocialRun::drawMessageUsersView(Canvas*)
+ .text._ZN13FlipSocialRun15drawExploreViewEP6Canvas
+                0x000059f4      0x42c build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x000059f4                FlipSocialRun::drawExploreView(Canvas*)
+ .text._ZN13FlipSocialRun12drawPostViewEP6Canvas
+                0x00005e20      0x468 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00005e20                FlipSocialRun::drawPostView(Canvas*)
+ .text._ZN13FlipSocialRun10updateDrawEP6Canvas
+                0x00006288       0xcc build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00006288                FlipSocialRun::updateDraw(Canvas*)
+ .text._ZN18FlipSocialSettings18callbackToSettingsEPv
+                0x00006354        0x4 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x00006354                FlipSocialSettings::callbackToSettings(void*)
+ .text._ZN18FlipSocialSettings17callbackToSubmenuEPv
+                0x00006358        0x4 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x00006358                FlipSocialSettings::callbackToSubmenu(void*)
+ .text._ZN18FlipSocialSettingsC2EPP14ViewDispatcherPv
+                0x0000635c      0x12c build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x0000635c                FlipSocialSettings::FlipSocialSettings(ViewDispatcher**, void*)
+                0x0000635c                FlipSocialSettings::FlipSocialSettings(ViewDispatcher**, void*)
+ .text._ZN18FlipSocialSettings13freeTextInputEv
+                0x00006488       0x4c build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x00006488                FlipSocialSettings::freeTextInput()
+ .text._ZN18FlipSocialSettings13initTextInputEm
+                0x000064d4      0x1ac build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x000064d4                FlipSocialSettings::initTextInput(unsigned long)
+ .text._ZN18FlipSocialSettings14startTextInputEm
+                0x00006680       0x60 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x00006680                FlipSocialSettings::startTextInput(unsigned long)
+ .text._ZN18FlipSocialSettings20settingsItemSelectedEm
+                0x000066e0       0x88 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x000066e0                FlipSocialSettings::settingsItemSelected(unsigned long)
+ .text._ZN18FlipSocialSettings28settingsItemSelectedCallbackEPvm
+                0x00006768        0x8 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x00006768                FlipSocialSettings::settingsItemSelectedCallback(void*, unsigned long)
+ .text._ZN18FlipSocialSettings11textUpdatedEm
+                0x00006770       0xa4 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x00006770                FlipSocialSettings::textUpdated(unsigned long)
+ .text._ZN18FlipSocialSettings23textUpdatedSsidCallbackEPv
+                0x00006814        0xc build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x00006814                FlipSocialSettings::textUpdatedSsidCallback(void*)
+ .text._ZN18FlipSocialSettings23textUpdatedPassCallbackEPv
+                0x00006820        0xc build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x00006820                FlipSocialSettings::textUpdatedPassCallback(void*)
+ .text._ZN18FlipSocialSettings27textUpdatedUserNameCallbackEPv
+                0x0000682c        0xc build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x0000682c                FlipSocialSettings::textUpdatedUserNameCallback(void*)
+ .text._ZN18FlipSocialSettings27textUpdatedUserPassCallbackEPv
+                0x00006838        0xc build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x00006838                FlipSocialSettings::textUpdatedUserPassCallback(void*)
+ .text._ZN18FlipSocialSettingsD2Ev
+                0x00006844       0x4c build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x00006844                FlipSocialSettings::~FlipSocialSettings()
+                0x00006844                FlipSocialSettings::~FlipSocialSettings()
+ .text.update_load_char
+                0x00006890       0xcc build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .text.update_datetime_to_json
+                0x0000695c       0x40 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .text.update_last_app_update
+                0x0000699c      0x10c build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .text.update_get_fap_file
+                0x00006aa8       0xc4 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .text.update_save_char.isra.0
+                0x00006b6c       0xfc build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .text.update_is_update_time
+                0x00006c68      0x1ec build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .text.update_update_app
+                0x00006e54      0x264 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .text.update_save_rtc_time
+                0x000070b8       0x50 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .text.update_is_ready
+                0x00007108       0x98 build/f7-firmware-C/.extapps/flip_social/update/update.o
+                0x00007108                update_is_ready
+ .text._ZN13FlipSocialApp15callbackExitAppEPv
+                0x000071a0        0x6 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x000071a0                FlipSocialApp::callbackExitApp(void*)
+ *fill*         0x000071a6        0x2 
+ .text._ZN13FlipSocialApp13viewPortInputEP10InputEventPv
+                0x000071a8       0x2c build/f7-firmware-C/.extapps/flip_social/app.o
+                0x000071a8                FlipSocialApp::viewPortInput(InputEvent*, void*)
+ .text._ZN13FlipSocialApp12viewPortDrawEP6CanvasPv
+                0x000071d4       0x2c build/f7-firmware-C/.extapps/flip_social/app.o
+                0x000071d4                FlipSocialApp::viewPortDraw(Canvas*, void*)
+ .text._ZN13FlipSocialApp17createAppDataPathEv
+                0x00007200       0x68 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00007200                FlipSocialApp::createAppDataPath()
+ .text._ZN13FlipSocialAppC2Ev
+                0x00007268       0xe4 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00007268                FlipSocialApp::FlipSocialApp()
+                0x00007268                FlipSocialApp::FlipSocialApp()
+ .text._ZN13FlipSocialApp16httpRequestAsyncEPKcS1_10HTTPMethodS1_S1_
+                0x0000734c       0x74 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x0000734c                FlipSocialApp::httpRequestAsync(char const*, char const*, HTTPMethod, char const*, char const*)
+ .text._ZN13FlipSocialApp16isBoardConnectedEv
+                0x000073c0       0x70 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x000073c0                FlipSocialApp::isBoardConnected()
+ .text._ZN13FlipSocialApp8loadCharEPKcPcj
+                0x00007430       0xc0 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00007430                FlipSocialApp::loadChar(char const*, char*, unsigned int)
+ .text._ZN13FlipSocialApp18hasWiFiCredentialsEv
+                0x000074f0       0x68 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x000074f0                FlipSocialApp::hasWiFiCredentials()
+ .text._ZN13FlipSocialApp18hasUserCredentialsEv
+                0x00007558       0x68 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00007558                FlipSocialApp::hasUserCredentials()
+ .text._ZN13FlipSocialApp13loadFileChunkEPKcPcjh
+                0x000075c0      0x144 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x000075c0                FlipSocialApp::loadFileChunk(char const*, char*, unsigned int, unsigned char)
+ .text._ZN13FlipSocialApp13runDispatcherEv
+                0x00007704        0xc build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00007704                FlipSocialApp::runDispatcher()
+ .text._ZN13FlipSocialApp8saveCharEPKcS1_
+                0x00007710       0x8c build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00007710                FlipSocialApp::saveChar(char const*, char const*)
+ .text._ZN13FlipSocialApp19sendWiFiCredentialsEPKcS1_
+                0x0000779c       0x38 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x0000779c                FlipSocialApp::sendWiFiCredentials(char const*, char const*)
+ .text._ZN13FlipSocialApp9updateAppEv
+                0x000077d4       0x3c build/f7-firmware-C/.extapps/flip_social/app.o
+                0x000077d4                FlipSocialApp::updateApp()
+ .text._ZN13FlipSocialApp13timerCallbackEPv
+                0x00007810       0x74 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00007810                FlipSocialApp::timerCallback(void*)
+ .text._ZN13FlipSocialAppD2Ev
+                0x00007884       0xdc build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00007884                FlipSocialApp::~FlipSocialApp()
+                0x00007884                FlipSocialApp::~FlipSocialApp()
+ .text.main_flip_social
+                0x00007960       0x4c build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00007960                main_flip_social
+ .text._ZN13FlipSocialApp22callbackSubmenuChoicesEm
+                0x000079ac      0x190 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x000079ac                FlipSocialApp::callbackSubmenuChoices(unsigned long)
+ .text._ZN13FlipSocialApp22submenuChoicesCallbackEPvm
+                0x00007b3c        0x8 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00007b3c                FlipSocialApp::submenuChoicesCallback(void*, unsigned long)
+ .text.cosf     0x00007b44       0x88 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+                0x00007b44                cosf
+ .text.__kernel_cosf
+                0x00007bcc       0xb0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+                0x00007bcc                __kernel_cosf
+ .text.sinf     0x00007c7c       0x8c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+                0x00007c7c                sinf
+ .text.__kernel_sinf
+                0x00007d08       0x90 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+                0x00007d08                __kernel_sinf
+ .text.__ieee754_rem_pio2f
+                0x00007d98      0x260 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+                0x00007d98                __ieee754_rem_pio2f
+ .text.fabsf    0x00007ff8        0xe c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+                0x00007ff8                fabsf
+ *fill*         0x00008006        0x2 
+ .text.__kernel_rem_pio2f
+                0x00008008      0x4fc c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+                0x00008008                __kernel_rem_pio2f
+ .text.scalbnf  0x00008504       0xcc c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+                0x00008504                scalbnf
+ .text.floorf   0x000085d0       0x88 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+                0x000085d0                floorf
+ .text._ZdlPvj  0x00008658        0x4 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+                0x00008658                operator delete(void*, unsigned int)
+ .text._ZdaPv   0x0000865c        0x4 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_opv.o)
+                0x0000865c                operator delete[](void*)
+ .text._Znwj    0x00008660       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_op.o)
+                0x00008660                operator new(unsigned int)
+ .text.unlikely._ZSt17__throw_bad_allocv
+                0x00008682        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+                0x00008682                std::__throw_bad_alloc()
+ .text.unlikely._ZSt28__throw_bad_array_new_lengthv
+                0x00008688        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+                0x00008688                std::__throw_bad_array_new_length()
+ .text.unlikely._ZSt19__throw_logic_errorPKc
+                0x0000868e        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+                0x0000868e                std::__throw_logic_error(char const*)
+ .text.unlikely._ZSt20__throw_length_errorPKc
+                0x00008694        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+                0x00008694                std::__throw_length_error(char const*)
+ .text._ZdlPv   0x0000869a        0x4 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+                0x0000869a                operator delete(void*)
+ *fill*         0x0000869e        0x2 
+ .text._ZSt15get_new_handlerv
+                0x000086a0       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_handler.o)
+                0x000086a0                std::get_new_handler()
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv
+                0x00000000       0x1c
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv
+                0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_dispose()
+
+.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2EOS4_
+                0x00000000       0x3c
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2EOS4_
+                0x00000000       0x3c build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&&)
+                0x00000000                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&&)
+
+.text._ZNSt10unique_ptrI8KeyboardSt14default_deleteIS0_EED2Ev
+                0x00000000       0x24
+ .text._ZNSt10unique_ptrI8KeyboardSt14default_deleteIS0_EED2Ev
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::unique_ptr<Keyboard, std::default_delete<Keyboard> >::~unique_ptr()
+                0x00000000                std::unique_ptr<Keyboard, std::default_delete<Keyboard> >::~unique_ptr()
+
+.text._ZNSt10unique_ptrI7LoadingSt14default_deleteIS0_EED2Ev
+                0x00000000       0x18
+ .text._ZNSt10unique_ptrI7LoadingSt14default_deleteIS0_EED2Ev
+                0x00000000       0x18 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::unique_ptr<Loading, std::default_delete<Loading> >::~unique_ptr()
+                0x00000000                std::unique_ptr<Loading, std::default_delete<Loading> >::~unique_ptr()
+
+.text._ZSt11make_uniqueI7LoadingJRP6CanvasEENSt8__detail9_MakeUniqIT_E15__single_objectEDpOT0_
+                0x00000000       0x24
+ .text._ZSt11make_uniqueI7LoadingJRP6CanvasEENSt8__detail9_MakeUniqIT_E15__single_objectEDpOT0_
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::__detail::_MakeUniq<Loading>::__single_object std::make_unique<Loading, Canvas*&>(Canvas*&)
+
+.text._ZSt11make_uniqueI8KeyboardJEENSt8__detail9_MakeUniqIT_E15__single_objectEDpOT0_
+                0x00000000       0x20
+ .text._ZSt11make_uniqueI8KeyboardJEENSt8__detail9_MakeUniqIT_E15__single_objectEDpOT0_
+                0x00000000       0x20 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::__detail::_MakeUniq<Keyboard>::__single_object std::make_unique<Keyboard>()
+
+.text._ZNSt12_Vector_baseIPKcSaIS1_EED2Ev
+                0x00000000       0x18
+ .text._ZNSt12_Vector_baseIPKcSaIS1_EED2Ev
+                0x00000000       0x18 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::_Vector_base<char const*, std::allocator<char const*> >::~_Vector_base()
+                0x00000000                std::_Vector_base<char const*, std::allocator<char const*> >::~_Vector_base()
+
+.text._ZNSt6vectorIPKcSaIS1_EE7reserveEj
+                0x00000000       0x74
+ .text._ZNSt6vectorIPKcSaIS1_EE7reserveEj
+                0x00000000       0x74 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::vector<char const*, std::allocator<char const*> >::reserve(unsigned int)
+
+.text._ZNSt15__uniq_ptr_implI8KeyboardSt14default_deleteIS0_EE5resetEPS0_
+                0x00000000       0x28
+ .text._ZNSt15__uniq_ptr_implI8KeyboardSt14default_deleteIS0_EE5resetEPS0_
+                0x00000000       0x28 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::__uniq_ptr_impl<Keyboard, std::default_delete<Keyboard> >::reset(Keyboard*)
+
+.text._ZNKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12_M_check_lenEjPKc
+                0x00000000       0x48
+ .text._ZNKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12_M_check_lenEjPKc
+                0x00000000       0x48 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_check_len(unsigned int, char const*) const
+
+.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7_S_copyEPcPKcj
+                0x00000000       0x1c
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7_S_copyEPcPKcj
+                0x00000000       0x1c build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_S_copy(char*, char const*, unsigned int)
+
+.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2EPKcjRKS3_
+                0x00000000       0x2c
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2EPKcjRKS3_
+                0x00000000       0x2c build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, unsigned int, std::allocator<char> const&)
+                0x00000000                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, unsigned int, std::allocator<char> const&)
+
+.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEPKcRKS3_
+                0x00000000       0x38
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEPKcRKS3_
+                0x00000000       0x38 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string<std::allocator<char> >(char const*, std::allocator<char> const&)
+                0x00000000                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string<std::allocator<char> >(char const*, std::allocator<char> const&)
+
+.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2ERKS4_
+                0x00000000       0x58
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2ERKS4_
+                0x00000000       0x58 build/f7-firmware-C/.extapps/flip_social/run/run.o
+                0x00000000                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+                0x00000000                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+
+.text._ZNSt10unique_ptrIA_cSt14default_deleteIS0_EED2Ev
+                0x00000000       0x14
+ .text._ZNSt10unique_ptrIA_cSt14default_deleteIS0_EED2Ev
+                0x00000000       0x14 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+                0x00000000                std::unique_ptr<char [], std::default_delete<char []> >::~unique_ptr()
+                0x00000000                std::unique_ptr<char [], std::default_delete<char []> >::~unique_ptr()
+
+.text._ZNSt10unique_ptrI15FlipSocialAboutSt14default_deleteIS0_EED2Ev
+                0x00000000       0x24
+ .text._ZNSt10unique_ptrI15FlipSocialAboutSt14default_deleteIS0_EED2Ev
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00000000                std::unique_ptr<FlipSocialAbout, std::default_delete<FlipSocialAbout> >::~unique_ptr()
+                0x00000000                std::unique_ptr<FlipSocialAbout, std::default_delete<FlipSocialAbout> >::~unique_ptr()
+
+.text._ZNSt10unique_ptrI13FlipSocialRunSt14default_deleteIS0_EED2Ev
+                0x00000000       0x24
+ .text._ZNSt10unique_ptrI13FlipSocialRunSt14default_deleteIS0_EED2Ev
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00000000                std::unique_ptr<FlipSocialRun, std::default_delete<FlipSocialRun> >::~unique_ptr()
+                0x00000000                std::unique_ptr<FlipSocialRun, std::default_delete<FlipSocialRun> >::~unique_ptr()
+
+.text._ZNSt10unique_ptrI18FlipSocialSettingsSt14default_deleteIS0_EED2Ev
+                0x00000000       0x24
+ .text._ZNSt10unique_ptrI18FlipSocialSettingsSt14default_deleteIS0_EED2Ev
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00000000                std::unique_ptr<FlipSocialSettings, std::default_delete<FlipSocialSettings> >::~unique_ptr()
+                0x00000000                std::unique_ptr<FlipSocialSettings, std::default_delete<FlipSocialSettings> >::~unique_ptr()
+
+.text._ZNSt15__uniq_ptr_implI13FlipSocialRunSt14default_deleteIS0_EE5resetEPS0_
+                0x00000000       0x24
+ .text._ZNSt15__uniq_ptr_implI13FlipSocialRunSt14default_deleteIS0_EE5resetEPS0_
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00000000                std::__uniq_ptr_impl<FlipSocialRun, std::default_delete<FlipSocialRun> >::reset(FlipSocialRun*)
+
+.text._ZNSt15__uniq_ptr_implI18FlipSocialSettingsSt14default_deleteIS0_EE5resetEPS0_
+                0x00000000       0x24
+ .text._ZNSt15__uniq_ptr_implI18FlipSocialSettingsSt14default_deleteIS0_EE5resetEPS0_
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00000000                std::__uniq_ptr_impl<FlipSocialSettings, std::default_delete<FlipSocialSettings> >::reset(FlipSocialSettings*)
+
+.text._ZNSt15__uniq_ptr_implI15FlipSocialAboutSt14default_deleteIS0_EE5resetEPS0_
+                0x00000000       0x24
+ .text._ZNSt15__uniq_ptr_implI15FlipSocialAboutSt14default_deleteIS0_EE5resetEPS0_
+                0x00000000       0x24 build/f7-firmware-C/.extapps/flip_social/app.o
+                0x00000000                std::__uniq_ptr_impl<FlipSocialAbout, std::default_delete<FlipSocialAbout> >::reset(FlipSocialAbout*)
+
+.rodata         0x00000024     0x45e8
+ *(.rodata)
+ .rodata        0x00000024       0x20 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata._ZN15FlipSocialAboutC2EPP14ViewDispatcher.str1.1
+                0x00000044       0x88 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .rodata.easy_flipper_dialog.str1.1
+                0x000000cc        0x8 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_callback_exit_app.str1.1
+                0x000000d4       0x1c build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_buffer.str1.1
+                0x000000f0       0x43 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_view_dispatcher.str1.1
+                0x00000133       0x54 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_submenu.str1.1
+                0x00000187       0x45 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_widget.str1.1
+                0x000001cc       0x43 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_variable_item_list.str1.1
+                0x0000020f       0x59 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata.easy_flipper_set_text_input.str1.1
+                0x00000268       0x4a build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .rodata._flipper_http_rx_callback.str1.1
+                0x000002b2       0x23 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.set_header.constprop.0.str1.1
+                0x000002d5       0xcb build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.get_timeout_timer_callback.str1.1
+                0x000003a0       0x2b build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_alloc.str1.1
+                0x000003cb      0x11e build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_free.str1.1
+                0x000004e9       0x2c build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_append_to_file.str1.1
+                0x00000515       0x8a build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_rx_callback.str1.1
+                0x0000059f      0x130 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_load_from_file.str1.1
+                0x000006cf       0xb3 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_send_data.str1.1
+                0x00000782       0x78 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_request.str1.1
+                0x000007fa      0x187 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_save_wifi.str1.1
+                0x00000981       0x83 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.flipper_http_send_command.str1.1
+                0x00000a04       0x60 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .rodata.u8g2_font_5x8_tf
+                0x00000a64      0x6b3 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .rodata.u8g2_font_6x10_tf
+                0x00001117      0x7d0 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .rodata.u8g2_font_4x6_tf
+                0x000018e7      0x5ab build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .rodata.get_json_value.str1.1
+                0x00001e92       0xef build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .rodata.get_json_array_value.str1.1
+                0x00001f81       0xbc build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .rodata.get_json_value_furi.str1.1
+                0x0000203d       0xca build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .rodata._ZN7LoadingC2EP6Canvas.str1.1
+                0x00002107        0xb build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .rodata._ZN7Loading11drawSpinnerEv.str1.1
+                0x00002112       0x5b build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .rodata._ZN7Loading7animateEv.str1.1
+                0x0000216d       0x20 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .rodata._ZN8Keyboard4drawEP6CanvasPKcS3_.str1.1
+                0x0000218d       0x1e build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .rodata._ZN8Keyboard16keyboard_numbersE
+                0x000021ab       0x21 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000021ab                Keyboard::keyboard_numbers
+ .rodata._ZN8Keyboard18keyboard_uppercaseE
+                0x000021cc       0x21 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000021cc                Keyboard::keyboard_uppercase
+ .rodata._ZN8Keyboard18keyboard_lowercaseE
+                0x000021ed       0x21 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+                0x000021ed                Keyboard::keyboard_lowercase
+ .rodata._ZN13FlipSocialRun15drawFeedMessageEP6CanvasPKcii.part.0.str1.1
+                0x0000220e        0x6 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZNSt6vectorIPKcSaIS1_EE12emplace_backIJS1_EEERS1_DpOT_.isra.0.str1.1
+                0x00002214       0x1a build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRunC2EPv.str1.1
+                0x0000222e       0x15 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun15drawFeedMessageEP6CanvasPKcii.str1.1
+                0x00002243       0x21 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun12drawFeedItemEP6CanvasPcS2_S2_S2_S2_.str1.1
+                0x00002264       0x2e build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun8drawMenuEP6CanvashPPKch.str1.1
+                0x00002292        0xe build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun14drawWrappedBioEP6CanvasPKchh.str1.1
+                0x000022a0        0x7 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun15drawProfileViewEP6Canvas.str1.1
+                0x000022a7       0xac build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun14getMessageUserEPcj.str1.1
+                0x00002353       0x63 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun15getSelectedPostEPcj.str1.1
+                0x000023b6      0x10d build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun21httpRequestIsFinishedEv.str1.1
+                0x000024c3       0x2b build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun11userRequestE11RequestType.str1.1
+                0x000024ee      0x8a7 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun12drawFeedViewEP6Canvas.str1.1
+                0x00002d95       0xca build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun13drawLoginViewEP6Canvas.str1.1
+                0x00002e5f      0x11e build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun20drawRegistrationViewEP6Canvas.str1.1
+                0x00002f7d       0x84 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun16drawUserInfoViewEP6Canvas.str1.1
+                0x00003001       0xdb build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZNSt6vectorIPKcSaIS1_EE7reserveEj.str1.1
+                0x000030dc       0x10 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun16drawCommentsViewEP6Canvas.str1.1
+                0x000030ec       0xf6 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun16drawMessagesViewEP6Canvas.str1.1
+                0x000031e2      0x1ab build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun11updateInputEP10InputEvent.str1.1
+                0x0000338d       0x39 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag.isra.0.str1.1
+                0x000033c6       0x18 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2EPKcjRKS3_.str1.1
+                0x000033de       0x32 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun20drawMessageUsersViewEP6Canvas.str1.1
+                0x00003410       0x34 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun15drawExploreViewEP6Canvas.str1.1
+                0x00003444       0xe0 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun12drawPostViewEP6Canvas.str1.1
+                0x00003524      0x11f build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN13FlipSocialRun10updateDrawEP6Canvas.str1.1
+                0x00003643       0x1a build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata.str1.1
+                0x0000365d       0x36 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .rodata._ZN18FlipSocialSettingsC2EPP14ViewDispatcherPv.str1.1
+                0x00003693       0x71 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .rodata._ZN18FlipSocialSettings13initTextInputEm.str1.1
+                0x00003704       0x6c build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .rodata._ZN18FlipSocialSettings14startTextInputEm.str1.1
+                0x00003770       0x5a build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .rodata._ZN18FlipSocialSettings20settingsItemSelectedEm.str1.1
+                0x000037ca       0x61 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .rodata.update_load_char.str1.1
+                0x0000382b       0x57 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .rodata.update_datetime_to_json.str1.1
+                0x00003882       0x4f build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .rodata.update_last_app_update.str1.1
+                0x000038d1      0x146 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .rodata.update_get_fap_file.str1.1
+                0x00003a17      0x10c build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .rodata.update_save_char.isra.0.str1.1
+                0x00003b23       0x42 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .rodata.update_is_update_time.str1.1
+                0x00003b65       0x9b build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .rodata.update_update_app.str1.1
+                0x00003c00      0x1f5 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .rodata.update_save_rtc_time.str1.1
+                0x00003df5       0x23 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .rodata.update_is_ready.str1.1
+                0x00003e18       0x18 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .rodata._ZN13FlipSocialApp17createAppDataPathEv.str1.1
+                0x00003e30       0x3d build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata._ZN13FlipSocialAppC2Ev.str1.1
+                0x00003e6d       0x90 build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata._ZN13FlipSocialApp16httpRequestAsyncEPKcS1_10HTTPMethodS1_S1_.str1.1
+                0x00003efd       0x8c build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata._ZN13FlipSocialApp16isBoardConnectedEv.str1.1
+                0x00003f89       0x40 build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata._ZN13FlipSocialApp8loadCharEPKcPcj.str1.1
+                0x00003fc9       0x1e build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata._ZN13FlipSocialApp18hasWiFiCredentialsEv.str1.1
+                0x00003fe7       0x14 build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata._ZN13FlipSocialApp18hasUserCredentialsEv.str1.1
+                0x00003ffb       0x14 build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata._ZN13FlipSocialApp13loadFileChunkEPKcPcjh.str1.1
+                0x0000400f       0xaa build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata._ZN13FlipSocialApp19sendWiFiCredentialsEPKcS1_.str1.1
+                0x000040b9       0x19 build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata._ZN13FlipSocialApp9updateAppEv.str1.1
+                0x000040d2       0x33 build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata.main_flip_social.str1.1
+                0x00004105       0x12 build/f7-firmware-C/.extapps/flip_social/app.o
+ .rodata._ZN13FlipSocialApp22callbackSubmenuChoicesEm.str1.1
+                0x00004117      0x10b build/f7-firmware-C/.extapps/flip_social/app.o
+ *fill*         0x00004222        0x2 
+ .rodata.I_ButtonOK_7x7
+                0x00004224        0xc build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+                0x00004224                I_ButtonOK_7x7
+ .rodata._I_ButtonOK_7x7
+                0x00004230        0x4 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+                0x00004230                _I_ButtonOK_7x7
+ .rodata._I_ButtonOK_7x7_0
+                0x00004234        0x8 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+                0x00004234                _I_ButtonOK_7x7_0
+ .rodata.npio2_hw
+                0x0000423c       0x80 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .rodata.two_over_pi
+                0x000042bc      0x318 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .rodata.PIo2   0x000045d4       0x2c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+ .rodata.init_jk
+                0x00004600        0xc c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss            0x0000460c       0x10
+ *(.bss)
+ *(.bss*)
+ .bss._ZZN13FlipSocialRun16drawUserInfoViewEP6CanvasE14loadingStarted
+                0x0000460c        0x1 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .bss._ZZN13FlipSocialRun20drawRegistrationViewEP6CanvasE14loadingStarted
+                0x0000460d        0x1 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .bss._ZZN13FlipSocialRun12drawPostViewEP6CanvasE14loadingStarted
+                0x0000460e        0x1 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .bss._ZZN13FlipSocialRun20drawMessageUsersViewEP6CanvasE14loadingStarted
+                0x0000460f        0x1 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .bss._ZZN13FlipSocialRun16drawMessagesViewEP6CanvasE14loadingStarted
+                0x00004610        0x1 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .bss._ZZN13FlipSocialRun13drawLoginViewEP6CanvasE14loadingStarted
+                0x00004611        0x1 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .bss._ZZN13FlipSocialRun12drawFeedViewEP6CanvasE14loadingStarted
+                0x00004612        0x1 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .bss._ZZN13FlipSocialRun15drawExploreViewEP6CanvasE14loadingStarted
+                0x00004613        0x1 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .bss._ZZN13FlipSocialRun16drawCommentsViewEP6CanvasE14loadingStarted
+                0x00004614        0x1 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .bss._ZZN13FlipSocialRun13debounceInputEvE15debounceCounter
+                0x00004615        0x1 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ *fill*         0x00004616        0x2 
+ .bss._ZN12_GLOBAL__N_113__new_handlerE
+                0x00004618        0x4 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_handler.o)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x6e8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_aranges
+                0x00000030       0x90 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_aranges
+                0x000000c0       0xb8 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_aranges
+                0x00000178       0x28 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .debug_aranges
+                0x000001a0       0x60 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_aranges
+                0x00000200       0x58 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_aranges
+                0x00000258       0x28 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .debug_aranges
+                0x00000280       0x38 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_aranges
+                0x000002b8       0x98 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_aranges
+                0x00000350      0x190 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_aranges
+                0x000004e0       0x90 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_aranges
+                0x00000570       0x60 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_aranges
+                0x000005d0      0x100 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_aranges
+                0x000006d0       0x18 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x512cd
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x3d05 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_info    0x00003d05     0x1c88 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_info    0x0000598d     0x379b build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_info    0x00009128      0x247 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .debug_info    0x0000936f     0x1535 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_info    0x0000a8a4     0x170a build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_info    0x0000bfae      0x1cf build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .debug_info    0x0000c17d     0x2411 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_info    0x0000e58e     0x2f1b build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_info    0x000114a9    0x2329a build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_info    0x00034743     0xbc90 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_info    0x000403d3     0x1f35 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_info    0x00042308     0xeab8 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_info    0x00050dc0      0x50d build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+
+.debug_abbrev   0x00000000     0x516a
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x563 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_abbrev  0x00000563      0x2a0 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_abbrev  0x00000803      0x515 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_abbrev  0x00000d18      0x12c build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .debug_abbrev  0x00000e44      0x412 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_abbrev  0x00001256      0x479 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_abbrev  0x000016cf      0x149 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .debug_abbrev  0x00001818      0x480 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_abbrev  0x00001c98      0x5ac build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_abbrev  0x00002244     0x1041 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_abbrev  0x00003285      0xc48 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_abbrev  0x00003ecd      0x415 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_abbrev  0x000042e2      0xdca build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_abbrev  0x000050ac       0xbe build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+
+.debug_line     0x00000000     0xe7dd
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x67b build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_line.text._ZN15FlipSocialAbout17callbackToSubmenuEPv
+                0x0000067b       0x1a build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_line.text._ZN15FlipSocialAboutC2EPP14ViewDispatcher
+                0x00000695       0x2b build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_line.text._ZN15FlipSocialAboutD2Ev
+                0x000006c0       0x4f build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_line_end
+                0x0000070f        0x0 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_line    0x0000070f      0x3e2 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_dialog
+                0x00000af1       0x4b build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_buffer
+                0x00000b3c       0x57 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_view_dispatcher
+                0x00000b93       0x58 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_submenu
+                0x00000beb       0x6b build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_widget
+                0x00000c56       0x6e build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_variable_item_list
+                0x00000cc4       0x6b build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line.text.easy_flipper_set_text_input
+                0x00000d2f       0x84 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line_end
+                0x00000db3        0x0 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_line    0x00000db3      0x42e build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text._flipper_http_rx_callback
+                0x000011e1       0x59 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.set_header.constprop.0
+                0x0000123a       0xfb build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.get_timeout_timer_callback
+                0x00001335       0x49 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_alloc
+                0x0000137e      0x12a build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_free
+                0x000014a8       0x6c build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_append_to_file
+                0x00001514       0xab build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_rx_callback
+                0x000015bf      0x471 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_worker
+                0x00001a30      0x10f build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_load_from_file
+                0x00001b3f       0xff build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_send_data
+                0x00001c3e       0xc6 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_request
+                0x00001d04      0x14b build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_save_wifi
+                0x00001e4f       0x64 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line.text.flipper_http_send_command
+                0x00001eb3       0x96 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line_end
+                0x00001f49        0x0 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_line    0x00001f49      0x137 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .debug_line.text.canvas_set_font_custom
+                0x00002080       0x3f build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .debug_line_end
+                0x000020bf        0x0 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .debug_line    0x000020bf      0x1e2 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_line.text.skip_token
+                0x000022a1       0xef build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_line.text.jsmn_parse
+                0x00002390      0x4d0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_line.text.jsoneq
+                0x00002860       0x55 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_line.text.json_token_count
+                0x000028b5       0x65 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_line.text.get_json_value
+                0x0000291a      0x12c build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_line.text.get_json_array_value
+                0x00002a46      0x17b build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_line_end
+                0x00002bc1        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_line    0x00002bc1      0x1e7 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_line.text.jsmn_parse_furi
+                0x00002da8      0x511 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_line.text.json_token_count_furi
+                0x000032b9       0x5a build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_line.text.get_json_value_furi
+                0x00003313      0x188 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_line_end
+                0x0000349b        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_line    0x0000349b      0x125 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .debug_line.text.char_to_furi_string
+                0x000035c0       0x64 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .debug_line.text.jsmn_memory_check
+                0x00003624       0x28 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .debug_line_end
+                0x0000364c        0x0 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .debug_line    0x0000364c      0x44c build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_line.text._ZN7LoadingC2EP6Canvas
+                0x00003a98       0x31 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_line.text._ZN7Loading4stopEv
+                0x00003ac9       0x22 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_line.text._ZN7Loading11drawSpinnerEv
+                0x00003aeb      0x26a build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_line.text._ZN7Loading7animateEv
+                0x00003d55       0x84 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_line_end
+                0x00003dd9        0x0 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_line    0x00003dd9      0x492 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8KeyboardC2Ev
+                0x0000426b       0x53 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8KeyboardD2Ev
+                0x000042be       0x13 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard9clearTextEv
+                0x000042d1       0x1b build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard18getCurrentKeyboardEv
+                0x000042ec       0x24 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard26clampCursorToValidPositionEv
+                0x00004310       0x51 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard4drawEP6CanvasPKcS3_
+                0x00004361      0x28c build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard4drawEP6CanvasPKc
+                0x000045ed       0x22 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard15getStringLengthEPKcj
+                0x0000460f       0x33 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZNK8Keyboard7getTextEv
+                0x00004642       0x1a build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard11handleInputEhPcj
+                0x0000465c      0x23d build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard11handleInputEh
+                0x00004899       0x23 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line.text._ZN8Keyboard7setTextEPKc
+                0x000048bc       0x3c build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line_end
+                0x000048f8        0x0 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_line    0x000048f8      0xb16 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun15drawFeedMessageEP6CanvasPKcii.part.0
+                0x0000540e      0x140 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE11_M_allocateEj.isra.0
+                0x0000554e       0x65 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt12_Vector_baseIPKcSaIS1_EE11_M_allocateEj.isra.0
+                0x000055b3       0x5f build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt15__uniq_ptr_implI7LoadingSt14default_deleteIS0_EEaSEOS3_.isra.0
+                0x00005612       0x4f build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNK13FlipSocialApp12getHttpStateEv.isra.0
+                0x00005661       0x1d build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt6vectorIPKcSaIS1_EE12emplace_backIJS1_EEERS1_DpOT_.isra.0
+                0x0000567e      0x1a0 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv
+                0x0000581e       0x6c build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EED1Ev.isra.0
+                0x0000588a       0xd6 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRunC2EPv
+                0x00005960      0x131 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun13debounceInputEv
+                0x00005a91       0x52 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun15drawFeedMessageEP6CanvasPKcii
+                0x00005ae3       0x3d build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun12drawFeedItemEP6CanvasPcS2_S2_S2_S2_
+                0x00005b20       0xe7 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun8drawMenuEP6CanvashPPKch
+                0x00005c07      0x33a build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun16drawMainMenuViewEP6Canvas
+                0x00005f41       0x34 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun14drawWrappedBioEP6CanvasPKchh
+                0x00005f75      0x120 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun15drawProfileViewEP6Canvas
+                0x00006095      0x2e7 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun14getMessageUserEPcj
+                0x0000637c       0xe8 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun15getSelectedPostEPcj
+                0x00006464      0x130 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun21httpRequestIsFinishedEv
+                0x00006594       0x4d build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun11userRequestE11RequestType
+                0x000065e1      0x953 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2EOS4_
+                0x00006f34      0x110 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt10unique_ptrI8KeyboardSt14default_deleteIS0_EED2Ev
+                0x00007044       0x47 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt10unique_ptrI7LoadingSt14default_deleteIS0_EED2Ev
+                0x0000708b       0x43 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRunD2Ev
+                0x000070ce       0x18 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZSt11make_uniqueI7LoadingJRP6CanvasEENSt8__detail9_MakeUniqIT_E15__single_objectEDpOT0_
+                0x000070e6       0x71 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun12drawFeedViewEP6Canvas
+                0x00007157      0x4fc build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun13drawLoginViewEP6Canvas
+                0x00007653      0x293 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun20drawRegistrationViewEP6Canvas
+                0x000078e6      0x226 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun16drawUserInfoViewEP6Canvas
+                0x00007b0c      0x2d4 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZSt11make_uniqueI8KeyboardJEENSt8__detail9_MakeUniqIT_E15__single_objectEDpOT0_
+                0x00007de0       0x6f build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt12_Vector_baseIPKcSaIS1_EED2Ev
+                0x00007e4f       0x63 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt6vectorIPKcSaIS1_EE7reserveEj
+                0x00007eb2       0xd9 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt15__uniq_ptr_implI8KeyboardSt14default_deleteIS0_EE5resetEPS0_
+                0x00007f8b       0x41 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun16drawCommentsViewEP6Canvas
+                0x00007fcc      0x88d build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun16drawMessagesViewEP6Canvas
+                0x00008859      0x5e2 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun11updateInputEP10InputEvent
+                0x00008e3b      0x8f0 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12_M_check_lenEjPKc
+                0x0000972b       0x6a build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12emplace_backIJS5_EEERS5_DpOT_.isra.0
+                0x00009795      0x1bf build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7_S_copyEPcPKcj
+                0x00009954       0x4e build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag.isra.0
+                0x000099a2       0xed build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2EPKcjRKS3_
+                0x00009a8f       0x61 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEPKcRKS3_
+                0x00009af0       0x74 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun20drawMessageUsersViewEP6Canvas
+                0x00009b64      0x494 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun15drawExploreViewEP6Canvas
+                0x00009ff8      0x6fb build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2ERKS4_
+                0x0000a6f3      0x14f build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun12drawPostViewEP6Canvas
+                0x0000a842      0x82f build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line.text._ZN13FlipSocialRun10updateDrawEP6Canvas
+                0x0000b071       0xba build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line_end
+                0x0000b12b        0x0 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_line    0x0000b12b      0x8fb build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings18callbackToSettingsEPv
+                0x0000ba26       0x1b build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings17callbackToSubmenuEPv
+                0x0000ba41       0x1b build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettingsC2EPP14ViewDispatcherPv
+                0x0000ba5c      0x117 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings13freeTextInputEv
+                0x0000bb73       0xbb build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings13initTextInputEm
+                0x0000bc2e      0x2f1 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings14startTextInputEm
+                0x0000bf1f       0x68 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings20settingsItemSelectedEm
+                0x0000bf87       0x82 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings28settingsItemSelectedCallbackEPvm
+                0x0000c009       0x1b build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings11textUpdatedEm
+                0x0000c024      0x180 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings23textUpdatedSsidCallbackEPv
+                0x0000c1a4       0x1b build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings23textUpdatedPassCallbackEPv
+                0x0000c1bf       0x1b build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings27textUpdatedUserNameCallbackEPv
+                0x0000c1da       0x1b build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettings27textUpdatedUserPassCallbackEPv
+                0x0000c1f5       0x1b build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZNSt10unique_ptrIA_cSt14default_deleteIS0_EED2Ev
+                0x0000c210       0x45 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line.text._ZN18FlipSocialSettingsD2Ev
+                0x0000c255       0x64 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line_end
+                0x0000c2b9        0x0 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_line    0x0000c2b9      0x42e build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_line.text.update_load_char
+                0x0000c6e7       0x8e build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_line.text.update_datetime_to_json
+                0x0000c775       0x2d build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_line.text.update_last_app_update
+                0x0000c7a2       0x8a build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_line.text.update_get_fap_file
+                0x0000c82c       0x7a build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_line.text.update_save_char.isra.0
+                0x0000c8a6       0x85 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_line.text.update_is_update_time
+                0x0000c92b      0x1b7 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_line.text.update_update_app
+                0x0000cae2      0x253 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_line.text.update_save_rtc_time
+                0x0000cd35       0x47 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_line.text.update_is_ready
+                0x0000cd7c       0x88 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_line_end
+                0x0000ce04        0x0 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_line    0x0000ce04      0x99f build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp15callbackExitAppEPv
+                0x0000d7a3       0x1b build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp13viewPortInputEP10InputEventPv
+                0x0000d7be       0x9d build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp12viewPortDrawEP6CanvasPv
+                0x0000d85b       0x99 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp17createAppDataPathEv
+                0x0000d8f4       0x5d build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialAppC2Ev
+                0x0000d951      0x11a build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp16httpRequestAsyncEPKcS1_10HTTPMethodS1_S1_
+                0x0000da6b       0x71 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp16isBoardConnectedEv
+                0x0000dadc       0x85 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp8loadCharEPKcPcj
+                0x0000db61       0xc3 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp18hasWiFiCredentialsEv
+                0x0000dc24       0x4f build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp18hasUserCredentialsEv
+                0x0000dc73       0x4d build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp13loadFileChunkEPKcPcjh
+                0x0000dcc0      0x167 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp13runDispatcherEv
+                0x0000de27       0x1a build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp8saveCharEPKcS1_
+                0x0000de41       0x7b build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp19sendWiFiCredentialsEPKcS1_
+                0x0000debc       0x4c build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp9updateAppEv
+                0x0000df08       0x4c build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZNSt10unique_ptrI15FlipSocialAboutSt14default_deleteIS0_EED2Ev
+                0x0000df54       0x47 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZNSt10unique_ptrI13FlipSocialRunSt14default_deleteIS0_EED2Ev
+                0x0000df9b       0x47 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZNSt10unique_ptrI18FlipSocialSettingsSt14default_deleteIS0_EED2Ev
+                0x0000dfe2       0x47 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZNSt15__uniq_ptr_implI13FlipSocialRunSt14default_deleteIS0_EE5resetEPS0_
+                0x0000e029       0x41 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp13timerCallbackEPv
+                0x0000e06a      0x109 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZNSt15__uniq_ptr_implI18FlipSocialSettingsSt14default_deleteIS0_EE5resetEPS0_
+                0x0000e173       0x41 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZNSt15__uniq_ptr_implI15FlipSocialAboutSt14default_deleteIS0_EE5resetEPS0_
+                0x0000e1b4       0x41 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialAppD2Ev
+                0x0000e1f5      0x175 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text.main_flip_social
+                0x0000e36a       0x3e build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp22callbackSubmenuChoicesEm
+                0x0000e3a8      0x2cb build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line.text._ZN13FlipSocialApp22submenuChoicesCallbackEPvm
+                0x0000e673       0x1b build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line_end
+                0x0000e68e        0x0 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_line    0x0000e68e      0x14f build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .debug_line_end
+                0x0000e7dd        0x0 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+
+.debug_frame    0x00000000     0x18bc
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x54 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_frame   0x00000054      0x21c build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_frame   0x00000270      0x380 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_frame   0x000005f0       0x48 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .debug_frame   0x00000638      0x158 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_frame   0x00000790      0x13c build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_frame   0x000008cc       0x48 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .debug_frame   0x00000914       0xcc build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_frame   0x000009e0      0x168 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_frame   0x00000b48      0x6c0 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_frame   0x00001208      0x198 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_frame   0x000013a0      0x170 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_frame   0x00001510      0x3ac build/f7-firmware-C/.extapps/flip_social/app.o
+
+.debug_str      0x00000000    0x405a6
+ *(.debug_str)
+ .debug_str     0x00000000     0x1e58 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_str     0x00001e58      0xf78 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_str     0x00002dd0     0x1bce build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_str     0x0000499e      0x2e5 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .debug_str     0x00004c83      0x5b7 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_str     0x0000523a      0x674 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_str     0x000058ae      0x27c build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .debug_str     0x00005b2a     0x1160 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_str     0x00006c8a     0x1658 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_str     0x000082e2    0x1c9d8 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_str     0x00024cba     0xc339 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_str     0x00030ff3      0xc74 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_str     0x00031c67     0xe376 build/f7-firmware-C/.extapps/flip_social/app.o
+ .debug_str     0x0003ffdd      0x5c9 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0xc6c2
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000       0x78 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_loclists
+                0x00000078      0xb3c build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_loclists
+                0x00000bb4     0x1185 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_loclists
+                0x00001d39       0xec build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .debug_loclists
+                0x00001e25      0xa76 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_loclists
+                0x0000289b      0xaf3 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_loclists
+                0x0000338e       0x70 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .debug_loclists
+                0x000033fe      0x253 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_loclists
+                0x00003651      0x59a build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_loclists
+                0x00003beb     0x6855 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_loclists
+                0x0000a440      0x923 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_loclists
+                0x0000ad63      0x6ad build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_loclists
+                0x0000b410     0x12b2 build/f7-firmware-C/.extapps/flip_social/app.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000     0x1331
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x1f build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .debug_rnglists
+                0x0000001f       0x6d build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .debug_rnglists
+                0x0000008c      0x123 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .debug_rnglists
+                0x000001af       0x19 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .debug_rnglists
+                0x000001c8      0x1d2 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .debug_rnglists
+                0x0000039a      0x1dc build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .debug_rnglists
+                0x00000576       0x25 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .debug_rnglists
+                0x0000059b       0x5e build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .debug_rnglists
+                0x000005f9       0xb4 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .debug_rnglists
+                0x000006ad      0x988 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .debug_rnglists
+                0x00001035       0xbc build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .debug_rnglists
+                0x000010f1       0xa9 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .debug_rnglists
+                0x0000119a      0x197 build/f7-firmware-C/.extapps/flip_social/app.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/flip_social/about/about.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/flip_social/easy_flipper/easy_flipper.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/flip_social/flipper_http/flipper_http.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/flip_social/font/font.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_furi.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/flip_social/jsmn/jsmn_h.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/flip_social/loading/loading.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/flip_social/run/keyboard.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/flip_social/run/run.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+ .ARM.attributes
+                0x0000023c       0x34 build/f7-firmware-C/.extapps/flip_social/text_input/uart_text_input.o
+ .ARM.attributes
+                0x00000270       0x34 build/f7-firmware-C/.extapps/flip_social/update/update.o
+ .ARM.attributes
+                0x000002a4       0x34 build/f7-firmware-C/.extapps/flip_social/app.o
+ .ARM.attributes
+                0x000002d8       0x34 build/f7-firmware-C/.extapps/flip_social/flip_social_icons.o
+ .ARM.attributes
+                0x0000030c       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+ .ARM.attributes
+                0x00000340       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+ .ARM.attributes
+                0x00000374       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+ .ARM.attributes
+                0x000003a8       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+ .ARM.attributes
+                0x000003dc       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .ARM.attributes
+                0x00000410       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+ .ARM.attributes
+                0x00000444       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+ .ARM.attributes
+                0x00000478       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+ .ARM.attributes
+                0x000004ac       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+ .ARM.attributes
+                0x000004e0       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_ops.o)
+ .ARM.attributes
+                0x00000514       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_opv.o)
+ .ARM.attributes
+                0x00000548       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_op.o)
+ .ARM.attributes
+                0x0000057c       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(functexcept.o)
+ .ARM.attributes
+                0x000005b0       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(del_op.o)
+ .ARM.attributes
+                0x000005e4       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a(new_handler.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/flip_social_d.elf elf32-littlearm)
+LOAD linker stubs
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/run/run.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/settings/settings.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/app.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/app.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/app.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/app.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/app.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc build/f7-firmware-C/.extapps/flip_social/app.o

@@ -1,0 +1,564 @@
+Archive member included to satisfy reference by file (symbol)
+
+build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                              build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o (cc1101_write_reg)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .rodata.subghz_device_cc1101_ext_dump_state.str1.1
+                0x00000000       0x38 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .text.subghz_device_cc1101_ext_dump_state
+                0x00000000       0x50 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .text.subghz_device_cc1101_ext_shutdown
+                0x00000000       0x30 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .text.subghz_device_cc1101_ext_load_registers
+                0x00000000       0x48 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .text.subghz_device_cc1101_ext_async_tx_middleware_idle
+                0x00000000        0xc build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_dump_state
+                0x00000000       0x36 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_shutdown
+                0x00000000       0x26 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_load_registers
+                0x00000000       0x4f build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_async_tx_middleware_idle
+                0x00000000       0x25 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .text          0x00000000        0x0 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_get_version
+                0x00000000       0x16 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_set_intermediate_frequency
+                0x00000000       0x24 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_get_version
+                0x00000000       0x23 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_set_intermediate_frequency
+                0x00000000       0x37 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+LOAD build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD build/f7-firmware-C/lib\libhwdrivers.a
+LOAD build/f7-firmware-C/lib\libhwdrivers.a
+
+.text           0x00000000     0x127c
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.subghz_device_cc1101_ext_start_debug
+                0x00000000       0x20 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .text.subghz_device_cc1101_ext_stop_debug
+                0x00000020       0x20 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .text.subghz_device_cc1101_ext_capture_ISR
+                0x00000040       0x58 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .text.subghz_device_cc1101_ext_async_tx_refill
+                0x00000098      0x110 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .text.subghz_device_cc1101_ext_async_tx_dma_isr
+                0x000001a8       0x4c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .text.subghz_device_cc1101_ext_alloc
+                0x000001f4      0x244 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x000001f4                subghz_device_cc1101_ext_alloc
+ .text.subghz_device_cc1101_ext_free
+                0x00000438       0x58 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000438                subghz_device_cc1101_ext_free
+ .text.subghz_device_cc1101_ext_set_async_mirror_pin
+                0x00000490        0xc build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000490                subghz_device_cc1101_ext_set_async_mirror_pin
+ .text.subghz_device_cc1101_ext_get_data_gpio
+                0x0000049c        0xc build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x0000049c                subghz_device_cc1101_ext_get_data_gpio
+ .text.subghz_device_cc1101_ext_is_connect
+                0x000004a8       0x54 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x000004a8                subghz_device_cc1101_ext_is_connect
+ .text.subghz_device_cc1101_ext_sleep
+                0x000004fc       0x60 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x000004fc                subghz_device_cc1101_ext_sleep
+ .text.subghz_device_cc1101_ext_load_patable
+                0x0000055c       0x34 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x0000055c                subghz_device_cc1101_ext_load_patable
+ .text.subghz_device_cc1101_ext_write_packet
+                0x00000590       0x54 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000590                subghz_device_cc1101_ext_write_packet
+ .text.subghz_device_cc1101_ext_flush_rx
+                0x000005e4       0x30 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x000005e4                subghz_device_cc1101_ext_flush_rx
+ .text.subghz_device_cc1101_ext_flush_tx
+                0x00000614       0x30 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000614                subghz_device_cc1101_ext_flush_tx
+ .text.subghz_device_cc1101_ext_rx_pipe_not_empty
+                0x00000644       0x40 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000644                subghz_device_cc1101_ext_rx_pipe_not_empty
+ .text.subghz_device_cc1101_ext_is_rx_data_crc_valid
+                0x00000684       0x3c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000684                subghz_device_cc1101_ext_is_rx_data_crc_valid
+ .text.subghz_device_cc1101_ext_read_packet
+                0x000006c0       0x38 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x000006c0                subghz_device_cc1101_ext_read_packet
+ .text.subghz_device_cc1101_ext_reset
+                0x000006f8       0x68 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x000006f8                subghz_device_cc1101_ext_reset
+ .text.subghz_device_cc1101_ext_load_custom_preset
+                0x00000760       0xdc build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000760                subghz_device_cc1101_ext_load_custom_preset
+ .text.subghz_device_cc1101_ext_idle
+                0x0000083c       0x74 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x0000083c                subghz_device_cc1101_ext_idle
+ .text.subghz_device_cc1101_ext_rx
+                0x000008b0       0x74 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x000008b0                subghz_device_cc1101_ext_rx
+ .text.subghz_device_cc1101_ext_tx
+                0x00000924       0x80 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000924                subghz_device_cc1101_ext_tx
+ .text.subghz_device_cc1101_ext_get_rssi
+                0x000009a4       0x5c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x000009a4                subghz_device_cc1101_ext_get_rssi
+ .text.subghz_device_cc1101_ext_get_lqi
+                0x00000a00       0x3c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000a00                subghz_device_cc1101_ext_get_lqi
+ .text.subghz_device_cc1101_ext_is_frequency_valid
+                0x00000a3c       0x40 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000a3c                subghz_device_cc1101_ext_is_frequency_valid
+ .text.subghz_device_cc1101_ext_check_tx
+                0x00000a7c       0xc4 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000a7c                subghz_device_cc1101_ext_check_tx
+ .text.subghz_device_cc1101_ext_is_tx_allowed
+                0x00000b40       0x14 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000b40                subghz_device_cc1101_ext_is_tx_allowed
+ .text.subghz_device_cc1101_ext_set_frequency
+                0x00000b54       0x6c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000b54                subghz_device_cc1101_ext_set_frequency
+ .text.subghz_device_cc1101_ext_start_async_rx
+                0x00000bc0       0xc8 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000bc0                subghz_device_cc1101_ext_start_async_rx
+ .text.subghz_device_cc1101_ext_stop_async_rx
+                0x00000c88       0x68 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000c88                subghz_device_cc1101_ext_stop_async_rx
+ .text.subghz_device_cc1101_ext_start_async_tx
+                0x00000cf0      0x1d8 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000cf0                subghz_device_cc1101_ext_start_async_tx
+ .text.subghz_device_cc1101_ext_is_async_tx_complete
+                0x00000ec8       0x24 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000ec8                subghz_device_cc1101_ext_is_async_tx_complete
+ .text.subghz_device_cc1101_ext_stop_async_tx
+                0x00000eec       0x8c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+                0x00000eec                subghz_device_cc1101_ext_stop_async_tx
+ .text.subghz_device_cc1101_ext_interconnect_start_async_rx
+                0x00000f78        0x8 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .text.subghz_device_cc1101_ext_interconnect_start_async_tx
+                0x00000f80        0x8 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .text.subghz_device_cc1101_ext_interconnect_load_preset
+                0x00000f88       0x4c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .text.subghz_device_cc1101_ext_interconnect_set_frequency
+                0x00000fd4       0x2c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .text.subghz_device_cc1101_ext_ep
+                0x00001000        0x8 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+                0x00001000                subghz_device_cc1101_ext_ep
+ .text.cc1101_spi_trx.isra.0
+                0x00001008       0x4c build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .text.cc1101_strobe
+                0x00001054       0x20 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x00001054                cc1101_strobe
+ .text.cc1101_write_reg
+                0x00001074       0x26 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x00001074                cc1101_write_reg
+ .text.cc1101_read_reg
+                0x0000109a       0x30 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x0000109a                cc1101_read_reg
+ .text.cc1101_get_partnumber
+                0x000010ca       0x16 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x000010ca                cc1101_get_partnumber
+ .text.cc1101_get_rssi
+                0x000010e0       0x16 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x000010e0                cc1101_get_rssi
+ .text.cc1101_reset
+                0x000010f6        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x000010f6                cc1101_reset
+ .text.cc1101_get_status
+                0x000010fc        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x000010fc                cc1101_get_status
+ .text.cc1101_wait_status_state
+                0x00001102       0x34 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x00001102                cc1101_wait_status_state
+ .text.cc1101_shutdown
+                0x00001136        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x00001136                cc1101_shutdown
+ .text.cc1101_calibrate
+                0x0000113c        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x0000113c                cc1101_calibrate
+ .text.cc1101_switch_to_idle
+                0x00001142        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x00001142                cc1101_switch_to_idle
+ .text.cc1101_switch_to_rx
+                0x00001148        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x00001148                cc1101_switch_to_rx
+ .text.cc1101_switch_to_tx
+                0x0000114e        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x0000114e                cc1101_switch_to_tx
+ .text.cc1101_flush_rx
+                0x00001154        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x00001154                cc1101_flush_rx
+ .text.cc1101_flush_tx
+                0x0000115a        0x6 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x0000115a                cc1101_flush_tx
+ .text.cc1101_set_frequency
+                0x00001160       0x88 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x00001160                cc1101_set_frequency
+ .text.cc1101_set_pa_table
+                0x000011e8       0x32 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x000011e8                cc1101_set_pa_table
+ .text.cc1101_write_fifo
+                0x0000121a       0x2a build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x0000121a                cc1101_write_fifo
+ .text.cc1101_read_fifo
+                0x00001244       0x38 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+                0x00001244                cc1101_read_fifo
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x0000127c      0x212
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.subghz_device_cc1101_ext_alloc.str1.1
+                0x0000127c       0x42 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .rodata.subghz_device_cc1101_ext_load_custom_preset.str1.1
+                0x000012be       0x38 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .rodata.subghz_device_cc1101_ext_check_tx.str1.1
+                0x000012f6       0xaa build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .rodata.subghz_device_cc1101_ext_interconnect_set_frequency.str1.1
+                0x000013a0       0x1d build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .rodata.str1.1
+                0x000013bd       0x1f build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .rodata.subghz_device_cc1101_ext_descriptor
+                0x000013dc        0xc build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .rodata.subghz_device_cc1101_ext
+                0x000013e8        0x8 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+                0x000013e8                subghz_device_cc1101_ext
+ .rodata.subghz_device_cc1101_ext_interconnect
+                0x000013f0       0x6c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+                0x000013f0                subghz_device_cc1101_ext_interconnect
+ .rodata.cc1101_set_frequency.str1.1
+                0x0000145c       0x32 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss            0x00001490        0x4
+ *(.bss)
+ *(.bss*)
+ .bss.subghz_device_cc1101_ext
+                0x00001490        0x4 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x250
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x148 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_aranges
+                0x00000148       0x40 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_aranges
+                0x00000188       0xc8 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x61d0
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x4026 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_info    0x00004026      0xcc9 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_info    0x00004cef     0x14e1 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_abbrev   0x00000000      0xc45
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5af build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_abbrev  0x000005af      0x346 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_abbrev  0x000008f5      0x350 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_line     0x00000000     0x22d0
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x465 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_start_debug
+                0x00000465       0x31 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_stop_debug
+                0x00000496       0x31 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_capture_ISR
+                0x000004c7      0x123 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_async_tx_refill
+                0x000005ea      0x267 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_async_tx_dma_isr
+                0x00000851       0xc1 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_alloc
+                0x00000912      0x2c7 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_free
+                0x00000bd9       0x57 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_set_async_mirror_pin
+                0x00000c30       0x1c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_get_data_gpio
+                0x00000c4c       0x1c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_is_connect
+                0x00000c68       0x5f build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_sleep
+                0x00000cc7       0x30 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_load_patable
+                0x00000cf7       0x2d build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_write_packet
+                0x00000d24       0x35 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_flush_rx
+                0x00000d59       0x26 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_flush_tx
+                0x00000d7f       0x26 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_rx_pipe_not_empty
+                0x00000da5       0x28 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_is_rx_data_crc_valid
+                0x00000dcd       0x28 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_read_packet
+                0x00000df5       0x33 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_reset
+                0x00000e28       0x2f build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_load_custom_preset
+                0x00000e57       0xe2 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_idle
+                0x00000f39       0x86 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_rx
+                0x00000fbf       0x86 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_tx
+                0x00001045       0x8c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_get_rssi
+                0x000010d1       0x5b build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_get_lqi
+                0x0000112c       0x28 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_is_frequency_valid
+                0x00001154       0x41 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_check_tx
+                0x00001195       0xb4 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_is_tx_allowed
+                0x00001249       0x1f build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_set_frequency
+                0x00001268       0x72 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_start_async_rx
+                0x000012da      0x127 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_stop_async_rx
+                0x00001401       0x43 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_start_async_tx
+                0x00001444      0x3e0 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_is_async_tx_complete
+                0x00001824       0x38 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line.text.subghz_device_cc1101_ext_stop_async_tx
+                0x0000185c       0xb4 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line_end
+                0x00001910        0x0 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_line    0x00001910      0x275 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_line.text.subghz_device_cc1101_ext_interconnect_start_async_rx
+                0x00001b85       0x16 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_line.text.subghz_device_cc1101_ext_interconnect_start_async_tx
+                0x00001b9b       0x19 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_line.text.subghz_device_cc1101_ext_interconnect_load_preset
+                0x00001bb4       0x3d build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_line.text.subghz_device_cc1101_ext_interconnect_set_frequency
+                0x00001bf1       0x52 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_line.text.subghz_device_cc1101_ext_ep
+                0x00001c43       0x19 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_line_end
+                0x00001c5c        0x0 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_line    0x00001c5c      0x2c5 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_spi_trx.isra.0
+                0x00001f21       0x74 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_strobe
+                0x00001f95       0x34 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_write_reg
+                0x00001fc9       0x36 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_read_reg
+                0x00001fff       0x4b build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_get_partnumber
+                0x0000204a       0x22 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_get_rssi
+                0x0000206c       0x23 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_reset
+                0x0000208f       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_get_status
+                0x000020a7       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_wait_status_state
+                0x000020bf       0x59 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_shutdown
+                0x00002118       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_calibrate
+                0x00002130       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_switch_to_idle
+                0x00002148       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_switch_to_rx
+                0x00002160       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_switch_to_tx
+                0x00002178       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_flush_rx
+                0x00002190       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_flush_tx
+                0x000021a8       0x18 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_set_frequency
+                0x000021c0       0x68 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_set_pa_table
+                0x00002228       0x38 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_write_fifo
+                0x00002260       0x2e build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line.text.cc1101_read_fifo
+                0x0000228e       0x42 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ .debug_line_end
+                0x000022d0        0x0 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_frame    0x00000000      0x6dc
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x45c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_frame   0x0000045c       0x6c build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_frame   0x000004c8      0x214 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_str      0x00000000     0x4a7d
+ *(.debug_str)
+ .debug_str     0x00000000     0x2c6a build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_str     0x00002c6a      0xf63 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_str     0x00003bcd      0xeb0 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0x12cc
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0xca4 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_loclists
+                0x00000ca4      0x140 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_loclists
+                0x00000de4      0x4e8 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x2e6
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000      0x211 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .debug_rnglists
+                0x00000211       0x37 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .debug_rnglists
+                0x00000248       0x9e build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/radio_device_cc1101_ext/cc1101_ext/cc1101_ext_interconnect.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/lib\libhwdrivers.a(cc1101.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/radio_device_cc1101_ext_d.elf elf32-littlearm)
+LOAD linker stubs

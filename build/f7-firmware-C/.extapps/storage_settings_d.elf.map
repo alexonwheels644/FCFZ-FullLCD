@@ -1,0 +1,949 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+                              build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o (__aeabi_dmul)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o (__aeabi_ui2d)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                              build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o (__aeabi_ddiv)
+build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+                              build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o (I_qr_benchmark_25x25)
+build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+                              build/f7-firmware-C/.extapps/storage_settings/storage_settings.o (submenu_settings_helpers_alloc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .text          0x00000000      0x254 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Updating_Logo_62x15
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Updating_32x40
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Weather_7x8
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_SDcardFail_11x8
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_MFKey_qr_25x25
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_07
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_06
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_05
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_04
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_03
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_02
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_01
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Erase_pin_128x64
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Warning_30x23
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_CertificationTaiwan_33x32
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_CertificationMexico_98x41
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_CertificationChina1_124x47
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_CertificationChina0_121x41
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Certification2_46x33
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Certification1_103x56
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Updating_Logo_62x15
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Updating_Logo_62x15_0
+                0x00000000       0x64 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Updating_32x40
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Updating_32x40_0
+                0x00000000       0x8f build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Weather_7x8
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Weather_7x8_0
+                0x00000000        0x9 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_SDcardFail_11x8
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_SDcardFail_11x8_0
+                0x00000000       0x11 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_MFKey_qr_25x25
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_MFKey_qr_25x25_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_07
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_07_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_06
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_06_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_05
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_05_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_04
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_04_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_03
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_03_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_02
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_02_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_01
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_01_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Erase_pin_128x64
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Erase_pin_128x64_0
+                0x00000000      0x21a build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Warning_30x23
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Warning_30x23_0
+                0x00000000       0x4b build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationTaiwan_33x32
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationTaiwan_33x32_0
+                0x00000000       0x85 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationMexico_98x41
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationMexico_98x41_0
+                0x00000000      0x115 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationChina1_124x47
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationChina1_124x47_0
+                0x00000000      0x12f build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationChina0_121x41
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationChina0_121x41_0
+                0x00000000      0x169 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Certification2_46x33
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Certification2_46x33_0
+                0x00000000       0x89 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Certification1_103x56
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Certification1_103x56_0
+                0x00000000      0x19b build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+LOAD build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD build/f7-firmware-C/lib\libassets.a
+LOAD build/f7-firmware-C/lib\libtoolbox.a
+LOAD build/f7-firmware-C/lib\libassets.a
+LOAD build/f7-firmware-C/lib\libtoolbox.a
+
+.text           0x00000000     0x1d98
+ *(.text)
+ .text          0x00000000      0x378 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x00000000                __aeabi_drsub
+                0x00000008                __aeabi_dsub
+                0x00000008                __subdf3
+                0x0000000c                __aeabi_dadd
+                0x0000000c                __adddf3
+                0x00000284                __floatunsidf
+                0x00000284                __aeabi_ui2d
+                0x000002a4                __floatsidf
+                0x000002a4                __aeabi_i2d
+                0x000002c8                __aeabi_f2d
+                0x000002c8                __extendsfdf2
+                0x0000030c                __floatundidf
+                0x0000030c                __aeabi_ul2d
+                0x0000031c                __floatdidf
+                0x0000031c                __aeabi_l2d
+ .text          0x00000378      0x424 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                0x00000378                __aeabi_dmul
+                0x00000378                __muldf3
+                0x000005cc                __divdf3
+                0x000005cc                __aeabi_ddiv
+ *(.stub)
+ *(.text*)
+ .text.storage_settings_scene_benchmark_dialog_callback
+                0x0000079c       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .text.storage_settings_scene_benchmark_on_enter
+                0x000007ac      0x3b0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+                0x000007ac                storage_settings_scene_benchmark_on_enter
+ .text.storage_settings_scene_benchmark_on_event
+                0x00000b5c       0x48 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+                0x00000b5c                storage_settings_scene_benchmark_on_event
+ .text.storage_settings_scene_benchmark_on_exit
+                0x00000ba4       0x2c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+                0x00000ba4                storage_settings_scene_benchmark_on_exit
+ .text.storage_settings_scene_benchmark_confirm_dialog_callback
+                0x00000bd0       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .text.storage_settings_scene_benchmark_confirm_on_enter
+                0x00000be0       0xfc build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+                0x00000be0                storage_settings_scene_benchmark_confirm_on_enter
+ .text.storage_settings_scene_benchmark_confirm_on_event
+                0x00000cdc       0x48 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+                0x00000cdc                storage_settings_scene_benchmark_confirm_on_event
+ .text.storage_settings_scene_benchmark_confirm_on_exit
+                0x00000d24        0xc build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+                0x00000d24                storage_settings_scene_benchmark_confirm_on_exit
+ .text.storage_settings_scene_factory_reset_dialog_callback
+                0x00000d30       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .text.storage_settings_scene_factory_reset_on_enter
+                0x00000d40       0x8c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+                0x00000d40                storage_settings_scene_factory_reset_on_enter
+ .text.storage_settings_scene_factory_reset_on_event
+                0x00000dcc       0xcc build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+                0x00000dcc                storage_settings_scene_factory_reset_on_event
+ .text.storage_settings_scene_factory_reset_on_exit
+                0x00000e98       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+                0x00000e98                storage_settings_scene_factory_reset_on_exit
+ .text.storage_settings_scene_format_confirm_dialog_callback
+                0x00000eb4       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .text.storage_settings_scene_format_confirm_on_enter
+                0x00000ec4       0xec build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+                0x00000ec4                storage_settings_scene_format_confirm_on_enter
+ .text.storage_settings_scene_format_confirm_on_event
+                0x00000fb0       0x54 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+                0x00000fb0                storage_settings_scene_format_confirm_on_event
+ .text.storage_settings_scene_format_confirm_on_exit
+                0x00001004        0xc build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+                0x00001004                storage_settings_scene_format_confirm_on_exit
+ .text.storage_settings_scene_formatting_dialog_callback
+                0x00001010       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .text.storage_settings_scene_formatting_on_enter
+                0x00001020      0x160 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+                0x00001020                storage_settings_scene_formatting_on_enter
+ .text.storage_settings_scene_formatting_on_event
+                0x00001180       0x2c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+                0x00001180                storage_settings_scene_formatting_on_event
+ .text.storage_settings_scene_formatting_on_exit
+                0x000011ac       0x20 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+                0x000011ac                storage_settings_scene_formatting_on_exit
+ .text.storage_settings_scene_internal_info_dialog_callback
+                0x000011cc       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .text.storage_settings_scene_internal_info_on_enter
+                0x000011dc      0x140 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+                0x000011dc                storage_settings_scene_internal_info_on_enter
+ .text.storage_settings_scene_internal_info_on_event
+                0x0000131c       0x24 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+                0x0000131c                storage_settings_scene_internal_info_on_event
+ .text.storage_settings_scene_internal_info_on_exit
+                0x00001340       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+                0x00001340                storage_settings_scene_internal_info_on_exit
+ .text.storage_settings_scene_sd_info_dialog_callback
+                0x0000135c       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .text.storage_settings_scene_sd_info_on_enter
+                0x0000136c      0x210 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+                0x0000136c                storage_settings_scene_sd_info_on_enter
+ .text.storage_settings_scene_sd_info_on_event
+                0x0000157c       0x58 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+                0x0000157c                storage_settings_scene_sd_info_on_event
+ .text.storage_settings_scene_sd_info_on_exit
+                0x000015d4       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+                0x000015d4                storage_settings_scene_sd_info_on_exit
+ .text.storage_settings_scene_start_on_enter
+                0x000015f0       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+                0x000015f0                storage_settings_scene_start_on_enter
+ .text.storage_settings_scene_start_on_event
+                0x00001624       0x18 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+                0x00001624                storage_settings_scene_start_on_event
+ .text.storage_settings_scene_start_on_exit
+                0x0000163c        0xc build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+                0x0000163c                storage_settings_scene_start_on_exit
+ .text.storage_settings_scene_unmount_confirm_dialog_callback
+                0x00001648       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .text.storage_settings_scene_unmount_confirm_on_enter
+                0x00001658       0xcc build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+                0x00001658                storage_settings_scene_unmount_confirm_on_enter
+ .text.storage_settings_scene_unmount_confirm_on_event
+                0x00001724       0x48 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+                0x00001724                storage_settings_scene_unmount_confirm_on_event
+ .text.storage_settings_scene_unmount_confirm_on_exit
+                0x0000176c        0xc build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+                0x0000176c                storage_settings_scene_unmount_confirm_on_exit
+ .text.storage_settings_scene_unmounted_dialog_callback
+                0x00001778       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .text.storage_settings_scene_unmounted_on_enter
+                0x00001788      0x12c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+                0x00001788                storage_settings_scene_unmounted_on_enter
+ .text.storage_settings_scene_unmounted_on_event
+                0x000018b4       0x2c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+                0x000018b4                storage_settings_scene_unmounted_on_event
+ .text.storage_settings_scene_unmounted_on_exit
+                0x000018e0        0xc build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+                0x000018e0                storage_settings_scene_unmounted_on_exit
+ .text.storage_settings_scene_wipe_device_dialog_callback
+                0x000018ec       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .text.storage_settings_scene_wipe_device_on_enter
+                0x000018fc       0x88 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+                0x000018fc                storage_settings_scene_wipe_device_on_enter
+ .text.storage_settings_scene_wipe_device_on_event
+                0x00001984       0xd0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+                0x00001984                storage_settings_scene_wipe_device_on_event
+ .text.storage_settings_scene_wipe_device_on_exit
+                0x00001a54       0x1c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+                0x00001a54                storage_settings_scene_wipe_device_on_exit
+ .text.storage_settings_back_event_callback
+                0x00001a70        0xc build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .text.storage_settings_custom_event_callback
+                0x00001a7c        0xc build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .text.storage_settings_app
+                0x00001a88      0x1b4 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+                0x00001a88                storage_settings_app
+ .text.submenu_settings_helpers_callback
+                0x00001c3c       0x22 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .text.submenu_settings_helpers_alloc
+                0x00001c5e       0x18 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+                0x00001c5e                submenu_settings_helpers_alloc
+ .text.submenu_settings_helpers_assign_objects
+                0x00001c76       0x28 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+                0x00001c76                submenu_settings_helpers_assign_objects
+ .text.submenu_settings_helpers_free
+                0x00001c9e        0x4 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+                0x00001c9e                submenu_settings_helpers_free
+ .text.submenu_settings_helpers_app_start
+                0x00001ca2       0x4e build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+                0x00001ca2                submenu_settings_helpers_app_start
+ .text.submenu_settings_helpers_scene_enter
+                0x00001cf0       0x54 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+                0x00001cf0                submenu_settings_helpers_scene_enter
+ .text.submenu_settings_helpers_scene_event
+                0x00001d44       0x3e build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+                0x00001d44                submenu_settings_helpers_scene_event
+ .text.submenu_settings_helpers_scene_exit
+                0x00001d82       0x16 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+                0x00001d82                submenu_settings_helpers_scene_exit
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00001d98      0x779
+ *(.rodata)
+ .rodata        0x00001d98       0x18 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.storage_settings_scene_handlers
+                0x00001db0       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+                0x00001db0                storage_settings_scene_handlers
+ .rodata.storage_settings_on_exit_handlers
+                0x00001dc0       0x2c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+                0x00001dc0                storage_settings_on_exit_handlers
+ .rodata.storage_settings_on_event_handlers
+                0x00001dec       0x2c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+                0x00001dec                storage_settings_on_event_handlers
+ .rodata.storage_settings_on_enter_handlers
+                0x00001e18       0x2c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+                0x00001e18                storage_settings_on_enter_handlers
+ .rodata.storage_settings_scene_benchmark_on_enter.str1.1
+                0x00001e44       0x94 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .rodata.storage_settings_scene_benchmark_confirm_on_enter.str1.1
+                0x00001ed8       0x9f build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .rodata.storage_settings_scene_factory_reset_on_enter.str1.1
+                0x00001f77       0x64 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .rodata.storage_settings_scene_factory_reset_on_event.str1.1
+                0x00001fdb       0x17 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .rodata.storage_settings_scene_format_confirm_on_enter.str1.1
+                0x00001ff2       0x6f build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .rodata.storage_settings_scene_formatting_on_enter.str1.1
+                0x00002061       0x48 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ *fill*         0x000020a9        0x3 
+ .rodata.sequence_set_formatting_leds
+                0x000020ac       0x14 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .rodata.message_green_165
+                0x000020c0       0x10 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .rodata.storage_settings_scene_internal_info_on_enter.str1.1
+                0x000020d0       0x8e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .rodata.storage_settings_scene_sd_info_on_enter.str1.1
+                0x0000215e       0xda build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .rodata.storage_settings_scene_start_on_enter.str1.1
+                0x00002238       0x1e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .rodata.storage_settings_scene_unmount_confirm_on_enter.str1.1
+                0x00002256       0x7e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .rodata.storage_settings_scene_unmounted_on_enter.str1.1
+                0x000022d4       0x8a build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .rodata.storage_settings_scene_wipe_device_on_enter.str1.1
+                0x0000235e       0x5a build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .rodata.storage_settings_scene_wipe_device_on_event.str1.1
+                0x000023b8       0x11 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .rodata.storage_settings_app.str1.1
+                0x000023c9       0x19 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .rodata.str1.1
+                0x000023e2       0x78 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ *fill*         0x0000245a        0x2 
+ .rodata.descriptor_template
+                0x0000245c       0x40 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+                0x0000245c                descriptor_template
+ .rodata.I_qr_benchmark_25x25
+                0x0000249c        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+                0x0000249c                I_qr_benchmark_25x25
+ .rodata._I_qr_benchmark_25x25
+                0x000024a8        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+                0x000024a8                _I_qr_benchmark_25x25
+ .rodata._I_qr_benchmark_25x25_0
+                0x000024ac       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+                0x000024ac                _I_qr_benchmark_25x25_0
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x318
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+ .debug_aranges
+                0x00000018       0x38 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_aranges
+                0x00000050       0x38 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_aranges
+                0x00000088       0x38 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_aranges
+                0x000000c0       0x38 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_aranges
+                0x000000f8       0x38 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_aranges
+                0x00000130       0x38 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_aranges
+                0x00000168       0x38 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_aranges
+                0x000001a0       0x30 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_aranges
+                0x000001d0       0x38 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_aranges
+                0x00000208       0x38 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_aranges
+                0x00000240       0x38 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_aranges
+                0x00000278       0x30 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_aranges
+                0x000002a8       0x18 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .debug_aranges
+                0x000002c0       0x58 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x9aae
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4dd build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+ .debug_info    0x000004dd     0x16ac build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_info    0x00001b89      0x915 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_info    0x0000249e      0xb96 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_info    0x00003034      0x91a build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_info    0x0000394e      0xe07 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_info    0x00004755      0x8d8 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_info    0x0000502d      0xbca build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_info    0x00005bf7      0x49b build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_info    0x00006092      0x883 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_info    0x00006915      0xbe1 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_info    0x000074f6      0xb3e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_info    0x00008034      0xb50 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_info    0x00008b84      0x6da build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .debug_info    0x0000925e      0x850 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+
+.debug_abbrev   0x00000000     0x20a3
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x137 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+ .debug_abbrev  0x00000137      0x37c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_abbrev  0x000004b3      0x237 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_abbrev  0x000006ea      0x22f build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_abbrev  0x00000919      0x224 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_abbrev  0x00000b3d      0x273 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_abbrev  0x00000db0      0x248 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_abbrev  0x00000ff8      0x23f build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_abbrev  0x00001237      0x1d5 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_abbrev  0x0000140c      0x1f8 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_abbrev  0x00001604      0x248 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_abbrev  0x0000184c      0x224 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_abbrev  0x00001a70      0x2b9 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_abbrev  0x00001d29       0xbe build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .debug_abbrev  0x00001de7      0x2bc build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+
+.debug_line     0x00000000     0x4491
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x17e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+ .debug_line_end
+                0x0000017e        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+ .debug_line    0x0000017e      0x4a1 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_line.text.storage_settings_scene_benchmark_dialog_callback
+                0x0000061f       0x20 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_line.text.storage_settings_scene_benchmark_on_enter
+                0x0000063f      0x274 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_line.text.storage_settings_scene_benchmark_on_event
+                0x000008b3       0x6e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_line.text.storage_settings_scene_benchmark_on_exit
+                0x00000921       0x35 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_line_end
+                0x00000956        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_line    0x00000956      0x398 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_line.text.storage_settings_scene_benchmark_confirm_dialog_callback
+                0x00000cee       0x1e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_line.text.storage_settings_scene_benchmark_confirm_on_enter
+                0x00000d0c       0x5b build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_line.text.storage_settings_scene_benchmark_confirm_on_event
+                0x00000d67       0x5e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_line.text.storage_settings_scene_benchmark_confirm_on_exit
+                0x00000dc5       0x1a build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_line_end
+                0x00000ddf        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_line    0x00000ddf      0x410 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_line.text.storage_settings_scene_factory_reset_dialog_callback
+                0x000011ef       0x1e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_line.text.storage_settings_scene_factory_reset_on_enter
+                0x0000120d       0x42 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_line.text.storage_settings_scene_factory_reset_on_event
+                0x0000124f       0x95 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_line.text.storage_settings_scene_factory_reset_on_exit
+                0x000012e4       0x29 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_line_end
+                0x0000130d        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_line    0x0000130d      0x395 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_line.text.storage_settings_scene_format_confirm_dialog_callback
+                0x000016a2       0x1e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_line.text.storage_settings_scene_format_confirm_on_enter
+                0x000016c0       0x58 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_line.text.storage_settings_scene_format_confirm_on_event
+                0x00001718       0x66 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_line.text.storage_settings_scene_format_confirm_on_exit
+                0x0000177e       0x19 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_line_end
+                0x00001797        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_line    0x00001797      0x419 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_line.text.storage_settings_scene_formatting_dialog_callback
+                0x00001bb0       0x20 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_line.text.storage_settings_scene_formatting_on_enter
+                0x00001bd0       0x8f build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_line.text.storage_settings_scene_formatting_on_event
+                0x00001c5f       0x4f build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_line.text.storage_settings_scene_formatting_on_exit
+                0x00001cae       0x2d build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_line_end
+                0x00001cdb        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_line    0x00001cdb      0x36f build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_line.text.storage_settings_scene_internal_info_dialog_callback
+                0x0000204a       0x1e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_line.text.storage_settings_scene_internal_info_on_enter
+                0x00002068       0xa8 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_line.text.storage_settings_scene_internal_info_on_event
+                0x00002110       0x39 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_line.text.storage_settings_scene_internal_info_on_exit
+                0x00002149       0x29 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_line_end
+                0x00002172        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_line    0x00002172      0x3a2 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_line.text.storage_settings_scene_sd_info_dialog_callback
+                0x00002514       0x1e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_line.text.storage_settings_scene_sd_info_on_enter
+                0x00002532       0xc3 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_line.text.storage_settings_scene_sd_info_on_event
+                0x000025f5       0x83 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_line.text.storage_settings_scene_sd_info_on_exit
+                0x00002678       0x29 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_line_end
+                0x000026a1        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_line    0x000026a1      0x304 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_line.text.storage_settings_scene_start_on_enter
+                0x000029a5       0x3d build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_line.text.storage_settings_scene_start_on_event
+                0x000029e2       0x24 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_line.text.storage_settings_scene_start_on_exit
+                0x00002a06       0x17 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_line_end
+                0x00002a1d        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_line    0x00002a1d      0x36e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_line.text.storage_settings_scene_unmount_confirm_dialog_callback
+                0x00002d8b       0x1e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_line.text.storage_settings_scene_unmount_confirm_on_enter
+                0x00002da9       0x5e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_line.text.storage_settings_scene_unmount_confirm_on_event
+                0x00002e07       0x65 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_line.text.storage_settings_scene_unmount_confirm_on_exit
+                0x00002e6c       0x19 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_line_end
+                0x00002e85        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_line    0x00002e85      0x3d7 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_line.text.storage_settings_scene_unmounted_dialog_callback
+                0x0000325c       0x1e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_line.text.storage_settings_scene_unmounted_on_enter
+                0x0000327a       0xaa build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_line.text.storage_settings_scene_unmounted_on_event
+                0x00003324       0x4b build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_line.text.storage_settings_scene_unmounted_on_exit
+                0x0000336f       0x1a build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_line_end
+                0x00003389        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_line    0x00003389      0x3cd build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_line.text.storage_settings_scene_wipe_device_dialog_callback
+                0x00003756       0x1e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_line.text.storage_settings_scene_wipe_device_on_enter
+                0x00003774       0x40 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_line.text.storage_settings_scene_wipe_device_on_event
+                0x000037b4       0x8c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_line.text.storage_settings_scene_wipe_device_on_exit
+                0x00003840       0x29 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_line_end
+                0x00003869        0x0 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_line    0x00003869      0x369 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_line.text.storage_settings_back_event_callback
+                0x00003bd2       0x1e build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_line.text.storage_settings_custom_event_callback
+                0x00003bf0       0x1f build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_line.text.storage_settings_app
+                0x00003c0f      0x11b build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_line_end
+                0x00003d2a        0x0 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_line    0x00003d2a      0x150 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .debug_line_end
+                0x00003e7a        0x0 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .debug_line    0x00003e7a      0x2a4 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .debug_line.text.submenu_settings_helpers_callback
+                0x0000411e       0x46 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .debug_line.text.submenu_settings_helpers_alloc
+                0x00004164       0x77 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .debug_line.text.submenu_settings_helpers_assign_objects
+                0x000041db       0xc0 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .debug_line.text.submenu_settings_helpers_free
+                0x0000429b       0x14 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .debug_line.text.submenu_settings_helpers_app_start
+                0x000042af       0x8e build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .debug_line.text.submenu_settings_helpers_scene_enter
+                0x0000433d       0x8d build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .debug_line.text.submenu_settings_helpers_scene_event
+                0x000043ca       0x6b build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .debug_line.text.submenu_settings_helpers_scene_exit
+                0x00004435       0x5c build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ .debug_line_end
+                0x00004491        0x0 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+
+.debug_frame    0x00000000      0x73c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xa8 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_frame   0x000000a8       0x8c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_frame   0x00000134       0x9c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_frame   0x000001d0       0x8c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_frame   0x0000025c       0x94 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_frame   0x000002f0       0x84 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_frame   0x00000374       0x98 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_frame   0x0000040c       0x54 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_frame   0x00000460       0x8c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_frame   0x000004ec       0x84 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_frame   0x00000570       0x8c build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_frame   0x000005fc       0x54 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_frame   0x00000650       0xec build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+
+.debug_str      0x00000000     0x9c7e
+ *(.debug_str)
+ .debug_str     0x00000000      0xa7e build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+ .debug_str     0x00000a7e     0x11a4 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_str     0x00001c22      0x9b4 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_str     0x000025d6      0xad8 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_str     0x000030ae      0x9ae build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_str     0x00003a5c      0xf99 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_str     0x000049f5      0x8aa build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_str     0x0000529f      0xaf8 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_str     0x00005d97      0x583 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_str     0x0000631a      0x941 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_str     0x00006c5b      0xe67 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_str     0x00007ac2      0xa86 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_str     0x00008548      0xa73 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_str     0x00008fbb      0x6a3 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .debug_str     0x0000965e      0x620 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000      0x154
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_line_str
+                0x000000aa       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+
+.debug_loclists
+                0x00000000     0x1ba0
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x4e6 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_loclists
+                0x000004e6      0x266 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_loclists
+                0x0000074c      0x206 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_loclists
+                0x00000952      0x236 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_loclists
+                0x00000b88      0x251 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_loclists
+                0x00000dd9      0x172 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_loclists
+                0x00000f4b      0x1b6 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_loclists
+                0x00001101       0xaf build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_loclists
+                0x000011b0      0x25f build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_loclists
+                0x0000140f      0x1f2 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_loclists
+                0x00001601      0x1d2 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_loclists
+                0x000017d3       0xcb build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_loclists
+                0x0000189e      0x302 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x312
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0xde build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .debug_rnglists
+                0x000000de       0x26 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .debug_rnglists
+                0x00000104       0x27 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .debug_rnglists
+                0x0000012b       0x26 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .debug_rnglists
+                0x00000151       0x26 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .debug_rnglists
+                0x00000177       0x33 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .debug_rnglists
+                0x000001aa       0x26 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .debug_rnglists
+                0x000001d0       0x1f build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .debug_rnglists
+                0x000001ef       0x26 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .debug_rnglists
+                0x00000215       0x45 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .debug_rnglists
+                0x0000025a       0x27 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .debug_rnglists
+                0x00000281       0x3c build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .debug_rnglists
+                0x000002bd       0x55 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_benchmark_confirm.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_factory_reset.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_format_confirm.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_formatting.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_internal_info.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_sd_info.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_start.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmount_confirm.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_unmounted.o
+ .ARM.attributes
+                0x0000023c       0x34 build/f7-firmware-C/.extapps/storage_settings/scenes/storage_settings_scene_wipe_device.o
+ .ARM.attributes
+                0x00000270       0x34 build/f7-firmware-C/.extapps/storage_settings/storage_settings.o
+ .ARM.attributes
+                0x000002a4       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x000002c6       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000002e8       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000030a       0x34 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .ARM.attributes
+                0x0000033e       0x34 build/f7-firmware-C/lib\libtoolbox.a(submenu_based.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/storage_settings_d.elf elf32-littlearm)
+LOAD linker stubs

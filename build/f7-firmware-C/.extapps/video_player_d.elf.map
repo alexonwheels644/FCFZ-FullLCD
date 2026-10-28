@@ -1,0 +1,383 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+                              build/f7-firmware-C/.extapps/video_player/video_player.o (__aeabi_ldivmod)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/video_player/video_player.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/video_player/init_deinit.o
+LOAD build/f7-firmware-C/.extapps/video_player/video_player.o
+LOAD build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+LOAD build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000      0xe90
+ *(.text)
+ .text          0x00000000       0xa0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+                0x00000000                __aeabi_ldivmod
+ .text          0x000000a0      0x2bc c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x000000a0                __udivmoddi4
+ .text          0x0000035c        0x4 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x0000035c                __aeabi_idiv0
+                0x0000035c                __aeabi_ldiv0
+ *(.stub)
+ *(.text*)
+ .text.player_view_alloc
+                0x00000360       0x58 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+                0x00000360                player_view_alloc
+ .text.init_player
+                0x000003b8       0xb8 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+                0x000003b8                init_player
+ .text.deinit_player
+                0x00000470       0x84 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+                0x00000470                deinit_player
+ .text.direct_input_callback
+                0x000004f4       0x28 build/f7-firmware-C/.extapps/video_player/video_player.o
+                0x000004f4                direct_input_callback
+ .text.draw_callback
+                0x0000051c       0x24 build/f7-firmware-C/.extapps/video_player/video_player.o
+                0x0000051c                draw_callback
+ .text.input_callback
+                0x00000540       0x2c build/f7-firmware-C/.extapps/video_player/video_player.o
+                0x00000540                input_callback
+ .text.player_view_free
+                0x0000056c       0x1c build/f7-firmware-C/.extapps/video_player/video_player.o
+                0x0000056c                player_view_free
+ .text.open_file_stream
+                0x00000588       0xb8 build/f7-firmware-C/.extapps/video_player/video_player.o
+                0x00000588                open_file_stream
+ .text.draw_progress_bar
+                0x00000640       0x54 build/f7-firmware-C/.extapps/video_player/video_player.o
+                0x00000640                draw_progress_bar
+ .text.draw_volume_bar
+                0x00000694       0x54 build/f7-firmware-C/.extapps/video_player/video_player.o
+                0x00000694                draw_volume_bar
+ .text.draw_all
+                0x000006e8       0x6c build/f7-firmware-C/.extapps/video_player/video_player.o
+                0x000006e8                draw_all
+ .text.video_player_app
+                0x00000754      0x4e0 build/f7-firmware-C/.extapps/video_player/video_player.o
+                0x00000754                video_player_app
+ .text.video_player_dma_isr
+                0x00000c34       0x44 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+                0x00000c34                video_player_dma_isr
+ .text.player_init_hardware_and_play
+                0x00000c78      0x194 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+                0x00000c78                player_init_hardware_and_play
+ .text.player_deinit_hardware
+                0x00000e0c       0x64 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+                0x00000e0c                player_deinit_hardware
+ .text.player_stop
+                0x00000e70       0x10 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+                0x00000e70                player_stop
+ .text.player_start
+                0x00000e80       0x10 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+                0x00000e80                player_start
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00000e90       0xc1
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.init_player.str1.1
+                0x00000e90       0x19 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .rodata.deinit_player.str1.1
+                0x00000ea9        0xd build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .rodata.open_file_stream.str1.1
+                0x00000eb6       0x46 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .rodata.video_player_app.str1.1
+                0x00000efc       0x30 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .rodata.I_vid_logo
+                0x00000f2c        0xc build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+                0x00000f2c                I_vid_logo
+ .rodata._I_vid_logo
+                0x00000f38        0x4 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+                0x00000f38                _I_vid_logo
+ .rodata._I_vid_logo_0
+                0x00000f3c       0x15 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+                0x00000f3c                _I_vid_logo_0
+
+.ARM.exidx      0x00000000        0x8
+ .ARM.exidx     0x00000000        0x8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+
+.data           0x00000008       0x30
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.event.0  0x00000008        0xc build/f7-firmware-C/.extapps/video_player/video_player.o
+ .data.event.1  0x00000014        0xc build/f7-firmware-C/.extapps/video_player/video_player.o
+ .data.event.0  0x00000020        0xc build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .data.event.1  0x0000002c        0xc build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xe8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_aranges
+                0x00000030       0x60 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_aranges
+                0x00000090       0x40 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .debug_aranges
+                0x000000d0       0x18 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x4657
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xd55 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_info    0x00000d55     0x19cd build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_info    0x00002722     0x1db1 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .debug_info    0x000044d3      0x184 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+
+.debug_abbrev   0x00000000      0xadc
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x247 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_abbrev  0x00000247      0x3ea build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_abbrev  0x00000631      0x3fa build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .debug_abbrev  0x00000a2b       0xb1 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+
+.debug_line     0x00000000     0x191e
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x395 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_line.text.player_view_alloc
+                0x00000395       0x3c build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_line.text.init_player
+                0x000003d1       0x9e build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_line.text.deinit_player
+                0x0000046f       0x61 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_line_end
+                0x000004d0        0x0 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_line    0x000004d0      0x4e9 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_line.text.direct_input_callback
+                0x000009b9       0x30 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_line.text.draw_callback
+                0x000009e9       0x26 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_line.text.input_callback
+                0x00000a0f       0x37 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_line.text.player_view_free
+                0x00000a46       0x30 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_line.text.open_file_stream
+                0x00000a76       0x88 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_line.text.draw_progress_bar
+                0x00000afe       0x29 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_line.text.draw_volume_bar
+                0x00000b27       0x2f build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_line.text.draw_all
+                0x00000b56       0x4d build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_line.text.video_player_app
+                0x00000ba3      0x489 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_line_end
+                0x0000102c        0x0 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_line    0x0000102c      0x3b7 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .debug_line.text.video_player_dma_isr
+                0x000013e3       0xad build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .debug_line.text.player_init_hardware_and_play
+                0x00001490      0x288 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .debug_line.text.player_deinit_hardware
+                0x00001718       0x60 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .debug_line.text.player_stop
+                0x00001778       0x2a build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .debug_line.text.player_start
+                0x000017a2       0x2a build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .debug_line_end
+                0x000017cc        0x0 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .debug_line    0x000017cc      0x152 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+ .debug_line_end
+                0x0000191e        0x0 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+
+.debug_frame    0x00000000      0x244
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x6c build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_frame   0x0000006c      0x130 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_frame   0x0000019c       0xa8 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+
+.debug_str      0x00000000     0x38ae
+ *(.debug_str)
+ .debug_str     0x00000000      0xd36 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_str     0x00000d36      0xf32 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_str     0x00001c68     0x19ed build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .debug_str     0x00003655      0x259 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000      0x14e
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0xa5 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_line_str
+                0x000000a5       0xa9 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+
+.debug_loclists
+                0x00000000      0x834
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000       0x92 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_loclists
+                0x00000092      0x3d7 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_loclists
+                0x00000469      0x3cb build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x1a4
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x21 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .debug_rnglists
+                0x00000021      0x100 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .debug_rnglists
+                0x00000121       0x83 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/video_player/init_deinit.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/video_player/video_player.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/video_player/video_player_hal.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/video_player/video_player_icons.o
+ .ARM.attributes
+                0x000000d0       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x000000f2       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000126       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/video_player_d.elf elf32-littlearm)
+LOAD linker stubs

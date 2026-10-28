@@ -1,0 +1,808 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o (__aeabi_dsub)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                              build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o (__aeabi_dcmplt)
+build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+                              build/f7-firmware-C/.extapps/cli_js/js_modules.o (I_Warning_30x23)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .rodata.js_tests_assert_float_close.str1.1
+                0x00000000       0x24 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .text.js_tests_assert_float_close
+                0x00000000      0x10c build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .rodata.js_tests_fail.str1.1
+                0x00000000        0x3 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .text.js_tests_fail
+                0x00000000       0x68 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .rodata.js_tests_assert_eq.str1.1
+                0x00000000       0xd4 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .text.js_tests_assert_eq
+                0x00000000      0x1a0 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .rodata.js_tests_create.str1.1
+                0x00000000       0x22 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .text.js_tests_create
+                0x00000000       0x9c build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_info    0x00000000      0xa4f build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_abbrev  0x00000000      0x231 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_loclists
+                0x00000000      0x268 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_aranges
+                0x00000000       0x38 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_rnglists
+                0x00000000       0x40 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_line    0x00000000      0x27a build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_str     0x00000000      0x54b build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_line.text.js_tests_assert_float_close
+                0x00000000      0x17c build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_line.text.js_tests_fail
+                0x00000000       0xa0 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_line.text.js_tests_assert_eq
+                0x00000000      0x17f build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_line.text.js_tests_create
+                0x00000000       0x42 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .debug_frame   0x00000000       0xb4 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .text.js_view_exit
+                0x00000000        0x6 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .rodata.js_callback.str1.1
+                0x00000000       0x4c build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .text.js_callback
+                0x00000000       0xf4 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .rodata.js_app.str1.1
+                0x00000000       0x3b build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .text.js_app   0x00000000      0x1d8 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_line.text.js_view_exit
+                0x00000000       0x1a build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_line.text.js_callback
+                0x00000000       0xb1 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_line.text.js_app
+                0x00000000      0x136 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x110 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Updating_Logo_62x15
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Updating_32x40
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Weather_7x8
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_SDcardFail_11x8
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_qr_benchmark_25x25
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_MFKey_qr_25x25
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_07
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_06
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_05
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_04
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_03
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_02
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_err_01
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Erase_pin_128x64
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_CertificationTaiwan_33x32
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_CertificationMexico_98x41
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_CertificationChina1_124x47
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_CertificationChina0_121x41
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Certification2_46x33
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata.I_Certification1_103x56
+                0x00000000        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Updating_Logo_62x15
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Updating_Logo_62x15_0
+                0x00000000       0x64 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Updating_32x40
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Updating_32x40_0
+                0x00000000       0x8f build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Weather_7x8
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Weather_7x8_0
+                0x00000000        0x9 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_SDcardFail_11x8
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_SDcardFail_11x8_0
+                0x00000000       0x11 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_qr_benchmark_25x25
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_qr_benchmark_25x25_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_MFKey_qr_25x25
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_MFKey_qr_25x25_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_07
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_07_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_06
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_06_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_05
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_05_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_04
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_04_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_03
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_03_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_02
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_02_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_01
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_err_01_0
+                0x00000000       0x65 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Erase_pin_128x64
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Erase_pin_128x64_0
+                0x00000000      0x21a build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationTaiwan_33x32
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationTaiwan_33x32_0
+                0x00000000       0x85 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationMexico_98x41
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationMexico_98x41_0
+                0x00000000      0x115 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationChina1_124x47
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationChina1_124x47_0
+                0x00000000      0x12f build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationChina0_121x41
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_CertificationChina0_121x41_0
+                0x00000000      0x169 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Certification2_46x33
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Certification2_46x33_0
+                0x00000000       0x89 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Certification1_103x56
+                0x00000000        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .rodata._I_Certification1_103x56_0
+                0x00000000      0x19b build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/cli_js/js_value.o
+LOAD build/f7-firmware-C/.extapps/cli_js/js_thread.o
+LOAD build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+LOAD build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+LOAD build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+LOAD build/f7-firmware-C/.extapps/cli_js/js_app.o
+LOAD build/f7-firmware-C/.extapps/cli_js/js_modules.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD build/f7-firmware-C/lib\libassets.a
+LOAD build/f7-firmware-C/lib\libassets.a
+
+.text           0x00000000     0x1e8c
+ *(.text)
+ .text          0x00000000      0x378 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x00000000                __aeabi_drsub
+                0x00000008                __aeabi_dsub
+                0x00000008                __subdf3
+                0x0000000c                __aeabi_dadd
+                0x0000000c                __adddf3
+                0x00000284                __floatunsidf
+                0x00000284                __aeabi_ui2d
+                0x000002a4                __floatsidf
+                0x000002a4                __aeabi_i2d
+                0x000002c8                __aeabi_f2d
+                0x000002c8                __extendsfdf2
+                0x0000030c                __floatundidf
+                0x0000030c                __aeabi_ul2d
+                0x0000031c                __floatdidf
+                0x0000031c                __aeabi_l2d
+ *(.stub)
+ *(.text*)
+ .text.js_value_is_null_or_undefined
+                0x00000378       0x2c build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .text.js_value_maybe_assign_default
+                0x000003a4       0x38 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .text.js_value_parse_literal
+                0x000003dc       0x3c build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .text.js_value_parse_va.isra.0
+                0x00000418      0x3ac build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .text.js_value_buffer_size
+                0x000007c4       0x86 build/f7-firmware-C/.extapps/cli_js/js_value.o
+                0x000007c4                js_value_buffer_size
+ *fill*         0x0000084a        0x2 
+ .text.js_value_parse
+                0x0000084c       0x5c build/f7-firmware-C/.extapps/cli_js/js_value.o
+                0x0000084c                js_value_parse
+ .text.js_exit_flag_poll
+                0x000008a8       0x2c build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_thread
+                0x000008d4      0x3c4 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_str_print
+                0x00000c98       0x90 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_console_debug
+                0x00000d28       0x5c build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_console_error
+                0x00000d84       0x5c build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_console_warn
+                0x00000de0       0x5c build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_console_log
+                0x00000e3c       0x5c build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_print
+                0x00000e98       0x78 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_require
+                0x00000f10       0x70 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_ffi_address
+                0x00000f80       0x4c build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_parse_int
+                0x00000fcc       0xb0 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_dlsym
+                0x0000107c       0x50 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_delay_with_flags
+                0x000010cc       0x30 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+                0x000010cc                js_delay_with_flags
+ .text.js_delay
+                0x000010fc       0x74 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .text.js_flags_set
+                0x00001170       0x24 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+                0x00001170                js_flags_set
+ .text.js_flags_wait
+                0x00001194       0x60 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+                0x00001194                js_flags_wait
+ .text.js_thread_run
+                0x000011f4       0x4c build/f7-firmware-C/.extapps/cli_js/js_thread.o
+                0x000011f4                js_thread_run
+ .text.js_thread_stop
+                0x00001240       0x44 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+                0x00001240                js_thread_stop
+ .text.js_flipper_get_battery
+                0x00001284       0x58 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .text.js_flipper_get_name
+                0x000012dc       0x3c build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .text.js_flipper_get_model
+                0x00001318       0x30 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .text.js_flipper_create
+                0x00001348      0x130 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+                0x00001348                js_flipper_create
+ .text.js_cli_execute
+                0x00001478       0xd0 build/f7-firmware-C/.extapps/cli_js/js_app.o
+                0x00001478                js_cli_execute
+ .text.js_cli_exit.isra.0
+                0x00001548       0x1c build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .text.js_cli_print.isra.0
+                0x00001564       0x24 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .text.js_cli_callback
+                0x00001588       0x7c build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .text.cli_js_ep
+                0x00001604        0x8 build/f7-firmware-C/.extapps/cli_js/js_app.o
+                0x00001604                cli_js_ep
+ .text.js_internal_compat_ask_user
+                0x0000160c       0xac build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .text.js_internal_supports_all_of
+                0x000016b8       0x8c build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .text.JsModuleArray_push_at.constprop.0
+                0x00001744       0x80 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .text.js_modules_create
+                0x000017c4       0x40 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+                0x000017c4                js_modules_create
+ .text.js_modules_destroy
+                0x00001804       0x7c build/f7-firmware-C/.extapps/cli_js/js_modules.o
+                0x00001804                js_modules_destroy
+ .text.js_find_loaded_module
+                0x00001880       0x38 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+                0x00001880                js_find_loaded_module
+ .text.js_module_require
+                0x000018b8      0x21c build/f7-firmware-C/.extapps/cli_js/js_modules.o
+                0x000018b8                js_module_require
+ .text.js_module_get
+                0x00001ad4       0x34 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+                0x00001ad4                js_module_get
+ .text.js_sdk_compatibility_status
+                0x00001b08       0xb0 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+                0x00001b08                js_sdk_compatibility_status
+ .text.js_is_sdk_compatible
+                0x00001bb8       0xa4 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+                0x00001bb8                js_is_sdk_compatible
+ .text.js_check_sdk_compatibility
+                0x00001c5c       0xe0 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+                0x00001c5c                js_check_sdk_compatibility
+ .text.js_does_sdk_support
+                0x00001d3c       0x90 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+                0x00001d3c                js_does_sdk_support
+ .text.js_check_sdk_features
+                0x00001dcc       0xc0 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+                0x00001dcc                js_check_sdk_features
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00001e90      0x703
+ *(.rodata)
+ .rodata        0x00001e90        0x8 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .rodata        0x00001e98       0x10 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.js_value_parse_literal.str1.1
+                0x00001ea8        0xc build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .rodata.js_value_parse_va.isra.0.str1.1
+                0x00001eb4       0x55 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .rodata.js_thread.str1.1
+                0x00001f09       0xdb build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .rodata.js_str_print.str1.1
+                0x00001fe4        0xc build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .rodata.js_console_debug.str1.1
+                0x00001ff0        0x3 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .rodata.js_print.str1.1
+                0x00001ff3        0x5 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .rodata.js_require.str1.1
+                0x00001ff8       0x1c build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .rodata.js_dlsym.str1.1
+                0x00002014       0x16 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .rodata.js_delay.str1.1
+                0x0000202a        0x1 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .rodata.js_thread_run.str1.1
+                0x0000202b        0x9 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ *fill*         0x00002034        0x4 
+ .rodata.js_parse_int_arg_list.1
+                0x00002038       0x30 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .rodata.js_parse_int_args.0
+                0x00002068        0x8 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .rodata.js_flipper_get_battery.str1.1
+                0x00002070        0x6 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .rodata.js_flipper_get_name.str1.1
+                0x00002076        0x8 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .rodata.js_flipper_create.str1.1
+                0x0000207e       0x47 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ *fill*         0x000020c5        0x3 
+ .rodata.application_api_interface
+                0x000020c8        0x4 build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+                0x000020c8                application_api_interface
+ .rodata._ZL34applicaton_hashtable_api_interface
+                0x000020cc       0x10 build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .rodata._ZL13app_api_table
+                0x000020dc       0x30 build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .rodata.js_cli_execute.str1.1
+                0x0000210c       0x5c build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .rodata.js_cli_callback.str1.1
+                0x00002168       0x2d build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .rodata.str1.1
+                0x00002195        0x7 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .rodata.plugin_descriptor_js
+                0x0000219c        0xc build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .rodata.cli_js_desc
+                0x000021a8       0x10 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .rodata.js_internal_compat_ask_user.str1.1
+                0x000021b8       0x40 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .rodata.js_modules_create.str1.1
+                0x000021f8        0x3 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .rodata.js_modules_destroy.str1.1
+                0x000021fb       0x1b build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .rodata.js_module_require.str1.1
+                0x00002216      0x154 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .rodata.js_sdk_compatibility_status.str1.1
+                0x0000236a       0x29 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .rodata.js_check_sdk_compatibility.str1.1
+                0x00002393       0x75 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .rodata.js_check_sdk_features.str1.1
+                0x00002408       0x39 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ *fill*         0x00002441        0x3 
+ .rodata.js_sdk_features_args
+                0x00002444        0x8 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ *fill*         0x0000244c        0x4 
+ .rodata.js_sdk_features_arg_list
+                0x00002450       0x18 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .rodata.str1.1
+                0x00002468       0x6f build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ *fill*         0x000024d7        0x1 
+ .rodata.extra_features
+                0x000024d8       0x28 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .rodata.js_sdk_version_args
+                0x00002500        0x8 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .rodata.js_sdk_version_arg_list
+                0x00002508       0x30 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .rodata.I_Warning_30x23
+                0x00002538        0xc build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+                0x00002538                I_Warning_30x23
+ .rodata._I_Warning_30x23
+                0x00002544        0x4 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+                0x00002544                _I_Warning_30x23
+ .rodata._I_Warning_30x23_0
+                0x00002548       0x4b build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+                0x00002548                _I_Warning_30x23_0
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x230
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x48 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_aranges
+                0x00000048       0xa8 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_aranges
+                0x000000f0       0x38 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_aranges
+                0x00000128       0x18 build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .debug_aranges
+                0x00000140       0x58 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_aranges
+                0x00000198       0x80 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_aranges
+                0x00000218       0x18 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xbdff
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1123 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_info    0x00001123     0x2540 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_info    0x00003663      0x7f4 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_info    0x00003e57     0x4169 build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .debug_info    0x00007fc0     0x14fc build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_info    0x000094bc     0x2269 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_info    0x0000b725      0x6da build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+
+.debug_abbrev   0x00000000     0x1a33
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x412 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_abbrev  0x00000412      0x4e3 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_abbrev  0x000008f5      0x215 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_abbrev  0x00000b0a      0x4ff build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .debug_abbrev  0x00001009      0x400 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_abbrev  0x00001409      0x56c build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_abbrev  0x00001975       0xbe build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+
+.debug_line     0x00000000     0x3081
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x259 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_line.text.js_value_is_null_or_undefined
+                0x00000259       0x3e build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_line.text.js_value_maybe_assign_default
+                0x00000297       0x44 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_line.text.js_value_parse_literal
+                0x000002db       0x6f build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_line.text.js_value_parse_va.isra.0
+                0x0000034a      0x31c build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_line.text.js_value_buffer_size
+                0x00000666       0xf2 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_line.text.js_value_parse
+                0x00000758       0xf1 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_line_end
+                0x00000849        0x0 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_line    0x00000849      0x467 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_exit_flag_poll
+                0x00000cb0       0x43 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_thread
+                0x00000cf3      0x196 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_str_print
+                0x00000e89       0xa5 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_console_debug
+                0x00000f2e       0x3a build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_console_error
+                0x00000f68       0x3a build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_console_warn
+                0x00000fa2       0x3a build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_console_log
+                0x00000fdc       0x39 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_print
+                0x00001015       0x5b build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_require
+                0x00001070       0x72 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_ffi_address
+                0x000010e2       0x4f build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_parse_int
+                0x00001131       0x86 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_dlsym
+                0x000011b7       0x67 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_delay_with_flags
+                0x0000121e       0x4a build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_delay
+                0x00001268       0x6d build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_flags_set
+                0x000012d5       0x33 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_flags_wait
+                0x00001308       0xaa build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_thread_run
+                0x000013b2       0x52 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line.text.js_thread_stop
+                0x00001404       0x30 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line_end
+                0x00001434        0x0 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_line    0x00001434      0x280 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_line.text.js_flipper_get_battery
+                0x000016b4       0x2f build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_line.text.js_flipper_get_name
+                0x000016e3       0x3b build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_line.text.js_flipper_get_model
+                0x0000171e       0x2c build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_line.text.js_flipper_create
+                0x0000174a       0x68 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_line_end
+                0x000017b2        0x0 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_line    0x000017b2      0x5fc build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .debug_line_end
+                0x00001dae        0x0 build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .debug_line    0x00001dae      0x3dd build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_line.text.js_cli_execute
+                0x0000218b       0xc3 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_line.text.js_cli_exit.isra.0
+                0x0000224e       0x2c build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_line.text.js_cli_print.isra.0
+                0x0000227a       0x32 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_line.text.js_cli_callback
+                0x000022ac       0x58 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_line.text.cli_js_ep
+                0x00002304       0x13 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_line_end
+                0x00002317        0x0 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_line    0x00002317      0x393 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_internal_compat_ask_user
+                0x000026aa       0x57 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_internal_supports_all_of
+                0x00002701       0xa8 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.JsModuleArray_push_at.constprop.0
+                0x000027a9       0x32 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_modules_create
+                0x000027db       0x6b build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_modules_destroy
+                0x00002846      0x172 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_find_loaded_module
+                0x000029b8       0xa1 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_module_require
+                0x00002a59      0x190 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_module_get
+                0x00002be9       0x52 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_sdk_compatibility_status
+                0x00002c3b       0xa8 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_is_sdk_compatible
+                0x00002ce3       0x89 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_check_sdk_compatibility
+                0x00002d6c       0xb7 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_does_sdk_support
+                0x00002e23       0x7d build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line.text.js_check_sdk_features
+                0x00002ea0       0x91 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line_end
+                0x00002f31        0x0 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_line    0x00002f31      0x150 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ .debug_line_end
+                0x00003081        0x0 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+
+.debug_frame    0x00000000      0x790
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xfc build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_frame   0x000000fc      0x298 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_frame   0x00000394       0xa4 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_frame   0x00000438      0x124 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_frame   0x0000055c      0x234 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+
+.debug_str      0x00000000     0x6ad1
+ *(.debug_str)
+ .debug_str     0x00000000      0x940 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_str     0x00000940     0x10b5 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_str     0x000019f5      0x587 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_str     0x00001f7c     0x2686 build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .debug_str     0x00004602      0xc53 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_str     0x00005255     0x11d9 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .debug_str     0x0000642e      0x6a3 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000       0xaa
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+
+.debug_loclists
+                0x00000000     0x205b
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x7aa build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_loclists
+                0x000007aa      0x7a5 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_loclists
+                0x00000f4f      0x1e5 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_loclists
+                0x00001134      0x4e5 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_loclists
+                0x00001619      0xa42 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x375
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0xed build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .debug_rnglists
+                0x000000ed       0xba build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .debug_rnglists
+                0x000001a7       0x33 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .debug_rnglists
+                0x000001da       0x86 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .debug_rnglists
+                0x00000260      0x115 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/cli_js/js_value.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/cli_js/js_thread.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/cli_js/modules/js_flipper.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/cli_js/plugin_api/app_api_table.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/cli_js/modules/js_tests.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/cli_js/js_app.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/cli_js/js_modules.o
+ .ARM.attributes
+                0x0000016c       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000018e       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x000001b0       0x34 build/f7-firmware-C/lib\libassets.a(_assets_icons_dropin.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/cli_js_d.elf elf32-littlearm)
+LOAD linker stubs

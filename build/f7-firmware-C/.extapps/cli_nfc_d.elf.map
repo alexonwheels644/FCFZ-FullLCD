@@ -1,0 +1,1818 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .text.nfc_cli_scanner_protocol_was_detected
+                0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line.text.nfc_cli_scanner_protocol_was_detected
+                0x00000000       0x3e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .text.mf_classic_key_cache_save
+                0x00000000      0x1ec build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .text.mf_classic_key_cache_load_default_keys
+                0x00000000       0x98 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .text.mf_classic_key_cache_load_from_data
+                0x00000000       0x8c build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_line.text.mf_classic_key_cache_save
+                0x00000000      0x166 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_line.text.mf_classic_key_cache_load_default_keys
+                0x00000000       0x95 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_line.text.mf_classic_key_cache_load_from_data
+                0x00000000       0x8a build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .rodata.nfc_render_mf_ultralight_pwd_pack.str1.1
+                0x00000000       0x8c build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .text.nfc_render_mf_ultralight_pwd_pack
+                0x00000000       0x8c build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .rodata.nfc_render_mf_ultralight_dump.str1.1
+                0x00000000        0xd build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .text.nfc_render_mf_ultralight_dump
+                0x00000000       0x58 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_line.text.nfc_render_mf_ultralight_pwd_pack
+                0x00000000       0x6b build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_line.text.nfc_render_mf_ultralight_dump
+                0x00000000       0x6a build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+LOAD build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000     0x3278
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.nfc_cli_apdu_parse_data
+                0x00000000       0xd0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .text.nfc_cli_apdu_parse_protocol
+                0x000000d0       0x3c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .text.nfc_cli_apdu_free_ctx
+                0x0000010c       0x74 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .text.nfc_cli_apdu_alloc_ctx
+                0x00000180       0x58 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .text.nfc_cli_apdu_poller_callback
+                0x000001d8       0x94 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .text.nfc_cli_apdu_execute
+                0x0000026c      0x194 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .text.nfc_cli_command_apdu_callback
+                0x00000400       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .text.nfc_cli_dump_poller_callback_iso14443_4b
+                0x0000041c       0x48 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+                0x0000041c                nfc_cli_dump_poller_callback_iso14443_4b
+ .text.nfc_cli_apdu_iso14443_4a_handler
+                0x00000464       0x44 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+                0x00000464                nfc_cli_apdu_iso14443_4a_handler
+ .text.nfc_cli_raw_iso14443_3a_handler
+                0x000004a8      0x120 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+                0x000004a8                nfc_cli_raw_iso14443_3a_handler
+ .text.nfc_cli_scanner_detect_callback
+                0x000005c8       0x38 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .text.nfc_cli_scanner_alloc
+                0x00000600       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+                0x00000600                nfc_cli_scanner_alloc
+ .text.nfc_cli_scanner_free
+                0x00000620        0x8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+                0x00000620                nfc_cli_scanner_free
+ .text.nfc_cli_scanner_detect_protocol
+                0x00000628       0x50 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+                0x00000628                nfc_cli_scanner_detect_protocol
+ .text.nfc_cli_scanner_begin_scan
+                0x00000678       0x24 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+                0x00000678                nfc_cli_scanner_begin_scan
+ .text.nfc_cli_scanner_wait_scan
+                0x0000069c       0x18 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+                0x0000069c                nfc_cli_scanner_wait_scan
+ .text.nfc_cli_scanner_end_scan
+                0x000006b4       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+                0x000006b4                nfc_cli_scanner_end_scan
+ .text.nfc_cli_scanner_list_detected_protocols
+                0x000006d0       0x54 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+                0x000006d0                nfc_cli_scanner_list_detected_protocols
+ .text.nfc_cli_scanner_get_protocol
+                0x00000724        0x6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+                0x00000724                nfc_cli_scanner_get_protocol
+ .text.nfc_cli_scanner_detected_protocol_num
+                0x0000072a        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+                0x0000072a                nfc_cli_scanner_detected_protocol_num
+ *fill*         0x0000072e        0x2 
+ .text.nfc_cli_dump_poller_callback_mf_desfire
+                0x00000730       0x50 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+                0x00000730                nfc_cli_dump_poller_callback_mf_desfire
+ .text.nfc_cli_dump_poller_callback_mf_plus
+                0x00000780       0x4c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+                0x00000780                nfc_cli_dump_poller_callback_mf_plus
+ .text.nfc_cli_raw_felica_activate
+                0x000007cc       0x78 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .text.nfc_cli_raw_felica_handler
+                0x00000844       0xc8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+                0x00000844                nfc_cli_raw_felica_handler
+ .text.nfc_cli_action_free
+                0x0000090c       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .text.nfc_cli_parse_single_key
+                0x00000940      0x1e4 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .text.nfc_cli_command_processor_run
+                0x00000b24      0x2e8 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+                0x00000b24                nfc_cli_command_processor_run
+ .text.nfc_cli_command_processor_alloc
+                0x00000e0c       0x2c build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+                0x00000e0c                nfc_cli_command_processor_alloc
+ .text.nfc_cli_command_processor_free
+                0x00000e38       0x2c build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+                0x00000e38                nfc_cli_command_processor_free
+ .text.nfc_cli_dump_poller_callback_felica
+                0x00000e64       0x70 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+                0x00000e64                nfc_cli_dump_poller_callback_felica
+ .text.nfc_cli_field
+                0x00000ed4       0x50 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .text.nfc_cli_dump_poller_callback_iso14443_3b
+                0x00000f24       0x48 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+                0x00000f24                nfc_cli_dump_poller_callback_iso14443_3b
+ .text.nfc_cli_dump_poller_callback_type_4_tag
+                0x00000f6c       0x50 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+                0x00000f6c                nfc_cli_dump_poller_callback_type_4_tag
+ .text.nfc_cli_dump_poller_callback_iso14443_4a
+                0x00000fbc       0x4c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+                0x00000fbc                nfc_cli_dump_poller_callback_iso14443_4a
+ .text.nfc_get_key_cache_file_path
+                0x00001008       0x58 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .text.mf_classic_key_cache_alloc
+                0x00001060        0xc build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+                0x00001060                mf_classic_key_cache_alloc
+ .text.mf_classic_key_cache_free
+                0x0000106c        0x8 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+                0x0000106c                mf_classic_key_cache_free
+ .text.mf_classic_key_cache_get_next_key
+                0x00001074       0xee build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+                0x00001074                mf_classic_key_cache_get_next_key
+ .text.mf_classic_key_cache_reset
+                0x00001162       0x14 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+                0x00001162                mf_classic_key_cache_reset
+ *fill*         0x00001176        0x2 
+ .text.mf_classic_key_cache_load
+                0x00001178      0x1bc build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+                0x00001178                mf_classic_key_cache_load
+ .text.nfc_cli_apdu_iso14443_4b_handler
+                0x00001334       0x44 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+                0x00001334                nfc_cli_apdu_iso14443_4b_handler
+ .text.nfc_cli_dump_poller_callback_slix
+                0x00001378       0x48 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+                0x00001378                nfc_cli_dump_poller_callback_slix
+ .text.nfc_cli_mfu_wrbl_alloc_ctx
+                0x000013c0       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+                0x000013c0                nfc_cli_mfu_wrbl_alloc_ctx
+ .text.nfc_cli_mfu_wrbl_free_ctx
+                0x000013d4        0x8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+                0x000013d4                nfc_cli_mfu_wrbl_free_ctx
+ .text.nfc_cli_mfu_wrbl_execute
+                0x000013dc       0x6c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+                0x000013dc                nfc_cli_mfu_wrbl_execute
+ .text.nfc_cli_mfu_wrbl_parse_block
+                0x00001448       0x24 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+                0x00001448                nfc_cli_mfu_wrbl_parse_block
+ .text.nfc_cli_mfu_wrbl_parse_data
+                0x0000146c       0x2c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+                0x0000146c                nfc_cli_mfu_wrbl_parse_data
+ .text.nfc_cli_command_scanner_parse_tree
+                0x00001498        0x6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ *fill*         0x0000149e        0x2 
+ .text.nfc_cli_command_scanner_free_ctx
+                0x000014a0       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .text.nfc_cli_command_scanner_alloc_ctx
+                0x000014bc       0x24 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .text.nfc_cli_command_scanner_execute
+                0x000014e0      0x138 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .text.nfc_cli_command_scanner_callback
+                0x00001618       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .text.nfc_cli_dump_poller_callback_mf_classic
+                0x00001634       0xf8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+                0x00001634                nfc_cli_dump_poller_callback_mf_classic
+ .text.nfc_cli_dump_poller_callback_st25tb
+                0x0000172c       0x58 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+                0x0000172c                nfc_cli_dump_poller_callback_st25tb
+ .text.ProtocolTree_new_node
+                0x00001784       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .text.ProtocolTree_search_for_leaf.isra.0
+                0x000017a4       0x4c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .text.nfc_cli_protocol_parser_alloc
+                0x000017f0      0x210 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+                0x000017f0                nfc_cli_protocol_parser_alloc
+ .text.nfc_cli_protocol_parser_free
+                0x00001a00       0x84 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+                0x00001a00                nfc_cli_protocol_parser_free
+ .text.nfc_cli_protocol_parser_get
+                0x00001a84       0x5c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+                0x00001a84                nfc_cli_protocol_parser_get
+ .text.nfc_cli_command_mfu_callback
+                0x00001ae0       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .text.nfc_cli_emulate_parse_filename_key
+                0x00001afc       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .text.nfc_cli_emulate_free_ctx
+                0x00001b10       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .text.nfc_cli_emulate_alloc_ctx
+                0x00001b44       0x3c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .text.nfc_cli_emulate_execute
+                0x00001b80       0xec build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .text.nfc_cli_command_emulate_callback
+                0x00001c6c       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .text.nfc_render_iso14443_3a_format_bytes
+                0x00001c88       0x2c build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+                0x00001c88                nfc_render_iso14443_3a_format_bytes
+ .text.nfc_render_iso14443_tech_type
+                0x00001cb4       0x28 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+                0x00001cb4                nfc_render_iso14443_tech_type
+ .text.nfc_render_iso14443_3a_brief
+                0x00001cdc       0x28 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+                0x00001cdc                nfc_render_iso14443_3a_brief
+ .text.nfc_render_iso14443_3a_extra
+                0x00001d04       0x2c build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+                0x00001d04                nfc_render_iso14443_3a_extra
+ .text.nfc_render_iso14443_3a_info
+                0x00001d30       0x34 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+                0x00001d30                nfc_render_iso14443_3a_info
+ .text.nfc_cli_shell_motd
+                0x00001d64       0x10 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .text.nfc_cli_free
+                0x00001d74       0x3c build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+                0x00001d74                nfc_cli_free
+ .text.nfc_cli_execute
+                0x00001db0      0x140 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+                0x00001db0                nfc_cli_execute
+ .text.cli_nfc_ep
+                0x00001ef0        0x8 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+                0x00001ef0                cli_nfc_ep
+ .text.nfc_cli_dump_poller_callback_iso15693_3
+                0x00001ef8       0x48 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+                0x00001ef8                nfc_cli_dump_poller_callback_iso15693_3
+ .text.nfc_cli_mfu_info_get_vendor
+                0x00001f40       0xc4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .text.nfc_cli_mfu_capability_container_get_access_description
+                0x00002004       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+                0x00002004                nfc_cli_mfu_capability_container_get_access_description
+ .text.nfc_cli_mfu_info_alloc_ctx
+                0x00002038       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+                0x00002038                nfc_cli_mfu_info_alloc_ctx
+ .text.nfc_cli_mfu_info_free_ctx
+                0x00002058       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+                0x00002058                nfc_cli_mfu_info_free_ctx
+ .text.nfc_cli_mfu_info_execute
+                0x00002074      0x2c8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+                0x00002074                nfc_cli_mfu_info_execute
+ .text.nfc_render_mf_ultralight_pages_count
+                0x0000233c       0x3c build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .text.nfc_render_mf_ultralight_info
+                0x00002378       0x48 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+                0x00002378                nfc_render_mf_ultralight_info
+ .text.nfc_cli_dump_poller_callback_ntag4xx
+                0x000023c0       0x4c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+                0x000023c0                nfc_cli_dump_poller_callback_ntag4xx
+ .text.nfc_cli_dump_parse_timeout
+                0x0000240c       0x24 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+                0x0000240c                nfc_cli_dump_parse_timeout
+ .text.nfc_cli_dump_parse_filename_key
+                0x00002430       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .text.nfc_cli_dump_parse_protocol
+                0x00002444       0x38 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .text.nfc_cli_dump_parse_key
+                0x0000247c       0x50 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .text.nfc_cli_dump_free_ctx
+                0x000024cc       0x5c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .text.nfc_cli_dump_alloc_ctx
+                0x00002528       0x74 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .text.nfc_cli_command_dump_callback
+                0x0000259c       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .text.nfc_cli_dump_execute
+                0x000025b8      0x20c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .text.nfc_cli_command_get_count
+                0x000027c4        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+                0x000027c4                nfc_cli_command_get_count
+ .text.nfc_cli_command_get_action_by_name
+                0x000027c8       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+                0x000027c8                nfc_cli_command_get_action_by_name
+ .text.nfc_cli_command_get_by_index
+                0x000027fc        0xc build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+                0x000027fc                nfc_cli_command_get_by_index
+ .text.nfc_cli_command_has_multiple_actions
+                0x00002808       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+                0x00002808                nfc_cli_command_has_multiple_actions
+ .text.nfc_cli_command_get_name
+                0x00002824        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+                0x00002824                nfc_cli_command_get_name
+ .text.nfc_cli_command_get_execute
+                0x00002828        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+                0x00002828                nfc_cli_command_get_execute
+ .text.nfc_cli_action_get_key_descriptor
+                0x0000282c       0x54 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+                0x0000282c                nfc_cli_action_get_key_descriptor
+ .text.nfc_cli_action_get_required_keys_count
+                0x00002880       0x24 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+                0x00002880                nfc_cli_action_get_required_keys_count
+ .text.nfc_cli_action_format_info
+                0x000028a4      0x128 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+                0x000028a4                nfc_cli_action_format_info
+ .text.nfc_cli_command_format_info
+                0x000029cc       0x68 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+                0x000029cc                nfc_cli_command_format_info
+ .text.nfc_cli_apdu_iso15693_3_handler
+                0x00002a34       0x4c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+                0x00002a34                nfc_cli_apdu_iso15693_3_handler
+ .text.nfc_cli_raw_iso14443_3b_handler
+                0x00002a80      0x160 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+                0x00002a80                nfc_cli_raw_iso14443_3b_handler
+ .text.nfc_cli_dump_poller_callback_iso14443_3a
+                0x00002be0       0x48 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+                0x00002be0                nfc_cli_dump_poller_callback_iso14443_3a
+ .text.nfc_cli_raw_iso15693_3_handler
+                0x00002c28      0x10c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+                0x00002c28                nfc_cli_raw_iso15693_3_handler
+ .text.nfc_cli_raw_can_reuse_ctx
+                0x00002d34        0xe build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_raw_parse_select
+                0x00002d42        0x6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_raw_parse_crc
+                0x00002d48        0x6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_raw_parse_keep
+                0x00002d4e        0x6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_raw_parse_data
+                0x00002d54       0x5c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_raw_parse_protocol
+                0x00002db0       0x78 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_raw_parse_timeout
+                0x00002e28       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_raw_free_ctx
+                0x00002e44       0x88 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_raw_alloc_ctx
+                0x00002ecc       0x5c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_raw_poller_callback
+                0x00002f28       0x8c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_raw_execute
+                0x00002fb4       0xf4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_command_raw_callback
+                0x000030a8       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .text.nfc_cli_dump_poller_callback_mf_ultralight
+                0x000030c4       0x8c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+                0x000030c4                nfc_cli_dump_poller_callback_mf_ultralight
+ .text.nfc_cli_get_protocol_name
+                0x00003150        0xc build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+                0x00003150                nfc_cli_get_protocol_name
+ .text.nfc_cli_mf_ultralight_get_error
+                0x0000315c        0xc build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+                0x0000315c                nfc_cli_mf_ultralight_get_error
+ .text.nfc_cli_format_array
+                0x00003168       0x38 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+                0x00003168                nfc_cli_format_array
+ .text.nfc_cli_printf_array
+                0x000031a0       0x30 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+                0x000031a0                nfc_cli_printf_array
+ .text.nfc_cli_mfu_rdbl_alloc_ctx
+                0x000031d0       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+                0x000031d0                nfc_cli_mfu_rdbl_alloc_ctx
+ .text.nfc_cli_mfu_rdbl_free_ctx
+                0x000031e4        0x8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+                0x000031e4                nfc_cli_mfu_rdbl_free_ctx
+ .text.nfc_cli_mfu_rdbl_execute
+                0x000031ec       0x68 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+                0x000031ec                nfc_cli_mfu_rdbl_execute
+ .text.nfc_cli_mfu_rdbl_parse_block
+                0x00003254       0x24 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+                0x00003254                nfc_cli_mfu_rdbl_parse_block
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00003278     0x1bb9
+ *(.rodata)
+ .rodata        0x00003278        0xc build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .rodata        0x00003284        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.nfc_cli_apdu_parse_data.str1.1
+                0x00003288       0x3d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .rodata.nfc_cli_apdu_poller_callback.str1.1
+                0x000032c5       0x2e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .rodata.nfc_cli_apdu_execute.str1.1
+                0x000032f3       0x33 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .rodata.str1.1
+                0x00003326      0x10c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ *fill*         0x00003432        0x2 
+ .rodata.apdu_cmd
+                0x00003434       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+                0x00003434                apdu_cmd
+ .rodata.apdu_action
+                0x00003448       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+                0x00003448                apdu_action
+ .rodata.apdu_keys
+                0x00003468       0x28 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+                0x00003468                apdu_keys
+ .rodata.supported_protocols
+                0x00003490       0x18 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .rodata.raw_error_names
+                0x000034a8       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .rodata.CSWTCH.1
+                0x000034bc        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .rodata.nfc_cli_raw_iso14443_3a_handler.str1.1
+                0x000034c0       0x42 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .rodata.CSWTCH.3
+                0x00003502        0x8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .rodata.nfc_cli_scanner_list_detected_protocols.str1.1
+                0x0000350a       0x1f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .rodata.nfc_cli_raw_felica_activate.str1.1
+                0x00003529       0x22 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .rodata.nfc_cli_raw_felica_handler.str1.1
+                0x0000354b        0xd build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .rodata.CSWTCH.3
+                0x00003558        0x9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .rodata.nfc_cli_action_free.str1.1
+                0x00003561       0x32 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .rodata.nfc_cli_parse_single_key.str1.1
+                0x00003593       0xdb build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .rodata.nfc_cli_command_processor_run.str1.1
+                0x0000366e      0x145 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .rodata.nfc_cli_field.str1.1
+                0x000037b3       0x53 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .rodata.str1.1
+                0x00003806       0x19 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ *fill*         0x0000381f        0x1 
+ .rodata.field_cmd
+                0x00003820       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+                0x00003820                field_cmd
+ .rodata.nfc_get_key_cache_file_path.str1.1
+                0x00003834       0x22 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .rodata.mf_classic_key_cache_save.str1.1
+                0x00003856       0x61 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .rodata.CSWTCH.1
+                0x000038b7        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .rodata.nfc_cli_mfu_wrbl_execute.str1.1
+                0x000038bb       0x3c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .rodata.nfc_cli_command_scanner_execute.str1.1
+                0x000038f7       0x4d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .rodata.str1.1
+                0x00003944       0x59 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ *fill*         0x0000399d        0x3 
+ .rodata.scanner_cmd
+                0x000039a0       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+                0x000039a0                scanner_cmd
+ .rodata.scanner_action
+                0x000039b4       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+                0x000039b4                scanner_action
+ .rodata.tree_key
+                0x000039d4       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+                0x000039d4                tree_key
+ .rodata.nfc_cli_dump_poller_callback_mf_classic.str1.1
+                0x000039e8       0x28 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .rodata.str1.1
+                0x00003a10       0xd4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .rodata.mfu_cmd
+                0x00003ae4       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+                0x00003ae4                mfu_cmd
+ .rodata.wrbl_action
+                0x00003af8       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+                0x00003af8                wrbl_action
+ .rodata.wrbl_action_keys
+                0x00003b18       0x28 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+                0x00003b18                wrbl_action_keys
+ .rodata.rdbl_action
+                0x00003b40       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+                0x00003b40                rdbl_action
+ .rodata.rdbl_action_keys
+                0x00003b60       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+                0x00003b60                rdbl_action_keys
+ .rodata.info_action
+                0x00003b74       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+                0x00003b74                info_action
+ .rodata.nfc_cli_emulate_free_ctx.str1.1
+                0x00003b94        0x8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .rodata.nfc_cli_emulate_execute.str1.1
+                0x00003b9c       0x94 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .rodata.str1.1
+                0x00003c30       0x3d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ *fill*         0x00003c6d        0x3 
+ .rodata.emulate_cmd
+                0x00003c70       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+                0x00003c70                emulate_cmd
+ .rodata.emulate_action
+                0x00003c84       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+                0x00003c84                emulate_action
+ .rodata.emulate_keys
+                0x00003ca4       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+                0x00003ca4                emulate_keys
+ .rodata.supported_protocols
+                0x00003cb8        0x7 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .rodata.nfc_render_iso14443_3a_format_bytes.str1.1
+                0x00003cbf        0x6 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .rodata.nfc_render_iso14443_tech_type.str1.1
+                0x00003cc5       0x1c build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .rodata.nfc_render_iso14443_3a_brief.str1.1
+                0x00003ce1        0x5 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .rodata.nfc_render_iso14443_3a_extra.str1.1
+                0x00003ce6       0x1e build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .rodata.nfc_cli_shell_motd.str1.1
+                0x00003d04      0x40c build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .rodata.nfc_cli_execute.str1.1
+                0x00004110       0x61 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .rodata.str1.1
+                0x00004171        0x8 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ *fill*         0x00004179        0x3 
+ .rodata.plugin_descriptor_nfc
+                0x0000417c        0xc build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .rodata.cli_nfc_desc
+                0x00004188       0x10 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .rodata.nfc_cli_mfu_info_get_vendor.str1.1
+                0x00004198       0x56 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .rodata.nfc_cli_mfu_capability_container_get_access_description.str1.1
+                0x000041ee       0x3e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .rodata.nfc_cli_mfu_info_execute.str1.1
+                0x0000422c      0x29f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .rodata.nfc_render_mf_ultralight_pages_count.str1.1
+                0x000044cb       0x2e build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .rodata.nfc_render_mf_ultralight_info.str1.1
+                0x000044f9       0x11 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .rodata.nfc_cli_dump_parse_key.str1.1
+                0x0000450a       0x1f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .rodata.nfc_cli_dump_free_ctx.str1.1
+                0x00004529        0x8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .rodata.nfc_cli_dump_execute.str1.1
+                0x00004531       0xe8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .rodata.str1.1
+                0x00004619      0x120 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ *fill*         0x00004739        0x3 
+ .rodata.dump_cmd
+                0x0000473c       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+                0x0000473c                dump_cmd
+ .rodata.dump_action
+                0x00004750       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+                0x00004750                dump_action
+ .rodata.dump_keys
+                0x00004770       0x50 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+                0x00004770                dump_keys
+ .rodata.supported_protocols
+                0x000047c0       0x70 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .rodata.nfc_cli_dump_error_names
+                0x00004830       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .rodata.nfc_cli_action_format_info.str1.1
+                0x00004844       0x88 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .rodata.nfc_cli_command_format_info.str1.1
+                0x000048cc       0x2f build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ *fill*         0x000048fb        0x1 
+ .rodata.nfc_cli_commands
+                0x000048fc       0x1c build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .rodata.CSWTCH.1
+                0x00004918        0x7 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .rodata.nfc_cli_raw_iso14443_3b_handler.str1.1
+                0x0000491f       0x71 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .rodata.CSWTCH.2
+                0x00004990        0x8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .rodata.nfc_cli_raw_iso15693_3_handler.str1.1
+                0x00004998       0x27 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .rodata.CSWTCH.3
+                0x000049bf        0x7 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .rodata.nfc_cli_raw_parse_protocol.str1.1
+                0x000049c6       0x3b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .rodata.nfc_cli_raw_poller_callback.str1.1
+                0x00004a01       0x2d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .rodata.nfc_cli_raw_execute.str1.1
+                0x00004a2e       0x21 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .rodata.str1.1
+                0x00004a4f      0x160 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ *fill*         0x00004baf        0x1 
+ .rodata.raw_cmd
+                0x00004bb0       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+                0x00004bb0                raw_cmd
+ .rodata.raw_action
+                0x00004bc4       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+                0x00004bc4                raw_action
+ .rodata.raw_action_keys
+                0x00004be4       0x78 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+                0x00004be4                raw_action_keys
+ .rodata.supported_protocols
+                0x00004c5c       0x30 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .rodata.nfc_cli_raw_protocol_handlers
+                0x00004c8c       0x38 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+                0x00004c8c                nfc_cli_raw_protocol_handlers
+ .rodata.raw_error_names
+                0x00004cc4       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .rodata.nfc_cli_format_array.str1.1
+                0x00004cd8        0x9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .rodata.str1.1
+                0x00004ce1       0xd6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ *fill*         0x00004db7        0x1 
+ .rodata.mf_ultralight_error_names
+                0x00004db8       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .rodata.protocol_names
+                0x00004dcc       0x3c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .rodata.nfc_cli_mfu_rdbl_execute.str1.1
+                0x00004e08       0x29 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+
+.data           0x00004e34       0x5c
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.apdu_actions_collection
+                0x00004e34        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+                0x00004e34                apdu_actions_collection
+ .data.scanner_actions_collection
+                0x00004e38        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+                0x00004e38                scanner_actions_collection
+ .data.mfu_actions
+                0x00004e3c        0xc build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+                0x00004e3c                mfu_actions
+ .data.emulate_actions_collection
+                0x00004e48        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+                0x00004e48                emulate_actions_collection
+ .data.dump_actions_collection
+                0x00004e4c        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+                0x00004e4c                dump_actions_collection
+ .data.protocol_poller_callbacks
+                0x00004e50       0x3c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+                0x00004e50                protocol_poller_callbacks
+ .data.raw_actions_collection
+                0x00004e8c        0x4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+                0x00004e8c                raw_actions_collection
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x7e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x50 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_aranges
+                0x00000050       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .debug_aranges
+                0x00000070       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .debug_aranges
+                0x00000090       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .debug_aranges
+                0x000000b0       0x70 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_aranges
+                0x00000120       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .debug_aranges
+                0x00000140       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .debug_aranges
+                0x00000160       0x28 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .debug_aranges
+                0x00000188       0x40 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_aranges
+                0x000001c8       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .debug_aranges
+                0x000001e8       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .debug_aranges
+                0x00000208       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .debug_aranges
+                0x00000228       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .debug_aranges
+                0x00000248       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .debug_aranges
+                0x00000268       0x60 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_aranges
+                0x000002c8       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .debug_aranges
+                0x000002e8       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .debug_aranges
+                0x00000308       0x40 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_aranges
+                0x00000348       0x40 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_aranges
+                0x00000388       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .debug_aranges
+                0x000003a8       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .debug_aranges
+                0x000003c8       0x40 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_aranges
+                0x00000408       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .debug_aranges
+                0x00000428       0x40 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_aranges
+                0x00000468       0x40 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_aranges
+                0x000004a8       0x38 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_aranges
+                0x000004e0       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .debug_aranges
+                0x00000500       0x40 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_aranges
+                0x00000540       0x38 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_aranges
+                0x00000578       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .debug_aranges
+                0x00000598       0x58 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_aranges
+                0x000005f0       0x68 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_aranges
+                0x00000658       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .debug_aranges
+                0x00000678       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .debug_aranges
+                0x00000698       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .debug_aranges
+                0x000006b8       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .debug_aranges
+                0x000006d8       0x78 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_aranges
+                0x00000750       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .debug_aranges
+                0x00000770       0x38 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_aranges
+                0x000007a8       0x38 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x194cd
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x18da build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_info    0x000018da      0x679 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .debug_info    0x00001f53      0x3ef build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .debug_info    0x00002342      0x848 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .debug_info    0x00002b8a      0x827 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_info    0x000033b1      0x68e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .debug_info    0x00003a3f      0x68b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .debug_info    0x000040ca      0xe48 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .debug_info    0x00004f12     0x1623 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_info    0x00006535      0x760 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .debug_info    0x00006c95      0x4bc build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .debug_info    0x00007151      0x692 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .debug_info    0x000077e3      0x975 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .debug_info    0x00008158      0x67f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .debug_info    0x000087d7     0x11ff build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_info    0x000099d6      0x3e9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .debug_info    0x00009dbf      0x6de build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .debug_info    0x0000a49d      0x641 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_info    0x0000aade      0xaef build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_info    0x0000b5cd      0xdf8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .debug_info    0x0000c3c5      0x7cc build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .debug_info    0x0000cb91      0xe46 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_info    0x0000d9d7      0x589 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .debug_info    0x0000df60      0xba1 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_info    0x0000eb01      0x3ed build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_info    0x0000eeee      0xa2b build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_info    0x0000f919      0x6c1 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .debug_info    0x0000ffda     0x1477 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_info    0x00011451      0xa72 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_info    0x00011ec3      0x679 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .debug_info    0x0001253c     0x18b6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_info    0x00013df2      0xaa4 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_info    0x00014896      0x455 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .debug_info    0x00014ceb      0xb74 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .debug_info    0x0001585f      0x691 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .debug_info    0x00015ef0      0xb76 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .debug_info    0x00016a66     0x1679 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_info    0x000180df      0xb0c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .debug_info    0x00018beb      0x3b1 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_info    0x00018f9c      0x531 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+
+.debug_abbrev   0x00000000     0x6290
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x480 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_abbrev  0x00000480      0x1d9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .debug_abbrev  0x00000659      0x1a8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .debug_abbrev  0x00000801      0x233 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .debug_abbrev  0x00000a34      0x28e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_abbrev  0x00000cc2      0x1d9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .debug_abbrev  0x00000e9b      0x1d9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .debug_abbrev  0x00001074      0x30b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .debug_abbrev  0x0000137f      0x45e build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_abbrev  0x000017dd      0x20e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .debug_abbrev  0x000019eb      0x1d7 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .debug_abbrev  0x00001bc2      0x1d9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .debug_abbrev  0x00001d9b      0x1f3 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .debug_abbrev  0x00001f8e      0x1d9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .debug_abbrev  0x00002167      0x2f5 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_abbrev  0x0000245c      0x1a8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .debug_abbrev  0x00002604      0x1d9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .debug_abbrev  0x000027dd      0x204 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_abbrev  0x000029e1      0x332 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_abbrev  0x00002d13      0x240 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .debug_abbrev  0x00002f53      0x1d9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .debug_abbrev  0x0000312c      0x3ba build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_abbrev  0x000034e6      0x19d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .debug_abbrev  0x00003683      0x321 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_abbrev  0x000039a4      0x1ca build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_abbrev  0x00003b6e      0x2e6 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_abbrev  0x00003e54      0x1d9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .debug_abbrev  0x0000402d      0x3d1 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_abbrev  0x000043fe      0x2bd build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_abbrev  0x000046bb      0x1d9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .debug_abbrev  0x00004894      0x48b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_abbrev  0x00004d1f      0x341 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_abbrev  0x00005060      0x1a8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .debug_abbrev  0x00005208      0x2c4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .debug_abbrev  0x000054cc      0x1d9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .debug_abbrev  0x000056a5      0x286 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .debug_abbrev  0x0000592b      0x3eb build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_abbrev  0x00005d16      0x216 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .debug_abbrev  0x00005f2c      0x164 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_abbrev  0x00006090      0x200 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+
+.debug_line     0x00000000     0xc061
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x55f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_line.text.nfc_cli_apdu_parse_data
+                0x0000055f       0xd6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_line.text.nfc_cli_apdu_parse_protocol
+                0x00000635       0x49 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_line.text.nfc_cli_apdu_free_ctx
+                0x0000067e       0xa3 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_line.text.nfc_cli_apdu_alloc_ctx
+                0x00000721       0xa6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_line.text.nfc_cli_apdu_poller_callback
+                0x000007c7       0x86 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_line.text.nfc_cli_apdu_execute
+                0x0000084d      0x1a2 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_line.text.nfc_cli_command_apdu_callback
+                0x000009ef       0x19 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_line_end
+                0x00000a08        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_line    0x00000a08      0x3a6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .debug_line.text.nfc_cli_dump_poller_callback_iso14443_4b
+                0x00000dae       0x59 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .debug_line_end
+                0x00000e07        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .debug_line    0x00000e07      0x198 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .debug_line.text.nfc_cli_apdu_iso14443_4a_handler
+                0x00000f9f       0x64 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .debug_line_end
+                0x00001003        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .debug_line    0x00001003      0x357 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .debug_line.text.nfc_cli_raw_iso14443_3a_handler
+                0x0000135a      0x10c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .debug_line_end
+                0x00001466        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .debug_line    0x00001466      0x261 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line.text.nfc_cli_scanner_detect_callback
+                0x000016c7       0x41 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line.text.nfc_cli_scanner_alloc
+                0x00001708       0x3b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line.text.nfc_cli_scanner_free
+                0x00001743       0x1a build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line.text.nfc_cli_scanner_detect_protocol
+                0x0000175d       0x45 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line.text.nfc_cli_scanner_begin_scan
+                0x000017a2       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line.text.nfc_cli_scanner_wait_scan
+                0x000017d6       0x29 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line.text.nfc_cli_scanner_end_scan
+                0x000017ff       0x26 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line.text.nfc_cli_scanner_list_detected_protocols
+                0x00001825       0x5e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line.text.nfc_cli_scanner_get_protocol
+                0x00001883       0x24 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line.text.nfc_cli_scanner_detected_protocol_num
+                0x000018a7       0x1e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line_end
+                0x000018c5        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_line    0x000018c5      0x3a0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .debug_line.text.nfc_cli_dump_poller_callback_mf_desfire
+                0x00001c65       0x67 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .debug_line_end
+                0x00001ccc        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .debug_line    0x00001ccc      0x38e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .debug_line.text.nfc_cli_dump_poller_callback_mf_plus
+                0x0000205a       0x7b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .debug_line_end
+                0x000020d5        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .debug_line    0x000020d5      0x371 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .debug_line.text.nfc_cli_raw_felica_activate
+                0x00002446       0x6f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .debug_line.text.nfc_cli_raw_felica_handler
+                0x000024b5       0xc4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .debug_line_end
+                0x00002579        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .debug_line    0x00002579      0x2a7 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_line.text.nfc_cli_action_free
+                0x00002820       0x44 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_line.text.nfc_cli_parse_single_key
+                0x00002864      0x1af build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_line.text.nfc_cli_command_processor_run
+                0x00002a13      0x39e build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_line.text.nfc_cli_command_processor_alloc
+                0x00002db1       0x58 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_line.text.nfc_cli_command_processor_free
+                0x00002e09       0x30 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_line_end
+                0x00002e39        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_line    0x00002e39      0x363 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .debug_line.text.nfc_cli_dump_poller_callback_felica
+                0x0000319c       0x84 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .debug_line_end
+                0x00003220        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .debug_line    0x00003220      0x27a build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .debug_line.text.nfc_cli_field
+                0x0000349a       0x4a build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .debug_line_end
+                0x000034e4        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .debug_line    0x000034e4      0x3a6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .debug_line.text.nfc_cli_dump_poller_callback_iso14443_3b
+                0x0000388a       0x5f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .debug_line_end
+                0x000038e9        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .debug_line    0x000038e9      0x422 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .debug_line.text.nfc_cli_dump_poller_callback_type_4_tag
+                0x00003d0b       0x75 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .debug_line_end
+                0x00003d80        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .debug_line    0x00003d80      0x3a6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .debug_line.text.nfc_cli_dump_poller_callback_iso14443_4a
+                0x00004126       0x54 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .debug_line_end
+                0x0000417a        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .debug_line    0x0000417a      0x2c6 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_line.text.nfc_get_key_cache_file_path
+                0x00004440       0x5a build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_line.text.mf_classic_key_cache_alloc
+                0x0000449a       0x18 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_line.text.mf_classic_key_cache_free
+                0x000044b2       0x1a build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_line.text.mf_classic_key_cache_get_next_key
+                0x000044cc       0xb6 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_line.text.mf_classic_key_cache_reset
+                0x00004582       0x37 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_line.text.mf_classic_key_cache_load
+                0x000045b9      0x146 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_line_end
+                0x000046ff        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_line    0x000046ff      0x198 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .debug_line.text.nfc_cli_apdu_iso14443_4b_handler
+                0x00004897       0x64 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .debug_line_end
+                0x000048fb        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .debug_line    0x000048fb      0x37c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .debug_line.text.nfc_cli_dump_poller_callback_slix
+                0x00004c77       0x59 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .debug_line_end
+                0x00004cd0        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .debug_line    0x00004cd0      0x2f5 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_line.text.nfc_cli_mfu_wrbl_alloc_ctx
+                0x00004fc5       0x37 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_line.text.nfc_cli_mfu_wrbl_free_ctx
+                0x00004ffc       0x1b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_line.text.nfc_cli_mfu_wrbl_execute
+                0x00005017       0x46 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_line.text.nfc_cli_mfu_wrbl_parse_block
+                0x0000505d       0x31 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_line.text.nfc_cli_mfu_wrbl_parse_data
+                0x0000508e       0x5f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_line_end
+                0x000050ed        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_line    0x000050ed      0x334 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_line.text.nfc_cli_command_scanner_parse_tree
+                0x00005421       0x24 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_line.text.nfc_cli_command_scanner_free_ctx
+                0x00005445       0x31 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_line.text.nfc_cli_command_scanner_alloc_ctx
+                0x00005476       0x47 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_line.text.nfc_cli_command_scanner_execute
+                0x000054bd      0x138 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_line.text.nfc_cli_command_scanner_callback
+                0x000055f5       0x19 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_line_end
+                0x0000560e        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_line    0x0000560e      0x434 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .debug_line.text.nfc_cli_dump_poller_callback_mf_classic
+                0x00005a42      0x120 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .debug_line_end
+                0x00005b62        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .debug_line    0x00005b62      0x388 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .debug_line.text.nfc_cli_dump_poller_callback_st25tb
+                0x00005eea       0x73 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .debug_line_end
+                0x00005f5d        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .debug_line    0x00005f5d      0x17b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_line.text.ProtocolTree_new_node
+                0x000060d8       0x2f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_line.text.ProtocolTree_search_for_leaf.isra.0
+                0x00006107       0x2d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_line.text.nfc_cli_protocol_parser_alloc
+                0x00006134      0x1f0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_line.text.nfc_cli_protocol_parser_free
+                0x00006324       0xa6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_line.text.nfc_cli_protocol_parser_get
+                0x000063ca       0x84 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_line_end
+                0x0000644e        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_line    0x0000644e      0x1f8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .debug_line.text.nfc_cli_command_mfu_callback
+                0x00006646       0x19 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .debug_line_end
+                0x0000665f        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .debug_line    0x0000665f      0x3b0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_line.text.nfc_cli_emulate_parse_filename_key
+                0x00006a0f       0x30 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_line.text.nfc_cli_emulate_free_ctx
+                0x00006a3f       0x2f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_line.text.nfc_cli_emulate_alloc_ctx
+                0x00006a6e       0x5b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_line.text.nfc_cli_emulate_execute
+                0x00006ac9       0xe9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_line.text.nfc_cli_command_emulate_callback
+                0x00006bb2       0x19 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_line_end
+                0x00006bcb        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_line    0x00006bcb      0x220 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_line.text.nfc_render_iso14443_3a_format_bytes
+                0x00006deb       0x48 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_line.text.nfc_render_iso14443_tech_type
+                0x00006e33       0x2c build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_line.text.nfc_render_iso14443_3a_brief
+                0x00006e5f       0x28 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_line.text.nfc_render_iso14443_3a_extra
+                0x00006e87       0x2d build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_line.text.nfc_render_iso14443_3a_info
+                0x00006eb4       0x3b build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_line_end
+                0x00006eef        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_line    0x00006eef      0x2fb build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_line.text.nfc_cli_shell_motd
+                0x000071ea       0x17 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_line.text.nfc_cli_free
+                0x00007201       0x2f build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_line.text.nfc_cli_execute
+                0x00007230      0x153 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_line.text.cli_nfc_ep
+                0x00007383       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_line_end
+                0x00007396        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_line    0x00007396      0x3a0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .debug_line.text.nfc_cli_dump_poller_callback_iso15693_3
+                0x00007736       0x4f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .debug_line_end
+                0x00007785        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .debug_line    0x00007785      0x486 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_line.text.nfc_cli_mfu_info_get_vendor
+                0x00007c0b       0x7a build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_line.text.nfc_cli_mfu_capability_container_get_access_description
+                0x00007c85       0x3e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_line.text.nfc_cli_mfu_info_alloc_ctx
+                0x00007cc3       0x3c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_line.text.nfc_cli_mfu_info_free_ctx
+                0x00007cff       0x2e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_line.text.nfc_cli_mfu_info_execute
+                0x00007d2d      0x213 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_line_end
+                0x00007f40        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_line    0x00007f40      0x2bd build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_line.text.nfc_render_mf_ultralight_pages_count
+                0x000081fd       0x35 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_line.text.nfc_render_mf_ultralight_info
+                0x00008232       0x5c build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_line_end
+                0x0000828e        0x0 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_line    0x0000828e      0x38e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .debug_line.text.nfc_cli_dump_poller_callback_ntag4xx
+                0x0000861c       0x7b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .debug_line_end
+                0x00008697        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .debug_line    0x00008697      0xa52 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_line.text.nfc_cli_dump_parse_timeout
+                0x000090e9       0x32 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_line.text.nfc_cli_dump_parse_filename_key
+                0x0000911b       0x30 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_line.text.nfc_cli_dump_parse_protocol
+                0x0000914b       0x51 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_line.text.nfc_cli_dump_parse_key
+                0x0000919c       0x98 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_line.text.nfc_cli_dump_free_ctx
+                0x00009234       0x40 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_line.text.nfc_cli_dump_alloc_ctx
+                0x00009274       0x90 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_line.text.nfc_cli_command_dump_callback
+                0x00009304       0x19 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_line.text.nfc_cli_dump_execute
+                0x0000931d      0x1e0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_line_end
+                0x000094fd        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_line    0x000094fd      0x2c2 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line.text.nfc_cli_command_get_count
+                0x000097bf       0x18 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line.text.nfc_cli_command_get_action_by_name
+                0x000097d7       0x5f build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line.text.nfc_cli_command_get_by_index
+                0x00009836       0x1d build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line.text.nfc_cli_command_has_multiple_actions
+                0x00009853       0x4c build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line.text.nfc_cli_command_get_name
+                0x0000989f       0x1d build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line.text.nfc_cli_command_get_execute
+                0x000098bc       0x1d build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line.text.nfc_cli_action_get_key_descriptor
+                0x000098d9       0x88 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line.text.nfc_cli_action_get_required_keys_count
+                0x00009961       0x5a build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line.text.nfc_cli_action_format_info
+                0x000099bb      0x113 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line.text.nfc_cli_command_format_info
+                0x00009ace       0x6b build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line_end
+                0x00009b39        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_line    0x00009b39      0x23d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .debug_line.text.nfc_cli_apdu_iso15693_3_handler
+                0x00009d76       0x64 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .debug_line_end
+                0x00009dda        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .debug_line    0x00009dda      0x356 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .debug_line.text.nfc_cli_raw_iso14443_3b_handler
+                0x0000a130      0x162 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .debug_line_end
+                0x0000a292        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .debug_line    0x0000a292      0x3c6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .debug_line.text.nfc_cli_dump_poller_callback_iso14443_3a
+                0x0000a658       0x57 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .debug_line_end
+                0x0000a6af        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .debug_line    0x0000a6af      0x34e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .debug_line.text.nfc_cli_raw_iso15693_3_handler
+                0x0000a9fd      0x122 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .debug_line_end
+                0x0000ab1f        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .debug_line    0x0000ab1f      0x59c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_raw_can_reuse_ctx
+                0x0000b0bb       0x42 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_raw_parse_select
+                0x0000b0fd       0x24 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_raw_parse_crc
+                0x0000b121       0x24 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_raw_parse_keep
+                0x0000b145       0x24 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_raw_parse_data
+                0x0000b169       0x77 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_raw_parse_protocol
+                0x0000b1e0       0x8b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_raw_parse_timeout
+                0x0000b26b       0x52 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_raw_free_ctx
+                0x0000b2bd       0x8b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_raw_alloc_ctx
+                0x0000b348       0x89 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_raw_poller_callback
+                0x0000b3d1       0xa4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_raw_execute
+                0x0000b475       0x9c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line.text.nfc_cli_command_raw_callback
+                0x0000b511       0x19 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line_end
+                0x0000b52a        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_line    0x0000b52a      0x3af build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .debug_line.text.nfc_cli_dump_poller_callback_mf_ultralight
+                0x0000b8d9       0xa3 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .debug_line_end
+                0x0000b97c        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .debug_line    0x0000b97c      0x226 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_line.text.nfc_cli_get_protocol_name
+                0x0000bba2       0x1d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_line.text.nfc_cli_mf_ultralight_get_error
+                0x0000bbbf       0x1d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_line.text.nfc_cli_format_array
+                0x0000bbdc       0x6b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_line.text.nfc_cli_printf_array
+                0x0000bc47       0x5f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_line_end
+                0x0000bca6        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_line    0x0000bca6      0x2eb build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+ .debug_line.text.nfc_cli_mfu_rdbl_alloc_ctx
+                0x0000bf91       0x37 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+ .debug_line.text.nfc_cli_mfu_rdbl_free_ctx
+                0x0000bfc8       0x1b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+ .debug_line.text.nfc_cli_mfu_rdbl_execute
+                0x0000bfe3       0x4d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+ .debug_line.text.nfc_cli_mfu_rdbl_parse_block
+                0x0000c030       0x31 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+ .debug_line_end
+                0x0000c061        0x0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+
+.debug_frame    0x00000000     0x138c
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x11c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_frame   0x0000011c       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .debug_frame   0x00000150       0x30 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .debug_frame   0x00000180       0x40 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .debug_frame   0x000001c0      0x124 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_frame   0x000002e4       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .debug_frame   0x00000318       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .debug_frame   0x0000034c       0x5c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .debug_frame   0x000003a8       0xec build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_frame   0x00000494       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .debug_frame   0x000004c8       0x38 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .debug_frame   0x00000500       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .debug_frame   0x00000534       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .debug_frame   0x00000568       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .debug_frame   0x0000059c      0x12c build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_frame   0x000006c8       0x30 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .debug_frame   0x000006f8       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .debug_frame   0x0000072c       0xa4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_frame   0x000007d0       0xb0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_frame   0x00000880       0x38 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .debug_frame   0x000008b8       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .debug_frame   0x000008ec       0xe8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_frame   0x000009d4       0x2c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .debug_frame   0x00000a00       0xb4 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_frame   0x00000ab4       0xbc build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_frame   0x00000b70       0x98 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_frame   0x00000c08       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .debug_frame   0x00000c3c       0xe8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_frame   0x00000d24       0xa0 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_frame   0x00000dc4       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .debug_frame   0x00000df8      0x114 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_frame   0x00000f0c      0x12c build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_frame   0x00001038       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .debug_frame   0x0000106c       0x40 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .debug_frame   0x000010ac       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .debug_frame   0x000010e0       0x3c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .debug_frame   0x0000111c      0x15c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_frame   0x00001278       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .debug_frame   0x000012ac       0x70 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_frame   0x0000131c       0x70 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+
+.debug_str      0x00000000    0x17a45
+ *(.debug_str)
+ .debug_str     0x00000000     0x100c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_str     0x0000100c      0x88f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .debug_str     0x0000189b      0x691 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .debug_str     0x00001f2c      0x880 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .debug_str     0x000027ac      0x76d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_str     0x00002f19      0x8c1 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .debug_str     0x000037da      0x892 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .debug_str     0x0000406c      0xd71 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .debug_str     0x00004ddd      0xb38 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_str     0x00005915      0x99b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .debug_str     0x000062b0      0x579 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .debug_str     0x00006829      0x902 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .debug_str     0x0000712b      0xbae build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .debug_str     0x00007cd9      0x8a9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .debug_str     0x00008582      0x91b build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_str     0x00008e9d      0x677 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .debug_str     0x00009514      0x8f7 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .debug_str     0x00009e0b      0x522 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_str     0x0000a32d      0x91c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_str     0x0000ac49     0x1242 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .debug_str     0x0000be8b      0xa8f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .debug_str     0x0000c91a      0x6c6 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_str     0x0000cfe0      0x591 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .debug_str     0x0000d571      0x95a build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_str     0x0000decb      0x376 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_str     0x0000e241      0x6e0 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_str     0x0000e921      0x9b8 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .debug_str     0x0000f2d9      0xe47 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_str     0x00010120      0x81e build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_str     0x0001093e      0x862 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .debug_str     0x000111a0     0x1188 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_str     0x00012328      0x643 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_str     0x0001296b      0x7b1 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .debug_str     0x0001311c      0xbb0 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .debug_str     0x00013ccc      0x902 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .debug_str     0x000145ce      0xc29 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .debug_str     0x000151f7     0x104f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_str     0x00016246      0xe53 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .debug_str     0x00017099      0x4df build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_str     0x00017578      0x4cd build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0x4e6d
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x535 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_loclists
+                0x00000535       0x6e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .debug_loclists
+                0x000005a3       0x68 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .debug_loclists
+                0x0000060b      0x158 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .debug_loclists
+                0x00000763      0x27f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_loclists
+                0x000009e2       0x9f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .debug_loclists
+                0x00000a81       0x66 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .debug_loclists
+                0x00000ae7      0x196 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .debug_loclists
+                0x00000c7d      0x94f build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_loclists
+                0x000015cc       0xf9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .debug_loclists
+                0x000016c5       0x5f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .debug_loclists
+                0x00001724       0x7a build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .debug_loclists
+                0x0000179e       0x66 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .debug_loclists
+                0x00001804       0x5e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .debug_loclists
+                0x00001862      0x4c0 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_loclists
+                0x00001d22       0x68 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .debug_loclists
+                0x00001d8a       0x6e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .debug_loclists
+                0x00001df8      0x238 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_loclists
+                0x00002030      0x26d build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_loclists
+                0x0000229d      0x13b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .debug_loclists
+                0x000023d8       0x85 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .debug_loclists
+                0x0000245d      0x637 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_loclists
+                0x00002a94       0x66 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .debug_loclists
+                0x00002afa      0x294 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_loclists
+                0x00002d8e      0x1c2 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_loclists
+                0x00002f50      0x1f9 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_loclists
+                0x00003149       0x5e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .debug_loclists
+                0x000031a7      0x42a build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_loclists
+                0x000035d1      0x216 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_loclists
+                0x000037e7       0x66 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .debug_loclists
+                0x0000384d      0x59b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_loclists
+                0x00003de8      0x395 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_loclists
+                0x0000417d       0x68 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .debug_loclists
+                0x000041e5      0x238 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .debug_loclists
+                0x0000441d       0x6e build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .debug_loclists
+                0x0000448b      0x198 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .debug_loclists
+                0x00004623      0x4dd build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_loclists
+                0x00004b00       0xe9 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .debug_loclists
+                0x00004be9      0x160 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_loclists
+                0x00004d49      0x124 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0xd11
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000      0x104 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .debug_rnglists
+                0x00000104       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .debug_rnglists
+                0x00000117       0x1f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .debug_rnglists
+                0x00000136       0x55 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .debug_rnglists
+                0x0000018b       0x76 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .debug_rnglists
+                0x00000201       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .debug_rnglists
+                0x00000214       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .debug_rnglists
+                0x00000227       0x4a build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .debug_rnglists
+                0x00000271      0x141 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .debug_rnglists
+                0x000003b2       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .debug_rnglists
+                0x000003c5       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .debug_rnglists
+                0x000003d8       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .debug_rnglists
+                0x000003eb       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .debug_rnglists
+                0x000003fe       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .debug_rnglists
+                0x00000411       0xdf build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .debug_rnglists
+                0x000004f0       0x1f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .debug_rnglists
+                0x0000050f       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .debug_rnglists
+                0x00000522       0x3a build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .debug_rnglists
+                0x0000055c       0x82 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .debug_rnglists
+                0x000005de       0x20 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .debug_rnglists
+                0x000005fe       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .debug_rnglists
+                0x00000611      0x132 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .debug_rnglists
+                0x00000743       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .debug_rnglists
+                0x00000756       0x45 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .debug_rnglists
+                0x0000079b       0x3a build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .debug_rnglists
+                0x000007d5       0x8a build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .debug_rnglists
+                0x0000085f       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .debug_rnglists
+                0x00000872       0x9c build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .debug_rnglists
+                0x0000090e       0x5c build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .debug_rnglists
+                0x0000096a       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .debug_rnglists
+                0x0000097d       0xb1 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .debug_rnglists
+                0x00000a2e      0x102 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .debug_rnglists
+                0x00000b30       0x1f build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .debug_rnglists
+                0x00000b4f       0x53 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .debug_rnglists
+                0x00000ba2       0x13 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .debug_rnglists
+                0x00000bb5       0x55 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .debug_rnglists
+                0x00000c0a       0x8b build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .debug_rnglists
+                0x00000c95       0x14 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .debug_rnglists
+                0x00000ca9       0x43 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .debug_rnglists
+                0x00000cec       0x25 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/nfc_cli_command_apdu.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4b/nfc_cli_dump_iso14443_4b.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4a/nfc_cli_apdu_iso14443_4a.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3a/nfc_cli_raw_iso14443_3a.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_scanner.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_desfire/nfc_cli_dump_mf_desfire.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_plus/nfc_cli_dump_mf_plus.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/felica/nfc_cli_raw_felica.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_command_processor.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/felica/nfc_cli_dump_felica.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_field.o
+ .ARM.attributes
+                0x0000023c       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3b/nfc_cli_dump_iso14443_3b.o
+ .ARM.attributes
+                0x00000270       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/type_4_tag/nfc_cli_dump_type_4_tag.o
+ .ARM.attributes
+                0x000002a4       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_4a/nfc_cli_dump_iso14443_4a.o
+ .ARM.attributes
+                0x000002d8       0x34 build/f7-firmware-C/.extapps/cli_nfc/helpers/mf_classic_key_cache.o
+ .ARM.attributes
+                0x0000030c       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso14443_4b/nfc_cli_apdu_iso14443_4b.o
+ .ARM.attributes
+                0x00000340       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/slix/nfc_cli_dump_slix.o
+ .ARM.attributes
+                0x00000374       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_wrbl.o
+ .ARM.attributes
+                0x000003a8       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_scanner.o
+ .ARM.attributes
+                0x000003dc       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_classic/nfc_cli_dump_mf_classic.o
+ .ARM.attributes
+                0x00000410       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/st25tb/nfc_cli_dump_st25tb.o
+ .ARM.attributes
+                0x00000444       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_protocol_parser.o
+ .ARM.attributes
+                0x00000478       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_command_mfu.o
+ .ARM.attributes
+                0x000004ac       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/nfc_cli_command_emulate.o
+ .ARM.attributes
+                0x000004e0       0x34 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/iso14443_3a/iso14443_3a_render.o
+ .ARM.attributes
+                0x00000514       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli.o
+ .ARM.attributes
+                0x00000548       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso15693_3/nfc_cli_dump_iso15693_3.o
+ .ARM.attributes
+                0x0000057c       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_info.o
+ .ARM.attributes
+                0x000005b0       0x34 build/f7-firmware-C/.extapps/cli_nfc/helpers/protocol_support/mf_ultralight/mf_ultralight_render.o
+ .ARM.attributes
+                0x000005e4       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/ntag4xx/nfc_cli_dump_ntag4xx.o
+ .ARM.attributes
+                0x00000618       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/nfc_cli_command_dump.o
+ .ARM.attributes
+                0x0000064c       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/nfc_cli_commands.o
+ .ARM.attributes
+                0x00000680       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/apdu/protocol_handlers/iso15693_3/nfc_cli_apdu_iso15693_3.o
+ .ARM.attributes
+                0x000006b4       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso14443_3b/nfc_cli_raw_iso14443_3b.o
+ .ARM.attributes
+                0x000006e8       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/iso14443_3a/nfc_cli_dump_iso14443_3a.o
+ .ARM.attributes
+                0x0000071c       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/protocol_handlers/iso15693_3/nfc_cli_raw_iso15693_3.o
+ .ARM.attributes
+                0x00000750       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/raw/nfc_cli_command_raw.o
+ .ARM.attributes
+                0x00000784       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/dump/protocols/mf_ultralight/nfc_cli_dump_mf_ultralight.o
+ .ARM.attributes
+                0x000007b8       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/helpers/nfc_cli_format.o
+ .ARM.attributes
+                0x000007ec       0x34 build/f7-firmware-C/.extapps/cli_nfc/cli/commands/mfu/nfc_cli_action_rdbl.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/cli_nfc_d.elf elf32-littlearm)
+LOAD linker stubs

@@ -1,0 +1,7 @@
+{
+    "firmware_build_date": "29-10-2026",
+    "firmware_commit": "5d82f580",
+    "firmware_branch": "ssd1306_mcp23017",
+    "firmware_target": 7,
+    "firmware_version": "mntm-dev"
+}

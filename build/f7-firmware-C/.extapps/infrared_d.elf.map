@@ -1,0 +1,2285 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .text.infrared_text_store_clear
+                0x00000000       0x18 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_text_store_clear
+                0x00000000       0x1e build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .text.infrared_signal_set_signal
+                0x00000000       0x2c build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .text.infrared_signal_search_by_name_and_read
+                0x00000000       0x58 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_set_signal
+                0x00000000       0x3b build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_search_by_name_and_read
+                0x00000000       0x65 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+LOAD build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+LOAD build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+LOAD build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+LOAD build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+LOAD build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+LOAD build/f7-firmware-C/.extapps/infrared/infrared_app.o
+LOAD build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+LOAD build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+LOAD build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD build/f7-firmware-C/lib\libassets.a
+LOAD build/f7-firmware-C/lib\libassets.a
+
+.text           0x00000000     0x6898
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.infrared_scene_universal_common_progress_input_callback
+                0x00000000       0x1c build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .text.infrared_scene_universal_common_task_callback
+                0x0000001c       0x24 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .text.infrared_scene_universal_common_hide_popup
+                0x00000040       0x2c build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .text.infrared_scene_universal_common_item_callback
+                0x0000006c       0x24 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+                0x0000006c                infrared_scene_universal_common_item_callback
+ .text.infrared_scene_universal_common_on_enter
+                0x00000090       0x44 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+                0x00000090                infrared_scene_universal_common_on_enter
+ .text.infrared_scene_universal_common_on_event
+                0x000000d4      0x274 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+                0x000000d4                infrared_scene_universal_common_on_event
+ .text.infrared_scene_universal_common_on_exit
+                0x00000348       0x38 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+                0x00000348                infrared_scene_universal_common_on_exit
+ .text.infrared_scene_dialog_result_callback
+                0x00000380       0x10 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .text.infrared_scene_ask_back_on_enter
+                0x00000390       0xb8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+                0x00000390                infrared_scene_ask_back_on_enter
+ .text.infrared_scene_ask_back_on_event
+                0x00000448       0x48 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+                0x00000448                infrared_scene_ask_back_on_event
+ .text.infrared_scene_ask_back_on_exit
+                0x00000490        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+                0x00000490                infrared_scene_ask_back_on_exit
+ .text.infrared_scene_dialog_result_callback
+                0x0000049c       0x10 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .text.infrared_scene_ask_retry_on_enter
+                0x000004ac       0xa8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+                0x000004ac                infrared_scene_ask_retry_on_enter
+ .text.infrared_scene_ask_retry_on_event
+                0x00000554       0x40 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+                0x00000554                infrared_scene_ask_retry_on_event
+ .text.infrared_scene_ask_retry_on_exit
+                0x00000594        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+                0x00000594                infrared_scene_ask_retry_on_exit
+ .text.infrared_scene_debug_on_enter
+                0x000005a0       0x50 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+                0x000005a0                infrared_scene_debug_on_enter
+ .text.infrared_scene_debug_on_event
+                0x000005f0      0x174 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+                0x000005f0                infrared_scene_debug_on_event
+ .text.infrared_scene_debug_on_exit
+                0x00000764       0x2c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+                0x00000764                infrared_scene_debug_on_exit
+ .text.infrared_scene_edit_submenu_callback
+                0x00000790        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .text.infrared_scene_edit_on_enter
+                0x0000079c       0xb0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+                0x0000079c                infrared_scene_edit_on_enter
+ .text.infrared_scene_edit_on_event
+                0x0000084c       0x88 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+                0x0000084c                infrared_scene_edit_on_event
+ .text.infrared_scene_edit_on_exit
+                0x000008d4        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+                0x000008d4                infrared_scene_edit_on_exit
+ .text.infrared_scene_edit_button_select_submenu_callback
+                0x000008e0        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .text.infrared_scene_edit_button_select_on_enter
+                0x000008ec       0x9c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+                0x000008ec                infrared_scene_edit_button_select_on_enter
+ .text.infrared_scene_edit_button_select_on_event
+                0x00000988       0x48 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+                0x00000988                infrared_scene_edit_button_select_on_event
+ .text.infrared_scene_edit_button_select_on_exit
+                0x000009d0        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+                0x000009d0                infrared_scene_edit_button_select_on_exit
+ .text.infrared_scene_edit_delete_dialog_result_callback
+                0x000009dc       0x10 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .text.infrared_scene_edit_delete_task_callback
+                0x000009ec       0x48 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .text.infrared_scene_edit_delete_on_enter
+                0x00000a34      0x214 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+                0x00000a34                infrared_scene_edit_delete_on_enter
+ .text.infrared_scene_edit_delete_on_event
+                0x00000c48       0xc8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+                0x00000c48                infrared_scene_edit_delete_on_event
+ .text.infrared_scene_edit_delete_on_exit
+                0x00000d10        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+                0x00000d10                infrared_scene_edit_delete_on_exit
+ .text.infrared_scene_edit_delete_done_on_enter
+                0x00000d1c       0x7c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+                0x00000d1c                infrared_scene_edit_delete_done_on_enter
+ .text.infrared_scene_edit_delete_done_on_event
+                0x00000d98       0x6c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+                0x00000d98                infrared_scene_edit_delete_done_on_event
+ .text.infrared_scene_edit_delete_done_on_exit
+                0x00000e04        0x2 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+                0x00000e04                infrared_scene_edit_delete_done_on_exit
+ *fill*         0x00000e06        0x2 
+ .text.infrared_scene_edit_move_button_callback
+                0x00000e08       0x14 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .text.infrared_scene_edit_move_task_callback
+                0x00000e1c       0x28 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .text.infrared_scene_edit_move_on_enter
+                0x00000e44       0x60 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+                0x00000e44                infrared_scene_edit_move_on_enter
+ .text.infrared_scene_edit_move_on_event
+                0x00000ea4       0xa0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+                0x00000ea4                infrared_scene_edit_move_on_event
+ .text.infrared_scene_edit_move_on_exit
+                0x00000f44        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+                0x00000f44                infrared_scene_edit_move_on_exit
+ .text.infrared_scene_edit_rename_task_callback
+                0x00000f50       0x4c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .text.infrared_scene_edit_rename_on_enter
+                0x00000f9c      0x114 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+                0x00000f9c                infrared_scene_edit_rename_on_enter
+ .text.infrared_scene_edit_rename_on_event
+                0x000010b0       0xb8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+                0x000010b0                infrared_scene_edit_rename_on_event
+ .text.infrared_scene_edit_rename_on_exit
+                0x00001168       0x28 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+                0x00001168                infrared_scene_edit_rename_on_exit
+ .text.infrared_scene_edit_rename_done_on_enter
+                0x00001190       0x7c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+                0x00001190                infrared_scene_edit_rename_done_on_enter
+ .text.infrared_scene_edit_rename_done_on_event
+                0x0000120c       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+                0x0000120c                infrared_scene_edit_rename_done_on_event
+ .text.infrared_scene_edit_rename_done_on_exit
+                0x00001244        0x2 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+                0x00001244                infrared_scene_edit_rename_done_on_exit
+ *fill*         0x00001246        0x2 
+ .text.infrared_scene_error_databases_on_enter
+                0x00001248       0x70 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+                0x00001248                infrared_scene_error_databases_on_enter
+ .text.infrared_scene_error_databases_on_event
+                0x000012b8       0x2c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+                0x000012b8                infrared_scene_error_databases_on_event
+ .text.infrared_scene_error_databases_on_exit
+                0x000012e4       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+                0x000012e4                infrared_scene_error_databases_on_exit
+ .text.infrared_scene_gpio_settings_init
+                0x00001304       0xa0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .text.infrared_scene_gpio_settings_otg_change_callback
+                0x000013a4       0x4c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .text.infrared_scene_gpio_settings_pin_change_callback
+                0x000013f0       0x4c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .text.infrared_scene_gpio_settings_on_enter
+                0x0000143c       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+                0x0000143c                infrared_scene_gpio_settings_on_enter
+ .text.infrared_scene_gpio_settings_on_event
+                0x00001458       0x58 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+                0x00001458                infrared_scene_gpio_settings_on_event
+ .text.infrared_scene_gpio_settings_on_exit
+                0x000014b0       0x1c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+                0x000014b0                infrared_scene_gpio_settings_on_exit
+ .text.infrared_scene_learn_dialog_result_callback
+                0x000014cc       0x10 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .text.infrared_scene_learn_get_next_name
+                0x000014dc       0x84 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .text.infrared_scene_learn_update_button_name
+                0x00001560       0xcc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .text.infrared_scene_learn_on_enter
+                0x0000162c      0x150 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+                0x0000162c                infrared_scene_learn_on_enter
+ .text.infrared_scene_learn_on_event
+                0x0000177c      0x104 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+                0x0000177c                infrared_scene_learn_on_event
+ .text.infrared_scene_learn_on_exit
+                0x00001880       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+                0x00001880                infrared_scene_learn_on_exit
+ .text.infrared_scene_learn_done_on_enter
+                0x000018b8       0xa8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+                0x000018b8                infrared_scene_learn_done_on_enter
+ .text.infrared_scene_learn_done_on_event
+                0x00001960       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+                0x00001960                infrared_scene_learn_done_on_event
+ .text.infrared_scene_learn_done_on_exit
+                0x00001998       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+                0x00001998                infrared_scene_learn_done_on_exit
+ .text.infrared_scene_learn_enter_name_on_enter
+                0x000019b8      0x100 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+                0x000019b8                infrared_scene_learn_enter_name_on_enter
+ .text.infrared_scene_learn_enter_name_on_event
+                0x00001ab8       0xa4 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+                0x00001ab8                infrared_scene_learn_enter_name_on_event
+ .text.infrared_scene_learn_enter_name_on_exit
+                0x00001b5c        0x2 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+                0x00001b5c                infrared_scene_learn_enter_name_on_exit
+ *fill*         0x00001b5e        0x2 
+ .text.infrared_scene_learn_success_dialog_result_callback
+                0x00001b60       0x10 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .text.infrared_scene_learn_success_on_enter
+                0x00001b70      0x1a8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+                0x00001b70                infrared_scene_learn_success_on_enter
+ .text.infrared_scene_learn_success_on_event
+                0x00001d18       0x84 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+                0x00001d18                infrared_scene_learn_success_on_event
+ .text.infrared_scene_learn_success_on_exit
+                0x00001d9c       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+                0x00001d9c                infrared_scene_learn_success_on_exit
+ .text.infrared_scene_remote_button_menu_callback
+                0x00001dbc       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .text.infrared_scene_remote_on_enter
+                0x00001df4       0xc8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+                0x00001df4                infrared_scene_remote_on_enter
+ .text.infrared_scene_remote_on_event
+                0x00001ebc       0xc0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+                0x00001ebc                infrared_scene_remote_on_event
+ .text.infrared_scene_remote_on_exit
+                0x00001f7c        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+                0x00001f7c                infrared_scene_remote_on_exit
+ .text.infrared_scene_remote_list_task_callback
+                0x00001f88       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .text.infrared_scene_remote_list_select_and_load
+                0x00001fb8       0x58 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .text.infrared_scene_remote_list_on_enter
+                0x00002010        0x8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+                0x00002010                infrared_scene_remote_list_on_enter
+ .text.infrared_scene_remote_list_on_event
+                0x00002018       0x78 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+                0x00002018                infrared_scene_remote_list_on_event
+ .text.infrared_scene_remote_list_on_exit
+                0x00002090        0x2 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+                0x00002090                infrared_scene_remote_list_on_exit
+ *fill*         0x00002092        0x2 
+ .text.infrared_scene_rpc_task_callback
+                0x00002094       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .text.infrared_scene_rpc_show
+                0x000020c4       0xb4 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .text.infrared_scene_rpc_on_enter
+                0x00002178       0x10 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+                0x00002178                infrared_scene_rpc_on_enter
+ .text.infrared_scene_rpc_on_event
+                0x00002188      0x278 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+                0x00002188                infrared_scene_rpc_on_event
+ .text.infrared_scene_rpc_on_exit
+                0x00002400       0x2c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+                0x00002400                infrared_scene_rpc_on_exit
+ .text.infrared_scene_start_submenu_callback
+                0x0000242c        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .text.infrared_scene_start_on_enter
+                0x00002438       0xb8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+                0x00002438                infrared_scene_start_on_enter
+ .text.infrared_scene_start_on_event
+                0x000024f0       0x78 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+                0x000024f0                infrared_scene_start_on_event
+ .text.infrared_scene_start_on_exit
+                0x00002568        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+                0x00002568                infrared_scene_start_on_exit
+ .text.infrared_scene_universal_submenu_callback
+                0x00002574        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .text.infrared_scene_universal_on_enter
+                0x00002580       0xdc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+                0x00002580                infrared_scene_universal_on_enter
+ .text.infrared_scene_universal_on_event
+                0x0000265c       0x74 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+                0x0000265c                infrared_scene_universal_on_event
+ .text.infrared_scene_universal_on_exit
+                0x000026d0        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+                0x000026d0                infrared_scene_universal_on_exit
+ .text.infrared_scene_universal_ac_on_enter
+                0x000026dc      0x200 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+                0x000026dc                infrared_scene_universal_ac_on_enter
+ .text.infrared_scene_universal_ac_on_event
+                0x000028dc       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+                0x000028dc                infrared_scene_universal_ac_on_event
+ .text.infrared_scene_universal_ac_on_exit
+                0x000028f4        0x8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+                0x000028f4                infrared_scene_universal_ac_on_exit
+ .text.infrared_scene_universal_audio_on_enter
+                0x000028fc      0x260 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+                0x000028fc                infrared_scene_universal_audio_on_enter
+ .text.infrared_scene_universal_audio_on_event
+                0x00002b5c       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+                0x00002b5c                infrared_scene_universal_audio_on_event
+ .text.infrared_scene_universal_audio_on_exit
+                0x00002b74        0x8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+                0x00002b74                infrared_scene_universal_audio_on_exit
+ .text.infrared_scene_universal_bluray_on_enter
+                0x00002b7c      0x2b0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+                0x00002b7c                infrared_scene_universal_bluray_on_enter
+ .text.infrared_scene_universal_bluray_on_event
+                0x00002e2c       0x50 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+                0x00002e2c                infrared_scene_universal_bluray_on_event
+ .text.infrared_scene_universal_bluray_on_exit
+                0x00002e7c       0x50 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+                0x00002e7c                infrared_scene_universal_bluray_on_exit
+ .text.infrared_scene_universal_digital_sign_on_enter
+                0x00002ecc      0x174 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+                0x00002ecc                infrared_scene_universal_digital_sign_on_enter
+ .text.infrared_scene_universal_digital_sign_on_event
+                0x00003040       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+                0x00003040                infrared_scene_universal_digital_sign_on_event
+ .text.infrared_scene_universal_digital_sign_on_exit
+                0x00003058        0x8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+                0x00003058                infrared_scene_universal_digital_sign_on_exit
+ .text.infrared_scene_universal_fan_on_enter
+                0x00003060      0x1e8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+                0x00003060                infrared_scene_universal_fan_on_enter
+ .text.infrared_scene_universal_fan_on_event
+                0x00003248       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+                0x00003248                infrared_scene_universal_fan_on_event
+ .text.infrared_scene_universal_fan_on_exit
+                0x00003260        0x8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+                0x00003260                infrared_scene_universal_fan_on_exit
+ .text.infrared_scene_universal_from_file_task_callback
+                0x00003268       0x7c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .text.infrared_scene_universal_from_file_item_callback
+                0x000032e4       0x24 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .text.infrared_scene_universal_from_file_on_enter
+                0x00003308       0xc8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+                0x00003308                infrared_scene_universal_from_file_on_enter
+ .text.infrared_scene_universal_from_file_on_event
+                0x000033d0       0x8c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+                0x000033d0                infrared_scene_universal_from_file_on_event
+ .text.infrared_scene_universal_from_file_on_exit
+                0x0000345c       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+                0x0000345c                infrared_scene_universal_from_file_on_exit
+ .text.infrared_scene_universal_leds_on_enter
+                0x00003494      0x23c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+                0x00003494                infrared_scene_universal_leds_on_enter
+ .text.infrared_scene_universal_leds_on_event
+                0x000036d0       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+                0x000036d0                infrared_scene_universal_leds_on_event
+ .text.infrared_scene_universal_leds_on_exit
+                0x000036e8        0x8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+                0x000036e8                infrared_scene_universal_leds_on_exit
+ .text.infrared_scene_universal_monitor_on_enter
+                0x000036f0      0x174 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+                0x000036f0                infrared_scene_universal_monitor_on_enter
+ .text.infrared_scene_universal_monitor_on_event
+                0x00003864       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+                0x00003864                infrared_scene_universal_monitor_on_event
+ .text.infrared_scene_universal_monitor_on_exit
+                0x0000387c        0x8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+                0x0000387c                infrared_scene_universal_monitor_on_exit
+ .text.infrared_scene_universal_projector_on_enter
+                0x00003884      0x1e8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+                0x00003884                infrared_scene_universal_projector_on_enter
+ .text.infrared_scene_universal_projector_on_event
+                0x00003a6c       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+                0x00003a6c                infrared_scene_universal_projector_on_event
+ .text.infrared_scene_universal_projector_on_exit
+                0x00003a84        0x8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+                0x00003a84                infrared_scene_universal_projector_on_exit
+ .text.infrared_scene_universal_tv_on_enter
+                0x00003a8c      0x1dc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+                0x00003a8c                infrared_scene_universal_tv_on_enter
+ .text.infrared_scene_universal_tv_on_event
+                0x00003c68       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+                0x00003c68                infrared_scene_universal_tv_on_event
+ .text.infrared_scene_universal_tv_on_exit
+                0x00003c80        0x8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+                0x00003c80                infrared_scene_universal_tv_on_exit
+ .text.infrared_debug_view_draw_callback
+                0x00003c88       0x5c build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .text.infrared_debug_view_alloc
+                0x00003ce4       0x44 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+                0x00003ce4                infrared_debug_view_alloc
+ .text.infrared_debug_view_free
+                0x00003d28       0x1c build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+                0x00003d28                infrared_debug_view_free
+ .text.infrared_debug_view_get_view
+                0x00003d44        0x4 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+                0x00003d44                infrared_debug_view_get_view
+ .text.infrared_debug_view_set_text
+                0x00003d48       0x3c build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+                0x00003d48                infrared_debug_view_set_text
+ .text.InfraredMoveViewItemArray_reset
+                0x00003d84       0x24 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .text.infrared_move_view_input_callback
+                0x00003da8      0x13c build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .text.infrared_move_view_draw_callback
+                0x00003ee4      0x180 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .text.infrared_move_view_set_callback
+                0x00004064        0x6 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+                0x00004064                infrared_move_view_set_callback
+ *fill*         0x0000406a        0x2 
+ .text.infrared_move_view_add_item
+                0x0000406c       0x78 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+                0x0000406c                infrared_move_view_add_item
+ .text.infrared_move_view_reset
+                0x000040e4       0x34 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+                0x000040e4                infrared_move_view_reset
+ .text.infrared_move_view_alloc
+                0x00004118       0x74 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+                0x00004118                infrared_move_view_alloc
+ .text.infrared_move_view_free
+                0x0000418c       0x48 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+                0x0000418c                infrared_move_view_free
+ .text.infrared_move_view_get_view
+                0x000041d4        0x4 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+                0x000041d4                infrared_move_view_get_view
+ .text.infrared_progress_view_draw_callback
+                0x000041d8      0x184 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .text.infrared_progress_view_input_callback
+                0x0000435c       0x74 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+                0x0000435c                infrared_progress_view_input_callback
+ .text.infrared_progress_view_set_progress
+                0x000043d0       0x2c build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+                0x000043d0                infrared_progress_view_set_progress
+ .text.infrared_progress_view_set_progress_total
+                0x000043fc       0x24 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+                0x000043fc                infrared_progress_view_set_progress_total
+ .text.infrared_progress_view_set_paused
+                0x00004420       0x24 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+                0x00004420                infrared_progress_view_set_paused
+ .text.infrared_progress_view_alloc
+                0x00004444       0x70 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+                0x00004444                infrared_progress_view_alloc
+ .text.infrared_progress_view_free
+                0x000044b4       0x1c build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+                0x000044b4                infrared_progress_view_free
+ .text.infrared_progress_view_set_input_callback
+                0x000044d0        0x6 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+                0x000044d0                infrared_progress_view_set_input_callback
+ .text.infrared_progress_view_get_view
+                0x000044d6        0x4 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+                0x000044d6                infrared_progress_view_get_view
+ *fill*         0x000044da        0x2 
+ .text.__aeabi_f2d
+                0x000044dc       0x14 build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+                0x000044dc                __aeabi_f2d
+ .text.infrared_find_vacant_remote_name
+                0x000044f0      0x110 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .text.infrared_rpc_command_callback
+                0x00004600       0xac build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .text.infrared_tick_event_callback
+                0x000046ac        0xc build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .text.infrared_back_event_callback
+                0x000046b8        0xc build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .text.infrared_custom_event_callback
+                0x000046c4        0xc build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .text.infrared_settings_load
+                0x000046d0       0x74 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x000046d0                infrared_settings_load
+ .text.infrared_settings_save
+                0x00004744       0x20 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004744                infrared_settings_save
+ .text.infrared_add_remote_with_button
+                0x00004764       0x94 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004764                infrared_add_remote_with_button
+ .text.infrared_rename_current_remote
+                0x000047f8       0xb0 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x000047f8                infrared_rename_current_remote
+ .text.infrared_tx_send_once
+                0x000048a8       0x24 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x000048a8                infrared_tx_send_once
+ .text.infrared_tx_send_once_button_index
+                0x000048cc       0x34 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x000048cc                infrared_tx_send_once_button_index
+ .text.infrared_blocking_task_start
+                0x00004900       0x2c build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004900                infrared_blocking_task_start
+ .text.infrared_blocking_task_finalize
+                0x0000492c       0x1c build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x0000492c                infrared_blocking_task_finalize
+ .text.infrared_text_store_set
+                0x00004948       0x2c build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004948                infrared_text_store_set
+ .text.infrared_play_notification_message
+                0x00004974       0x14 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004974                infrared_play_notification_message
+ .text.infrared_tx_start
+                0x00004988       0x98 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004988                infrared_tx_start
+ .text.infrared_tx_start_button_index
+                0x00004a20       0x34 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004a20                infrared_tx_start_button_index
+ .text.infrared_tx_stop
+                0x00004a54       0x44 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004a54                infrared_tx_stop
+ .text.infrared_show_error_message
+                0x00004a98       0x44 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004a98                infrared_show_error_message
+ .text.infrared_enable_otg
+                0x00004adc       0x34 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004adc                infrared_enable_otg
+ .text.infrared_set_tx_pin
+                0x00004b10       0x38 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004b10                infrared_set_tx_pin
+ .text.infrared_save_settings
+                0x00004b48       0x44 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004b48                infrared_save_settings
+ .text.infrared_signal_received_callback
+                0x00004b8c       0x68 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004b8c                infrared_signal_received_callback
+ .text.infrared_text_input_callback
+                0x00004bf4        0xc build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004bf4                infrared_text_input_callback
+ .text.infrared_popup_closed_callback
+                0x00004c00        0xc build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004c00                infrared_popup_closed_callback
+ .text.infrared_app
+                0x00004c0c      0x51c build/f7-firmware-C/.extapps/infrared/infrared_app.o
+                0x00004c0c                infrared_app
+ .text.InfraredBruteForceRecordDict_next
+                0x00005128       0x2a build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ *fill*         0x00005152        0x2 
+ .text.SignalPositionArray_set
+                0x00005154       0x70 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .text.InfraredBruteForceRecordDict_list_pair_reset
+                0x000051c4       0x2c build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .text.InfraredBruteForceRecordDict_array_list_pair_reset
+                0x000051f0       0x24 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .text.InfraredBruteForceRecordDict_array_list_pair_resize
+                0x00005214       0x68 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .text.InfraredBruteForceRecordDict_it
+                0x0000527c       0x2e build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ *fill*         0x000052aa        0x2 
+ .text.InfraredBruteForceRecordDict_get
+                0x000052ac       0x38 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .text.infrared_brute_force_alloc
+                0x000052e4       0x44 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x000052e4                infrared_brute_force_alloc
+ .text.infrared_brute_force_free
+                0x00005328       0x44 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x00005328                infrared_brute_force_free
+ .text.infrared_brute_force_set_db_filename
+                0x0000536c       0x14 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x0000536c                infrared_brute_force_set_db_filename
+ .text.infrared_brute_force_is_started
+                0x00005380       0x18 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x00005380                infrared_brute_force_is_started
+ .text.infrared_brute_force_stop
+                0x00005398       0x4c build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x00005398                infrared_brute_force_stop
+ .text.infrared_brute_force_start
+                0x000053e4       0xb4 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x000053e4                infrared_brute_force_start
+ .text.infrared_brute_force_send
+                0x00005498       0x54 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x00005498                infrared_brute_force_send
+ .text.infrared_brute_force_add_record
+                0x000054ec      0x154 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x000054ec                infrared_brute_force_add_record
+ .text.infrared_brute_force_calculate_messages
+                0x00005640      0x1fc build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x00005640                infrared_brute_force_calculate_messages
+ .text.infrared_brute_force_reset
+                0x0000583c       0x2c build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x0000583c                infrared_brute_force_reset
+ .text.infrared_brute_force_get_button_count
+                0x00005868        0x4 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x00005868                infrared_brute_force_get_button_count
+ .text.infrared_brute_force_get_button_name
+                0x0000586c       0x48 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+                0x0000586c                infrared_brute_force_get_button_name
+ .text.StringArray_reset
+                0x000058b4       0x24 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .text.infrared_remote_rename_signal_callback
+                0x000058d8       0x50 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .text.StringArray_set
+                0x00005928       0xac build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .text.StringArray_push_back
+                0x000059d4       0x5c build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .text.infrared_remote_insert_signal_callback
+                0x00005a30       0xbc build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .text.infrared_remote_batch_start
+                0x00005aec      0x1cc build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .text.infrared_remote_set_path
+                0x00005cb8       0x20 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .text.infrared_remote_delete_signal_callback
+                0x00005cd8       0x64 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .text.infrared_remote_alloc
+                0x00005d3c       0x28 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005d3c                infrared_remote_alloc
+ .text.infrared_remote_free
+                0x00005d64       0x38 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005d64                infrared_remote_free
+ .text.infrared_remote_reset
+                0x00005d9c       0x20 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005d9c                infrared_remote_reset
+ .text.infrared_remote_get_name
+                0x00005dbc        0xc build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005dbc                infrared_remote_get_name
+ .text.infrared_remote_get_path
+                0x00005dc8        0xc build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005dc8                infrared_remote_get_path
+ .text.infrared_remote_get_signal_count
+                0x00005dd4        0x4 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005dd4                infrared_remote_get_signal_count
+ .text.infrared_remote_get_signal_name
+                0x00005dd8        0x8 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005dd8                infrared_remote_get_signal_name
+ .text.infrared_remote_load_signal
+                0x00005de0       0x94 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005de0                infrared_remote_load_signal
+ .text.infrared_remote_get_signal_index
+                0x00005e74       0x38 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005e74                infrared_remote_get_signal_index
+ .text.infrared_remote_append_signal
+                0x00005eac       0x78 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005eac                infrared_remote_append_signal
+ .text.infrared_remote_insert_signal
+                0x00005f24       0x30 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005f24                infrared_remote_insert_signal
+ .text.infrared_remote_rename_signal
+                0x00005f54       0x20 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005f54                infrared_remote_rename_signal
+ .text.infrared_remote_delete_signal
+                0x00005f74       0x20 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005f74                infrared_remote_delete_signal
+ .text.infrared_remote_move_signal
+                0x00005f94       0x80 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00005f94                infrared_remote_move_signal
+ .text.infrared_remote_create
+                0x00006014       0x94 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00006014                infrared_remote_create
+ .text.infrared_remote_load
+                0x000060a8      0x12c build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x000060a8                infrared_remote_load
+ .text.infrared_remote_rename
+                0x000061d4       0x54 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x000061d4                infrared_remote_rename
+ .text.infrared_remote_remove
+                0x00006228       0x50 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+                0x00006228                infrared_remote_remove
+ .text.infrared_signal_is_message_valid
+                0x00006278       0x84 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .text.infrared_signal_clear_timings
+                0x000062fc       0x1c build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .text.infrared_signal_alloc
+                0x00006318       0x18 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x00006318                infrared_signal_alloc
+ .text.infrared_signal_free
+                0x00006330       0x1c build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x00006330                infrared_signal_free
+ .text.infrared_signal_is_raw
+                0x0000634c        0x4 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x0000634c                infrared_signal_is_raw
+ .text.infrared_signal_is_valid
+                0x00006350       0xb4 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x00006350                infrared_signal_is_valid
+ .text.infrared_signal_set_raw_signal
+                0x00006404       0x9c build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x00006404                infrared_signal_set_raw_signal
+ .text.infrared_signal_get_raw_signal
+                0x000064a0        0x4 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x000064a0                infrared_signal_get_raw_signal
+ .text.infrared_signal_set_message
+                0x000064a4       0x20 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x000064a4                infrared_signal_set_message
+ .text.infrared_signal_read_body
+                0x000064c4      0x1d8 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x000064c4                infrared_signal_read_body
+ .text.infrared_signal_get_message
+                0x0000669c        0x4 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x0000669c                infrared_signal_get_message
+ .text.infrared_signal_save
+                0x000066a0      0x124 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x000066a0                infrared_signal_save
+ .text.infrared_signal_read_name
+                0x000067c4       0x20 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x000067c4                infrared_signal_read_name
+ .text.infrared_signal_read
+                0x000067e4       0x28 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x000067e4                infrared_signal_read
+ .text.infrared_signal_search_by_index_and_read
+                0x0000680c       0x5c build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x0000680c                infrared_signal_search_by_index_and_read
+ .text.infrared_signal_transmit
+                0x00006868       0x30 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+                0x00006868                infrared_signal_transmit
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00006898     0x12c2
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.infrared_scene_handlers
+                0x00006898       0x10 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+                0x00006898                infrared_scene_handlers
+ .rodata.infrared_on_exit_handlers
+                0x000068a8       0x7c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+                0x000068a8                infrared_on_exit_handlers
+ .rodata.infrared_on_event_handlers
+                0x00006924       0x7c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+                0x00006924                infrared_on_event_handlers
+ .rodata.infrared_on_enter_handlers
+                0x000069a0       0x7c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+                0x000069a0                infrared_on_enter_handlers
+ .rodata.infrared_scene_ask_back_on_enter.str1.1
+                0x00006a1c       0x55 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .rodata.infrared_scene_ask_retry_on_enter.str1.1
+                0x00006a71       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .rodata.infrared_scene_debug_on_enter.str1.1
+                0x00006aa9       0x22 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .rodata.infrared_scene_debug_on_event.str1.1
+                0x00006acb       0x6d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .rodata.infrared_scene_edit_on_enter.str1.1
+                0x00006b38       0x4f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .rodata.infrared_scene_edit_button_select_on_enter.str1.1
+                0x00006b87       0x1e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .rodata.infrared_scene_edit_delete_on_enter.str1.1
+                0x00006ba5       0xbe build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .rodata.infrared_scene_edit_delete_on_event.str1.1
+                0x00006c63       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .rodata.infrared_scene_edit_delete_done_on_enter.str1.1
+                0x00006c83        0x8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .rodata.infrared_scene_edit_move_on_event.str1.1
+                0x00006c8b       0x4e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .rodata.infrared_scene_edit_rename_on_enter.str1.1
+                0x00006cd9       0x24 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .rodata.infrared_scene_edit_rename_on_event.str1.1
+                0x00006cfd       0x5c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .rodata.infrared_scene_edit_rename_done_on_enter.str1.1
+                0x00006d59        0x6 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .rodata.infrared_scene_error_databases_on_enter.str1.1
+                0x00006d5f       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .rodata.infrared_scene_gpio_settings_init.str1.1
+                0x00006d8f       0x1e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .rodata.str1.1
+                0x00006dad       0x1d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ *fill*         0x00006dca        0x2 
+ .rodata.infrared_scene_gpio_settings_otg_text
+                0x00006dcc        0x8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .rodata.infrared_scene_gpio_settings_pin_text
+                0x00006dd4        0xc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .rodata.infrared_scene_learn_update_button_name.str1.1
+                0x00006de0       0x33 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .rodata.infrared_scene_learn_on_enter.str1.1
+                0x00006e13       0x4d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .rodata.easy_mode_button_count
+                0x00006e60        0x4 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+                0x00006e60                easy_mode_button_count
+ .rodata.str1.1
+                0x00006e64       0x80 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .rodata.easy_mode_button_names
+                0x00006ee4       0x60 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+                0x00006ee4                easy_mode_button_names
+ .rodata.infrared_scene_learn_done_on_enter.str1.1
+                0x00006f44        0xf build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .rodata.infrared_scene_learn_enter_name_on_enter.str1.1
+                0x00006f53       0x26 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .rodata.infrared_scene_learn_enter_name_on_event.str1.1
+                0x00006f79       0x24 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .rodata.infrared_scene_learn_success_on_enter.str1.1
+                0x00006f9d       0x44 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .rodata.infrared_scene_remote_button_menu_callback.str1.1
+                0x00006fe1       0x16 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .rodata.infrared_scene_remote_on_enter.str1.1
+                0x00006ff7        0x7 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .rodata.infrared_scene_remote_on_event.str1.1
+                0x00006ffe       0x14 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .rodata.CSWTCH.6
+                0x00007012        0x3 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .rodata.infrared_scene_remote_list_select_and_load.str1.1
+                0x00007015       0x12 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .rodata.infrared_scene_remote_list_on_event.str1.1
+                0x00007027       0x42 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .rodata.infrared_scene_rpc_show.str1.1
+                0x00007069       0x12 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .rodata.infrared_scene_rpc_on_event.str1.1
+                0x0000707b       0x8b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .rodata.infrared_scene_start_on_enter.str1.1
+                0x00007106       0x69 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .rodata.infrared_scene_start_on_event.str1.1
+                0x0000716f        0xe build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .rodata.infrared_scene_universal_on_enter.str1.1
+                0x0000717d       0x5e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .rodata.infrared_scene_universal_ac_on_enter.str1.1
+                0x000071db       0x46 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .rodata.infrared_scene_universal_audio_on_enter.str1.1
+                0x00007221       0x52 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .rodata.infrared_scene_universal_bluray_on_enter.str1.1
+                0x00007273      0x11f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .rodata.infrared_scene_universal_bluray_on_event.str1.1
+                0x00007392       0x6a build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .rodata.infrared_scene_universal_bluray_on_exit.str1.1
+                0x000073fc       0x7b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .rodata.infrared_scene_universal_digital_sign_on_enter.str1.1
+                0x00007477       0x4a build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .rodata.infrared_scene_universal_fan_on_enter.str1.1
+                0x000074c1       0x4c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .rodata.infrared_scene_universal_from_file_on_enter.str1.1
+                0x0000750d       0x12 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .rodata.infrared_scene_universal_from_file_on_event.str1.1
+                0x0000751f       0x42 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .rodata.infrared_scene_universal_leds_on_enter.str1.1
+                0x00007561       0x66 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .rodata.infrared_scene_universal_monitor_on_enter.str1.1
+                0x000075c7       0x40 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .rodata.infrared_scene_universal_projector_on_enter.str1.1
+                0x00007607       0x52 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .rodata.infrared_scene_universal_tv_on_enter.str1.1
+                0x00007659       0x48 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .rodata.infrared_debug_view_draw_callback.str1.1
+                0x000076a1       0x12 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .rodata.infrared_move_view_draw_callback.str1.1
+                0x000076b3       0x18 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .rodata.infrared_progress_view_draw_callback.str1.1
+                0x000076cb       0x3f build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .rodata.infrared_find_vacant_remote_name.str1.1
+                0x0000770a       0x20 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .rodata.infrared_settings_load.str1.1
+                0x0000772a       0x18 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .rodata.infrared_add_remote_with_button.str1.1
+                0x00007742       0x1b build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .rodata.infrared_enable_otg.str1.1
+                0x0000775d        0x6 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .rodata.infrared_save_settings.str1.1
+                0x00007763       0x24 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .rodata.infrared_app.str1.1
+                0x00007787       0xb1 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .rodata.infrared_notification_sequences
+                0x00007838       0x20 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .rodata.infrared_brute_force_stop.str1.1
+                0x00007858        0x8 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .rodata.infrared_brute_force_calculate_messages.str1.1
+                0x00007860       0xaf build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .rodata.infrared_remote_batch_start.str1.1
+                0x0000790f       0x28 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .rodata.infrared_remote_load_signal.str1.1
+                0x00007937       0x39 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .rodata.infrared_remote_create.str1.1
+                0x00007970       0x18 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .rodata.infrared_remote_load.str1.1
+                0x00007988       0x74 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .rodata.infrared_signal_is_message_valid.str1.1
+                0x000079fc       0x80 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .rodata.infrared_signal_is_valid.str1.1
+                0x00007a7c       0x7d build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .rodata.infrared_signal_read_body.str1.1
+                0x00007af9       0x5b build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .rodata.infrared_signal_save.str1.1
+                0x00007b54        0x6 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0xb50
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x50 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_aranges
+                0x00000050       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+ .debug_aranges
+                0x00000068       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_aranges
+                0x000000a0       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_aranges
+                0x000000d8       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_aranges
+                0x00000108       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_aranges
+                0x00000140       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_aranges
+                0x00000178       0x40 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_aranges
+                0x000001b8       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_aranges
+                0x000001e8       0x40 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_aranges
+                0x00000228       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_aranges
+                0x00000260       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_aranges
+                0x00000290       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_aranges
+                0x000002c0       0x48 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_aranges
+                0x00000308       0x48 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_aranges
+                0x00000350       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_aranges
+                0x00000380       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_aranges
+                0x000003b0       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_aranges
+                0x000003e8       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_aranges
+                0x00000420       0x40 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_aranges
+                0x00000460       0x40 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_aranges
+                0x000004a0       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_aranges
+                0x000004d8       0x38 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_aranges
+                0x00000510       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_aranges
+                0x00000540       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_aranges
+                0x00000570       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_aranges
+                0x000005a0       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_aranges
+                0x000005d0       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_aranges
+                0x00000600       0x40 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_aranges
+                0x00000640       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_aranges
+                0x00000670       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_aranges
+                0x000006a0       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_aranges
+                0x000006d0       0x30 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_aranges
+                0x00000700       0x40 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_aranges
+                0x00000740       0x60 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_aranges
+                0x000007a0       0x60 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_aranges
+                0x00000800       0x20 build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .debug_aranges
+                0x00000820       0xf0 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_aranges
+                0x00000910       0xb0 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_aranges
+                0x000009c0       0xe8 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_aranges
+                0x00000aa8       0xa8 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x2df75
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1b2f build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_info    0x00001b2f      0x9c9 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+ .debug_info    0x000024f8      0xd8c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_info    0x00003284      0xdb8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_info    0x0000403c      0xf90 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_info    0x00004fcc      0xd6d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_info    0x00005d39      0xcf7 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_info    0x00006a30     0x1762 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_info    0x00008192      0xd8c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_info    0x00008f1e      0xf31 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_info    0x00009e4f     0x13ae build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_info    0x0000b1fd      0xcbf build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_info    0x0000bebc      0xcfe build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_info    0x0000cbba     0x1077 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_info    0x0000dc31     0x1530 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_info    0x0000f161      0xcf5 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_info    0x0000fe56     0x11db build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_info    0x00011031     0x12a9 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_info    0x000122da     0x13f4 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_info    0x000136ce      0xf32 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_info    0x00014600     0x18c1 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_info    0x00015ec1      0xdcb build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_info    0x00016c8c      0xde3 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_info    0x00017a6f      0xeac build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_info    0x0001891b     0x1029 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_info    0x00019944     0x1256 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_info    0x0001ab9a      0xdc4 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_info    0x0001b95e      0xed6 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_info    0x0001c834     0x147d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_info    0x0001dcb1      0xf97 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_info    0x0001ec48      0xdc5 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_info    0x0001fa0d      0xed6 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_info    0x000208e3      0xeb1 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_info    0x00021794      0x651 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_info    0x00021de5     0x1306 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_info    0x000230eb      0xc92 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_info    0x00023d7d       0xad build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .debug_info    0x00023e2a     0x3c85 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_info    0x00027aaf     0x287e build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_info    0x0002a32d     0x2450 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_info    0x0002c77d     0x17f8 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+
+.debug_abbrev   0x00000000     0x7403
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3f3 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_abbrev  0x000003f3      0x137 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+ .debug_abbrev  0x0000052a      0x220 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_abbrev  0x0000074a      0x220 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_abbrev  0x0000096a      0x27a build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_abbrev  0x00000be4      0x236 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_abbrev  0x00000e1a      0x29c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_abbrev  0x000010b6      0x384 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_abbrev  0x0000143a      0x2a7 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_abbrev  0x000016e1      0x2c8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_abbrev  0x000019a9      0x368 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_abbrev  0x00001d11      0x24d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_abbrev  0x00001f5e      0x256 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_abbrev  0x000021b4      0x32d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_abbrev  0x000024e1      0x31a build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_abbrev  0x000027fb      0x24f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_abbrev  0x00002a4a      0x2c7 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_abbrev  0x00002d11      0x299 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_abbrev  0x00002faa      0x397 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_abbrev  0x00003341      0x314 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_abbrev  0x00003655      0x33d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_abbrev  0x00003992      0x24b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_abbrev  0x00003bdd      0x21e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_abbrev  0x00003dfb      0x24a build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_abbrev  0x00004045      0x22c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_abbrev  0x00004271      0x25b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_abbrev  0x000044cc      0x22c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_abbrev  0x000046f8      0x22c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_abbrev  0x00004924      0x3b3 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_abbrev  0x00004cd7      0x22c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_abbrev  0x00004f03      0x22c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_abbrev  0x0000512f      0x22c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_abbrev  0x0000535b      0x22c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_abbrev  0x00005587      0x290 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_abbrev  0x00005817      0x3ff build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_abbrev  0x00005c16      0x35b build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_abbrev  0x00005f71       0x62 build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .debug_abbrev  0x00005fd3      0x53b build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_abbrev  0x0000650e      0x5ac build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_abbrev  0x00006aba      0x52e build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_abbrev  0x00006fe8      0x41b build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+
+.debug_line     0x00000000    0x120bc
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x584 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_line.text.infrared_scene_universal_common_progress_input_callback
+                0x00000584       0x50 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_line.text.infrared_scene_universal_common_task_callback
+                0x000005d4       0x39 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_line.text.infrared_scene_universal_common_hide_popup
+                0x0000060d       0x36 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_line.text.infrared_scene_universal_common_item_callback
+                0x00000643       0x58 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_line.text.infrared_scene_universal_common_on_enter
+                0x0000069b       0x2e build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_line.text.infrared_scene_universal_common_on_event
+                0x000006c9      0x27a build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_line.text.infrared_scene_universal_common_on_exit
+                0x00000943       0x34 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_line_end
+                0x00000977        0x0 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_line    0x00000977      0x15a build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+ .debug_line_end
+                0x00000ad1        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+ .debug_line    0x00000ad1      0x4a6 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_line.text.infrared_scene_dialog_result_callback
+                0x00000f77       0x1e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_line.text.infrared_scene_ask_back_on_enter
+                0x00000f95       0x52 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_line.text.infrared_scene_ask_back_on_event
+                0x00000fe7       0x73 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_line.text.infrared_scene_ask_back_on_exit
+                0x0000105a       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_line_end
+                0x00001071        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_line    0x00001071      0x4a7 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_line.text.infrared_scene_dialog_result_callback
+                0x00001518       0x1e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_line.text.infrared_scene_ask_retry_on_enter
+                0x00001536       0x36 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_line.text.infrared_scene_ask_retry_on_event
+                0x0000156c       0x65 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_line.text.infrared_scene_ask_retry_on_exit
+                0x000015d1       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_line_end
+                0x000015e8        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_line    0x000015e8      0x545 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_line.text.infrared_scene_debug_on_enter
+                0x00001b2d       0x31 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_line.text.infrared_scene_debug_on_event
+                0x00001b5e       0xfc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_line.text.infrared_scene_debug_on_exit
+                0x00001c5a       0x2d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_line_end
+                0x00001c87        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_line    0x00001c87      0x48c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_line.text.infrared_scene_edit_submenu_callback
+                0x00002113       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_line.text.infrared_scene_edit_on_enter
+                0x0000212b       0x52 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_line.text.infrared_scene_edit_on_event
+                0x0000217d       0xa8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_line.text.infrared_scene_edit_on_exit
+                0x00002225       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_line_end
+                0x0000223d        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_line    0x0000223d      0x4ff build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_line.text.infrared_scene_edit_button_select_submenu_callback
+                0x0000273c       0x16 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_line.text.infrared_scene_edit_button_select_on_enter
+                0x00002752       0xa3 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_line.text.infrared_scene_edit_button_select_on_event
+                0x000027f5       0x76 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_line.text.infrared_scene_edit_button_select_on_exit
+                0x0000286b       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_line_end
+                0x00002882        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_line    0x00002882      0x56d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_line.text.infrared_scene_edit_delete_dialog_result_callback
+                0x00002def       0x1e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_line.text.infrared_scene_edit_delete_task_callback
+                0x00002e0d       0x70 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_line.text.infrared_scene_edit_delete_on_enter
+                0x00002e7d      0x156 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_line.text.infrared_scene_edit_delete_on_event
+                0x00002fd3       0xbc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_line.text.infrared_scene_edit_delete_on_exit
+                0x0000308f       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_line_end
+                0x000030a7        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_line    0x000030a7      0x54c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_line.text.infrared_scene_edit_delete_done_on_enter
+                0x000035f3       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_line.text.infrared_scene_edit_delete_done_on_event
+                0x00003627       0x94 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_line.text.infrared_scene_edit_delete_done_on_exit
+                0x000036bb       0x19 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_line_end
+                0x000036d4        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_line    0x000036d4      0x51f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_line.text.infrared_scene_edit_move_button_callback
+                0x00003bf3       0x2d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_line.text.infrared_scene_edit_move_task_callback
+                0x00003c20       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_line.text.infrared_scene_edit_move_on_enter
+                0x00003c54       0x6a build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_line.text.infrared_scene_edit_move_on_event
+                0x00003cbe       0xb1 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_line.text.infrared_scene_edit_move_on_exit
+                0x00003d6f       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_line_end
+                0x00003d87        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_line    0x00003d87      0x59d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_line.text.infrared_scene_edit_rename_task_callback
+                0x00004324       0x6f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_line.text.infrared_scene_edit_rename_on_enter
+                0x00004393       0xdf build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_line.text.infrared_scene_edit_rename_on_event
+                0x00004472       0xbb build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_line.text.infrared_scene_edit_rename_on_exit
+                0x0000452d       0x3d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_line_end
+                0x0000456a        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_line    0x0000456a      0x4e7 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_line.text.infrared_scene_edit_rename_done_on_enter
+                0x00004a51       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_line.text.infrared_scene_edit_rename_done_on_event
+                0x00004a85       0x4b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_line.text.infrared_scene_edit_rename_done_on_exit
+                0x00004ad0       0x19 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_line_end
+                0x00004ae9        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_line    0x00004ae9      0x4e6 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_line.text.infrared_scene_error_databases_on_enter
+                0x00004fcf       0x33 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_line.text.infrared_scene_error_databases_on_event
+                0x00005002       0x47 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_line.text.infrared_scene_error_databases_on_exit
+                0x00005049       0x2d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_line_end
+                0x00005076        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_line    0x00005076      0x470 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_line.text.infrared_scene_gpio_settings_init
+                0x000054e6       0x6e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_line.text.infrared_scene_gpio_settings_otg_change_callback
+                0x00005554       0x66 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_line.text.infrared_scene_gpio_settings_pin_change_callback
+                0x000055ba       0x66 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_line.text.infrared_scene_gpio_settings_on_enter
+                0x00005620       0x26 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_line.text.infrared_scene_gpio_settings_on_event
+                0x00005646       0x8f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_line.text.infrared_scene_gpio_settings_on_exit
+                0x000056d5       0x2e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_line_end
+                0x00005703        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_line    0x00005703      0x599 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_line.text.infrared_scene_learn_dialog_result_callback
+                0x00005c9c       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_line.text.infrared_scene_learn_get_next_name
+                0x00005cbc       0xcd build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_line.text.infrared_scene_learn_update_button_name
+                0x00005d89       0xf0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_line.text.infrared_scene_learn_on_enter
+                0x00005e79       0xb8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_line.text.infrared_scene_learn_on_event
+                0x00005f31       0xfb build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_line.text.infrared_scene_learn_on_exit
+                0x0000602c       0x35 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_line_end
+                0x00006061        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_line    0x00006061      0x4e1 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_line.text.infrared_scene_learn_done_on_enter
+                0x00006542       0x4b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_line.text.infrared_scene_learn_done_on_event
+                0x0000658d       0x4b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_line.text.infrared_scene_learn_done_on_exit
+                0x000065d8       0x2b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_line_end
+                0x00006603        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_line    0x00006603      0x5b4 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_line.text.infrared_scene_learn_enter_name_on_enter
+                0x00006bb7       0xc9 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_line.text.infrared_scene_learn_enter_name_on_event
+                0x00006c80       0x91 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_line.text.infrared_scene_learn_enter_name_on_exit
+                0x00006d11       0x1a build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_line_end
+                0x00006d2b        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_line    0x00006d2b      0x54e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_line.text.infrared_scene_learn_success_dialog_result_callback
+                0x00007279       0x1e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_line.text.infrared_scene_learn_success_on_enter
+                0x00007297       0xea build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_line.text.infrared_scene_learn_success_on_event
+                0x00007381       0xa0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_line.text.infrared_scene_learn_success_on_exit
+                0x00007421       0x2e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_line_end
+                0x0000744f        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_line    0x0000744f      0x54e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_line.text.infrared_scene_remote_button_menu_callback
+                0x0000799d       0x5f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_line.text.infrared_scene_remote_on_enter
+                0x000079fc       0x90 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_line.text.infrared_scene_remote_on_event
+                0x00007a8c      0x116 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_line.text.infrared_scene_remote_on_exit
+                0x00007ba2       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_line_end
+                0x00007bba        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_line    0x00007bba      0x501 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_line.text.infrared_scene_remote_list_task_callback
+                0x000080bb       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_line.text.infrared_scene_remote_list_select_and_load
+                0x000080ef       0x56 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_line.text.infrared_scene_remote_list_on_enter
+                0x00008145       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_line.text.infrared_scene_remote_list_on_event
+                0x0000815c       0x6a build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_line.text.infrared_scene_remote_list_on_exit
+                0x000081c6       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_line_end
+                0x000081de        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_line    0x000081de      0x5dd build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_line.text.infrared_scene_rpc_task_callback
+                0x000087bb       0x36 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_line.text.infrared_scene_rpc_show
+                0x000087f1       0x39 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_line.text.infrared_scene_rpc_on_enter
+                0x0000882a       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_line.text.infrared_scene_rpc_on_event
+                0x00008841      0x256 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_line.text.infrared_scene_rpc_on_exit
+                0x00008a97       0x35 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_line_end
+                0x00008acc        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_line    0x00008acc      0x48d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_line.text.infrared_scene_start_submenu_callback
+                0x00008f59       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_line.text.infrared_scene_start_on_enter
+                0x00008f71       0x5f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_line.text.infrared_scene_start_on_event
+                0x00008fd0       0x7f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_line.text.infrared_scene_start_on_exit
+                0x0000904f       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_line_end
+                0x00009067        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_line    0x00009067      0x491 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_line.text.infrared_scene_universal_submenu_callback
+                0x000094f8       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_line.text.infrared_scene_universal_on_enter
+                0x00009510       0x3b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_line.text.infrared_scene_universal_on_event
+                0x0000954b       0x59 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_line.text.infrared_scene_universal_on_exit
+                0x000095a4       0x18 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_line_end
+                0x000095bc        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_line    0x000095bc      0x57d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_line.text.infrared_scene_universal_ac_on_enter
+                0x00009b39       0xa3 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_line.text.infrared_scene_universal_ac_on_event
+                0x00009bdc       0x24 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_line.text.infrared_scene_universal_ac_on_exit
+                0x00009c00       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_line_end
+                0x00009c17        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_line    0x00009c17      0x55a build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_line.text.infrared_scene_universal_audio_on_enter
+                0x0000a171       0x87 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_line.text.infrared_scene_universal_audio_on_event
+                0x0000a1f8       0x24 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_line.text.infrared_scene_universal_audio_on_exit
+                0x0000a21c       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_line_end
+                0x0000a233        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_line    0x0000a233      0x564 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_line.text.infrared_scene_universal_bluray_on_enter
+                0x0000a797       0xa1 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_line.text.infrared_scene_universal_bluray_on_event
+                0x0000a838       0x3d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_line.text.infrared_scene_universal_bluray_on_exit
+                0x0000a875       0x2f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_line_end
+                0x0000a8a4        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_line    0x0000a8a4      0x561 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_line.text.infrared_scene_universal_digital_sign_on_enter
+                0x0000ae05       0x63 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_line.text.infrared_scene_universal_digital_sign_on_event
+                0x0000ae68       0x24 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_line.text.infrared_scene_universal_digital_sign_on_exit
+                0x0000ae8c       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_line_end
+                0x0000aea3        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_line    0x0000aea3      0x558 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_line.text.infrared_scene_universal_fan_on_enter
+                0x0000b3fb       0x71 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_line.text.infrared_scene_universal_fan_on_event
+                0x0000b46c       0x24 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_line.text.infrared_scene_universal_fan_on_exit
+                0x0000b490       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_line_end
+                0x0000b4a7        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_line    0x0000b4a7      0x5fb build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_line.text.infrared_scene_universal_from_file_task_callback
+                0x0000baa2       0xa7 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_line.text.infrared_scene_universal_from_file_item_callback
+                0x0000bb49       0x59 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_line.text.infrared_scene_universal_from_file_on_enter
+                0x0000bba2       0x88 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_line.text.infrared_scene_universal_from_file_on_event
+                0x0000bc2a       0x89 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_line.text.infrared_scene_universal_from_file_on_exit
+                0x0000bcb3       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_line_end
+                0x0000bce7        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_line    0x0000bce7      0x559 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_line.text.infrared_scene_universal_leds_on_enter
+                0x0000c240       0x7f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_line.text.infrared_scene_universal_leds_on_event
+                0x0000c2bf       0x24 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_line.text.infrared_scene_universal_leds_on_exit
+                0x0000c2e3       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_line_end
+                0x0000c2fa        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_line    0x0000c2fa      0x55c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_line.text.infrared_scene_universal_monitor_on_enter
+                0x0000c856       0x63 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_line.text.infrared_scene_universal_monitor_on_event
+                0x0000c8b9       0x24 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_line.text.infrared_scene_universal_monitor_on_exit
+                0x0000c8dd       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_line_end
+                0x0000c8f4        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_line    0x0000c8f4      0x55e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_line.text.infrared_scene_universal_projector_on_enter
+                0x0000ce52       0x71 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_line.text.infrared_scene_universal_projector_on_event
+                0x0000cec3       0x24 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_line.text.infrared_scene_universal_projector_on_exit
+                0x0000cee7       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_line_end
+                0x0000cefe        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_line    0x0000cefe      0x557 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_line.text.infrared_scene_universal_tv_on_enter
+                0x0000d455       0x72 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_line.text.infrared_scene_universal_tv_on_event
+                0x0000d4c7       0x24 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_line.text.infrared_scene_universal_tv_on_exit
+                0x0000d4eb       0x17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_line_end
+                0x0000d502        0x0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_line    0x0000d502      0x223 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_line.text.infrared_debug_view_draw_callback
+                0x0000d725       0x3d build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_line.text.infrared_debug_view_alloc
+                0x0000d762       0x3b build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_line.text.infrared_debug_view_free
+                0x0000d79d       0x2c build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_line.text.infrared_debug_view_get_view
+                0x0000d7c9       0x19 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_line.text.infrared_debug_view_set_text
+                0x0000d7e2       0x2f build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_line_end
+                0x0000d811        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_line    0x0000d811      0x269 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_line.text.InfraredMoveViewItemArray_reset
+                0x0000da7a       0x55 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_line.text.infrared_move_view_input_callback
+                0x0000dacf      0x2ee build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_line.text.infrared_move_view_draw_callback
+                0x0000ddbd      0x198 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_line.text.infrared_move_view_set_callback
+                0x0000df55       0x20 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_line.text.infrared_move_view_add_item
+                0x0000df75       0x81 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_line.text.infrared_move_view_reset
+                0x0000dff6       0x3a build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_line.text.infrared_move_view_alloc
+                0x0000e030       0x60 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_line.text.infrared_move_view_free
+                0x0000e090       0x56 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_line.text.infrared_move_view_get_view
+                0x0000e0e6       0x1a build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_line_end
+                0x0000e100        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_line    0x0000e100      0x298 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_line.text.infrared_progress_view_draw_callback
+                0x0000e398       0xad build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_line.text.infrared_progress_view_input_callback
+                0x0000e445       0x6a build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_line.text.infrared_progress_view_set_progress
+                0x0000e4af       0x3e build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_line.text.infrared_progress_view_set_progress_total
+                0x0000e4ed       0x42 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_line.text.infrared_progress_view_set_paused
+                0x0000e52f       0x35 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_line.text.infrared_progress_view_alloc
+                0x0000e564       0x54 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_line.text.infrared_progress_view_free
+                0x0000e5b8       0x2d build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_line.text.infrared_progress_view_set_input_callback
+                0x0000e5e5       0x20 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_line.text.infrared_progress_view_get_view
+                0x0000e605       0x22 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_line_end
+                0x0000e627        0x0 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_line    0x0000e627       0x4c build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .debug_line.text.__aeabi_f2d
+                0x0000e673       0x1d build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .debug_line_end
+                0x0000e690        0x0 build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .debug_line    0x0000e690      0x718 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_find_vacant_remote_name
+                0x0000eda8       0xdb build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_rpc_command_callback
+                0x0000ee83       0xc5 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_tick_event_callback
+                0x0000ef48       0x1b build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_back_event_callback
+                0x0000ef63       0x1e build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_custom_event_callback
+                0x0000ef81       0x1f build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_settings_load
+                0x0000efa0       0x8c build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_settings_save
+                0x0000f02c       0x27 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_add_remote_with_button
+                0x0000f053       0x79 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_rename_current_remote
+                0x0000f0cc       0x88 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_tx_send_once
+                0x0000f154       0x36 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_tx_send_once_button_index
+                0x0000f18a       0x44 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_blocking_task_start
+                0x0000f1ce       0x29 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_blocking_task_finalize
+                0x0000f1f7       0x2a build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_text_store_set
+                0x0000f221       0x33 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_play_notification_message
+                0x0000f254       0x1c build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_tx_start
+                0x0000f270       0x84 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_tx_start_button_index
+                0x0000f2f4       0x4a build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_tx_stop
+                0x0000f33e       0x3d build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_show_error_message
+                0x0000f37b       0x41 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_enable_otg
+                0x0000f3bc       0x37 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_set_tx_pin
+                0x0000f3f3       0x4b build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_save_settings
+                0x0000f43e       0x30 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_signal_received_callback
+                0x0000f46e       0x51 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_text_input_callback
+                0x0000f4bf       0x1c build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_popup_closed_callback
+                0x0000f4db       0x1c build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line.text.infrared_app
+                0x0000f4f7      0x3d8 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line_end
+                0x0000f8cf        0x0 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_line    0x0000f8cf      0x280 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.InfraredBruteForceRecordDict_next
+                0x0000fb4f       0x8a build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.SignalPositionArray_set
+                0x0000fbd9       0xa9 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.InfraredBruteForceRecordDict_list_pair_reset
+                0x0000fc82       0x83 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.InfraredBruteForceRecordDict_array_list_pair_reset
+                0x0000fd05       0x6b build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.InfraredBruteForceRecordDict_array_list_pair_resize
+                0x0000fd70       0x76 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.InfraredBruteForceRecordDict_it
+                0x0000fde6       0xb4 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.InfraredBruteForceRecordDict_get
+                0x0000fe9a       0x61 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_alloc
+                0x0000fefb       0x76 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_free
+                0x0000ff71       0xef build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_set_db_filename
+                0x00010060       0x6b build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_is_started
+                0x000100cb       0x55 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_stop
+                0x00010120       0xa2 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_start
+                0x000101c2      0x15b build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_send
+                0x0001031d       0xe1 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_add_record
+                0x000103fe      0x175 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_calculate_messages
+                0x00010573      0x245 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_reset
+                0x000107b8       0x4c build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_get_button_count
+                0x00010804       0x2b build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line.text.infrared_brute_force_get_button_name
+                0x0001082f       0x9c build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line_end
+                0x000108cb        0x0 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_line    0x000108cb      0x2a9 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.StringArray_reset
+                0x00010b74       0x55 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_rename_signal_callback
+                0x00010bc9       0x69 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.StringArray_set
+                0x00010c32       0xd6 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.StringArray_push_back
+                0x00010d08       0x40 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_insert_signal_callback
+                0x00010d48       0x97 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_batch_start
+                0x00010ddf      0x200 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_set_path
+                0x00010fdf       0x2c build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_delete_signal_callback
+                0x0001100b       0x74 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_alloc
+                0x0001107f       0x60 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_free
+                0x000110df       0x46 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_reset
+                0x00011125       0x28 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_get_name
+                0x0001114d       0x19 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_get_path
+                0x00011166       0x1a build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_get_signal_count
+                0x00011180       0x27 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_get_signal_name
+                0x000111a7       0x35 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_load_signal
+                0x000111dc       0xc3 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_get_signal_index
+                0x0001129f       0xb7 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_append_signal
+                0x00011356       0x88 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_insert_signal
+                0x000113de       0x65 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_rename_signal
+                0x00011443       0x2d build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_delete_signal
+                0x00011470       0x32 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_move_signal
+                0x000114a2       0xcb build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_create
+                0x0001156d       0x73 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_load
+                0x000115e0       0xe5 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_rename
+                0x000116c5       0x5a build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line.text.infrared_remote_remove
+                0x0001171f       0x57 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line_end
+                0x00011776        0x0 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_line    0x00011776      0x2da build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_is_message_valid
+                0x00011a50       0x87 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_clear_timings
+                0x00011ad7       0x36 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_alloc
+                0x00011b0d       0x34 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_free
+                0x00011b41       0x2c build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_is_raw
+                0x00011b6d       0x1a build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_is_valid
+                0x00011b87       0xb8 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_set_raw_signal
+                0x00011c3f       0x8b build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_get_raw_signal
+                0x00011cca       0x1e build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_set_message
+                0x00011ce8       0x35 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_read_body
+                0x00011d1d      0x16d build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_get_message
+                0x00011e8a       0x12 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_save
+                0x00011e9c       0xf1 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_read_name
+                0x00011f8d       0x24 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_read
+                0x00011fb1       0x44 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_search_by_index_and_read
+                0x00011ff5       0x8a build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line.text.infrared_signal_transmit
+                0x0001207f       0x3d build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ .debug_line_end
+                0x000120bc        0x0 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+
+.debug_frame    0x00000000     0x2034
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xfc build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_frame   0x000000fc       0x7c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_frame   0x00000178       0x78 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_frame   0x000001f0       0x80 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_frame   0x00000270       0x80 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_frame   0x000002f0       0x84 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_frame   0x00000374       0xbc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_frame   0x00000430       0x68 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_frame   0x00000498       0xa4 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_frame   0x0000053c       0xa0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_frame   0x000005dc       0x68 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_frame   0x00000644       0x70 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_frame   0x000006b4       0xec build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_frame   0x000007a0       0xf0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_frame   0x00000890       0x7c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_frame   0x0000090c       0x78 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_frame   0x00000984       0x98 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_frame   0x00000a1c       0xa0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_frame   0x00000abc       0x90 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_frame   0x00000b4c       0xac build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_frame   0x00000bf8       0x80 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_frame   0x00000c78       0x80 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_frame   0x00000cf8       0x74 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_frame   0x00000d6c       0x70 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_frame   0x00000ddc       0x90 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_frame   0x00000e6c       0x70 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_frame   0x00000edc       0x70 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_frame   0x00000f4c       0xd4 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_frame   0x00001020       0x70 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_frame   0x00001090       0x70 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_frame   0x00001100       0x70 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_frame   0x00001170       0x70 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_frame   0x000011e0       0xac build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_frame   0x0000128c      0x124 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_frame   0x000013b0      0x114 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_frame   0x000014c4       0x28 build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .debug_frame   0x000014ec      0x340 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_frame   0x0000182c      0x26c build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_frame   0x00001a98      0x34c build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_frame   0x00001de4      0x250 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+
+.debug_str      0x00000000    0x2c162
+ *(.debug_str)
+ .debug_str     0x00000000     0x1f4d build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_str     0x00001f4d     0x13d2 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+ .debug_str     0x0000331f      0xe8f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_str     0x000041ae      0xe93 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_str     0x00005041      0xfb6 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_str     0x00005ff7      0xd75 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_str     0x00006d6c      0xd83 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_str     0x00007aef     0x1a17 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_str     0x00009506     0x10bc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_str     0x0000a5c2     0x1533 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_str     0x0000baf5     0x16dd build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_str     0x0000d1d2     0x1053 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_str     0x0000e225     0x11a3 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_str     0x0000f3c8      0xf1b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_str     0x000102e3     0x1926 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_str     0x00011c09     0x104f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_str     0x00012c58     0x1ab1 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_str     0x00014709     0x1375 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_str     0x00015a7e     0x16ed build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_str     0x0001716b     0x1493 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_str     0x000185fe     0x1cd7 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_str     0x0001a2d5      0xda0 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_str     0x0001b075      0xe10 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_str     0x0001be85      0xb6a build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_str     0x0001c9ef      0xbb2 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_str     0x0001d5a1      0xcad build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_str     0x0001e24e      0xb10 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_str     0x0001ed5e      0xb4d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_str     0x0001f8ab     0x1518 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_str     0x00020dc3      0xb71 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_str     0x00021934      0xafc build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_str     0x00022430      0xb60 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_str     0x00022f90      0xb37 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_str     0x00023ac7      0x50d build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_str     0x00023fd4      0x960 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_str     0x00024934      0x92a build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_str     0x0002525e      0x1cd build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .debug_str     0x0002542b     0x35bd build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_str     0x000289e8     0x186e build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_str     0x0002a256     0x1082 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_str     0x0002b2d8      0xe8a build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0x82ce
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x58b build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_loclists
+                0x0000058b      0x20d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_loclists
+                0x00000798      0x1f3 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_loclists
+                0x0000098b      0x218 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_loclists
+                0x00000ba3      0x188 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_loclists
+                0x00000d2b      0x24c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_loclists
+                0x00000f77      0x4c9 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_loclists
+                0x00001440      0x112 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_loclists
+                0x00001552      0x26c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_loclists
+                0x000017be      0x438 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_loclists
+                0x00001bf6       0xa3 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_loclists
+                0x00001c99      0x10c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_loclists
+                0x00001da5      0x2e2 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_loclists
+                0x00002087      0x51e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_loclists
+                0x000025a5       0xee build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_loclists
+                0x00002693      0x259 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_loclists
+                0x000028ec      0x426 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_loclists
+                0x00002d12      0x4a6 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_loclists
+                0x000031b8      0x178 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_loclists
+                0x00003330      0x306 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_loclists
+                0x00003636      0x19d build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_loclists
+                0x000037d3      0x162 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_loclists
+                0x00003935      0x132 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_loclists
+                0x00003a67      0x11c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_loclists
+                0x00003b83      0x13e build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_loclists
+                0x00003cc1       0xe4 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_loclists
+                0x00003da5       0xf8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_loclists
+                0x00003e9d      0x316 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_loclists
+                0x000041b3      0x10c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_loclists
+                0x000042bf       0xe4 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_loclists
+                0x000043a3       0xf8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_loclists
+                0x0000449b       0xf8 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_loclists
+                0x00004593       0xfc build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_loclists
+                0x0000468f      0x5fc build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_loclists
+                0x00004c8b      0x2a4 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_loclists
+                0x00004f2f       0x26 build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .debug_loclists
+                0x00004f55      0xa18 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_loclists
+                0x0000596d     0x1154 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_loclists
+                0x00006ac1      0xe3d build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_loclists
+                0x000078fe      0x9d0 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000     0x10d2
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0xa9 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .debug_rnglists
+                0x000000a9       0x26 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .debug_rnglists
+                0x000000cf       0x26 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .debug_rnglists
+                0x000000f5       0x75 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .debug_rnglists
+                0x0000016a       0x33 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .debug_rnglists
+                0x0000019d       0x45 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .debug_rnglists
+                0x000001e2       0x98 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .debug_rnglists
+                0x0000027a       0x2b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .debug_rnglists
+                0x000002a5       0x3b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .debug_rnglists
+                0x000002e0       0x41 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .debug_rnglists
+                0x00000321       0x1f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .debug_rnglists
+                0x00000340       0x1f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .debug_rnglists
+                0x0000035f       0x62 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .debug_rnglists
+                0x000003c1       0x5f build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .debug_rnglists
+                0x00000420       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .debug_rnglists
+                0x00000440       0x4b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .debug_rnglists
+                0x0000048b       0x67 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .debug_rnglists
+                0x000004f2       0x5c build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .debug_rnglists
+                0x0000054e       0x2b build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .debug_rnglists
+                0x00000579       0x86 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .debug_rnglists
+                0x000005ff       0x32 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .debug_rnglists
+                0x00000631       0x26 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .debug_rnglists
+                0x00000657       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .debug_rnglists
+                0x00000677       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .debug_rnglists
+                0x00000697       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .debug_rnglists
+                0x000006b7       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .debug_rnglists
+                0x000006d7       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .debug_rnglists
+                0x000006f7       0x75 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .debug_rnglists
+                0x0000076c       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .debug_rnglists
+                0x0000078c       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .debug_rnglists
+                0x000007ac       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .debug_rnglists
+                0x000007cc       0x20 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .debug_rnglists
+                0x000007ec       0x2b build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .debug_rnglists
+                0x00000817      0x172 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .debug_rnglists
+                0x00000989       0x86 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .debug_rnglists
+                0x00000a0f       0x13 build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .debug_rnglists
+                0x00000a22      0x12b build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .debug_rnglists
+                0x00000b4d      0x2f7 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .debug_rnglists
+                0x00000e44      0x180 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .debug_rnglists
+                0x00000fc4      0x10e build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/infrared/scenes/common/infrared_scene_universal_common.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_back.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_ask_retry.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_debug.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_button_select.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_delete_done.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_move.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename.o
+ .ARM.attributes
+                0x0000023c       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_edit_rename_done.o
+ .ARM.attributes
+                0x00000270       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_error_databases.o
+ .ARM.attributes
+                0x000002a4       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_gpio_settings.o
+ .ARM.attributes
+                0x000002d8       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn.o
+ .ARM.attributes
+                0x0000030c       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_done.o
+ .ARM.attributes
+                0x00000340       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_enter_name.o
+ .ARM.attributes
+                0x00000374       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_learn_success.o
+ .ARM.attributes
+                0x000003a8       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote.o
+ .ARM.attributes
+                0x000003dc       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_remote_list.o
+ .ARM.attributes
+                0x00000410       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_rpc.o
+ .ARM.attributes
+                0x00000444       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_start.o
+ .ARM.attributes
+                0x00000478       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal.o
+ .ARM.attributes
+                0x000004ac       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_ac.o
+ .ARM.attributes
+                0x000004e0       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_audio.o
+ .ARM.attributes
+                0x00000514       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_bluray.o
+ .ARM.attributes
+                0x00000548       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_digital_sign.o
+ .ARM.attributes
+                0x0000057c       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_fan.o
+ .ARM.attributes
+                0x000005b0       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_from_file.o
+ .ARM.attributes
+                0x000005e4       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_leds.o
+ .ARM.attributes
+                0x00000618       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_monitor.o
+ .ARM.attributes
+                0x0000064c       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_projector.o
+ .ARM.attributes
+                0x00000680       0x34 build/f7-firmware-C/.extapps/infrared/scenes/infrared_scene_universal_tv.o
+ .ARM.attributes
+                0x000006b4       0x34 build/f7-firmware-C/.extapps/infrared/views/infrared_debug_view.o
+ .ARM.attributes
+                0x000006e8       0x34 build/f7-firmware-C/.extapps/infrared/views/infrared_move_view.o
+ .ARM.attributes
+                0x0000071c       0x34 build/f7-firmware-C/.extapps/infrared/views/infrared_progress_view.o
+ .ARM.attributes
+                0x00000750       0x34 build/f7-firmware-C/.extapps/infrared/aeabi_polyfill.o
+ .ARM.attributes
+                0x00000784       0x34 build/f7-firmware-C/.extapps/infrared/infrared_app.o
+ .ARM.attributes
+                0x000007b8       0x34 build/f7-firmware-C/.extapps/infrared/infrared_brute_force.o
+ .ARM.attributes
+                0x000007ec       0x34 build/f7-firmware-C/.extapps/infrared/infrared_remote.o
+ .ARM.attributes
+                0x00000820       0x34 build/f7-firmware-C/.extapps/infrared/infrared_signal.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/infrared_d.elf elf32-littlearm)
+LOAD linker stubs

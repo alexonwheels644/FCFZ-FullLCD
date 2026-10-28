@@ -1,0 +1,743 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .rodata.TIME_MINUTES_IN_HOUR
+                0x00000000        0x4 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .text.flipp_pomodoro__stage_by_index
+                0x00000000       0x18 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line.text.flipp_pomodoro__stage_by_index
+                0x00000000       0x1d build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+LOAD build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+LOAD build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+LOAD build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+LOAD build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+LOAD build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+LOAD build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+LOAD build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+LOAD build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+LOAD build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+LOAD build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000      0xc04
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.time_now
+                0x00000000        0x8 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+                0x00000000                time_now
+ .text.time_difference_seconds
+                0x00000008       0x1e build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+                0x00000008                time_difference_seconds
+ *fill*         0x00000026        0x2 
+ .text.flipp_pomodoro__toggle_stage
+                0x00000028       0x18 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x00000028                flipp_pomodoro__toggle_stage
+ .text.flipp_pomodoro__get_stage
+                0x00000040       0x10 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x00000040                flipp_pomodoro__get_stage
+ .text.flipp_pomodoro__current_stage_label
+                0x00000050       0x18 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x00000050                flipp_pomodoro__current_stage_label
+ .text.flipp_pomodoro__next_stage_label
+                0x00000068       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x00000068                flipp_pomodoro__next_stage_label
+ .text.flipp_pomodoro__destroy
+                0x00000084        0x8 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x00000084                flipp_pomodoro__destroy
+ .text.flipp_pomodoro__current_stage_total_duration
+                0x0000008c       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x0000008c                flipp_pomodoro__current_stage_total_duration
+ .text.flipp_pomodoro__stage_expires_timestamp
+                0x000000c0       0x10 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x000000c0                flipp_pomodoro__stage_expires_timestamp
+ .text.flipp_pomodoro__stage_remaining_duration
+                0x000000d0       0x2c build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x000000d0                flipp_pomodoro__stage_remaining_duration
+ .text.flipp_pomodoro__is_stage_expired
+                0x000000fc       0x20 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x000000fc                flipp_pomodoro__is_stage_expired
+ .text.flipp_pomodoro__new
+                0x0000011c       0x20 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x0000011c                flipp_pomodoro__new
+ .text.flipp_pomodoro_statistics__new
+                0x0000013c       0x14 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+                0x0000013c                flipp_pomodoro_statistics__new
+ .text.flipp_pomodoro_statistics__get_focus_stages_completed
+                0x00000150        0x4 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+                0x00000150                flipp_pomodoro_statistics__get_focus_stages_completed
+ .text.flipp_pomodoro_statistics__increase_focus_stages_completed
+                0x00000154        0x8 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+                0x00000154                flipp_pomodoro_statistics__increase_focus_stages_completed
+ .text.flipp_pomodoro_statistics__destroy
+                0x0000015c        0x8 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+                0x0000015c                flipp_pomodoro_statistics__destroy
+ .text.flipp_pomodoro_scene_info_on_back_to_timer
+                0x00000164        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+                0x00000164                flipp_pomodoro_scene_info_on_back_to_timer
+ .text.flipp_pomodoro_scene_info_on_enter
+                0x00000170       0x58 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+                0x00000170                flipp_pomodoro_scene_info_on_enter
+ .text.flipp_pomodoro_scene_info_handle_custom_event
+                0x000001c8       0x14 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+                0x000001c8                flipp_pomodoro_scene_info_handle_custom_event
+ .text.flipp_pomodoro_scene_info_on_event
+                0x000001dc       0x38 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+                0x000001dc                flipp_pomodoro_scene_info_on_event
+ .text.flipp_pomodoro_scene_info_on_exit
+                0x00000214        0x2 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+                0x00000214                flipp_pomodoro_scene_info_on_exit
+ *fill*         0x00000216        0x2 
+ .text.flipp_pomodoro_scene_timer_on_next_stage
+                0x00000218        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+                0x00000218                flipp_pomodoro_scene_timer_on_next_stage
+ .text.flipp_pomodoro_scene_timer_on_ask_hint
+                0x00000224        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+                0x00000224                flipp_pomodoro_scene_timer_on_ask_hint
+ .text.flipp_pomodoro_scene_timer_sync_view_state
+                0x00000230       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+                0x00000230                flipp_pomodoro_scene_timer_sync_view_state
+ .text.flipp_pomodoro_scene_timer_on_enter
+                0x0000024c       0x6c build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+                0x0000024c                flipp_pomodoro_scene_timer_on_enter
+ .text.flipp_pomodoro_scene_timer_get_contextual_hint
+                0x000002b8       0x58 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+                0x000002b8                flipp_pomodoro_scene_timer_get_contextual_hint
+ .text.flipp_pomodoro_scene_timer_handle_custom_event
+                0x00000310       0x5c build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+                0x00000310                flipp_pomodoro_scene_timer_handle_custom_event
+ .text.flipp_pomodoro_scene_timer_on_event
+                0x0000036c       0x3c build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+                0x0000036c                flipp_pomodoro_scene_timer_on_event
+ .text.flipp_pomodoro_scene_timer_on_exit
+                0x000003a8        0x2 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+                0x000003a8                flipp_pomodoro_scene_timer_on_exit
+ *fill*         0x000003aa        0x2 
+ .text.flipp_pomodoro_info_view_draw_callback
+                0x000003ac       0xd0 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .text.flipp_pomodoro_info_view_set_mode
+                0x0000047c       0x20 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+                0x0000047c                flipp_pomodoro_info_view_set_mode
+ .text.flipp_pomodoro_info_view_toggle_mode
+                0x0000049c       0x30 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+                0x0000049c                flipp_pomodoro_info_view_toggle_mode
+ .text.flipp_pomodoro_info_view_input_callback
+                0x000004cc       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+                0x000004cc                flipp_pomodoro_info_view_input_callback
+ .text.flipp_pomodoro_info_view_alloc
+                0x00000500       0x54 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+                0x00000500                flipp_pomodoro_info_view_alloc
+ .text.flipp_pomodoro_info_view_get_view
+                0x00000554        0x4 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+                0x00000554                flipp_pomodoro_info_view_get_view
+ .text.flipp_pomodoro_info_view_free
+                0x00000558       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+                0x00000558                flipp_pomodoro_info_view_free
+ .text.flipp_pomodoro_info_view_set_pomodoros_completed
+                0x00000574       0x20 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+                0x00000574                flipp_pomodoro_info_view_set_pomodoros_completed
+ .text.flipp_pomodoro_info_view_set_resume_timer_cb
+                0x00000594        0x6 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+                0x00000594                flipp_pomodoro_info_view_set_resume_timer_cb
+ .text.flipp_pomodoro_view_timer_input_callback
+                0x0000059a       0x26 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+                0x0000059a                flipp_pomodoro_view_timer_input_callback
+ .text.flipp_pomodoro_view_timer_draw_callback
+                0x000005c0      0x250 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .text.flipp_pomodoro_view_timer_get_view
+                0x00000810        0x4 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+                0x00000810                flipp_pomodoro_view_timer_get_view
+ .text.flipp_pomodoro_view_timer_display_hint
+                0x00000814       0x30 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+                0x00000814                flipp_pomodoro_view_timer_display_hint
+ .text.flipp_pomodoro_view_timer_assign_animation
+                0x00000844       0x60 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+                0x00000844                flipp_pomodoro_view_timer_assign_animation
+ .text.flipp_pomodoro_view_timer_alloc
+                0x000008a4       0x6c build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+                0x000008a4                flipp_pomodoro_view_timer_alloc
+ .text.flipp_pomodoro_view_timer_set_callback_context
+                0x00000910        0x4 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+                0x00000910                flipp_pomodoro_view_timer_set_callback_context
+ .text.flipp_pomodoro_view_timer_set_on_right_cb
+                0x00000914        0x4 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+                0x00000914                flipp_pomodoro_view_timer_set_on_right_cb
+ .text.flipp_pomodoro_view_timer_set_on_ok_cb
+                0x00000918        0x4 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+                0x00000918                flipp_pomodoro_view_timer_set_on_ok_cb
+ .text.flipp_pomodoro_view_timer_set_state
+                0x0000091c       0x2c build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+                0x0000091c                flipp_pomodoro_view_timer_set_state
+ .text.flipp_pomodoro_view_timer_free
+                0x00000948       0x3c build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+                0x00000948                flipp_pomodoro_view_timer_free
+ .text.flipp_pomodoro_app_back_event_callback
+                0x00000984        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .text.flipp_pomodoro_app_tick_event_callback
+                0x00000990        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .text.flipp_pomodoro_app_custom_event_callback
+                0x0000099c       0x8c build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .text.flipp_pomodoro_app_alloc
+                0x00000a28      0x110 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+                0x00000a28                flipp_pomodoro_app_alloc
+ .text.flipp_pomodoro_app_free
+                0x00000b38       0x78 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+                0x00000b38                flipp_pomodoro_app_free
+ .text.flipp_pomodoro_app
+                0x00000bb0       0x54 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+                0x00000bb0                flipp_pomodoro_app
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00000c04     0x10f7
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.rest_start_notification
+                0x00000c04       0x3c build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+                0x00000c04                rest_start_notification
+ .rodata.work_start_notification
+                0x00000c40       0x3c build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+                0x00000c40                work_start_notification
+ .rodata.TIME_SECONDS_IN_MINUTE
+                0x00000c7c        0x4 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+                0x00000c7c                TIME_SECONDS_IN_MINUTE
+ .rodata.str1.1
+                0x00000c80       0x46 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ *fill*         0x00000cc6        0x2 
+ .rodata.flipp_pomodoro_scene_handlers
+                0x00000cc8       0x10 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+                0x00000cc8                flipp_pomodoro_scene_handlers
+ .rodata.flipp_pomodoro_scene_on_exit_handlers
+                0x00000cd8        0x8 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+                0x00000cd8                flipp_pomodoro_scene_on_exit_handlers
+ .rodata.flipp_pomodoro_scene_on_event_handlers
+                0x00000ce0        0x8 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+                0x00000ce0                flipp_pomodoro_scene_on_event_handlers
+ .rodata.flipp_pomodoro_scene_on_enter_handlers
+                0x00000ce8        0x8 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+                0x00000ce8                flipp_pomodoro_scene_on_enter_handlers
+ .rodata.flipp_pomodoro_scene_timer_get_contextual_hint.str1.1
+                0x00000cf0        0xb build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .rodata.str1.1
+                0x00000cfb      0x6b7 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .rodata.flipp_pomodoro_info_view_draw_callback.str1.1
+                0x000013b2       0x62 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .rodata.flipp_pomodoro_view_timer_draw_callback.str1.1
+                0x00001414        0xd build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ *fill*         0x00001421        0x3 
+ .rodata.stage_background_image
+                0x00001424        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .rodata.flipp_pomodoro_app_custom_event_callback.str1.1
+                0x00001430       0x27 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .rodata.flipp_pomodoro_app_alloc.str1.1
+                0x00001457       0x20 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .rodata.flipp_pomodoro_app.str1.1
+                0x00001477       0x17 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ *fill*         0x0000148e        0x2 
+ .rodata.A_flipp_pomodoro_rest_64
+                0x00001490        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+                0x00001490                A_flipp_pomodoro_rest_64
+ .rodata.A_flipp_pomodoro_focus_64
+                0x0000149c        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+                0x0000149c                A_flipp_pomodoro_focus_64
+ .rodata.I_flipp_pomodoro_learn_50x128
+                0x000014a8        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+                0x000014a8                I_flipp_pomodoro_learn_50x128
+ .rodata._A_flipp_pomodoro_rest_64
+                0x000014b4        0x8 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+                0x000014b4                _A_flipp_pomodoro_rest_64
+ .rodata._A_flipp_pomodoro_rest_64_1
+                0x000014bc      0x18a build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+                0x000014bc                _A_flipp_pomodoro_rest_64_1
+ .rodata._A_flipp_pomodoro_rest_64_0
+                0x00001646      0x195 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+                0x00001646                _A_flipp_pomodoro_rest_64_0
+ *fill*         0x000017db        0x1 
+ .rodata._A_flipp_pomodoro_focus_64
+                0x000017dc        0x8 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+                0x000017dc                _A_flipp_pomodoro_focus_64
+ .rodata._A_flipp_pomodoro_focus_64_1
+                0x000017e4      0x1c7 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+                0x000017e4                _A_flipp_pomodoro_focus_64_1
+ .rodata._A_flipp_pomodoro_focus_64_0
+                0x000019ab      0x1cc build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+                0x000019ab                _A_flipp_pomodoro_focus_64_0
+ *fill*         0x00001b77        0x1 
+ .rodata._I_flipp_pomodoro_learn_50x128
+                0x00001b78        0x4 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+                0x00001b78                _I_flipp_pomodoro_learn_50x128
+ .rodata._I_flipp_pomodoro_learn_50x128_0
+                0x00001b7c      0x17f build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+                0x00001b7c                _I_flipp_pomodoro_learn_50x128_0
+
+.data           0x00001cfc       0xb4
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.next_stage_label
+                0x00001cfc        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x00001cfc                next_stage_label
+ .data.current_stage_label
+                0x00001d08        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x00001d08                current_stage_label
+ .data.stages_sequence
+                0x00001d14        0x8 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+                0x00001d14                stages_sequence
+ .data.break_hints
+                0x00001d1c       0x44 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .data.work_hints
+                0x00001d60       0x44 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .data.stage_start_notification_sequence_map
+                0x00001da4        0xc build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+                0x00001da4                stage_start_notification_sequence_map
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x2c8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+ .debug_aranges
+                0x00000018       0x28 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .debug_aranges
+                0x00000040       0x70 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_aranges
+                0x000000b0       0x38 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_aranges
+                0x000000e8       0x18 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+ .debug_aranges
+                0x00000100       0x40 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_aranges
+                0x00000140       0x58 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_aranges
+                0x00000198       0x60 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_aranges
+                0x000001f8       0x70 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_aranges
+                0x00000268       0x48 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_aranges
+                0x000002b0       0x18 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x5fd6
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x3d4 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+ .debug_info    0x000003d4      0x397 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .debug_info    0x0000076b      0x794 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_info    0x00000eff      0x39d build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_info    0x0000129c      0x2a6 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+ .debug_info    0x00001542      0x7ed build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_info    0x00001d2f      0xa95 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_info    0x000027c4      0xc8f build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_info    0x00003453     0x1728 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_info    0x00004b7b     0x11db build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_info    0x00005d56      0x280 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+
+.debug_abbrev   0x00000000     0x181c
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x101 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+ .debug_abbrev  0x00000101      0x153 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .debug_abbrev  0x00000254      0x291 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_abbrev  0x000004e5      0x17f build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_abbrev  0x00000664      0x137 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+ .debug_abbrev  0x0000079b      0x259 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_abbrev  0x000009f4      0x340 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_abbrev  0x00000d34      0x333 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_abbrev  0x00001067      0x420 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_abbrev  0x00001487      0x2d7 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_abbrev  0x0000175e       0xbe build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+
+.debug_line     0x00000000     0x2a9d
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x19f build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+ .debug_line_end
+                0x0000019f        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+ .debug_line    0x0000019f      0x182 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .debug_line.text.time_now
+                0x00000321       0x16 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .debug_line.text.time_difference_seconds
+                0x00000337       0x32 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .debug_line_end
+                0x00000369        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .debug_line    0x00000369      0x25f build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line.text.flipp_pomodoro__toggle_stage
+                0x000005c8       0x37 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line.text.flipp_pomodoro__get_stage
+                0x000005ff       0x35 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line.text.flipp_pomodoro__current_stage_label
+                0x00000634       0x22 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line.text.flipp_pomodoro__next_stage_label
+                0x00000656       0x39 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line.text.flipp_pomodoro__destroy
+                0x0000068f       0x1a build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line.text.flipp_pomodoro__current_stage_total_duration
+                0x000006a9       0x38 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line.text.flipp_pomodoro__stage_expires_timestamp
+                0x000006e1       0x25 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line.text.flipp_pomodoro__stage_remaining_duration
+                0x00000706       0x31 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line.text.flipp_pomodoro__is_stage_expired
+                0x00000737       0x32 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line.text.flipp_pomodoro__new
+                0x00000769       0x40 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line_end
+                0x000007a9        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_line    0x000007a9      0x239 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_line.text.flipp_pomodoro_statistics__new
+                0x000009e2       0x29 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_line.text.flipp_pomodoro_statistics__get_focus_stages_completed
+                0x00000a0b       0x19 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_line.text.flipp_pomodoro_statistics__increase_focus_stages_completed
+                0x00000a24       0x1b build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_line.text.flipp_pomodoro_statistics__destroy
+                0x00000a3f       0x1a build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_line_end
+                0x00000a59        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_line    0x00000a59      0x19d build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+ .debug_line_end
+                0x00000bf6        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+ .debug_line    0x00000bf6      0x352 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_line.text.flipp_pomodoro_scene_info_on_back_to_timer
+                0x00000f48       0x1b build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_line.text.flipp_pomodoro_scene_info_on_enter
+                0x00000f63       0x2f build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_line.text.flipp_pomodoro_scene_info_handle_custom_event
+                0x00000f92       0x26 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_line.text.flipp_pomodoro_scene_info_on_event
+                0x00000fb8       0x44 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_line.text.flipp_pomodoro_scene_info_on_exit
+                0x00000ffc       0x18 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_line_end
+                0x00001014        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_line    0x00001014      0x3f8 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_line.text.flipp_pomodoro_scene_timer_on_next_stage
+                0x0000140c       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_line.text.flipp_pomodoro_scene_timer_on_ask_hint
+                0x00001428       0x18 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_line.text.flipp_pomodoro_scene_timer_sync_view_state
+                0x00001440       0x28 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_line.text.flipp_pomodoro_scene_timer_on_enter
+                0x00001468       0x46 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_line.text.flipp_pomodoro_scene_timer_get_contextual_hint
+                0x000014ae       0x5f build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_line.text.flipp_pomodoro_scene_timer_handle_custom_event
+                0x0000150d       0x52 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_line.text.flipp_pomodoro_scene_timer_on_event
+                0x0000155f       0x41 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_line.text.flipp_pomodoro_scene_timer_on_exit
+                0x000015a0       0x19 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_line_end
+                0x000015b9        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_line    0x000015b9      0x2d3 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_line.text.flipp_pomodoro_info_view_draw_callback
+                0x0000188c       0x8c build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_line.text.flipp_pomodoro_info_view_set_mode
+                0x00001918       0x2f build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_line.text.flipp_pomodoro_info_view_toggle_mode
+                0x00001947       0x58 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_line.text.flipp_pomodoro_info_view_input_callback
+                0x0000199f       0x56 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_line.text.flipp_pomodoro_info_view_alloc
+                0x000019f5       0x63 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_line.text.flipp_pomodoro_info_view_get_view
+                0x00001a58       0x1a build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_line.text.flipp_pomodoro_info_view_free
+                0x00001a72       0x31 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_line.text.flipp_pomodoro_info_view_set_pomodoros_completed
+                0x00001aa3       0x2f build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_line.text.flipp_pomodoro_info_view_set_resume_timer_cb
+                0x00001ad2       0x1c build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_line_end
+                0x00001aee        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_line    0x00001aee      0x3c7 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line.text.flipp_pomodoro_view_timer_input_callback
+                0x00001eb5       0x55 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line.text.flipp_pomodoro_view_timer_draw_callback
+                0x00001f0a      0x1ab build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line.text.flipp_pomodoro_view_timer_get_view
+                0x000020b5       0x1e build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line.text.flipp_pomodoro_view_timer_display_hint
+                0x000020d3       0x37 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line.text.flipp_pomodoro_view_timer_assign_animation
+                0x0000210a       0x5d build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line.text.flipp_pomodoro_view_timer_alloc
+                0x00002167       0x7d build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line.text.flipp_pomodoro_view_timer_set_callback_context
+                0x000021e4       0x24 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line.text.flipp_pomodoro_view_timer_set_on_right_cb
+                0x00002208       0x24 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line.text.flipp_pomodoro_view_timer_set_on_ok_cb
+                0x0000222c       0x24 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line.text.flipp_pomodoro_view_timer_set_state
+                0x00002250       0x40 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line.text.flipp_pomodoro_view_timer_free
+                0x00002290       0x3d build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line_end
+                0x000022cd        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_line    0x000022cd      0x4c3 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_line.text.flipp_pomodoro_app_back_event_callback
+                0x00002790       0x1e build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_line.text.flipp_pomodoro_app_tick_event_callback
+                0x000027ae       0x1b build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_line.text.flipp_pomodoro_app_custom_event_callback
+                0x000027c9       0x6c build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_line.text.flipp_pomodoro_app_alloc
+                0x00002835       0xa3 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_line.text.flipp_pomodoro_app_free
+                0x000028d8       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_line.text.flipp_pomodoro_app
+                0x0000290c       0x39 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_line_end
+                0x00002945        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_line    0x00002945      0x158 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+ .debug_line_end
+                0x00002a9d        0x0 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+
+.debug_frame    0x00000000      0x5f0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x3c build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .debug_frame   0x0000003c       0xfc build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_frame   0x00000138       0x58 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_frame   0x00000190       0x80 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_frame   0x00000210       0xdc build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_frame   0x000002ec      0x118 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_frame   0x00000404      0x138 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_frame   0x0000053c       0xb4 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+
+.debug_str      0x00000000     0x59ef
+ *(.debug_str)
+ .debug_str     0x00000000      0x7c2 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+ .debug_str     0x000007c2      0x31a build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .debug_str     0x00000adc      0x5bd build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_str     0x00001099      0x38f build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_str     0x00001428      0x4b3 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+ .debug_str     0x000018db      0x86a build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_str     0x00002145      0x9a9 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_str     0x00002aee      0x89b build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_str     0x00003389      0xd95 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_str     0x0000411e     0x1561 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .debug_str     0x0000567f      0x370 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0x1095
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000       0x6e build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .debug_loclists
+                0x0000006e      0x17f build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_loclists
+                0x000001ed       0x45 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_loclists
+                0x00000232      0x13f build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_loclists
+                0x00000371      0x252 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_loclists
+                0x000005c3      0x39f build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_loclists
+                0x00000962      0x5bb build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_loclists
+                0x00000f1d      0x178 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x2db
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x19 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .debug_rnglists
+                0x00000019       0x67 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .debug_rnglists
+                0x00000080       0x25 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .debug_rnglists
+                0x000000a5       0x2b build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .debug_rnglists
+                0x000000d0       0x49 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .debug_rnglists
+                0x00000119       0x9e build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .debug_rnglists
+                0x000001b7       0xf1 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .debug_rnglists
+                0x000002a8       0x33 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/notifications.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/helpers/time.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/modules/flipp_pomodoro_statistics.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_info.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/scenes/flipp_pomodoro_scene_timer.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_info_view.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/views/flipp_pomodoro_timer_view.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_app.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/flipp_pomodoro/flipp_pomodoro_icons.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/flipp_pomodoro_d.elf elf32-littlearm)
+LOAD linker stubs

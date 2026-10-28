@@ -1,0 +1,1319 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+                              build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o (round)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o) (__aeabi_dadd)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                              build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o (__aeabi_d2uiz)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .text.ftdi_available_rx_buf
+                0x00000000        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .text.ftdi_loopback
+                0x00000000       0x28 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .text.ftdi_get_modem_status
+                0x00000000       0x18 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .text.ftdi_set_modem_status
+                0x00000000        0x8 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_available_rx_buf
+                0x00000000       0x1a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_loopback
+                0x00000000       0x33 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_get_modem_status
+                0x00000000       0x23 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_set_modem_status
+                0x00000000       0x1f build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_bitbang_gpio_init
+                0x00000000       0xa4 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_bitbang_gpio_init
+                0x00000000       0x65 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .text.flip_tdi_scene_about_widget_callback
+                0x00000000       0x14 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_line.text.flip_tdi_scene_about_widget_callback
+                0x00000000       0x25 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+LOAD build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000     0x28ac
+ *(.text)
+ .text          0x00000000      0x378 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x00000000                __aeabi_drsub
+                0x00000008                __aeabi_dsub
+                0x00000008                __subdf3
+                0x0000000c                __aeabi_dadd
+                0x0000000c                __adddf3
+                0x00000284                __floatunsidf
+                0x00000284                __aeabi_ui2d
+                0x000002a4                __floatsidf
+                0x000002a4                __aeabi_i2d
+                0x000002c8                __aeabi_f2d
+                0x000002c8                __extendsfdf2
+                0x0000030c                __floatundidf
+                0x0000030c                __aeabi_ul2d
+                0x0000031c                __floatdidf
+                0x0000031c                __aeabi_l2d
+ .text          0x00000378       0x40 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                0x00000378                __aeabi_d2uiz
+                0x00000378                __fixunsdfsi
+ *(.stub)
+ *(.text*)
+ .text.ftdi_callback_tx_immediate
+                0x000003b8        0xa build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ *fill*         0x000003c2        0x2 
+ .text.ftdi_alloc
+                0x000003c4       0x6c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x000003c4                ftdi_alloc
+ .text.ftdi_free
+                0x00000430       0x40 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x00000430                ftdi_free
+ .text.ftdi_switch_callback_tx_immediate
+                0x00000470       0x60 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x00000470                ftdi_switch_callback_tx_immediate
+ .text.ftdi_set_callback_tx_immediate
+                0x000004d0        0x6 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x000004d0                ftdi_set_callback_tx_immediate
+ *fill*         0x000004d6        0x2 
+ .text.ftdi_reset_purge_rx
+                0x000004d8        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x000004d8                ftdi_reset_purge_rx
+ .text.ftdi_reset_purge_tx
+                0x000004e4        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x000004e4                ftdi_reset_purge_tx
+ .text.ftdi_reset_sio
+                0x000004f0        0x2 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x000004f0                ftdi_reset_sio
+ *fill*         0x000004f2        0x2 
+ .text.ftdi_set_tx_buf
+                0x000004f4       0x48 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x000004f4                ftdi_set_tx_buf
+ .text.ftdi_get_tx_buf
+                0x0000053c       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x0000053c                ftdi_get_tx_buf
+ .text.ftdi_available_tx_buf
+                0x00000550        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x00000550                ftdi_available_tx_buf
+ .text.ftdi_set_rx_buf
+                0x0000055c       0x48 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x0000055c                ftdi_set_rx_buf
+ .text.ftdi_get_rx_buf
+                0x000005a4       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x000005a4                ftdi_get_rx_buf
+ .text.ftdi_set_baudrate
+                0x000005b8       0xfc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x000005b8                ftdi_set_baudrate
+ .text.ftdi_set_data_config
+                0x000006b4       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x000006b4                ftdi_set_data_config
+ .text.ftdi_set_flow_ctrl
+                0x000006d0        0x2 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x000006d0                ftdi_set_flow_ctrl
+ *fill*         0x000006d2        0x2 
+ .text.ftdi_set_bitmode
+                0x000006d4       0x80 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x000006d4                ftdi_set_bitmode
+ .text.ftdi_set_latency_timer
+                0x00000754       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x00000754                ftdi_set_latency_timer
+ .text.ftdi_get_latency_timer
+                0x00000768        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x00000768                ftdi_get_latency_timer
+ .text.ftdi_reset_latency_timer
+                0x00000774        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x00000774                ftdi_reset_latency_timer
+ .text.ftdi_get_modem_status_uint16_t
+                0x00000780        0x2 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x00000780                ftdi_get_modem_status_uint16_t
+ *fill*         0x00000782        0x2 
+ .text.ftdi_start_uart_tx
+                0x00000784        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x00000784                ftdi_start_uart_tx
+ .text.ftdi_get_bitbang_gpio
+                0x00000790       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+                0x00000790                ftdi_get_bitbang_gpio
+ .text.ftdi_gpio_set_noop
+                0x000007ac        0x4 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_gpio_set_b0
+                0x000007b0       0x10 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_gpio_set_b1
+                0x000007c0       0x10 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_gpio_set_b2
+                0x000007d0       0x10 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_gpio_set_b3
+                0x000007e0       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_gpio_set_b4
+                0x000007f4       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_gpio_set_b5
+                0x00000808       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_gpio_set_b6
+                0x0000081c       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_gpio_set_b7
+                0x00000830       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_bitbang_tim_isr
+                0x00000844       0x30 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_bitbang_worker
+                0x00000874      0x234 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .text.ftdi_bitbang_gpio_set_direction
+                0x00000aa8       0x98 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+                0x00000aa8                ftdi_bitbang_gpio_set_direction
+ .text.ftdi_bitbang_get_gpio
+                0x00000b40       0x64 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+                0x00000b40                ftdi_bitbang_get_gpio
+ .text.ftdi_bitbang_alloc
+                0x00000ba4       0x64 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+                0x00000ba4                ftdi_bitbang_alloc
+ .text.ftdi_bitbang_free
+                0x00000c08       0x4c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+                0x00000c08                ftdi_bitbang_free
+ .text.ftdi_bitbang_get_mpsse_handle
+                0x00000c54        0x4 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+                0x00000c54                ftdi_bitbang_get_mpsse_handle
+ .text.ftdi_bitbang_set_gpio
+                0x00000c58       0x9c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+                0x00000c58                ftdi_bitbang_set_gpio
+ .text.ftdi_bitbang_enable
+                0x00000cf4       0x3c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+                0x00000cf4                ftdi_bitbang_enable
+ .text.ftdi_bitbang_set_speed
+                0x00000d30       0x2c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+                0x00000d30                ftdi_bitbang_set_speed
+ .text.LL_GPIO_SetPinMode
+                0x00000d5c       0x2a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ *fill*         0x00000d86        0x2 
+ .text.ftdi_gpio_set_direction
+                0x00000d88       0x90 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+                0x00000d88                ftdi_gpio_set_direction
+ .text.ftdi_gpio_init
+                0x00000e18       0x88 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+                0x00000e18                ftdi_gpio_init
+ .text.ftdi_gpio_deinit
+                0x00000ea0       0x80 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+                0x00000ea0                ftdi_gpio_deinit
+ .text.ftdi_latency_timer_tim_isr
+                0x00000f20       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .text.ftdi_latency_timer_alloc
+                0x00000f3c       0x70 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+                0x00000f3c                ftdi_latency_timer_alloc
+ .text.ftdi_latency_timer_free
+                0x00000fac       0x40 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+                0x00000fac                ftdi_latency_timer_free
+ .text.ftdi_latency_timer_set_callback
+                0x00000fec        0x6 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+                0x00000fec                ftdi_latency_timer_set_callback
+ *fill*         0x00000ff2        0x2 
+ .text.ftdi_latency_timer_enable
+                0x00000ff4       0x20 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+                0x00000ff4                ftdi_latency_timer_enable
+ .text.ftdi_latency_timer_set_speed
+                0x00001014       0x30 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+                0x00001014                ftdi_latency_timer_set_speed
+ .text.ftdi_latency_timer_get_speed
+                0x00001044        0x4 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+                0x00001044                ftdi_latency_timer_get_speed
+ .text.ftdi_latency_timer_reset
+                0x00001048        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+                0x00001048                ftdi_latency_timer_reset
+ .text.ftdi_gpio_get_b2
+                0x00001054        0xe build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_gpio_set_noop
+                0x00001062        0x2 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_gpio_set_b0
+                0x00001064       0x10 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_gpio_set_b1
+                0x00001074       0x10 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_gpio_set_b2
+                0x00001084       0x10 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_gpio_set_b3
+                0x00001094       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_gpio_set_b4
+                0x000010a8       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_gpio_set_b5
+                0x000010bc       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_gpio_set_b6
+                0x000010d0       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_gpio_set_b7
+                0x000010e4       0x14 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_mpsse_immediate
+                0x000010f8        0xa build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_mpsse_gpio_set_callback
+                0x00001102        0x6 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+                0x00001102                ftdi_mpsse_gpio_set_callback
+ .text.ftdi_mpsse_gpio_set_direction
+                0x00001108       0x98 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+                0x00001108                ftdi_mpsse_gpio_set_direction
+ .text.ftdi_mpsse_gpio_init
+                0x000011a0       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+                0x000011a0                ftdi_mpsse_gpio_init
+ .text.ftdi_mpsse_alloc
+                0x000011bc       0x34 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+                0x000011bc                ftdi_mpsse_alloc
+ .text.ftdi_mpsse_free
+                0x000011f0       0x24 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+                0x000011f0                ftdi_mpsse_free
+ .text.ftdi_mpsse_get_data_stream
+                0x00001214       0x44 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+                0x00001214                ftdi_mpsse_get_data_stream
+ .text.ftdi_mpsse_skeep_data
+                0x00001258       0x28 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_mpsse_get_data_size
+                0x00001280       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .text.ftdi_mpssse_set_data_stream
+                0x0000129c        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+                0x0000129c                ftdi_mpssse_set_data_stream
+ .text.ftdi_mpsse_get_data
+                0x000012a8       0x6c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+                0x000012a8                ftdi_mpsse_get_data
+ .text.ftdi_mpsse_state_machine
+                0x00001314      0x570 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+                0x00001314                ftdi_mpsse_state_machine
+ .text.ftdi_uart_irq_cb
+                0x00001884       0x58 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .text.ftdi_uart_echo_worker
+                0x000018dc      0x188 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .text.ftdi_uart_dma_tx_isr
+                0x00001a64       0x44 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .text.ftdi_uart_alloc
+                0x00001aa8       0x90 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+                0x00001aa8                ftdi_uart_alloc
+ .text.ftdi_uart_free
+                0x00001b38       0x54 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+                0x00001b38                ftdi_uart_free
+ .text.ftdi_uart_tx
+                0x00001b8c       0x20 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+                0x00001b8c                ftdi_uart_tx
+ .text.ftdi_uart_set_baudrate
+                0x00001bac        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+                0x00001bac                ftdi_uart_set_baudrate
+ .text.ftdi_uart_enable
+                0x00001bb8       0x64 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+                0x00001bb8                ftdi_uart_enable
+ .text.ftdi_uart_set_data_config
+                0x00001c1c       0x7c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+                0x00001c1c                ftdi_uart_set_data_config
+ .text.ftdi_usb_wakeup
+                0x00001c98        0x2 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ *fill*         0x00001c9a        0x2 
+ .text.ftdi_usb_callback_tx_immediate
+                0x00001c9c       0x20 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .text.ftdi_usb_rx_ep_callback
+                0x00001cbc       0x24 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .text.ftdi_usb_tx_ep_callback
+                0x00001ce0       0x24 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .text.ftdi_usb_deinit
+                0x00001d04       0x68 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .text.ftdi_usb_control
+                0x00001d6c      0x134 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .text.ftdi_usb_send
+                0x00001ea0        0x8 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .text.ftdi_thread_worker
+                0x00001ea8      0x13c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .text.ftdi_usb_init
+                0x00001fe4       0x90 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .text.ftdi_usb_suspend
+                0x00002074        0x2 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ *fill*         0x00002076        0x2 
+ .text.ftdi_usb_ep_config
+                0x00002078       0x54 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .text.ftdi_usb_start
+                0x000020cc       0x9c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+                0x000020cc                ftdi_usb_start
+ .text.ftdi_usb_stop
+                0x00002168        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+                0x00002168                ftdi_usb_stop
+ .text.flip_tdi_scene_about_on_enter
+                0x00002174      0x13c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+                0x00002174                flip_tdi_scene_about_on_enter
+ .text.flip_tdi_scene_about_on_event
+                0x000022b0        0xe build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+                0x000022b0                flip_tdi_scene_about_on_event
+ *fill*         0x000022be        0x2 
+ .text.flip_tdi_scene_about_on_exit
+                0x000022c0        0xc build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+                0x000022c0                flip_tdi_scene_about_on_exit
+ .text.flip_tdi_scene_main_callback
+                0x000022cc       0x10 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+                0x000022cc                flip_tdi_scene_main_callback
+ .text.flip_tdi_scene_main_on_enter
+                0x000022dc       0x28 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+                0x000022dc                flip_tdi_scene_main_on_enter
+ .text.flip_tdi_scene_main_on_event
+                0x00002304       0x28 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+                0x00002304                flip_tdi_scene_main_on_event
+ .text.flip_tdi_scene_main_on_exit
+                0x0000232c        0x2 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+                0x0000232c                flip_tdi_scene_main_on_exit
+ *fill*         0x0000232e        0x2 
+ .text.flip_tdi_scene_wiring_gpio_on_enter
+                0x00002330       0x28 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+                0x00002330                flip_tdi_scene_wiring_gpio_on_enter
+ .text.flip_tdi_scene_wiring_gpio_on_event
+                0x00002358        0xe build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+                0x00002358                flip_tdi_scene_wiring_gpio_on_event
+ *fill*         0x00002366        0x2 
+ .text.flip_tdi_scene_wiring_gpio_on_exit
+                0x00002368        0xc build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+                0x00002368                flip_tdi_scene_wiring_gpio_on_exit
+ .text.flip_tdi_scene_wiring_spi_on_enter
+                0x00002374       0x28 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+                0x00002374                flip_tdi_scene_wiring_spi_on_enter
+ .text.flip_tdi_scene_wiring_spi_on_event
+                0x0000239c        0xe build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+                0x0000239c                flip_tdi_scene_wiring_spi_on_event
+ *fill*         0x000023aa        0x2 
+ .text.flip_tdi_scene_wiring_spi_on_exit
+                0x000023ac        0xc build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+                0x000023ac                flip_tdi_scene_wiring_spi_on_exit
+ .text.flip_tdi_scene_wiring_uart_on_enter
+                0x000023b8       0x28 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+                0x000023b8                flip_tdi_scene_wiring_uart_on_enter
+ .text.flip_tdi_scene_wiring_uart_on_event
+                0x000023e0        0xe build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+                0x000023e0                flip_tdi_scene_wiring_uart_on_event
+ *fill*         0x000023ee        0x2 
+ .text.flip_tdi_scene_wiring_uart_on_exit
+                0x000023f0        0xc build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+                0x000023f0                flip_tdi_scene_wiring_uart_on_exit
+ .text.flip_tdi_scene_menu_submenu_callback
+                0x000023fc        0xc build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+                0x000023fc                flip_tdi_scene_menu_submenu_callback
+ .text.flip_tdi_scene_menu_on_enter
+                0x00002408       0x7c build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+                0x00002408                flip_tdi_scene_menu_on_enter
+ .text.flip_tdi_scene_menu_on_event
+                0x00002484       0x58 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+                0x00002484                flip_tdi_scene_menu_on_event
+ .text.flip_tdi_scene_menu_on_exit
+                0x000024dc        0xc build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+                0x000024dc                flip_tdi_scene_menu_on_exit
+ .text.flip_tdi_view_main_input
+                0x000024e8       0x24 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+                0x000024e8                flip_tdi_view_main_input
+ .text.flip_tdi_view_main_exit
+                0x0000250c        0x2 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+                0x0000250c                flip_tdi_view_main_exit
+ *fill*         0x0000250e        0x2 
+ .text.flip_tdi_view_main_draw
+                0x00002510       0x4c build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+                0x00002510                flip_tdi_view_main_draw
+ .text.flip_tdi_view_main_enter
+                0x0000255c       0x24 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+                0x0000255c                flip_tdi_view_main_enter
+ .text.flip_tdi_view_main_set_callback
+                0x00002580        0x6 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+                0x00002580                flip_tdi_view_main_set_callback
+ *fill*         0x00002586        0x2 
+ .text.flip_tdi_view_main_alloc
+                0x00002588       0x90 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+                0x00002588                flip_tdi_view_main_alloc
+ .text.flip_tdi_view_main_free
+                0x00002618       0x1c build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+                0x00002618                flip_tdi_view_main_free
+ .text.flip_tdi_view_main_get_view
+                0x00002634        0x4 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+                0x00002634                flip_tdi_view_main_get_view
+ .text.flip_tdi_app_tick_event_callback
+                0x00002638        0xc build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .text.flip_tdi_app_back_event_callback
+                0x00002644        0xc build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .text.flip_tdi_app_custom_event_callback
+                0x00002650        0xc build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .text.flip_tdi_app_alloc
+                0x0000265c      0x104 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+                0x0000265c                flip_tdi_app_alloc
+ .text.flip_tdi_app_free
+                0x00002760       0x80 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+                0x00002760                flip_tdi_app_free
+ .text.flip_tdi_app
+                0x000027e0       0x24 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+                0x000027e0                flip_tdi_app
+ .text.flip_tdi_start
+                0x00002804       0x10 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+                0x00002804                flip_tdi_start
+ .text.flip_tdi_stop
+                0x00002814        0xc build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+                0x00002814                flip_tdi_stop
+ .text.round    0x00002820       0x8c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+                0x00002820                round
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x000028ac      0xa7f
+ *(.rodata)
+ .rodata        0x000028ac       0x20 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.ftdi_set_tx_buf.str1.1
+                0x000028cc       0x1d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .rodata.ftdi_set_rx_buf.str1.1
+                0x000028e9       0x18 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ *fill*         0x00002901        0x3 
+ .rodata.ftdi_bitbang_worker.str1.4
+                0x00002904       0x2f build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .rodata.ftdi_mpsse_get_data_stream.str1.1
+                0x00002933       0x13 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .rodata.ftdi_mpsse_get_data.str1.1
+                0x00002946       0x13 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .rodata.ftdi_uart_echo_worker.str1.1
+                0x00002959       0x28 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .rodata.ftdi_thread_worker.str1.1
+                0x00002981        0xe build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .rodata.ftdi_usb_init.str1.1
+                0x0000298f        0x8 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .rodata.ftdi_usb_start.str1.1
+                0x00002997       0x26 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .rodata.usb_ftdi_cfg_descr
+                0x000029bd       0x20 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .rodata.usb_ftdi_dev_descr
+                0x000029dd       0x12 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ *fill*         0x000029ef        0x1 
+ .rodata.dev_product_desc
+                0x000029f0       0x12 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .rodata.dev_manuf_desc
+                0x00002a02        0xc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ *fill*         0x00002a0e        0x2 
+ .rodata.flip_tdi_scene_handlers
+                0x00002a10       0x10 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+                0x00002a10                flip_tdi_scene_handlers
+ .rodata.flip_tdi_scene_on_exit_handlers
+                0x00002a20       0x18 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+                0x00002a20                flip_tdi_scene_on_exit_handlers
+ .rodata.flip_tdi_scene_on_event_handlers
+                0x00002a38       0x18 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+                0x00002a38                flip_tdi_scene_on_event_handlers
+ .rodata.flip_tdi_scene_on_enter_handlers
+                0x00002a50       0x18 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+                0x00002a50                flip_tdi_scene_on_enter_handlers
+ .rodata.flip_tdi_scene_about_on_enter.str1.1
+                0x00002a68      0x222 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .rodata.flip_tdi_scene_menu_on_enter.str1.1
+                0x00002c8a       0x29 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .rodata.flip_tdi_view_main_draw.str1.1
+                0x00002cb3        0x5 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .rodata.flip_tdi_app_alloc.str1.1
+                0x00002cb8       0x11 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ *fill*         0x00002cc9        0x3 
+ .rodata.I_flip_tdi_wiring_uart
+                0x00002ccc        0xc build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x00002ccc                I_flip_tdi_wiring_uart
+ .rodata.I_flip_tdi_wiring_spi
+                0x00002cd8        0xc build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x00002cd8                I_flip_tdi_wiring_spi
+ .rodata.I_flip_tdi_wiring_gpio
+                0x00002ce4        0xc build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x00002ce4                I_flip_tdi_wiring_gpio
+ .rodata.I_flip_tdi
+                0x00002cf0        0xc build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x00002cf0                I_flip_tdi
+ .rodata._I_flip_tdi_wiring_uart
+                0x00002cfc        0x4 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x00002cfc                _I_flip_tdi_wiring_uart
+ .rodata._I_flip_tdi_wiring_uart_0
+                0x00002d00      0x14b build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x00002d00                _I_flip_tdi_wiring_uart_0
+ *fill*         0x00002e4b        0x1 
+ .rodata._I_flip_tdi_wiring_spi
+                0x00002e4c        0x4 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x00002e4c                _I_flip_tdi_wiring_spi
+ .rodata._I_flip_tdi_wiring_spi_0
+                0x00002e50      0x1b8 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x00002e50                _I_flip_tdi_wiring_spi_0
+ .rodata._I_flip_tdi_wiring_gpio
+                0x00003008        0x4 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x00003008                _I_flip_tdi_wiring_gpio
+ .rodata._I_flip_tdi_wiring_gpio_0
+                0x0000300c      0x26f build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x0000300c                _I_flip_tdi_wiring_gpio_0
+ *fill*         0x0000327b        0x1 
+ .rodata._I_flip_tdi
+                0x0000327c        0x4 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x0000327c                _I_flip_tdi
+ .rodata._I_flip_tdi_0
+                0x00003280       0xab build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+                0x00003280                _I_flip_tdi_0
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss            0x0000332c        0x4
+ *(.bss)
+ *(.bss*)
+ .bss.ftdi_cur  0x0000332c        0x4 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x610
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0xf0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_aranges
+                0x000000f0       0xb8 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_aranges
+                0x000001a8       0x38 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_aranges
+                0x000001e0       0x58 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_aranges
+                0x00000238       0xc8 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_aranges
+                0x00000300       0x60 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_aranges
+                0x00000360       0x80 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_aranges
+                0x000003e0       0x18 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+ .debug_aranges
+                0x000003f8       0x38 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_aranges
+                0x00000430       0x38 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_aranges
+                0x00000468       0x30 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_aranges
+                0x00000498       0x30 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_aranges
+                0x000004c8       0x30 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_aranges
+                0x000004f8       0x38 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_aranges
+                0x00000530       0x58 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_aranges
+                0x00000588       0x48 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_aranges
+                0x000005d0       0x28 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .debug_aranges
+                0x000005f8       0x18 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xe748
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1381 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_info    0x00001381     0x1a07 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_info    0x00002d88      0x93c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_info    0x000036c4      0xe48 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_info    0x0000450c     0x1a96 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_info    0x00005fa2     0x1cac build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_info    0x00007c4e     0x1f10 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_info    0x00009b5e      0x58f build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+ .debug_info    0x0000a0ed      0x9d6 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_info    0x0000aac3      0x6a9 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_info    0x0000b16c      0x584 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_info    0x0000b6f0      0x584 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_info    0x0000bc74      0x584 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_info    0x0000c1f8      0x7f6 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_info    0x0000c9ee      0xa9b build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_info    0x0000d489      0xc3f build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_info    0x0000e0c8      0x416 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .debug_info    0x0000e4de      0x26a build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+
+.debug_abbrev   0x00000000     0x3141
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3d2 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_abbrev  0x000003d2      0x4e6 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_abbrev  0x000008b8      0x287 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_abbrev  0x00000b3f      0x344 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_abbrev  0x00000e83      0x415 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_abbrev  0x00001298      0x479 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_abbrev  0x00001711      0x514 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_abbrev  0x00001c25      0x15a build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+ .debug_abbrev  0x00001d7f      0x246 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_abbrev  0x00001fc5      0x235 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_abbrev  0x000021fa      0x1f2 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_abbrev  0x000023ec      0x1f2 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_abbrev  0x000025de      0x1f2 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_abbrev  0x000027d0      0x217 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_abbrev  0x000029e7      0x28f build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_abbrev  0x00002c76      0x2a9 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_abbrev  0x00002f1f      0x164 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .debug_abbrev  0x00003083       0xbe build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+
+.debug_line     0x00000000     0x691b
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x25e build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_callback_tx_immediate
+                0x0000025e       0x25 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_alloc
+                0x00000283       0x86 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_free
+                0x00000309       0x2d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_switch_callback_tx_immediate
+                0x00000336       0x44 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_set_callback_tx_immediate
+                0x0000037a       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_reset_purge_rx
+                0x00000396       0x17 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_reset_purge_tx
+                0x000003ad       0x17 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_reset_sio
+                0x000003c4       0x19 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_set_tx_buf
+                0x000003dd       0x4d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_get_tx_buf
+                0x0000042a       0x24 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_available_tx_buf
+                0x0000044e       0x1a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_set_rx_buf
+                0x00000468       0x4d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_get_rx_buf
+                0x000004b5       0x24 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_set_baudrate
+                0x000004d9       0xfd build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_set_data_config
+                0x000005d6       0x3c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_set_flow_ctrl
+                0x00000612       0x1c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_set_bitmode
+                0x0000062e       0x8f build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_set_latency_timer
+                0x000006bd       0x33 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_get_latency_timer
+                0x000006f0       0x1a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_reset_latency_timer
+                0x0000070a       0x17 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_get_modem_status_uint16_t
+                0x00000721       0x19 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_start_uart_tx
+                0x0000073a       0x17 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line.text.ftdi_get_bitbang_gpio
+                0x00000751       0x29 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line_end
+                0x0000077a        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_line    0x0000077a      0x2fa build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_gpio_set_noop
+                0x00000a74       0x1a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_gpio_set_b0
+                0x00000a8e       0x30 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_gpio_set_b1
+                0x00000abe       0x30 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_gpio_set_b2
+                0x00000aee       0x30 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_gpio_set_b3
+                0x00000b1e       0x31 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_gpio_set_b4
+                0x00000b4f       0x31 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_gpio_set_b5
+                0x00000b80       0x31 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_gpio_set_b6
+                0x00000bb1       0x31 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_gpio_set_b7
+                0x00000be2       0x31 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_bitbang_tim_isr
+                0x00000c13       0x88 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_bitbang_worker
+                0x00000c9b      0x472 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_bitbang_gpio_set_direction
+                0x0000110d       0x58 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_bitbang_get_gpio
+                0x00001165      0x13d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_bitbang_alloc
+                0x000012a2       0x83 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_bitbang_free
+                0x00001325       0x3b build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_bitbang_get_mpsse_handle
+                0x00001360       0x1a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_bitbang_set_gpio
+                0x0000137a       0x7f build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_bitbang_enable
+                0x000013f9       0xa3 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line.text.ftdi_bitbang_set_speed
+                0x0000149c       0x81 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line_end
+                0x0000151d        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_line    0x0000151d      0x1f6 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_line.text.LL_GPIO_SetPinMode
+                0x00001713       0x8f build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_line.text.ftdi_gpio_set_direction
+                0x000017a2       0x95 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_line.text.ftdi_gpio_init
+                0x00001837       0x33 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_line.text.ftdi_gpio_deinit
+                0x0000186a       0x2b build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_line_end
+                0x00001895        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_line    0x00001895      0x294 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_line.text.ftdi_latency_timer_tim_isr
+                0x00001b29       0x5d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_line.text.ftdi_latency_timer_alloc
+                0x00001b86       0xfa build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_line.text.ftdi_latency_timer_free
+                0x00001c80       0x79 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_line.text.ftdi_latency_timer_set_callback
+                0x00001cf9       0x1b build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_line.text.ftdi_latency_timer_enable
+                0x00001d14       0x64 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_line.text.ftdi_latency_timer_set_speed
+                0x00001d78       0x9d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_line.text.ftdi_latency_timer_get_speed
+                0x00001e15       0x1a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_line.text.ftdi_latency_timer_reset
+                0x00001e2f       0x2b build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_line_end
+                0x00001e5a        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_line    0x00001e5a      0x2a8 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_gpio_get_b2
+                0x00002102       0x20 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_gpio_set_noop
+                0x00002122       0x1a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_gpio_set_b0
+                0x0000213c       0x2d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_gpio_set_b1
+                0x00002169       0x2d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_gpio_set_b2
+                0x00002196       0x2d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_gpio_set_b3
+                0x000021c3       0x2e build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_gpio_set_b4
+                0x000021f1       0x2e build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_gpio_set_b5
+                0x0000221f       0x2e build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_gpio_set_b6
+                0x0000224d       0x2e build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_gpio_set_b7
+                0x0000227b       0x2e build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpsse_immediate
+                0x000022a9       0x25 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpsse_gpio_set_callback
+                0x000022ce       0x1b build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpsse_gpio_set_direction
+                0x000022e9       0x69 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpsse_gpio_init
+                0x00002352       0x2d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpsse_alloc
+                0x0000237f       0x60 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpsse_free
+                0x000023df       0x2f build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpsse_get_data_stream
+                0x0000240e       0x42 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpsse_skeep_data
+                0x00002450       0x48 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpsse_get_data_size
+                0x00002498       0x2d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpssse_set_data_stream
+                0x000024c5       0x18 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpsse_get_data
+                0x000024dd       0x68 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line.text.ftdi_mpsse_state_machine
+                0x00002545      0x993 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line_end
+                0x00002ed8        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_line    0x00002ed8      0x35d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_line.text.ftdi_uart_irq_cb
+                0x00003235       0x6a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_line.text.ftdi_uart_echo_worker
+                0x0000329f      0x38d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_line.text.ftdi_uart_dma_tx_isr
+                0x0000362c       0xa3 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_line.text.ftdi_uart_alloc
+                0x000036cf       0xda build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_line.text.ftdi_uart_free
+                0x000037a9       0x35 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_line.text.ftdi_uart_tx
+                0x000037de       0x2e build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_line.text.ftdi_uart_set_baudrate
+                0x0000380c       0x20 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_line.text.ftdi_uart_enable
+                0x0000382c       0x57 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_line.text.ftdi_uart_set_data_config
+                0x00003883       0xdd build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_line_end
+                0x00003960        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_line    0x00003960      0x2a2 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_wakeup
+                0x00003c02       0x19 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_callback_tx_immediate
+                0x00003c1b       0x39 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_rx_ep_callback
+                0x00003c54       0x2a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_tx_ep_callback
+                0x00003c7e       0x2a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_deinit
+                0x00003ca8       0x95 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_control
+                0x00003d3d      0x106 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_send
+                0x00003e43       0x27 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_thread_worker
+                0x00003e6a      0x174 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_init
+                0x00003fde       0xc1 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_suspend
+                0x0000409f       0x12 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_ep_config
+                0x000040b1       0xf1 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_start
+                0x000041a2       0x76 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line.text.ftdi_usb_stop
+                0x00004218       0x17 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line_end
+                0x0000422f        0x0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_line    0x0000422f      0x1e7 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+ .debug_line_end
+                0x00004416        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+ .debug_line    0x00004416      0x382 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_line.text.flip_tdi_scene_about_on_enter
+                0x00004798       0x5d build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_line.text.flip_tdi_scene_about_on_event
+                0x000047f5       0x24 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_line.text.flip_tdi_scene_about_on_exit
+                0x00004819       0x1c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_line_end
+                0x00004835        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_line    0x00004835      0x34a build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_line.text.flip_tdi_scene_main_callback
+                0x00004b7f       0x22 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_line.text.flip_tdi_scene_main_on_enter
+                0x00004ba1       0x2b build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_line.text.flip_tdi_scene_main_on_event
+                0x00004bcc       0x38 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_line.text.flip_tdi_scene_main_on_exit
+                0x00004c04       0x1d build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_line_end
+                0x00004c21        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_line    0x00004c21      0x33d build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_line.text.flip_tdi_scene_wiring_gpio_on_enter
+                0x00004f5e       0x2e build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_line.text.flip_tdi_scene_wiring_gpio_on_event
+                0x00004f8c       0x24 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_line.text.flip_tdi_scene_wiring_gpio_on_exit
+                0x00004fb0       0x1b build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_line_end
+                0x00004fcb        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_line    0x00004fcb      0x33c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_line.text.flip_tdi_scene_wiring_spi_on_enter
+                0x00005307       0x2e build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_line.text.flip_tdi_scene_wiring_spi_on_event
+                0x00005335       0x24 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_line.text.flip_tdi_scene_wiring_spi_on_exit
+                0x00005359       0x1b build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_line_end
+                0x00005374        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_line    0x00005374      0x33d build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_line.text.flip_tdi_scene_wiring_uart_on_enter
+                0x000056b1       0x2e build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_line.text.flip_tdi_scene_wiring_uart_on_event
+                0x000056df       0x24 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_line.text.flip_tdi_scene_wiring_uart_on_exit
+                0x00005703       0x1b build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_line_end
+                0x0000571e        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_line    0x0000571e      0x348 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_line.text.flip_tdi_scene_menu_submenu_callback
+                0x00005a66       0x1a build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_line.text.flip_tdi_scene_menu_on_enter
+                0x00005a80       0x39 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_line.text.flip_tdi_scene_menu_on_event
+                0x00005ab9       0x59 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_line.text.flip_tdi_scene_menu_on_exit
+                0x00005b12       0x1b build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_line_end
+                0x00005b2d        0x0 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_line    0x00005b2d      0x342 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_line.text.flip_tdi_view_main_input
+                0x00005e6f       0x3a build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_line.text.flip_tdi_view_main_exit
+                0x00005ea9       0x1d build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_line.text.flip_tdi_view_main_draw
+                0x00005ec6       0x32 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_line.text.flip_tdi_view_main_enter
+                0x00005ef8       0x33 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_line.text.flip_tdi_view_main_set_callback
+                0x00005f2b       0x23 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_line.text.flip_tdi_view_main_alloc
+                0x00005f4e       0x4a build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_line.text.flip_tdi_view_main_free
+                0x00005f98       0x31 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_line.text.flip_tdi_view_main_get_view
+                0x00005fc9       0x1e build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_line_end
+                0x00005fe7        0x0 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_line    0x00005fe7      0x3b4 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_line.text.flip_tdi_app_tick_event_callback
+                0x0000639b       0x1b build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_line.text.flip_tdi_app_back_event_callback
+                0x000063b6       0x1e build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_line.text.flip_tdi_app_custom_event_callback
+                0x000063d4       0x1d build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_line.text.flip_tdi_app_alloc
+                0x000063f1       0x95 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_line.text.flip_tdi_app_free
+                0x00006486       0x45 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_line.text.flip_tdi_app
+                0x000064cb       0x31 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_line_end
+                0x000064fc        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_line    0x000064fc      0x295 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .debug_line.text.flip_tdi_start
+                0x00006791       0x2a build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .debug_line.text.flip_tdi_stop
+                0x000067bb       0x1a build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .debug_line_end
+                0x000067d5        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .debug_line    0x000067d5      0x146 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+ .debug_line_end
+                0x0000691b        0x0 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+
+.debug_frame    0x00000000      0xe58
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x2b0 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_frame   0x000002b0      0x1b4 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_frame   0x00000464       0x90 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_frame   0x000004f4       0xbc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_frame   0x000005b0      0x1f4 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_frame   0x000007a4      0x134 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_frame   0x000008d8      0x170 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_frame   0x00000a48       0x80 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_frame   0x00000ac8       0x64 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_frame   0x00000b2c       0x5c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_frame   0x00000b88       0x5c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_frame   0x00000be4       0x5c build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_frame   0x00000c40       0x7c build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_frame   0x00000cbc       0xcc build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_frame   0x00000d88       0x98 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_frame   0x00000e20       0x38 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+
+.debug_str      0x00000000     0xa3a6
+ *(.debug_str)
+ .debug_str     0x00000000      0xc1f build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_str     0x00000c1f     0x117e build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_str     0x00001d9d      0x528 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_str     0x000022c5      0xbc7 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_str     0x00002e8c      0xffc build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_str     0x00003e88     0x112a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_str     0x00004fb2     0x12bb build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_str     0x0000626d      0x6da build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+ .debug_str     0x00006947      0x694 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_str     0x00006fdb      0x66d build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_str     0x00007648      0x4ec build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_str     0x00007b34      0x4e7 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_str     0x0000801b      0x4ec build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_str     0x00008507      0x698 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_str     0x00008b9f      0x7d2 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_str     0x00009371      0x9b4 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_str     0x00009d25      0x358 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .debug_str     0x0000a07d      0x329 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000      0x154
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_line_str
+                0x000000aa       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+
+.debug_loclists
+                0x00000000     0x2bb8
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x681 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_loclists
+                0x00000681      0x5c9 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_loclists
+                0x00000c4a       0x6a build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_loclists
+                0x00000cb4      0x29c build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_loclists
+                0x00000f50      0x78f build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_loclists
+                0x000016df      0x6d1 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_loclists
+                0x00001db0      0x62d build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_loclists
+                0x000023dd      0x120 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_loclists
+                0x000024fd       0xf2 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_loclists
+                0x000025ef       0x8d build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_loclists
+                0x0000267c       0x8d build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_loclists
+                0x00002709       0x8d build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_loclists
+                0x00002796      0x131 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_loclists
+                0x000028c7      0x194 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_loclists
+                0x00002a5b      0x11c build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_loclists
+                0x00002b77       0x41 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0xbc3
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0xb1 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .debug_rnglists
+                0x000000b1      0x30b build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .debug_rnglists
+                0x000003bc       0x58 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .debug_rnglists
+                0x00000414       0xa6 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .debug_rnglists
+                0x000004ba      0x36f build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .debug_rnglists
+                0x00000829      0x190 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .debug_rnglists
+                0x000009b9       0xa1 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .debug_rnglists
+                0x00000a5a       0x26 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .debug_rnglists
+                0x00000a80       0x25 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .debug_rnglists
+                0x00000aa5       0x1f build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .debug_rnglists
+                0x00000ac4       0x1f build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .debug_rnglists
+                0x00000ae3       0x1f build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .debug_rnglists
+                0x00000b02       0x25 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .debug_rnglists
+                0x00000b27       0x50 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .debug_rnglists
+                0x00000b77       0x33 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .debug_rnglists
+                0x00000baa       0x19 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_bitbang.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_gpio.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_latency_timer.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_mpsse.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_uart.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/flip_tdi/helpers/ftdi_usb.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_about.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_main.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_gpio.o
+ .ARM.attributes
+                0x0000023c       0x34 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_spi.o
+ .ARM.attributes
+                0x00000270       0x34 build/f7-firmware-C/.extapps/flip_tdi/scenes/flip_tdi_scene_wiring_uart.o
+ .ARM.attributes
+                0x000002a4       0x34 build/f7-firmware-C/.extapps/flip_tdi/scenes/subghz_scene_menu.o
+ .ARM.attributes
+                0x000002d8       0x34 build/f7-firmware-C/.extapps/flip_tdi/views/flip_tdi_view_main.o
+ .ARM.attributes
+                0x0000030c       0x34 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app.o
+ .ARM.attributes
+                0x00000340       0x34 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_app_i.o
+ .ARM.attributes
+                0x00000374       0x34 build/f7-firmware-C/.extapps/flip_tdi/flip_tdi_icons.o
+ .ARM.attributes
+                0x000003a8       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+ .ARM.attributes
+                0x000003dc       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000003fe       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/flip_tdi_d.elf elf32-littlearm)
+LOAD linker stubs

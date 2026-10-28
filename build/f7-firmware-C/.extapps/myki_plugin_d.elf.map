@@ -1,0 +1,278 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+                              build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o (__aeabi_ldivmod)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o (__aeabi_uldivmod)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .text          0x00000000       0xa0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_line_str
+                0x00000000       0xa5 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000      0x7d4
+ *(.text)
+ .text          0x00000000       0x30 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x00000000                __aeabi_uldivmod
+ .text          0x00000030      0x2bc c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x00000030                __udivmoddi4
+ .text          0x000002ec        0x4 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x000002ec                __aeabi_idiv0
+                0x000002ec                __aeabi_ldiv0
+ *(.stub)
+ *(.text*)
+ .text.myki_on_exit
+                0x000002f0       0x3c build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .text.myki_on_event
+                0x0000032c       0x8c build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .text.myki_parse
+                0x000003b8      0x16c build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+                0x000003b8                myki_parse
+ .text.myki_on_enter
+                0x00000524      0x194 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .text.myki_poller_callback
+                0x000006b8      0x114 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .text.myki_plugin_ep
+                0x000007cc        0x8 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+                0x000007cc                myki_plugin_ep
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x000007d4       0xe4
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.myki_on_event.str1.1
+                0x000007d4       0x2b build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .rodata.myki_parse.str1.1
+                0x000007ff       0x12 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .rodata.myki_on_enter.str1.1
+                0x00000811       0x63 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .rodata.myki_poller_callback.str1.1
+                0x00000874        0x5 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .rodata.digit_count.0
+                0x00000879        0x5 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .rodata.str1.1
+                0x0000087e       0x17 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ *fill*         0x00000895        0x3 
+ .rodata.myki_plugin_descriptor
+                0x00000898        0xc build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .rodata.myki_plugin
+                0x000008a4       0x10 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .rodata.myki_file_id
+                0x000008b4        0x1 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .rodata.myki_app_id
+                0x000008b5        0x3 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+
+.ARM.exidx      0x00000000        0x8
+ .ARM.exidx     0x00000000        0x8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x48
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x48 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2eb0
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x2eb0 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+
+.debug_abbrev   0x00000000      0x40e
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x40e build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+
+.debug_line     0x00000000      0xd20
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x96a build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .debug_line.text.myki_on_exit
+                0x0000096a       0x44 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .debug_line.text.myki_on_event
+                0x000009ae       0x73 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .debug_line.text.myki_parse
+                0x00000a21      0x1b4 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .debug_line.text.myki_on_enter
+                0x00000bd5       0xaf build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .debug_line.text.myki_poller_callback
+                0x00000c84       0x83 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .debug_line.text.myki_plugin_ep
+                0x00000d07       0x19 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .debug_line_end
+                0x00000d20        0x0 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+
+.debug_frame    0x00000000       0xec
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xec build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+
+.debug_str      0x00000000     0x2608
+ *(.debug_str)
+ .debug_str     0x00000000     0x2608 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000      0x14e
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0xa5 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line_str
+                0x000000a5       0xa9 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+
+.debug_loclists
+                0x00000000      0x48e
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x48e build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000       0x90
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x90 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/myki_plugin/scenes/plugins/myki.o
+ .ARM.attributes
+                0x00000034       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000056       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000078       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000000ac       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/myki_plugin_d.elf elf32-littlearm)
+LOAD linker stubs

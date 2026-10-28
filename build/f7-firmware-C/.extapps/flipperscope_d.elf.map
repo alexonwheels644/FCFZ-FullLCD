@@ -1,0 +1,1155 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_ceil.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (ceil)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cabsf.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (cabsf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (pow)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_hypot.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cabsf.o) (hypotf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o) (__ieee754_pow)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o) (__ieee754_sqrt)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-crealf.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cabsf.o) (crealf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimagf.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cabsf.o) (cimagf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_hypot.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_hypot.o) (__ieee754_hypotf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cexp.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (cexp)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_log.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (log)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_finite.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_hypot.o) (finitef)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o) (finite)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_log.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_log.o) (__ieee754_log)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_exp.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cexp.o) (exp)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimag.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cexp.o) (cimag)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_sin.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cexp.o) (sin)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o) (fabs)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o) (__math_uflow)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_nan.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_log.o) (nan)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_sin.o) (__ieee754_rem_pio2)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-creal.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cexp.o) (creal)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_sqrt.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_hypot.o) (__ieee754_sqrtf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_rem_pio2.o) (__kernel_rem_pio2)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o) (scalbn)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_sin.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_sin.o) (__kernel_sin)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_cos.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cexp.o) (cos)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_exp.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_exp.o) (__ieee754_exp)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_floor.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_rem_pio2.o) (floor)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_cos.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_sin.o) (__kernel_cos)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (__aeabi_dmul)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (__aeabi_dsub)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (__aeabi_ddiv)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (__aeabi_dcmpeq)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o) (__aeabi_dcmpun)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (__aeabi_d2iz)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (__aeabi_d2uiz)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (__aeabi_d2f)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_mulsc3.o)
+                              build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o (__mulsc3)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .text.scope_scene_about_widget_callback
+                0x00000000       0x14 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_line.text.scope_scene_about_widget_callback
+                0x00000000       0x21 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .text.Error_Handler
+                0x00000000        0x2 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .text.AdcDmaTransferError_Callback
+                0x00000000        0x2 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .text.abs_error
+                0x00000000       0x30 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .text.swap     0x00000000        0xa build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .text.clamp    0x00000000       0x48 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .bss.toggle    0x00000000        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .rodata.MSIRangeTable
+                0x00000000       0x40 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .rodata.AHBPrescTable
+                0x00000000       0x40 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.Error_Handler
+                0x00000000       0x25 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.AdcDmaTransferError_Callback
+                0x00000000       0x15 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.abs_error
+                0x00000000       0x27 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.swap
+                0x00000000       0x30 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.clamp
+                0x00000000       0x48 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .text.scope_scene_setup_widget_callback
+                0x00000000       0x14 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_line.text.scope_scene_setup_widget_callback
+                0x00000000       0x21 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .text.assert_failed
+                0x00000000        0x2 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_line.text.assert_failed
+                0x00000000       0x2e build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_ceil.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_ceil.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_ceil.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cabsf.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cabsf.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cabsf.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_hypot.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_hypot.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_hypot.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-crealf.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-crealf.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-crealf.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimagf.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimagf.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimagf.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_hypot.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_hypot.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_hypot.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cexp.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cexp.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cexp.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_log.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_log.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_log.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_finite.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_finite.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_finite.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_log.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_log.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_log.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_exp.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_exp.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_exp.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimag.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimag.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimag.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_sin.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_sin.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_sin.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.__math_may_uflow
+                0x00000000       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.__math_divzero
+                0x00000000       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.__math_invalid
+                0x00000000       0x54 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.__math_check_uflow
+                0x00000000       0x40 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.__math_check_oflow
+                0x00000000       0x64 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_nan.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_nan.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_nan.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-creal.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-creal.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-creal.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_sqrt.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_sqrt.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_sqrt.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_sin.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_sin.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_sin.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_cos.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_cos.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_cos.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_exp.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_exp.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_exp.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_floor.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_floor.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_floor.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_cos.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_cos.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_cos.o)
+ .text          0x00000000      0x254 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_mulsc3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_mulsc3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+LOAD build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+LOAD build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+LOAD build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+LOAD build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+LOAD build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+LOAD build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+LOAD build/f7-firmware-C/.extapps/flipperscope/scope.o
+LOAD build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000     0x52bc
+ *(.text)
+ .text          0x00000000      0x378 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x00000000                __aeabi_drsub
+                0x00000008                __aeabi_dsub
+                0x00000008                __subdf3
+                0x0000000c                __aeabi_dadd
+                0x0000000c                __adddf3
+                0x00000284                __floatunsidf
+                0x00000284                __aeabi_ui2d
+                0x000002a4                __floatsidf
+                0x000002a4                __aeabi_i2d
+                0x000002c8                __aeabi_f2d
+                0x000002c8                __extendsfdf2
+                0x0000030c                __floatundidf
+                0x0000030c                __aeabi_ul2d
+                0x0000031c                __floatdidf
+                0x0000031c                __aeabi_l2d
+ .text          0x00000378      0x424 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                0x00000378                __aeabi_dmul
+                0x00000378                __muldf3
+                0x000005cc                __divdf3
+                0x000005cc                __aeabi_ddiv
+ .text          0x0000079c      0x110 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                0x0000079c                __gtdf2
+                0x0000079c                __gedf2
+                0x000007a4                __ltdf2
+                0x000007a4                __ledf2
+                0x000007ac                __nedf2
+                0x000007ac                __eqdf2
+                0x000007ac                __cmpdf2
+                0x00000828                __aeabi_cdrcmple
+                0x00000838                __aeabi_cdcmpeq
+                0x00000838                __aeabi_cdcmple
+                0x00000848                __aeabi_dcmpeq
+                0x0000085c                __aeabi_dcmplt
+                0x00000870                __aeabi_dcmple
+                0x00000884                __aeabi_dcmpge
+                0x00000898                __aeabi_dcmpgt
+ .text          0x000008ac       0x2c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+                0x000008ac                __unorddf2
+                0x000008ac                __aeabi_dcmpun
+ .text          0x000008d8       0x50 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+                0x000008d8                __aeabi_d2iz
+                0x000008d8                __fixdfsi
+ .text          0x00000928       0x40 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                0x00000928                __aeabi_d2uiz
+                0x00000928                __fixunsdfsi
+ .text          0x00000968       0xa0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+                0x00000968                __truncdfsf2
+                0x00000968                __aeabi_d2f
+ .text          0x00000a08      0x2c0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_mulsc3.o)
+                0x00000a08                __mulsc3
+ *(.stub)
+ *(.text*)
+ .text.LL_ADC_Init
+                0x00000cc8       0x2a build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+                0x00000cc8                LL_ADC_Init
+ *fill*         0x00000cf2        0x2 
+ .text.LL_ADC_REG_Init
+                0x00000cf4       0x40 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+                0x00000cf4                LL_ADC_REG_Init
+ .text.LL_ADC_CommonInit
+                0x00000d34       0x24 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+                0x00000d34                LL_ADC_CommonInit
+ .text.scope_scene_about_on_enter
+                0x00000d58       0xf0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+                0x00000d58                scope_scene_about_on_enter
+ .text.scope_scene_about_on_event
+                0x00000e48        0xe build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+                0x00000e48                scope_scene_about_on_event
+ *fill*         0x00000e56        0x2 
+ .text.scope_scene_about_on_exit
+                0x00000e58        0xc build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+                0x00000e58                scope_scene_about_on_exit
+ .text.LL_AHB2_GRP1_EnableClock
+                0x00000e64       0x18 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .text.app_input_callback
+                0x00000e7c       0x14 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .text.TIM2_IRQHandler
+                0x00000e90        0x2 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00000e90                TIM2_IRQHandler
+ *fill*         0x00000e92        0x2 
+ .text.AdcGrpRegularOverrunError_Callback
+                0x00000e94       0x10 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00000e94                AdcGrpRegularOverrunError_Callback
+ .text.ADC1_IRQHandler
+                0x00000ea4       0x1c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00000ea4                ADC1_IRQHandler
+ .text.AdcDmaTransferComplete_Callback
+                0x00000ec0       0x60 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00000ec0                AdcDmaTransferComplete_Callback
+ .text.AdcDmaTransferHalf_Callback
+                0x00000f20       0x4c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00000f20                AdcDmaTransferHalf_Callback
+ .text.DMA1_Channel1_IRQHandler
+                0x00000f6c       0x3c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00000f6c                DMA1_Channel1_IRQHandler
+ .text.Activate_ADC
+                0x00000fa8       0x98 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00000fa8                Activate_ADC
+ .text.bit_reverse
+                0x00001040       0xc4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00001040                bit_reverse
+ *fill*         0x00001104        0x4 
+ .text.iterative_cooley_tukey
+                0x00001108      0x1dc build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00001108                iterative_cooley_tukey
+ .text.app_draw_callback
+                0x000012e4      0x618 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .text.free_all
+                0x000018fc       0x60 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x000018fc                free_all
+ *fill*         0x0000195c        0x4 
+ .text.scope_scene_run_on_enter
+                0x00001960      0x7f8 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00001960                scope_scene_run_on_enter
+ .text.scope_scene_run_on_event
+                0x00002158        0xe build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00002158                scope_scene_run_on_event
+ *fill*         0x00002166        0x2 
+ .text.scope_scene_run_on_exit
+                0x00002168        0xc build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00002168                scope_scene_run_on_exit
+ .text.scope_scene_save_text_input_callback
+                0x00002174        0xc build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+                0x00002174                scope_scene_save_text_input_callback
+ .text.scope_scene_save_on_enter
+                0x00002180       0x64 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+                0x00002180                scope_scene_save_on_enter
+ .text.scope_scene_save_on_event
+                0x000021e4       0xcc build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+                0x000021e4                scope_scene_save_on_event
+ .text.scope_scene_save_on_exit
+                0x000022b0        0xc build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+                0x000022b0                scope_scene_save_on_exit
+ .text.measurement_cb
+                0x000022bc       0x3c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .text.scale_cb
+                0x000022f8       0x34 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .text.fft_cb   0x0000232c       0x38 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .text.timeperiod_cb
+                0x00002364       0x38 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ *fill*         0x0000239c        0x4 
+ .text.scope_scene_setup_on_enter
+                0x000023a0      0x214 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+                0x000023a0                scope_scene_setup_on_enter
+ .text.scope_scene_setup_on_event
+                0x000025b4        0xe build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+                0x000025b4                scope_scene_setup_on_event
+ *fill*         0x000025c2        0x2 
+ .text.scope_scene_setup_on_exit
+                0x000025c4       0x1c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+                0x000025c4                scope_scene_setup_on_exit
+ .text.scope_scene_start_submenu_callback
+                0x000025e0        0xc build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+                0x000025e0                scope_scene_start_submenu_callback
+ .text.scope_scene_start_on_enter
+                0x000025ec       0x6c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+                0x000025ec                scope_scene_start_on_enter
+ .text.scope_scene_start_on_event
+                0x00002658       0x4c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+                0x00002658                scope_scene_start_on_event
+ .text.scope_scene_start_on_exit
+                0x000026a4        0xc build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+                0x000026a4                scope_scene_start_on_exit
+ .text.scope_app_tick_event_callback
+                0x000026b0        0xc build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .text.scope_app_back_event_callback
+                0x000026bc        0xc build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .text.scope_app_custom_event_callback
+                0x000026c8        0xc build/f7-firmware-C/.extapps/flipperscope/scope.o
+ *fill*         0x000026d4        0x4 
+ .text.scope_app_alloc
+                0x000026d8      0x13c build/f7-firmware-C/.extapps/flipperscope/scope.o
+                0x000026d8                scope_app_alloc
+ .text.scope_app_free
+                0x00002814       0x88 build/f7-firmware-C/.extapps/flipperscope/scope.o
+                0x00002814                scope_app_free
+ .text.scope_main
+                0x0000289c       0x24 build/f7-firmware-C/.extapps/flipperscope/scope.o
+                0x0000289c                scope_main
+ .text.ceil     0x000028c0       0xf8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_ceil.o)
+                0x000028c0                ceil
+ .text.cabsf    0x000029b8       0x36 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cabsf.o)
+                0x000029b8                cabsf
+ *fill*         0x000029ee        0x2 
+ .text.pow      0x000029f0       0xe0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+                0x000029f0                pow
+ .text.hypotf   0x00002ad0       0x4c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_hypot.o)
+                0x00002ad0                hypotf
+ *fill*         0x00002b1c        0x4 
+ .text.__ieee754_pow
+                0x00002b20      0xaac c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+                0x00002b20                __ieee754_pow
+ .text.__ieee754_sqrt
+                0x000035cc      0x1cc c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+                0x000035cc                __ieee754_sqrt
+ .text.crealf   0x00003798        0x2 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-crealf.o)
+                0x00003798                crealf
+ .text.cimagf   0x0000379a        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimagf.o)
+                0x0000379a                cimagf
+ .text.__ieee754_hypotf
+                0x000037a0      0x120 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_hypot.o)
+                0x000037a0                __ieee754_hypotf
+ .text.cexp     0x000038c0       0xb0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cexp.o)
+                0x000038c0                cexp
+ .text.log      0x00003970       0x7c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_log.o)
+                0x00003970                log
+ .text.finitef  0x000039ec       0x14 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_finite.o)
+                0x000039ec                finitef
+ .text.finite   0x00003a00       0x16 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+                0x00003a00                finite
+ *fill*         0x00003a16        0x2 
+ .text.__ieee754_log
+                0x00003a18      0x36c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_log.o)
+                0x00003a18                __ieee754_log
+ *fill*         0x00003d84        0x4 
+ .text.exp      0x00003d88       0x90 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_exp.o)
+                0x00003d88                exp
+ .text.cimag    0x00003e18        0xa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimag.o)
+                0x00003e18                cimag
+ *fill*         0x00003e22        0x6 
+ .text.sin      0x00003e28       0xa8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_sin.o)
+                0x00003e28                sin
+ .text.fabs     0x00003ed0       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+                0x00003ed0                fabs
+ .text.with_errno
+                0x00003ee0       0x24 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .text.xflow    0x00003f04       0x32 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ *fill*         0x00003f36        0x2 
+ .text.__math_uflow
+                0x00003f38       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+                0x00003f38                __math_uflow
+ .text.__math_oflow
+                0x00003f48       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+                0x00003f48                __math_oflow
+ .text.nan      0x00003f58       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_nan.o)
+                0x00003f58                nan
+ .text.__ieee754_rem_pio2
+                0x00003f68      0x3f8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+                0x00003f68                __ieee754_rem_pio2
+ .text.creal    0x00004360        0x2 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-creal.o)
+                0x00004360                creal
+ .text.__ieee754_sqrtf
+                0x00004362        0x6 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_sqrt.o)
+                0x00004362                __ieee754_sqrtf
+ .text.__kernel_rem_pio2
+                0x00004368      0x6b8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+                0x00004368                __kernel_rem_pio2
+ .text.scalbn   0x00004a20       0xfc c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+                0x00004a20                scalbn
+ *fill*         0x00004b1c        0x4 
+ .text.__kernel_sin
+                0x00004b20      0x174 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_sin.o)
+                0x00004b20                __kernel_sin
+ *fill*         0x00004c94        0x4 
+ .text.cos      0x00004c98       0xa8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_cos.o)
+                0x00004c98                cos
+ .text.__ieee754_exp
+                0x00004d40      0x2f4 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_exp.o)
+                0x00004d40                __ieee754_exp
+ *fill*         0x00005034        0x4 
+ .text.floor    0x00005038       0xf8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_floor.o)
+                0x00005038                floor
+ .text.__kernel_cos
+                0x00005130      0x18c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_cos.o)
+                0x00005130                __kernel_cos
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x000052c0      0x678
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.scope_scene_handlers
+                0x000052c0       0x10 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+                0x000052c0                scope_scene_handlers
+ .rodata.scope_scene_on_exit_handlers
+                0x000052d0       0x14 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+                0x000052d0                scope_scene_on_exit_handlers
+ .rodata.scope_scene_on_event_handlers
+                0x000052e4       0x14 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+                0x000052e4                scope_scene_on_event_handlers
+ .rodata.scope_scene_on_enter_handlers
+                0x000052f8       0x14 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+                0x000052f8                scope_scene_on_enter_handlers
+ .rodata.scope_scene_about_on_enter.str1.1
+                0x0000530c      0x149 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .rodata.app_draw_callback.str1.1
+                0x00005455       0x59 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .rodata.scope_scene_run_on_enter.str1.1
+                0x000054ae        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ *fill*         0x000054b2        0x2 
+ .rodata.APBPrescTable
+                0x000054b4       0x20 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x000054b4                APBPrescTable
+ .rodata.str1.1
+                0x000054d4       0x16 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ *fill*         0x000054ea        0x6 
+ .rodata.time_list
+                0x000054f0       0x50 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .rodata.scope_scene_save_on_enter.str1.1
+                0x00005540        0xc build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .rodata.scope_scene_save_on_event.str1.1
+                0x0000554c       0x1c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .rodata.scope_scene_setup_on_enter.str1.1
+                0x00005568       0x29 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .rodata.str1.1
+                0x00005591       0x4e build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ *fill*         0x000055df        0x1 
+ .rodata.measurement_list
+                0x000055e0       0x20 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .rodata.scale_list
+                0x00005600       0x28 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .rodata.fft_list
+                0x00005628       0x18 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .rodata.time_list
+                0x00005640       0x50 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .rodata.scope_scene_start_on_enter.str1.1
+                0x00005690       0x10 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .rodata.scope_app_alloc.str1.1
+                0x000056a0       0x11 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ *fill*         0x000056b1        0x3 
+ .rodata.I_play_10x10
+                0x000056b4        0xc build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+                0x000056b4                I_play_10x10
+ .rodata.I_pause_10x10
+                0x000056c0        0xc build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+                0x000056c0                I_pause_10x10
+ .rodata._I_play_10x10
+                0x000056cc        0x4 build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+                0x000056cc                _I_play_10x10
+ .rodata._I_play_10x10_0
+                0x000056d0       0x15 build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+                0x000056d0                _I_play_10x10_0
+ *fill*         0x000056e5        0x3 
+ .rodata._I_pause_10x10
+                0x000056e8        0x4 build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+                0x000056e8                _I_pause_10x10
+ .rodata._I_pause_10x10_0
+                0x000056ec        0xa build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+                0x000056ec                _I_pause_10x10_0
+ *fill*         0x000056f6        0x2 
+ .rodata.dp_l   0x000056f8       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .rodata.dp_h   0x00005708       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .rodata.bp     0x00005718       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .rodata.log.str1.1
+                0x00005728        0x1 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_log.o)
+ *fill*         0x00005729        0x3 
+ .rodata.npio2_hw
+                0x0000572c       0x80 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .rodata.two_over_pi
+                0x000057ac      0x108 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ *fill*         0x000058b4        0x4 
+ .rodata.PIo2   0x000058b8       0x40 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .rodata.init_jk
+                0x000058f8       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .rodata.ln2LO  0x00005908       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_exp.o)
+ .rodata.ln2HI  0x00005918       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_exp.o)
+ .rodata.halF   0x00005928       0x10 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_exp.o)
+
+.data           0x00005938       0x18
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.ubDmaTransferStatus
+                0x00005938        0x1 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005938                ubDmaTransferStatus
+ *fill*         0x00005939        0x7 
+ .data.tiny     0x00005940        0x8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .data.one      0x00005948        0x8 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+
+.bss            0x00005a00      0x340
+ *(.bss)
+ *(.bss*)
+ .bss.buf1.0    0x00005a00       0x32 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ *fill*         0x00005a32        0x2 
+ .bss.mvoltDisplay
+                0x00005a34        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a34                mvoltDisplay
+ .bss.mvoltWrite
+                0x00005a38        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a38                mvoltWrite
+ .bss.aADCxConvertedData_Voltage_mVoltB
+                0x00005a3c        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a3c                aADCxConvertedData_Voltage_mVoltB
+ .bss.aADCxConvertedData_Voltage_mVoltA
+                0x00005a40        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a40                aADCxConvertedData_Voltage_mVoltA
+ .bss.aADCxConvertedData
+                0x00005a44        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a44                aADCxConvertedData
+ .bss.fft_power
+                0x00005a48        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a48                fft_power
+ .bss.fft_data  0x00005a4c        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a4c                fft_data
+ .bss.crossings
+                0x00005a50        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a50                crossings
+ .bss.data      0x00005a54        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a54                data
+ .bss.index_crossings
+                0x00005a58        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a58                index_crossings
+ .bss.adc_buffer
+                0x00005a5c        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a5c                adc_buffer
+ .bss.type      0x00005a60        0x1 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a60                type
+ .bss.pause     0x00005a61        0x1 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a61                pause
+ *fill*         0x00005a62        0x6 
+ .bss.freq      0x00005a68        0x8 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a68                freq
+ .bss.scale     0x00005a70        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a70                scale
+ .bss.time      0x00005a74        0x4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005a74                time
+ *fill*         0x00005a78      0x188 
+ .bss.ramVector
+                0x00005c00      0x140 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+                0x00005c00                ramVector
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x270
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_aranges
+                0x00000030       0x18 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+ .debug_aranges
+                0x00000048       0x38 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_aranges
+                0x00000080       0xc0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_aranges
+                0x00000140       0x38 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_aranges
+                0x00000178       0x58 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_aranges
+                0x000001d0       0x38 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_aranges
+                0x00000208       0x50 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_aranges
+                0x00000258       0x18 build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x9573
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5d3 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_info    0x000005d3      0x6d0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+ .debug_info    0x00000ca3      0xafd build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_info    0x000017a0     0x4a87 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_info    0x00006227      0xbd8 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_info    0x00006dff      0xd9c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_info    0x00007b9b      0x98b build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_info    0x00008526      0xe80 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_info    0x000093a6      0x1cd build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+
+.debug_abbrev   0x00000000     0x181f
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x22f build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_abbrev  0x0000022f      0x190 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+ .debug_abbrev  0x000003bf      0x27e build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_abbrev  0x0000063d      0x73f build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_abbrev  0x00000d7c      0x26a build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_abbrev  0x00000fe6      0x290 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_abbrev  0x00001276      0x23e build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_abbrev  0x000014b4      0x2b6 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_abbrev  0x0000176a       0xb5 build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+
+.debug_line     0x00000000     0x3a19
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x15f build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_line.text.LL_ADC_Init
+                0x0000015f       0x6e build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_line.text.LL_ADC_REG_Init
+                0x000001cd       0x94 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_line.text.LL_ADC_CommonInit
+                0x00000261       0x67 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_line_end
+                0x000002c8        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_line    0x000002c8      0x224 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+ .debug_line_end
+                0x000004ec        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+ .debug_line    0x000004ec      0x357 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_line.text.scope_scene_about_on_enter
+                0x00000843       0x50 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_line.text.scope_scene_about_on_event
+                0x00000893       0x28 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_line.text.scope_scene_about_on_exit
+                0x000008bb       0x17 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_line_end
+                0x000008d2        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_line    0x000008d2      0x5c8 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.LL_AHB2_GRP1_EnableClock
+                0x00000e9a       0x30 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.app_input_callback
+                0x00000eca       0x26 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.TIM2_IRQHandler
+                0x00000ef0       0x12 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.AdcGrpRegularOverrunError_Callback
+                0x00000f02       0x2a build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.ADC1_IRQHandler
+                0x00000f2c       0x4f build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.AdcDmaTransferComplete_Callback
+                0x00000f7b       0x98 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.AdcDmaTransferHalf_Callback
+                0x00001013       0x57 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.DMA1_Channel1_IRQHandler
+                0x0000106a       0xbd build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.Activate_ADC
+                0x00001127      0x153 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.bit_reverse
+                0x0000127a       0xdb build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.iterative_cooley_tukey
+                0x00001355      0x12b build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.app_draw_callback
+                0x00001480      0x5ea build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.free_all
+                0x00001a6a       0x2b build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.scope_scene_run_on_enter
+                0x00001a95      0x9d2 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.scope_scene_run_on_event
+                0x00002467       0x25 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line.text.scope_scene_run_on_exit
+                0x0000248c       0x18 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line_end
+                0x000024a4        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_line    0x000024a4      0x3e3 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_line.text.scope_scene_save_text_input_callback
+                0x00002887       0x17 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_line.text.scope_scene_save_on_enter
+                0x0000289e       0x51 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_line.text.scope_scene_save_on_event
+                0x000028ef       0x97 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_line.text.scope_scene_save_on_exit
+                0x00002986       0x18 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_line_end
+                0x0000299e        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_line    0x0000299e      0x335 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_line.text.measurement_cb
+                0x00002cd3       0x49 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_line.text.scale_cb
+                0x00002d1c       0x49 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_line.text.fft_cb
+                0x00002d65       0x49 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_line.text.timeperiod_cb
+                0x00002dae       0x49 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_line.text.scope_scene_setup_on_enter
+                0x00002df7      0x1de build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_line.text.scope_scene_setup_on_event
+                0x00002fd5       0x29 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_line.text.scope_scene_setup_on_exit
+                0x00002ffe       0x28 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_line_end
+                0x00003026        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_line    0x00003026      0x2d9 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_line.text.scope_scene_start_submenu_callback
+                0x000032ff       0x16 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_line.text.scope_scene_start_on_enter
+                0x00003315       0x34 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_line.text.scope_scene_start_on_event
+                0x00003349       0x6b build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_line.text.scope_scene_start_on_exit
+                0x000033b4       0x17 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_line_end
+                0x000033cb        0x0 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_line    0x000033cb      0x362 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_line.text.scope_app_tick_event_callback
+                0x0000372d       0x1b build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_line.text.scope_app_back_event_callback
+                0x00003748       0x1e build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_line.text.scope_app_custom_event_callback
+                0x00003766       0x1f build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_line.text.scope_app_alloc
+                0x00003785       0xcc build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_line.text.scope_app_free
+                0x00003851       0x45 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_line.text.scope_main
+                0x00003896       0x31 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_line_end
+                0x000038c7        0x0 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_line    0x000038c7      0x152 build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+ .debug_line_end
+                0x00003a19        0x0 build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+
+.debug_frame    0x00000000      0x624
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x58 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_frame   0x00000058       0x80 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_frame   0x000000d8      0x2a4 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_frame   0x0000037c       0x80 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_frame   0x000003fc      0x104 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_frame   0x00000500       0x7c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_frame   0x0000057c       0xa8 build/f7-firmware-C/.extapps/flipperscope/scope.o
+
+.debug_str      0x00000000     0x5743
+ *(.debug_str)
+ .debug_str     0x00000000      0x493 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_str     0x00000493      0x67f build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+ .debug_str     0x00000b12      0x72c build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_str     0x0000123e     0x2249 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_str     0x00003487      0x7d8 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_str     0x00003c5f      0x75a build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_str     0x000043b9      0x6b9 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_str     0x00004a72      0xa44 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .debug_str     0x000054b6      0x28d build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000      0x4a6
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_line_str
+                0x000000aa       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_line_str
+                0x00000154       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_line_str
+                0x000001fe       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .debug_line_str
+                0x000002a8       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .debug_line_str
+                0x00000352       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_line_str
+                0x000003fc       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+
+.debug_loclists
+                0x00000000     0x1c40
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x174 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_loclists
+                0x00000174      0x137 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_loclists
+                0x000002ab     0x121a build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_loclists
+                0x000014c5      0x16a build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_loclists
+                0x0000162f      0x3ae build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_loclists
+                0x000019dd      0x131 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_loclists
+                0x00001b0e      0x132 build/f7-firmware-C/.extapps/flipperscope/scope.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x48d
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x46 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .debug_rnglists
+                0x00000046       0x26 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .debug_rnglists
+                0x0000006c      0x31d build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .debug_rnglists
+                0x00000389       0x26 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .debug_rnglists
+                0x000003af       0x80 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .debug_rnglists
+                0x0000042f       0x25 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .debug_rnglists
+                0x00000454       0x39 build/f7-firmware-C/.extapps/flipperscope/scope.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/flipperscope/scenes/adc.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_about.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_run.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_save.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_setup.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/flipperscope/scenes/scope_scene_start.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/flipperscope/scope.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/flipperscope/flipperscope_icons.o
+ .ARM.attributes
+                0x000001d4       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_ceil.o)
+ .ARM.attributes
+                0x00000208       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cabsf.o)
+ .ARM.attributes
+                0x0000023c       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_pow.o)
+ .ARM.attributes
+                0x00000270       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_hypot.o)
+ .ARM.attributes
+                0x000002a4       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_pow.o)
+ .ARM.attributes
+                0x000002d8       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .ARM.attributes
+                0x0000030c       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-crealf.o)
+ .ARM.attributes
+                0x00000340       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimagf.o)
+ .ARM.attributes
+                0x00000374       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_hypot.o)
+ .ARM.attributes
+                0x000003a8       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cexp.o)
+ .ARM.attributes
+                0x000003dc       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_log.o)
+ .ARM.attributes
+                0x00000410       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_finite.o)
+ .ARM.attributes
+                0x00000444       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_finite.o)
+ .ARM.attributes
+                0x00000478       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_log.o)
+ .ARM.attributes
+                0x000004ac       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-w_exp.o)
+ .ARM.attributes
+                0x000004e0       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-cimag.o)
+ .ARM.attributes
+                0x00000514       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_sin.o)
+ .ARM.attributes
+                0x00000548       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_fabs.o)
+ .ARM.attributes
+                0x0000057c       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-math_err.o)
+ .ARM.attributes
+                0x000005b0       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_nan.o)
+ .ARM.attributes
+                0x000005e4       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .ARM.attributes
+                0x00000618       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-creal.o)
+ .ARM.attributes
+                0x0000064c       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_sqrt.o)
+ .ARM.attributes
+                0x00000680       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .ARM.attributes
+                0x000006b4       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .ARM.attributes
+                0x000006e8       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_sin.o)
+ .ARM.attributes
+                0x0000071c       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_cos.o)
+ .ARM.attributes
+                0x00000750       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-e_exp.o)
+ .ARM.attributes
+                0x00000784       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_floor.o)
+ .ARM.attributes
+                0x000007b8       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-k_cos.o)
+ .ARM.attributes
+                0x000007ec       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000080e       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000830       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000852       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000874       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000896       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x000008b8       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x000008da       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x000008fc       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_mulsc3.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/flipperscope_d.elf elf32-littlearm)
+LOAD linker stubs

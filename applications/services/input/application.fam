@@ -1,0 +1,20 @@
+App(
+    appid="input",
+    name="InputSrv",
+    apptype=DIYAppType.SERVICE,
+    entry_point="input_srv",
+    cdefines=["SRV_INPUT"],
+    stack_size=1 * 1024,
+    order=80,
+    sdk_headers=["input.h"],
+    provides=["input_settings"],
+)
+
+App(
+    appid="cli_input",
+    targets=["f7"],
+    apptype=DIYAppType.PLUGIN,
+    entry_point="cli_input_ep",
+    requires=["cli"],
+    sources=["input_cli.c"],
+)

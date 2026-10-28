@@ -1,0 +1,1347 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+                              build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o (round)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_log10.o)
+                              build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o (log10f)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_nan.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_log10.o) (nanf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log10.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_log10.o) (__ieee754_log10f)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log.o)
+                              c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log10.o) (__ieee754_logf)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+                              build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o (__aeabi_dmul)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o (__aeabi_dadd)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                              build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o (__aeabi_ddiv)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                              build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o (__aeabi_dcmplt)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+                              build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o (__aeabi_d2iz)
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+                              build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o (__aeabi_d2f)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .text.ina209_driver_get_state.part.0
+                0x00000000       0x10 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .text.ina209_driver_get_state
+                0x00000000       0x34 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .text.ina209_read_reg
+                0x00000000       0x30 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .text.ina209_driver_free
+                0x00000000       0x18 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .rodata.ina209_driver_tick.str1.1
+                0x00000000       0x46 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .text.ina209_driver_tick
+                0x00000000      0x180 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .text.ina209_driver_alloc
+                0x00000000       0x54 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_info    0x00000000      0xcc4 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_abbrev  0x00000000      0x3d5 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_loclists
+                0x00000000      0x29f build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_aranges
+                0x00000000       0x48 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_rnglists
+                0x00000000       0x57 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_line    0x00000000      0x2fe build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_str     0x00000000      0x76c build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_line.text.ina209_driver_get_state.part.0
+                0x00000000       0x20 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_line.text.ina209_driver_get_state
+                0x00000000       0x86 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_line.text.ina209_read_reg
+                0x00000000       0x4b build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_line.text.ina209_driver_free
+                0x00000000       0x41 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_line.text.ina209_driver_tick
+                0x00000000      0x145 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_line.text.ina209_driver_alloc
+                0x00000000       0x8a build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .debug_frame   0x00000000       0xc0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/app.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .text.slice_parse_int32
+                0x00000000       0x44 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .text.slice_parse_float
+                0x00000000       0x44 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.slice_parse_int32
+                0x00000000       0x50 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.slice_parse_float
+                0x00000000       0x4a build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/utils.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/utils.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/utils.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/utils.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+ .debug_info    0x00000000       0x7a build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+ .debug_abbrev  0x00000000       0x26 build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+ .debug_aranges
+                0x00000000       0x18 build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+ .debug_line    0x00000000       0x59 build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+ .debug_str     0x00000000      0x1d8 build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_log10.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_log10.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_log10.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_nan.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_nan.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_nan.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log10.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log10.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log10.o)
+ .text          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log.o)
+ .text          0x00000000      0x254 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/app.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/app_config.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/datalog.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/slice.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/utils.o
+LOAD build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000     0x36ac
+ *(.text)
+ .text          0x00000000      0x378 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x00000000                __aeabi_drsub
+                0x00000008                __aeabi_dsub
+                0x00000008                __subdf3
+                0x0000000c                __aeabi_dadd
+                0x0000000c                __adddf3
+                0x00000284                __floatunsidf
+                0x00000284                __aeabi_ui2d
+                0x000002a4                __floatsidf
+                0x000002a4                __aeabi_i2d
+                0x000002c8                __aeabi_f2d
+                0x000002c8                __extendsfdf2
+                0x0000030c                __floatundidf
+                0x0000030c                __aeabi_ul2d
+                0x0000031c                __floatdidf
+                0x0000031c                __aeabi_l2d
+ .text          0x00000378      0x424 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                0x00000378                __aeabi_dmul
+                0x00000378                __muldf3
+                0x000005cc                __divdf3
+                0x000005cc                __aeabi_ddiv
+ .text          0x0000079c      0x110 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                0x0000079c                __gtdf2
+                0x0000079c                __gedf2
+                0x000007a4                __ltdf2
+                0x000007a4                __ledf2
+                0x000007ac                __nedf2
+                0x000007ac                __eqdf2
+                0x000007ac                __cmpdf2
+                0x00000828                __aeabi_cdrcmple
+                0x00000838                __aeabi_cdcmpeq
+                0x00000838                __aeabi_cdcmple
+                0x00000848                __aeabi_dcmpeq
+                0x0000085c                __aeabi_dcmplt
+                0x00000870                __aeabi_dcmple
+                0x00000884                __aeabi_dcmpge
+                0x00000898                __aeabi_dcmpgt
+ .text          0x000008ac       0x50 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+                0x000008ac                __aeabi_d2iz
+                0x000008ac                __fixdfsi
+ .text          0x000008fc       0xa0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+                0x000008fc                __truncdfsf2
+                0x000008fc                __aeabi_d2f
+ *(.stub)
+ *(.text*)
+ .text.scene_datalog_button_callback
+                0x0000099c       0x54 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .text.scene_datalog_on_enter
+                0x000009f0       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+                0x000009f0                scene_datalog_on_enter
+ .text.scene_datalog_on_event
+                0x00000a24        0xe build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+                0x00000a24                scene_datalog_on_event
+ .text.scene_datalog_on_exit
+                0x00000a32        0x2 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+                0x00000a32                scene_datalog_on_exit
+ .text.dialog_callback
+                0x00000a34       0x30 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .text.scene_dialog_exit_on_enter
+                0x00000a64       0x9c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+                0x00000a64                scene_dialog_exit_on_enter
+ .text.scene_dialog_exit_on_event
+                0x00000b00        0xe build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+                0x00000b00                scene_dialog_exit_on_event
+ *fill*         0x00000b0e        0x2 
+ .text.scene_dialog_exit_on_exit
+                0x00000b10        0xc build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+                0x00000b10                scene_dialog_exit_on_exit
+ .text.dialog_callback
+                0x00000b1c       0x28 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .text.scene_dialog_stop_on_enter
+                0x00000b44       0x88 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+                0x00000b44                scene_dialog_stop_on_enter
+ .text.scene_dialog_stop_on_event
+                0x00000bcc        0xe build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+                0x00000bcc                scene_dialog_stop_on_event
+ *fill*         0x00000bda        0x2 
+ .text.scene_dialog_stop_on_exit
+                0x00000bdc        0xc build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+                0x00000bdc                scene_dialog_stop_on_exit
+ .text.scene_edit_shunt_input_callback
+                0x00000be8       0x38 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .text.scene_edit_shunt_on_enter
+                0x00000c20       0x74 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+                0x00000c20                scene_edit_shunt_on_enter
+ .text.scene_edit_shunt_on_event
+                0x00000c94        0xe build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+                0x00000c94                scene_edit_shunt_on_event
+ .text.scene_edit_shunt_on_exit
+                0x00000ca2        0x2 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+                0x00000ca2                scene_edit_shunt_on_exit
+ .text.scene_edit_shunt_input_callback
+                0x00000ca4       0x38 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .text.scene_edit_shunt_alt_on_enter
+                0x00000cdc       0x74 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+                0x00000cdc                scene_edit_shunt_alt_on_enter
+ .text.scene_edit_shunt_alt_on_event
+                0x00000d50        0xe build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+                0x00000d50                scene_edit_shunt_alt_on_event
+ .text.scene_edit_shunt_alt_on_exit
+                0x00000d5e        0x2 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+                0x00000d5e                scene_edit_shunt_alt_on_exit
+ .text.scene_gauge_button_callback
+                0x00000d60       0x20 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .text.scene_gauge_on_enter
+                0x00000d80       0x28 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+                0x00000d80                scene_gauge_on_enter
+ .text.scene_gauge_on_event
+                0x00000da8       0x30 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+                0x00000da8                scene_gauge_on_event
+ .text.scene_gauge_on_exit
+                0x00000dd8        0x2 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+                0x00000dd8                scene_gauge_on_exit
+ *fill*         0x00000dda        0x2 
+ .text.on_sensor_type_changed
+                0x00000ddc       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .text.on_led_blinking_changed
+                0x00000e10       0x40 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .text.on_i2c_address_changed
+                0x00000e50       0x54 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .text.on_voltage_precision_changed
+                0x00000ea4       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .text.on_current_precision_changed
+                0x00000ed8       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .text.scene_settings_enter_callback
+                0x00000f0c       0x24 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .text.scene_settings_init
+                0x00000f30      0x164 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+                0x00000f30                scene_settings_init
+ .text.scene_settings_on_enter
+                0x00001094       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+                0x00001094                scene_settings_on_enter
+ .text.scene_settings_on_event
+                0x000010b0        0xe build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+                0x000010b0                scene_settings_on_event
+ *fill*         0x000010be        0x2 
+ .text.scene_settings_on_exit
+                0x000010c0       0x1c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+                0x000010c0                scene_settings_on_exit
+ .text.popup_callback
+                0x000010dc       0x2c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .text.scene_shunt_switch_on_enter
+                0x00001108       0x80 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+                0x00001108                scene_shunt_switch_on_enter
+ .text.scene_shunt_switch_on_event
+                0x00001188        0xe build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+                0x00001188                scene_shunt_switch_on_event
+ *fill*         0x00001196        0x2 
+ .text.scene_shunt_switch_on_exit
+                0x00001198        0xc build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+                0x00001198                scene_shunt_switch_on_exit
+ .text.scene_wiring_on_enter
+                0x000011a4       0x4c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+                0x000011a4                scene_wiring_on_enter
+ .text.scene_wiring_on_event
+                0x000011f0        0xe build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+                0x000011f0                scene_wiring_on_event
+ *fill*         0x000011fe        0x2 
+ .text.scene_wiring_on_exit
+                0x00001200        0xc build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+                0x00001200                scene_wiring_on_exit
+ .text.ina219_driver_get_state.part.0
+                0x0000120c       0x10 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .text.ina219_driver_get_state
+                0x0000121c       0x34 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .text.ina219_read_reg
+                0x00001250       0x30 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .text.ina219_driver_free
+                0x00001280       0x18 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .text.ina219_driver_tick
+                0x00001298      0x17c build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .text.ina219_driver_alloc
+                0x00001414       0x54 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+                0x00001414                ina219_driver_alloc
+ .text.ina226_driver_get_state.part.0
+                0x00001468       0x10 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .text.ina226_driver_get_state
+                0x00001478       0x34 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .text.ina226_read_reg
+                0x000014ac       0x30 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .text.ina226_driver_free
+                0x000014dc       0x18 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .text.ina226_driver_tick
+                0x000014f4      0x1e8 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .text.ina226_driver_alloc
+                0x000016dc       0x58 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+                0x000016dc                ina226_driver_alloc
+ .text.ina228_driver_get_state.part.0
+                0x00001734       0x10 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .text.ina228_driver_get_state
+                0x00001744       0x34 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .text.ina228_read_reg
+                0x00001778       0x30 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .text.ina228_driver_free
+                0x000017a8       0x18 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .text.ina228_read_reg24.constprop.0
+                0x000017c0       0x5c build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .text.ina228_driver_tick
+                0x0000181c      0x21c build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .text.ina228_driver_alloc
+                0x00001a38       0x58 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+                0x00001a38                ina228_driver_alloc
+ .text.invoke_button_callback
+                0x00001a90        0xa build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ *fill*         0x00001a9a        0x2 
+ .text.current_gauge_draw_callback
+                0x00001a9c      0x2a0 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .text.current_gauge_input_callback
+                0x00001d3c       0x48 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+                0x00001d3c                current_gauge_input_callback
+ .text.current_gauge_alloc
+                0x00001d84       0x54 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+                0x00001d84                current_gauge_alloc
+ .text.current_gauge_get_view
+                0x00001dd8       0x14 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+                0x00001dd8                current_gauge_get_view
+ .text.current_gauge_free
+                0x00001dec       0x34 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+                0x00001dec                current_gauge_free
+ .text.current_gauge_update
+                0x00001e20       0x64 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+                0x00001e20                current_gauge_update
+ .text.current_gauge_set_button_callback
+                0x00001e84       0x18 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+                0x00001e84                current_gauge_set_button_callback
+ .text.datalog_screen_draw_callback
+                0x00001e9c      0x240 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .text.datalog_screen_input_callback
+                0x000020dc       0x2c build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+                0x000020dc                datalog_screen_input_callback
+ .text.datalog_screen_alloc
+                0x00002108       0x54 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+                0x00002108                datalog_screen_alloc
+ .text.datalog_screen_get_view
+                0x0000215c       0x14 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+                0x0000215c                datalog_screen_get_view
+ .text.datalog_screen_free
+                0x00002170       0x34 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+                0x00002170                datalog_screen_free
+ .text.datalog_screen_update
+                0x000021a4       0x88 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+                0x000021a4                datalog_screen_update
+ .text.datalog_screen_set_button_callback
+                0x0000222c       0x18 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+                0x0000222c                datalog_screen_set_button_callback
+ .text.app_custom_event_callback
+                0x00002244        0xc build/f7-firmware-C/.extapps/ina_meter/app.o
+ .text.app_back_event_callback
+                0x00002250       0x20 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .text.app_tick_event_callback
+                0x00002270       0x74 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .text.app_restart_sensor_driver
+                0x000022e4       0xd4 build/f7-firmware-C/.extapps/ina_meter/app.o
+                0x000022e4                app_restart_sensor_driver
+ .text.app_startup
+                0x000023b8      0x2a8 build/f7-firmware-C/.extapps/ina_meter/app.o
+                0x000023b8                app_startup
+ .text.app_config_init
+                0x00002660       0x3c build/f7-firmware-C/.extapps/ina_meter/app_config.o
+                0x00002660                app_config_init
+ .text.sensor_type_name
+                0x0000269c       0x18 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+                0x0000269c                sensor_type_name
+ .text.sensor_precision_name
+                0x000026b4       0x18 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+                0x000026b4                sensor_precision_name
+ .text.app_config_save
+                0x000026cc      0x1b0 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+                0x000026cc                app_config_save
+ .text.app_config_load
+                0x0000287c      0x3e8 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+                0x0000287c                app_config_load
+ .text.datalog_worker
+                0x00002c64       0x68 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .text.datalog_open
+                0x00002ccc      0x170 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+                0x00002ccc                datalog_open
+ .text.datalog_close
+                0x00002e3c       0x70 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+                0x00002e3c                datalog_close
+ .text.datalog_get_file_name
+                0x00002eac        0x4 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+                0x00002eac                datalog_get_file_name
+ .text.datalog_get_duration
+                0x00002eb0       0x14 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+                0x00002eb0                datalog_get_duration
+ .text.datalog_get_record_count
+                0x00002ec4        0x4 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+                0x00002ec4                datalog_get_record_count
+ .text.datalog_get_file_size
+                0x00002ec8       0x10 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+                0x00002ec8                datalog_get_file_size
+ .text.datalog_append_record
+                0x00002ed8       0xc4 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+                0x00002ed8                datalog_append_record
+ .text.datalog_build_unique_file_name
+                0x00002f9c       0x60 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+                0x00002f9c                datalog_build_unique_file_name
+ .text.slice_trim_left
+                0x00002ffc       0x34 build/f7-firmware-C/.extapps/ina_meter/slice.o
+                0x00002ffc                slice_trim_left
+ .text.slice_trim_right
+                0x00003030       0x30 build/f7-firmware-C/.extapps/ina_meter/slice.o
+                0x00003030                slice_trim_right
+ .text.slice_trim
+                0x00003060       0x30 build/f7-firmware-C/.extapps/ina_meter/slice.o
+                0x00003060                slice_trim
+ .text.slice_equals_cstr
+                0x00003090       0x38 build/f7-firmware-C/.extapps/ina_meter/slice.o
+                0x00003090                slice_equals_cstr
+ .text.slice_to_cstr
+                0x000030c8       0x30 build/f7-firmware-C/.extapps/ina_meter/slice.o
+                0x000030c8                slice_to_cstr
+ .text.slice_parse_uint32
+                0x000030f8       0x44 build/f7-firmware-C/.extapps/ina_meter/slice.o
+                0x000030f8                slice_parse_uint32
+ .text.slice_parse_double
+                0x0000313c       0x44 build/f7-firmware-C/.extapps/ina_meter/slice.o
+                0x0000313c                slice_parse_double
+ .text.tok_until_char
+                0x00003180       0x20 build/f7-firmware-C/.extapps/ina_meter/slice.o
+                0x00003180                tok_until_char
+ .text.tok_until_eol
+                0x000031a0       0x30 build/f7-firmware-C/.extapps/ina_meter/slice.o
+                0x000031a0                tok_until_eol
+ .text.tok_skip_char
+                0x000031d0       0x1a build/f7-firmware-C/.extapps/ina_meter/slice.o
+                0x000031d0                tok_skip_char
+ .text.tok_skip_eol
+                0x000031ea       0x2e build/f7-firmware-C/.extapps/ina_meter/slice.o
+                0x000031ea                tok_skip_eol
+ .text.format_resistance_value
+                0x00003218      0x10c build/f7-firmware-C/.extapps/ina_meter/utils.o
+                0x00003218                format_resistance_value
+ .text.round    0x00003324       0x8c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+                0x00003324                round
+ .text.log10f   0x000033b0       0x5c c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_log10.o)
+                0x000033b0                log10f
+ .text.nanf     0x0000340c        0xc c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_nan.o)
+                0x0000340c                nanf
+ .text.__ieee754_log10f
+                0x00003418       0xb0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log10.o)
+                0x00003418                __ieee754_log10f
+ .text.__ieee754_logf
+                0x000034c8      0x1e4 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log.o)
+                0x000034c8                __ieee754_logf
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x000036ac      0xa17
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.scene_dialog_exit_on_enter.str1.1
+                0x000036ac       0x4f build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .rodata.scene_dialog_stop_on_enter.str1.1
+                0x000036fb       0x25 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .rodata.scene_edit_shunt_on_enter.str1.1
+                0x00003720       0x16 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .rodata.scene_edit_shunt_alt_on_enter.str1.1
+                0x00003736       0x16 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .rodata.on_led_blinking_changed.str1.1
+                0x0000374c        0x7 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .rodata.on_i2c_address_changed.str1.1
+                0x00003753        0x7 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .rodata.scene_settings_init.str1.1
+                0x0000375a       0x65 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .rodata.scene_shunt_switch_on_enter.str1.1
+                0x000037bf       0x63 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .rodata.scene_wiring_on_enter.str1.1
+                0x00003822       0x40 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ *fill*         0x00003862        0x2 
+ .rodata.scene_handlers
+                0x00003864       0x10 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+                0x00003864                scene_handlers
+ .rodata.on_exit_handlers
+                0x00003874       0x24 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+                0x00003874                on_exit_handlers
+ .rodata.on_event_handlers
+                0x00003898       0x24 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+                0x00003898                on_event_handlers
+ .rodata.on_enter_handlers
+                0x000038bc       0x24 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+                0x000038bc                on_enter_handlers
+ .rodata.ina219_driver_tick.str1.1
+                0x000038e0       0x46 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .rodata.ina226_driver_tick.str1.1
+                0x00003926       0x8e build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .rodata.ina228_driver_tick.str1.1
+                0x000039b4       0x91 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .rodata.current_gauge_draw_callback.str1.1
+                0x00003a45       0x25 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .rodata.datalog_screen_draw_callback.str1.1
+                0x00003a6a       0x8f build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .rodata.app_startup.str1.1
+                0x00003af9       0x9c build/f7-firmware-C/.extapps/ina_meter/app.o
+ *fill*         0x00003b95        0x3 
+ .rodata.sequence_blink
+                0x00003b98       0x14 build/f7-firmware-C/.extapps/ina_meter/app.o
+                0x00003b98                sequence_blink
+ .rodata.sensor_type_name.str1.1
+                0x00003bac        0x8 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .rodata.app_config_save.str1.1
+                0x00003bb4      0x123 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .rodata.app_config_load.str1.1
+                0x00003cd7      0x1e6 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .rodata.str1.1
+                0x00003ebd       0x29 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ *fill*         0x00003ee6        0x2 
+ .rodata.CSWTCH.17
+                0x00003ee8       0x10 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .rodata.CSWTCH.15
+                0x00003ef8        0xc build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .rodata.datalog_worker.str1.1
+                0x00003f04       0x29 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .rodata.datalog_open.str1.1
+                0x00003f2d       0xc8 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .rodata.datalog_close.str1.1
+                0x00003ff5       0x18 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .rodata.datalog_append_record.str1.1
+                0x0000400d       0x6a build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .rodata.datalog_build_unique_file_name.str1.1
+                0x00004077       0x29 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .rodata.format_resistance_value.str1.1
+                0x000040a0       0x22 build/f7-firmware-C/.extapps/ina_meter/utils.o
+ .rodata.log10f.str1.1
+                0x000040c2        0x1 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_log10.o)
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x540
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x38 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_aranges
+                0x00000038       0x38 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_aranges
+                0x00000070       0x38 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_aranges
+                0x000000a8       0x38 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_aranges
+                0x000000e0       0x38 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_aranges
+                0x00000118       0x38 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_aranges
+                0x00000150       0x68 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_aranges
+                0x000001b8       0x38 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_aranges
+                0x000001f0       0x30 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_aranges
+                0x00000220       0x18 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+ .debug_aranges
+                0x00000238       0x48 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_aranges
+                0x00000280       0x48 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_aranges
+                0x000002c8       0x50 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_aranges
+                0x00000318       0x58 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_aranges
+                0x00000370       0x50 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_aranges
+                0x000003c0       0x40 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_aranges
+                0x00000400       0x40 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_aranges
+                0x00000440       0x60 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_aranges
+                0x000004a0       0x80 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_aranges
+                0x00000520       0x20 build/f7-firmware-C/.extapps/ina_meter/utils.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xe4ac
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x87b build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_info    0x0000087b      0x98d build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_info    0x00001208      0x8d3 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_info    0x00001adb      0x7a5 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_info    0x00002280      0x7a5 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_info    0x00002a25      0x7f2 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_info    0x00003217      0xfa5 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_info    0x000041bc      0x853 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_info    0x00004a0f      0x70d build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_info    0x0000511c      0x45f build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+ .debug_info    0x0000557b      0xcc4 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_info    0x0000623f      0xddd build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_info    0x0000701c      0xf8c build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_info    0x00007fa8      0xfd3 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_info    0x00008f7b      0xf41 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_info    0x00009ebc     0x19b7 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_info    0x0000b873     0x12d2 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_info    0x0000cb45     0x1050 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_info    0x0000db95      0x7bb build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_info    0x0000e350      0x15c build/f7-firmware-C/.extapps/ina_meter/utils.o
+
+.debug_abbrev   0x00000000     0x3647
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x285 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_abbrev  0x00000285      0x264 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_abbrev  0x000004e9      0x202 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_abbrev  0x000006eb      0x278 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_abbrev  0x00000963      0x278 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_abbrev  0x00000bdb      0x262 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_abbrev  0x00000e3d      0x291 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_abbrev  0x000010ce      0x1ee build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_abbrev  0x000012bc      0x1cf build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_abbrev  0x0000148b      0x137 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+ .debug_abbrev  0x000015c2      0x3d5 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_abbrev  0x00001997      0x3d3 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_abbrev  0x00001d6a      0x3e4 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_abbrev  0x0000214e      0x3a6 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_abbrev  0x000024f4      0x39c build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_abbrev  0x00002890      0x414 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_abbrev  0x00002ca4      0x34a build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_abbrev  0x00002fee      0x368 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_abbrev  0x00003356      0x1fc build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_abbrev  0x00003552       0xf5 build/f7-firmware-C/.extapps/ina_meter/utils.o
+
+.debug_line     0x00000000     0x6467
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x337 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_line.text.scene_datalog_button_callback
+                0x00000337       0x5a build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_line.text.scene_datalog_on_enter
+                0x00000391       0x28 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_line.text.scene_datalog_on_event
+                0x000003b9       0x32 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_line.text.scene_datalog_on_exit
+                0x000003eb       0x19 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_line_end
+                0x00000404        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_line    0x00000404      0x331 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_line.text.dialog_callback
+                0x00000735       0x43 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_line.text.scene_dialog_exit_on_enter
+                0x00000778       0x4c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_line.text.scene_dialog_exit_on_event
+                0x000007c4       0x29 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_line.text.scene_dialog_exit_on_exit
+                0x000007ed       0x17 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_line_end
+                0x00000804        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_line    0x00000804      0x325 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_line.text.dialog_callback
+                0x00000b29       0x3f build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_line.text.scene_dialog_stop_on_enter
+                0x00000b68       0x37 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_line.text.scene_dialog_stop_on_event
+                0x00000b9f       0x29 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_line.text.scene_dialog_stop_on_exit
+                0x00000bc8       0x17 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_line_end
+                0x00000bdf        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_line    0x00000bdf      0x36f build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_line.text.scene_edit_shunt_input_callback
+                0x00000f4e       0x3e build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_line.text.scene_edit_shunt_on_enter
+                0x00000f8c       0x54 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_line.text.scene_edit_shunt_on_event
+                0x00000fe0       0x29 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_line.text.scene_edit_shunt_on_exit
+                0x00001009       0x19 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_line_end
+                0x00001022        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_line    0x00001022      0x373 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_line.text.scene_edit_shunt_input_callback
+                0x00001395       0x3e build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_line.text.scene_edit_shunt_alt_on_enter
+                0x000013d3       0x54 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_line.text.scene_edit_shunt_alt_on_event
+                0x00001427       0x29 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_line.text.scene_edit_shunt_alt_on_exit
+                0x00001450       0x19 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_line_end
+                0x00001469        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_line    0x00001469      0x31f build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_line.text.scene_gauge_button_callback
+                0x00001788       0x43 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_line.text.scene_gauge_on_enter
+                0x000017cb       0x27 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_line.text.scene_gauge_on_event
+                0x000017f2       0x3d build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_line.text.scene_gauge_on_exit
+                0x0000182f       0x19 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_line_end
+                0x00001848        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_line    0x00001848      0x343 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line.text.on_sensor_type_changed
+                0x00001b8b       0x3c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line.text.on_led_blinking_changed
+                0x00001bc7       0x3a build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line.text.on_i2c_address_changed
+                0x00001c01       0x51 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line.text.on_voltage_precision_changed
+                0x00001c52       0x3c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line.text.on_current_precision_changed
+                0x00001c8e       0x3c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line.text.scene_settings_enter_callback
+                0x00001cca       0x2b build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line.text.scene_settings_init
+                0x00001cf5       0xd6 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line.text.scene_settings_on_enter
+                0x00001dcb       0x26 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line.text.scene_settings_on_event
+                0x00001df1       0x25 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line.text.scene_settings_on_exit
+                0x00001e16       0x2e build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line_end
+                0x00001e44        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_line    0x00001e44      0x326 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_line.text.popup_callback
+                0x0000216a       0x3e build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_line.text.scene_shunt_switch_on_enter
+                0x000021a8       0x31 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_line.text.scene_shunt_switch_on_event
+                0x000021d9       0x29 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_line.text.scene_shunt_switch_on_exit
+                0x00002202       0x17 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_line_end
+                0x00002219        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_line    0x00002219      0x320 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_line.text.scene_wiring_on_enter
+                0x00002539       0x2f build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_line.text.scene_wiring_on_event
+                0x00002568       0x29 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_line.text.scene_wiring_on_exit
+                0x00002591       0x17 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_line_end
+                0x000025a8        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_line    0x000025a8      0x146 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+ .debug_line_end
+                0x000026ee        0x0 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+ .debug_line    0x000026ee      0x2fe build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_line.text.ina219_driver_get_state.part.0
+                0x000029ec       0x20 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_line.text.ina219_driver_get_state
+                0x00002a0c       0x86 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_line.text.ina219_read_reg
+                0x00002a92       0x4b build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_line.text.ina219_driver_free
+                0x00002add       0x41 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_line.text.ina219_driver_tick
+                0x00002b1e      0x133 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_line.text.ina219_driver_alloc
+                0x00002c51       0x8a build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_line_end
+                0x00002cdb        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_line    0x00002cdb      0x2fe build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_line.text.ina226_driver_get_state.part.0
+                0x00002fd9       0x20 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_line.text.ina226_driver_get_state
+                0x00002ff9       0x86 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_line.text.ina226_read_reg
+                0x0000307f       0x4c build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_line.text.ina226_driver_free
+                0x000030cb       0x41 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_line.text.ina226_driver_tick
+                0x0000310c      0x18f build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_line.text.ina226_driver_alloc
+                0x0000329b       0x8f build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_line_end
+                0x0000332a        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_line    0x0000332a      0x2fe build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_line.text.ina228_driver_get_state.part.0
+                0x00003628       0x20 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_line.text.ina228_driver_get_state
+                0x00003648       0x86 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_line.text.ina228_read_reg
+                0x000036ce       0x4c build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_line.text.ina228_driver_free
+                0x0000371a       0x41 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_line.text.ina228_read_reg24.constprop.0
+                0x0000375b       0x5e build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_line.text.ina228_driver_tick
+                0x000037b9      0x1d6 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_line.text.ina228_driver_alloc
+                0x0000398f       0x8f build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_line_end
+                0x00003a1e        0x0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_line    0x00003a1e      0x2e8 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_line.text.invoke_button_callback
+                0x00003d06       0x25 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_line.text.current_gauge_draw_callback
+                0x00003d2b      0x231 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_line.text.current_gauge_input_callback
+                0x00003f5c       0x7b build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_line.text.current_gauge_alloc
+                0x00003fd7       0x3d build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_line.text.current_gauge_get_view
+                0x00004014       0x55 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_line.text.current_gauge_free
+                0x00004069       0x6d build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_line.text.current_gauge_update
+                0x000040d6       0x41 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_line.text.current_gauge_set_button_callback
+                0x00004117       0x57 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_line_end
+                0x0000416e        0x0 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_line    0x0000416e      0x2b4 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_line.text.datalog_screen_draw_callback
+                0x00004422      0x169 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_line.text.datalog_screen_input_callback
+                0x0000458b       0x69 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_line.text.datalog_screen_alloc
+                0x000045f4       0x3d build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_line.text.datalog_screen_get_view
+                0x00004631       0x55 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_line.text.datalog_screen_free
+                0x00004686       0x6d build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_line.text.datalog_screen_update
+                0x000046f3       0x91 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_line.text.datalog_screen_set_button_callback
+                0x00004784       0x57 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_line_end
+                0x000047db        0x0 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_line    0x000047db      0x47f build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_line.text.app_custom_event_callback
+                0x00004c5a       0x1f build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_line.text.app_back_event_callback
+                0x00004c79       0x44 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_line.text.app_tick_event_callback
+                0x00004cbd       0xa6 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_line.text.app_restart_sensor_driver
+                0x00004d63       0xb7 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_line.text.app_startup
+                0x00004e1a      0x14f build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_line_end
+                0x00004f69        0x0 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_line    0x00004f69      0x237 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_line.text.app_config_init
+                0x000051a0       0x94 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_line.text.sensor_type_name
+                0x00005234       0x1d build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_line.text.sensor_precision_name
+                0x00005251       0x1d build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_line.text.app_config_save
+                0x0000526e      0x136 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_line.text.app_config_load
+                0x000053a4      0x3aa build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_line_end
+                0x0000574e        0x0 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_line    0x0000574e      0x334 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_line.text.datalog_worker
+                0x00005a82       0x6b build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_line.text.datalog_open
+                0x00005aed      0x190 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_line.text.datalog_close
+                0x00005c7d       0x45 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_line.text.datalog_get_file_name
+                0x00005cc2       0x1a build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_line.text.datalog_get_duration
+                0x00005cdc       0x29 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_line.text.datalog_get_record_count
+                0x00005d05       0x1a build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_line.text.datalog_get_file_size
+                0x00005d1f       0x20 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_line.text.datalog_append_record
+                0x00005d3f       0xb4 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_line.text.datalog_build_unique_file_name
+                0x00005df3       0x81 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_line_end
+                0x00005e74        0x0 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_line    0x00005e74      0x1c8 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.slice_trim_left
+                0x0000603c       0x47 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.slice_trim_right
+                0x00006083       0x43 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.slice_trim
+                0x000060c6       0x27 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.slice_equals_cstr
+                0x000060ed       0x54 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.slice_to_cstr
+                0x00006141       0x58 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.slice_parse_uint32
+                0x00006199       0x51 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.slice_parse_double
+                0x000061ea       0x4a build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.tok_until_char
+                0x00006234       0x3f build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.tok_until_eol
+                0x00006273       0x60 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.tok_skip_char
+                0x000062d3       0x35 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line.text.tok_skip_eol
+                0x00006308       0x72 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line_end
+                0x0000637a        0x0 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_line    0x0000637a       0x5e build/f7-firmware-C/.extapps/ina_meter/utils.o
+ .debug_line.text.format_resistance_value
+                0x000063d8       0x8f build/f7-firmware-C/.extapps/ina_meter/utils.o
+ .debug_line_end
+                0x00006467        0x0 build/f7-firmware-C/.extapps/ina_meter/utils.o
+
+.debug_frame    0x00000000      0xd94
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x7c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_frame   0x0000007c       0x88 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_frame   0x00000104       0x7c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_frame   0x00000180       0x7c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_frame   0x000001fc       0x7c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_frame   0x00000278       0x6c build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_frame   0x000002e4      0x134 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_frame   0x00000418       0x84 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_frame   0x0000049c       0x60 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_frame   0x000004fc       0xc4 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_frame   0x000005c0       0xc0 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_frame   0x00000680       0xe8 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_frame   0x00000768       0xfc build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_frame   0x00000864       0xf4 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_frame   0x00000958       0x9c build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_frame   0x000009f4       0xb8 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_frame   0x00000aac      0x11c build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_frame   0x00000bc8      0x19c build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_frame   0x00000d64       0x30 build/f7-firmware-C/.extapps/ina_meter/utils.o
+
+.debug_str      0x00000000     0xa679
+ *(.debug_str)
+ .debug_str     0x00000000      0x7e8 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_str     0x000007e8      0x8f3 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_str     0x000010db      0x850 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_str     0x0000192b      0x70f build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_str     0x0000203a      0x71f build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_str     0x00002759      0x7ad build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_str     0x00002f06      0xa1f build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_str     0x00003925      0x74b build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_str     0x00004070      0x693 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_str     0x00004703      0x63b build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+ .debug_str     0x00004d3e      0x76b build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_str     0x000054a9      0x93d build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_str     0x00005de6      0x998 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_str     0x0000677e      0x8fb build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_str     0x00007079      0x888 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_str     0x00007901     0x175d build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_str     0x0000905e      0x781 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_str     0x000097df      0x921 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_str     0x0000a100      0x352 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_str     0x0000a452      0x227 build/f7-firmware-C/.extapps/ina_meter/utils.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000      0x352
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_line_str
+                0x000000aa       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_line_str
+                0x00000154       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_line_str
+                0x000001fe       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .debug_line_str
+                0x000002a8       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+
+.debug_loclists
+                0x00000000     0x27e2
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x158 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_loclists
+                0x00000158      0x142 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_loclists
+                0x0000029a       0xe2 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_loclists
+                0x0000037c       0xd1 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_loclists
+                0x0000044d       0xd1 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_loclists
+                0x0000051e      0x130 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_loclists
+                0x0000064e      0x371 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_loclists
+                0x000009bf       0xdb build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_loclists
+                0x00000a9a       0x8d build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_loclists
+                0x00000b27      0x29f build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_loclists
+                0x00000dc6      0x366 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_loclists
+                0x0000112c      0x3a7 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_loclists
+                0x000014d3      0x3f5 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_loclists
+                0x000018c8      0x363 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_loclists
+                0x00001c2b      0x16f build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_loclists
+                0x00001d9a      0x431 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_loclists
+                0x000021cb      0x253 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_loclists
+                0x0000241e      0x31c build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_loclists
+                0x0000273a       0xa8 build/f7-firmware-C/.extapps/ina_meter/utils.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x62f
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x31 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .debug_rnglists
+                0x00000031       0x35 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .debug_rnglists
+                0x00000066       0x26 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .debug_rnglists
+                0x0000008c       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .debug_rnglists
+                0x000000c0       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .debug_rnglists
+                0x000000f4       0x31 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .debug_rnglists
+                0x00000125       0x4a build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .debug_rnglists
+                0x0000016f       0x26 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .debug_rnglists
+                0x00000195       0x1f build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .debug_rnglists
+                0x000001b4       0x57 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .debug_rnglists
+                0x0000020b       0x6d build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .debug_rnglists
+                0x00000278       0x7c build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .debug_rnglists
+                0x000002f4       0x87 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .debug_rnglists
+                0x0000037b       0x4f build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .debug_rnglists
+                0x000003ca       0x59 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .debug_rnglists
+                0x00000423      0x11c build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .debug_rnglists
+                0x0000053f       0x75 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .debug_rnglists
+                0x000005b4       0x67 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .debug_rnglists
+                0x0000061b       0x14 build/f7-firmware-C/.extapps/ina_meter/utils.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_datalog.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_exit.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_dialog_stop.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_edit_shunt_alt.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_gauge.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_settings.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_shunt_switch.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scene_wiring.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/ina_meter/scenes/scenes.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/ina_meter/sensor/ina209_driver.o
+ .ARM.attributes
+                0x0000023c       0x34 build/f7-firmware-C/.extapps/ina_meter/sensor/ina219_driver.o
+ .ARM.attributes
+                0x00000270       0x34 build/f7-firmware-C/.extapps/ina_meter/sensor/ina226_driver.o
+ .ARM.attributes
+                0x000002a4       0x34 build/f7-firmware-C/.extapps/ina_meter/sensor/ina228_driver.o
+ .ARM.attributes
+                0x000002d8       0x34 build/f7-firmware-C/.extapps/ina_meter/views/current_gauge.o
+ .ARM.attributes
+                0x0000030c       0x34 build/f7-firmware-C/.extapps/ina_meter/views/datalog_screen.o
+ .ARM.attributes
+                0x00000340       0x34 build/f7-firmware-C/.extapps/ina_meter/app.o
+ .ARM.attributes
+                0x00000374       0x34 build/f7-firmware-C/.extapps/ina_meter/app_config.o
+ .ARM.attributes
+                0x000003a8       0x34 build/f7-firmware-C/.extapps/ina_meter/datalog.o
+ .ARM.attributes
+                0x000003dc       0x34 build/f7-firmware-C/.extapps/ina_meter/slice.o
+ .ARM.attributes
+                0x00000410       0x34 build/f7-firmware-C/.extapps/ina_meter/utils.o
+ .ARM.attributes
+                0x00000444       0x34 build/f7-firmware-C/.extapps/ina_meter/ina_meter_icons.o
+ .ARM.attributes
+                0x00000478       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-s_round.o)
+ .ARM.attributes
+                0x000004ac       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-wf_log10.o)
+ .ARM.attributes
+                0x000004e0       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_nan.o)
+ .ARM.attributes
+                0x00000514       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log10.o)
+ .ARM.attributes
+                0x00000548       0x34 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_log.o)
+ .ARM.attributes
+                0x0000057c       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000059e       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000005c0       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000005e2       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000604       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000626       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/ina_meter_d.elf elf32-littlearm)
+LOAD linker stubs

@@ -1,0 +1,982 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.set_debug_text_ep_in
+                0x00000000       0x10 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.get_debug_text_ep_out
+                0x00000000        0x8 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.writeUInt16LE
+                0x00000000        0x8 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.writeUInt16BE
+                0x00000000        0xa build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.parse_request
+                0x00000000       0x48 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.parse_response
+                0x00000000       0x3c build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.furi_hal_hid_set_state_callback
+                0x00000000       0x44 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.writeUInt16LE_NO
+                0x00000000        0x8 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.writeUInt16BE_NO
+                0x00000000        0x8 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.set_debug_text_ep_in
+                0x00000000       0x1e build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.get_debug_text_ep_out
+                0x00000000       0x19 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.writeUInt16LE
+                0x00000000       0x25 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.writeUInt16BE
+                0x00000000       0x25 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.parse_request
+                0x00000000       0x5a build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.parse_response
+                0x00000000       0x40 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.furi_hal_hid_set_state_callback
+                0x00000000       0x7e build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.writeUInt16LE_NO
+                0x00000000       0x12 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.writeUInt16BE_NO
+                0x00000000       0x24 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+LOAD build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+LOAD build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+LOAD build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+LOAD build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+LOAD build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+LOAD build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+LOAD build/f7-firmware-C/.extapps/ldtoypad/tea.o
+LOAD build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000     0x26ec
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.open_file
+                0x00000000       0x4c build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x00000000                open_file
+ .text.file_close_and_free
+                0x0000004c       0x28 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x0000004c                file_close_and_free
+ .text.load_favorites
+                0x00000074       0xac build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x00000074                load_favorites
+ .text.save_favorites
+                0x00000120       0xa0 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x00000120                save_favorites
+ .text.fill_favorites_submenu
+                0x000001c0       0x7c build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x000001c0                fill_favorites_submenu
+ .text.favorite
+                0x0000023c       0x54 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x0000023c                favorite
+ .text.unfavorite
+                0x00000290       0x58 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x00000290                unfavorite
+ .text.is_favorite
+                0x000002e8       0x2c build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x000002e8                is_favorite
+ .text.make_token_dir
+                0x00000314       0x28 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x00000314                make_token_dir
+ .text.fill_saved_submenu
+                0x0000033c      0x1ec build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x0000033c                fill_saved_submenu
+ .text.save_token
+                0x00000528      0x144 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x00000528                save_token
+ .text.load_saved_token
+                0x0000066c       0xb0 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x0000066c                load_saved_token
+ .text.hid_in_callback
+                0x0000071c        0x2 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x0000071c                hid_in_callback
+ *fill*         0x0000071e        0x2 
+ .text.hid_control
+                0x00000720       0x68 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.hid_deinit
+                0x00000788       0x80 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.hid_set_string_descr
+                0x00000808       0x38 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.hid_on_wakeup
+                0x00000840       0x24 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.hid_on_suspend
+                0x00000864       0x24 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.hid_init
+                0x00000888       0xb8 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.hid_ep_config
+                0x00000940       0x50 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .text.get_connected_status
+                0x00000990        0xc build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000990                get_connected_status
+ .text.set_connected_status
+                0x0000099c        0xc build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x0000099c                set_connected_status
+ .text.set_debug_text
+                0x000009a8       0x20 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x000009a8                set_debug_text
+ .text.get_debug_text_ep_in
+                0x000009c8        0x8 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x000009c8                get_debug_text_ep_in
+ .text.get_debug_text
+                0x000009d0        0x8 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x000009d0                get_debug_text
+ .text.readUInt32LE
+                0x000009d8       0x1a build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x000009d8                readUInt32LE
+ .text.readUInt32BE
+                0x000009f2       0x18 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x000009f2                readUInt32BE
+ .text.writeUInt32LE
+                0x00000a0a       0x10 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000a0a                writeUInt32LE
+ .text.writeUInt32BE
+                0x00000a1a       0x12 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000a1a                writeUInt32BE
+ .text.parse_frame
+                0x00000a2c       0x14 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000a2c                parse_frame
+ .text.calculate_checksum
+                0x00000a40       0x22 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000a40                calculate_checksum
+ *fill*         0x00000a62        0x2 
+ .text.build_frame
+                0x00000a64       0x34 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000a64                build_frame
+ .text.build_response
+                0x00000a98       0x34 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000a98                build_response
+ .text.find_token_by_index
+                0x00000acc       0x1c build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000acc                find_token_by_index
+ .text.hid_out_callback
+                0x00000ae8      0x4e8 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000ae8                hid_out_callback
+ .text.get_usb_device
+                0x00000fd0        0xc build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000fd0                get_usb_device
+ .text.create_uid
+                0x00000fdc       0x84 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000fdc                create_uid
+ .text.createCharacter
+                0x00001060       0x50 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00001060                createCharacter
+ .text.createVehicle
+                0x000010b0       0x80 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x000010b0                createVehicle
+ .text.ToyPadEmu_remove
+                0x00001130       0xa8 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00001130                ToyPadEmu_remove
+ .text.ldtoypad_scene_emulate_view_game_timer_callback
+                0x000011d8       0x18 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x000011d8                ldtoypad_scene_emulate_view_game_timer_callback
+ .text.ldtoypad_scene_emulate_enter_callback
+                0x000011f0       0x34 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x000011f0                ldtoypad_scene_emulate_enter_callback
+ .text.ldtoypad_scene_emulate_exit_callback
+                0x00001224       0x20 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00001224                ldtoypad_scene_emulate_exit_callback
+ .text.ldtoypad_scene_emulate_custom_event_callback
+                0x00001244       0x24 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .text.ldtoypad_scene_emulate_navigation_submenu_callback
+                0x00001268       0x3c build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .text.get_token_from_index
+                0x000012a4       0x14 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x000012a4                get_token_from_index
+ .text.ldtoypad_scene_emulate_input_callback
+                0x000012b8      0x26c build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x000012b8                ldtoypad_scene_emulate_input_callback
+ .text.generate_checksum_for_command
+                0x00001524       0x16 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00001524                generate_checksum_for_command
+ *fill*         0x0000153a        0x2 
+ .text.selectedBox_to_pad
+                0x0000153c       0x30 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x0000153c                selectedBox_to_pad
+ .text.place_token
+                0x0000156c      0x158 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x0000156c                place_token
+ .text.ldtoypad_scene_emulate_draw_render_callback
+                0x000016c4      0x434 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .text.ldtoypad_scene_emulate_alloc
+                0x00001af8      0x100 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00001af8                ldtoypad_scene_emulate_alloc
+ .text.ldtoypad_scene_emulate_free
+                0x00001bf8       0x54 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00001bf8                ldtoypad_scene_emulate_free
+ .text.ldtoypad_scene_emulate_get_view
+                0x00001c4c        0x4 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00001c4c                ldtoypad_scene_emulate_get_view
+ .text.saved_token_submenu_callback
+                0x00001c50       0xac build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00001c50                saved_token_submenu_callback
+ .text.minifigures_submenu_callback
+                0x00001cfc       0x3c build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00001cfc                minifigures_submenu_callback
+ .text.vehicles_submenu_callback
+                0x00001d38       0x3c build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00001d38                vehicles_submenu_callback
+ .text.get_token_count_of_specific_id
+                0x00001d74       0x54 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00001d74                get_token_count_of_specific_id
+ .text.draw_placement_selection_screen
+                0x00001dc8      0x144 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+                0x00001dc8                draw_placement_selection_screen
+ .text.burtle_rand
+                0x00001f0c       0x26 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+                0x00001f0c                burtle_rand
+ *fill*         0x00001f32        0x2 
+ .text.burtle_init
+                0x00001f34       0x24 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+                0x00001f34                burtle_init
+ .text.ldtoypad_navigation_exit_callback
+                0x00001f58        0x6 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .text.ldtoypad_navigation_submenu_callback
+                0x00001f5e        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .text.minifigures_submenu_previous_callback
+                0x00001f62        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ *fill*         0x00001f66        0x2 
+ .text.ldtoypad_setting_quick_switching_mode_change
+                0x00001f68       0x4c build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .text.ldtoypad_setting_minifig_only_mode_change
+                0x00001fb4       0x4c build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .text.ldtoypad_setting_setting_show_icons_names_index_change
+                0x00002000       0x4c build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .text.ldtoypad_setting_setting_show_debug_text_index_change
+                0x0000204c       0x4c build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .text.ldtoypad_submenu_callback
+                0x00002098       0x1c build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .text.get_view_dispatcher
+                0x000020b4        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+                0x000020b4                get_view_dispatcher
+ .text.ldtoypad_app
+                0x000020c0      0x43c build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+                0x000020c0                ldtoypad_app
+ .text.get_minifigure_name
+                0x000024fc       0x28 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+                0x000024fc                get_minifigure_name
+ .text.get_vehicle_name
+                0x00002524       0x28 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+                0x00002524                get_vehicle_name
+ .text.bytes_to_uint32
+                0x0000254c        0x4 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .text.encipher
+                0x00002550       0x5c build/f7-firmware-C/.extapps/ldtoypad/tea.o
+                0x00002550                encipher
+ .text.decipher
+                0x000025ac       0x58 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+                0x000025ac                decipher
+ .text.tea_encrypt
+                0x00002604       0x6c build/f7-firmware-C/.extapps/ldtoypad/tea.o
+                0x00002604                tea_encrypt
+ .text.tea_decrypt
+                0x00002670       0x7c build/f7-firmware-C/.extapps/ldtoypad/tea.o
+                0x00002670                tea_decrypt
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x000026ec     0x2656
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.open_file.str1.1
+                0x000026ec        0x8 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .rodata.load_favorites.str1.1
+                0x000026f4       0x37 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .rodata.fill_favorites_submenu.str1.1
+                0x0000272b       0x12 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .rodata.make_token_dir.str1.1
+                0x0000273d       0x24 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .rodata.fill_saved_submenu.str1.1
+                0x00002761       0x8e build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .rodata.save_token.str1.1
+                0x000027ef       0x73 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .rodata.load_saved_token.str1.1
+                0x00002862       0x17 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .rodata.set_debug_text.str1.1
+                0x00002879        0x3 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .rodata.hid_out_callback.str1.1
+                0x0000287c      0x113 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .rodata.hid_cfg_desc
+                0x0000298f       0x29 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .rodata.hid_report_desc
+                0x000029b8       0x1d build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .rodata.ldtoypad_scene_emulate_input_callback.str1.1
+                0x000029d5       0x24 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .rodata.selectedBox_to_pad.str1.1
+                0x000029f9       0x18 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .rodata.place_token.str1.1
+                0x00002a11       0x14 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .rodata.ldtoypad_scene_emulate_draw_render_callback.str1.1
+                0x00002a25       0x76 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .rodata.saved_token_submenu_callback.str1.1
+                0x00002a9b       0x12 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .rodata.submenu_selection_views.0
+                0x00002aad        0x4 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .rodata.I_selectionCircle
+                0x00002ab1       0x33 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00002ab1                I_selectionCircle
+ .rodata.I_selectionBox
+                0x00002ae4       0x36 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00002ae4                I_selectionBox
+ .rodata.draw_placement_selection_screen.str1.1
+                0x00002b1a       0x3a build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .rodata.ldtoypad_app.str1.1
+                0x00002b54      0x24c build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .rodata.str1.1
+                0x00002da0        0x9 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ *fill*         0x00002da9        0x3 
+ .rodata.setting_show_icons_names_names
+                0x00002dac        0x8 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .rodata.setting_no_yes
+                0x00002db4        0x8 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .rodata.get_minifigure_name.str1.1
+                0x00002dbc        0x2 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ *fill*         0x00002dbe        0x2 
+ .rodata.vehicles_count
+                0x00002dc0        0x4 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+                0x00002dc0                vehicles_count
+ .rodata.str1.1
+                0x00002dc4     0x1250 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .rodata.vehicles
+                0x00004014      0x780 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+                0x00004014                vehicles
+ .rodata.minifigures_count
+                0x00004794        0x4 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+                0x00004794                minifigures_count
+ .rodata.minifigures
+                0x00004798      0x258 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+                0x00004798                minifigures
+ .rodata.tea_decrypt.str1.1
+                0x000049f0       0x1e build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ *fill*         0x00004a0e        0x2 
+ .rodata.I_toypad
+                0x00004a10        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a10                I_toypad
+ .rodata.I_star_selected
+                0x00004a1c        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a1c                I_star_selected
+ .rodata.I_star
+                0x00004a28        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a28                I_star
+ .rodata.I_save_selected
+                0x00004a34        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a34                I_save_selected
+ .rodata.I_save
+                0x00004a40        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a40                I_save
+ .rodata.I_minifig_selected
+                0x00004a4c        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a4c                I_minifig_selected
+ .rodata.I_head
+                0x00004a58        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a58                I_head
+ .rodata.I_car_bigger_selected
+                0x00004a64        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a64                I_car_bigger_selected
+ .rodata.I_car_bigger
+                0x00004a70        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a70                I_car_bigger
+ .rodata.I_car  0x00004a7c        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a7c                I_car
+ .rodata.I_box_longer
+                0x00004a88        0xc build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a88                I_box_longer
+ .rodata._I_toypad
+                0x00004a94        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a94                _I_toypad
+ .rodata._I_toypad_0
+                0x00004a98       0xe3 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004a98                _I_toypad_0
+ *fill*         0x00004b7b        0x1 
+ .rodata._I_star_selected
+                0x00004b7c        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004b7c                _I_star_selected
+ .rodata._I_star_selected_0
+                0x00004b80       0x30 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004b80                _I_star_selected_0
+ .rodata._I_star
+                0x00004bb0        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004bb0                _I_star
+ .rodata._I_star_0
+                0x00004bb4       0x37 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004bb4                _I_star_0
+ *fill*         0x00004beb        0x1 
+ .rodata._I_save_selected
+                0x00004bec        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004bec                _I_save_selected
+ .rodata._I_save_selected_0
+                0x00004bf0       0x1c build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004bf0                _I_save_selected_0
+ .rodata._I_save
+                0x00004c0c        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004c0c                _I_save
+ .rodata._I_save_0
+                0x00004c10       0x24 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004c10                _I_save_0
+ .rodata._I_minifig_selected
+                0x00004c34        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004c34                _I_minifig_selected
+ .rodata._I_minifig_selected_0
+                0x00004c38       0x29 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004c38                _I_minifig_selected_0
+ *fill*         0x00004c61        0x3 
+ .rodata._I_head
+                0x00004c64        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004c64                _I_head
+ .rodata._I_head_0
+                0x00004c68       0x17 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004c68                _I_head_0
+ *fill*         0x00004c7f        0x1 
+ .rodata._I_car_bigger_selected
+                0x00004c80        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004c80                _I_car_bigger_selected
+ .rodata._I_car_bigger_selected_0
+                0x00004c84       0x45 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004c84                _I_car_bigger_selected_0
+ *fill*         0x00004cc9        0x3 
+ .rodata._I_car_bigger
+                0x00004ccc        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004ccc                _I_car_bigger
+ .rodata._I_car_bigger_0
+                0x00004cd0       0x31 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004cd0                _I_car_bigger_0
+ *fill*         0x00004d01        0x3 
+ .rodata._I_car
+                0x00004d04        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004d04                _I_car
+ .rodata._I_car_0
+                0x00004d08       0x11 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004d08                _I_car_0
+ *fill*         0x00004d19        0x3 
+ .rodata._I_box_longer
+                0x00004d1c        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004d1c                _I_box_longer
+ .rodata._I_box_longer_0
+                0x00004d20       0x22 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+                0x00004d20                _I_box_longer_0
+
+.data           0x00004d44      0x150
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.usb_hid_ldtoypad
+                0x00004d44       0x24 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00004d44                usb_hid_ldtoypad
+ .data.hid_device_desc
+                0x00004d68       0x12 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .data.debug_text
+                0x00004d7a       0x40 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00004d7a                debug_text
+ .data.debug_text_ep_out
+                0x00004dba       0x20 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00004dba                debug_text_ep_out
+ .data.debug_text_ep_in
+                0x00004dda       0x80 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00004dda                debug_text_ep_in
+ .data.selectedBox
+                0x00004e5a        0x1 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00004e5a                selectedBox
+ *fill*         0x00004e5b        0x1 
+ .data.boxInfo  0x00004e5c       0x38 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00004e5c                boxInfo
+
+MB_MEM2         0x00000000       0x80
+ MB_MEM2        0x00000000       0x80 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+
+.bss            0x00000080      0x1c0
+ *(.bss)
+ *(.bss*)
+ .bss.num_favorites
+                0x00000080        0x4 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x00000080                num_favorites
+ .bss.favorite_ids
+                0x00000084      0x190 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+                0x00000084                favorite_ids
+ .bss.burtle    0x00000214        0x4 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000214                burtle
+ .bss.cb_ctx    0x00000218        0x4 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .bss.callback  0x0000021c        0x4 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .bss.hid_connected
+                0x00000220        0x1 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ *fill*         0x00000221        0x3 
+ .bss.usb_dev   0x00000224        0x4 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .bss.connected_status
+                0x00000228        0x4 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x00000228                connected_status
+ .bss.emulator  0x0000022c        0x4 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+                0x0000022c                emulator
+ .bss.usb_mode_prev
+                0x00000230        0x4 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00000230                usb_mode_prev
+ .bss.toypadscene_instance
+                0x00000234        0x4 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00000234                toypadscene_instance
+ .bss.app       0x00000238        0x4 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+                0x00000238                app
+ .bss.view_dispatcher
+                0x0000023c        0x4 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+                0x0000023c                view_dispatcher
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x390
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x78 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_aranges
+                0x00000078      0x140 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_aranges
+                0x000001b8       0xa8 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_aranges
+                0x00000260       0x20 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .debug_aranges
+                0x00000280       0x28 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .debug_aranges
+                0x000002a8       0x68 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_aranges
+                0x00000310       0x28 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .debug_aranges
+                0x00000338       0x40 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .debug_aranges
+                0x00000378       0x18 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xa51f
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x16f0 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_info    0x000016f0     0x2d37 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_info    0x00004427     0x2c52 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_info    0x00007079      0x59a build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .debug_info    0x00007613      0x1ee build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .debug_info    0x00007801     0x1f56 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_info    0x00009757      0x22f build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .debug_info    0x00009986      0x717 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .debug_info    0x0000a09d      0x482 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+
+.debug_abbrev   0x00000000     0x1ab6
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x355 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_abbrev  0x00000355      0x659 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_abbrev  0x000009ae      0x5bf build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_abbrev  0x00000f6d      0x153 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .debug_abbrev  0x000010c0      0x151 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .debug_abbrev  0x00001211      0x4a1 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_abbrev  0x000016b2      0x14a build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .debug_abbrev  0x000017fc      0x205 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .debug_abbrev  0x00001a01       0xb5 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+
+.debug_line     0x00000000     0x42ff
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x3f1 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.open_file
+                0x000003f1       0x5c build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.file_close_and_free
+                0x0000044d       0x2b build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.load_favorites
+                0x00000478       0x92 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.save_favorites
+                0x0000050a       0x87 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.fill_favorites_submenu
+                0x00000591       0x7b build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.favorite
+                0x0000060c       0x4d build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.unfavorite
+                0x00000659       0x6d build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.is_favorite
+                0x000006c6       0x4f build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.make_token_dir
+                0x00000715       0x28 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.fill_saved_submenu
+                0x0000073d      0x15a build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.save_token
+                0x00000897       0xfa build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line.text.load_saved_token
+                0x00000991       0x88 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line_end
+                0x00000a19        0x0 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_line    0x00000a19      0x361 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.hid_in_callback
+                0x00000d7a       0x1b build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.hid_control
+                0x00000d95       0x97 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.hid_deinit
+                0x00000e2c       0xf3 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.hid_set_string_descr
+                0x00000f1f       0x80 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.hid_on_wakeup
+                0x00000f9f       0x3d build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.hid_on_suspend
+                0x00000fdc       0x3d build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.hid_init
+                0x00001019      0x164 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.hid_ep_config
+                0x0000117d       0xf6 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.get_connected_status
+                0x00001273       0x18 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.set_connected_status
+                0x0000128b       0x1b build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.set_debug_text
+                0x000012a6       0x28 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.get_debug_text_ep_in
+                0x000012ce       0x19 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.get_debug_text
+                0x000012e7       0x19 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.readUInt32LE
+                0x00001300       0x31 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.readUInt32BE
+                0x00001331       0x2a build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.writeUInt32LE
+                0x0000135b       0x3b build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.writeUInt32BE
+                0x00001396       0x40 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.parse_frame
+                0x000013d6       0x2e build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.calculate_checksum
+                0x00001404       0x60 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.build_frame
+                0x00001464       0x4a build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.build_response
+                0x000014ae       0x4c build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.find_token_by_index
+                0x000014fa       0x4e build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.hid_out_callback
+                0x00001548      0x366 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.get_usb_device
+                0x000018ae       0x19 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.create_uid
+                0x000018c7       0xc0 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.createCharacter
+                0x00001987       0x39 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.createVehicle
+                0x000019c0       0x82 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line.text.ToyPadEmu_remove
+                0x00001a42       0xc5 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line_end
+                0x00001b07        0x0 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_line    0x00001b07      0x513 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.ldtoypad_scene_emulate_view_game_timer_callback
+                0x0000201a       0x23 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.ldtoypad_scene_emulate_enter_callback
+                0x0000203d       0x49 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.ldtoypad_scene_emulate_exit_callback
+                0x00002086       0x2a build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.ldtoypad_scene_emulate_custom_event_callback
+                0x000020b0       0x65 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.ldtoypad_scene_emulate_navigation_submenu_callback
+                0x00002115       0x8c build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.get_token_from_index
+                0x000021a1       0x27 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.ldtoypad_scene_emulate_input_callback
+                0x000021c8      0x2a4 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.generate_checksum_for_command
+                0x0000246c       0x58 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.selectedBox_to_pad
+                0x000024c4       0x32 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.place_token
+                0x000024f6      0x194 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.ldtoypad_scene_emulate_draw_render_callback
+                0x0000268a      0x41f build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.ldtoypad_scene_emulate_alloc
+                0x00002aa9       0xec build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.ldtoypad_scene_emulate_free
+                0x00002b95       0x77 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.ldtoypad_scene_emulate_get_view
+                0x00002c0c       0x1e build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.saved_token_submenu_callback
+                0x00002c2a      0x11e build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.minifigures_submenu_callback
+                0x00002d48       0xa7 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.vehicles_submenu_callback
+                0x00002def       0xaa build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line.text.get_token_count_of_specific_id
+                0x00002e99       0xf5 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line_end
+                0x00002f8e        0x0 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_line    0x00002f8e      0x1d2 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .debug_line.text.draw_placement_selection_screen
+                0x00003160       0x82 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .debug_line_end
+                0x000031e2        0x0 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .debug_line    0x000031e2       0xff build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .debug_line.text.burtle_rand
+                0x000032e1       0x6c build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .debug_line.text.burtle_init
+                0x0000334d       0x5b build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .debug_line_end
+                0x000033a8        0x0 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .debug_line    0x000033a8      0x37e build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line.text.ldtoypad_navigation_exit_callback
+                0x00003726       0x1a build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line.text.ldtoypad_navigation_submenu_callback
+                0x00003740       0x1a build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line.text.minifigures_submenu_previous_callback
+                0x0000375a       0x1b build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line.text.ldtoypad_setting_quick_switching_mode_change
+                0x00003775       0x4f build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line.text.ldtoypad_setting_minifig_only_mode_change
+                0x000037c4       0x4f build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line.text.ldtoypad_setting_setting_show_icons_names_index_change
+                0x00003813       0x4f build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line.text.ldtoypad_setting_setting_show_debug_text_index_change
+                0x00003862       0x4f build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line.text.ldtoypad_submenu_callback
+                0x000038b1       0x26 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line.text.get_view_dispatcher
+                0x000038d7       0x19 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line.text.ldtoypad_app
+                0x000038f0      0x2f8 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line_end
+                0x00003be8        0x0 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_line    0x00003be8       0x5e build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .debug_line.text.get_minifigure_name
+                0x00003c46       0x54 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .debug_line.text.get_vehicle_name
+                0x00003c9a       0x54 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .debug_line_end
+                0x00003cee        0x0 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .debug_line    0x00003cee      0x17e build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .debug_line.text.bytes_to_uint32
+                0x00003e6c       0x19 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .debug_line.text.encipher
+                0x00003e85       0xcb build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .debug_line.text.decipher
+                0x00003f50       0xbf build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .debug_line.text.tea_encrypt
+                0x0000400f       0xd0 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .debug_line.text.tea_decrypt
+                0x000040df       0xda build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .debug_line_end
+                0x000041b9        0x0 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .debug_line    0x000041b9      0x146 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+ .debug_line_end
+                0x000042ff        0x0 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+
+.debug_frame    0x00000000      0xa78
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x1ec build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_frame   0x000001ec      0x3b4 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_frame   0x000005a0      0x270 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_frame   0x00000810       0x34 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .debug_frame   0x00000844       0x44 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .debug_frame   0x00000888      0x100 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_frame   0x00000988       0x40 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .debug_frame   0x000009c8       0xb0 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+
+.debug_str      0x00000000     0x54ed
+ *(.debug_str)
+ .debug_str     0x00000000      0x8fb build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_str     0x000008fb      0xfe2 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_str     0x000018dd     0x1a74 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_str     0x00003351      0x450 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .debug_str     0x000037a1      0x1f4 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .debug_str     0x00003995     0x124d build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_str     0x00004be2      0x24c build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .debug_str     0x00004e2e      0x2d2 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .debug_str     0x00005100      0x3ed build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0x221a
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x402 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_loclists
+                0x00000402      0xc4d build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_loclists
+                0x0000104f      0xa59 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_loclists
+                0x00001aa8       0x4e build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .debug_loclists
+                0x00001af6       0xc0 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .debug_loclists
+                0x00001bb6      0x3b5 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_loclists
+                0x00001f6b       0x5e build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .debug_loclists
+                0x00001fc9      0x251 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x616
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x8d build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .debug_rnglists
+                0x0000008d      0x1cc build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .debug_rnglists
+                0x00000259      0x1d7 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .debug_rnglists
+                0x00000430       0x14 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .debug_rnglists
+                0x00000444       0x28 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .debug_rnglists
+                0x0000046c      0x11e build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .debug_rnglists
+                0x0000058a       0x31 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .debug_rnglists
+                0x000005bb       0x5b build/f7-firmware-C/.extapps/ldtoypad/tea.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/ldtoypad/usb/save_toypad.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/ldtoypad/usb/usb_toypad.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/ldtoypad/views/EmulateToyPad_scene.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/ldtoypad/views/sub_screens.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/ldtoypad/burtle.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/ldtoypad/minifigures.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/ldtoypad/tea.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/ldtoypad/ldtoypad_icons.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/ldtoypad_d.elf elf32-littlearm)
+LOAD linker stubs

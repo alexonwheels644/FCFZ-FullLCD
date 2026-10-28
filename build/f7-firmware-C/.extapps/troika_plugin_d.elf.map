@@ -1,0 +1,235 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000      0x614
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.troika_on_exit
+                0x00000000       0x44 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .text.troika_on_event
+                0x00000044       0x8c build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .text.troika_parse
+                0x000000d0      0x164 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .text.troika_on_enter
+                0x00000234      0x190 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .text.troika_poller_callback
+                0x000003c4      0x248 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .text.troika_plugin_ep
+                0x0000060c        0x8 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+                0x0000060c                troika_plugin_ep
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00000618      0x478
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.troika_on_event.str1.1
+                0x00000618       0x2b build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .rodata.troika_parse.str1.1
+                0x00000643       0x23 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .rodata.troika_on_enter.str1.1
+                0x00000666       0x65 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .rodata.troika_poller_callback.str1.1
+                0x000006cb        0xa build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .rodata.str1.1
+                0x000006d5       0x19 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ *fill*         0x000006ee        0x2 
+ .rodata.troika_plugin_descriptor
+                0x000006f0        0xc build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .rodata.troika_plugin
+                0x000006fc       0x10 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ *fill*         0x0000070c        0x4 
+ .rodata.troika_4k_keys
+                0x00000710      0x280 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+                0x00000710                troika_4k_keys
+ .rodata.troika_1k_keys
+                0x00000990      0x100 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+                0x00000990                troika_1k_keys
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss            0x00000a90        0x1
+ *(.bss)
+ *(.bss*)
+ .bss.checked   0x00000a90        0x1 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+                0x00000a90                checked
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x48
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x48 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x32b8
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x32b8 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+
+.debug_abbrev   0x00000000      0x443
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x443 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+
+.debug_line     0x00000000      0xdc3
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x912 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .debug_line.text.troika_on_exit
+                0x00000912       0x3f build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .debug_line.text.troika_on_event
+                0x00000951       0x73 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .debug_line.text.troika_parse
+                0x000009c4      0x148 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .debug_line.text.troika_on_enter
+                0x00000b0c       0xb9 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .debug_line.text.troika_poller_callback
+                0x00000bc5      0x1e5 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .debug_line.text.troika_plugin_ep
+                0x00000daa       0x19 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ .debug_line_end
+                0x00000dc3        0x0 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+
+.debug_frame    0x00000000       0xe4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xe4 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+
+.debug_str      0x00000000     0x2ba4
+ *(.debug_str)
+ .debug_str     0x00000000     0x2ba4 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000      0x611
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x611 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000       0x76
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x76 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/troika_plugin/scenes/plugins/troika.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/troika_plugin_d.elf elf32-littlearm)
+LOAD linker stubs

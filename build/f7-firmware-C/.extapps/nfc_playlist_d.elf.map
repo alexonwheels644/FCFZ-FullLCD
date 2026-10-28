@@ -1,0 +1,1092 @@
+Archive member included to satisfy reference by file (symbol)
+
+build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+                              build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o (nfc_playlist_worker_alloc)
+build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+                              build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o (nfc_playlist_led_worker_start)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker
+LOAD build/f7-firmware-C/.extapps/nfc_playlist/led_worker
+
+.text           0x00000000     0x2728
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.nfc_playlist_failed_to_load_playlist_menu_callback
+                0x00000000       0x14 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .text.nfc_playlist_failed_to_load_playlist_scene_on_enter
+                0x00000014       0x6c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+                0x00000014                nfc_playlist_failed_to_load_playlist_scene_on_enter
+ .text.nfc_playlist_failed_to_load_playlist_scene_on_event
+                0x00000080       0x40 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+                0x00000080                nfc_playlist_failed_to_load_playlist_scene_on_event
+ .text.nfc_playlist_failed_to_load_playlist_scene_on_exit
+                0x000000c0        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+                0x000000c0                nfc_playlist_failed_to_load_playlist_scene_on_exit
+ .text.nfc_playlist_confirm_delete_menu_callback
+                0x000000cc       0x14 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .text.nfc_playlist_confirm_delete_scene_on_enter
+                0x000000e0       0xb4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+                0x000000e0                nfc_playlist_confirm_delete_scene_on_enter
+ .text.nfc_playlist_confirm_delete_scene_on_event
+                0x00000194       0x78 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+                0x00000194                nfc_playlist_confirm_delete_scene_on_event
+ .text.nfc_playlist_confirm_delete_scene_on_exit
+                0x0000020c        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+                0x0000020c                nfc_playlist_confirm_delete_scene_on_exit
+ .text.nfc_playlist_emulation_dialog_callback
+                0x00000218       0x18 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .text.nfc_playlist_emulation_scene_on_enter
+                0x00000230       0x50 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+                0x00000230                nfc_playlist_emulation_scene_on_enter
+ .text.nfc_playlist_emulation_scene_on_event
+                0x00000280      0x32c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+                0x00000280                nfc_playlist_emulation_scene_on_event
+ .text.nfc_playlist_emulation_scene_on_exit
+                0x000005ac       0x50 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+                0x000005ac                nfc_playlist_emulation_scene_on_exit
+ .text.nfc_playlist_emulation_finished_menu_callback
+                0x000005fc       0x14 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .text.nfc_playlist_emulation_finished_scene_on_enter
+                0x00000610       0x6c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+                0x00000610                nfc_playlist_emulation_finished_scene_on_enter
+ .text.nfc_playlist_emulation_finished_scene_on_event
+                0x0000067c       0x40 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+                0x0000067c                nfc_playlist_emulation_finished_scene_on_event
+ .text.nfc_playlist_emulation_finished_scene_on_exit
+                0x000006bc        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+                0x000006bc                nfc_playlist_emulation_finished_scene_on_exit
+ .text.nfc_playlist_error_playlist_already_exists_menu_callback
+                0x000006c8       0x14 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .text.nfc_playlist_error_playlist_already_exists_scene_on_enter
+                0x000006dc       0x6c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+                0x000006dc                nfc_playlist_error_playlist_already_exists_scene_on_enter
+ .text.nfc_playlist_error_playlist_already_exists_scene_on_event
+                0x00000748       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+                0x00000748                nfc_playlist_error_playlist_already_exists_scene_on_event
+ .text.nfc_playlist_error_playlist_already_exists_scene_on_exit
+                0x0000077c        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+                0x0000077c                nfc_playlist_error_playlist_already_exists_scene_on_exit
+ .text.nfc_playlist_main_menu_menu_callback
+                0x00000788        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .text.nfc_playlist_main_menu_scene_on_enter
+                0x00000794       0xb8 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+                0x00000794                nfc_playlist_main_menu_scene_on_enter
+ .text.nfc_playlist_main_menu_scene_on_event
+                0x0000084c       0x40 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+                0x0000084c                nfc_playlist_main_menu_scene_on_event
+ .text.nfc_playlist_main_menu_scene_on_exit
+                0x0000088c        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+                0x0000088c                nfc_playlist_main_menu_scene_on_exit
+ .text.nfc_playlist_name_new_playlist_menu_callback
+                0x00000898       0xb0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+                0x00000898                nfc_playlist_name_new_playlist_menu_callback
+ .text.nfc_playlist_name_new_playlist_scene_on_enter
+                0x00000948       0x5c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+                0x00000948                nfc_playlist_name_new_playlist_scene_on_enter
+ .text.nfc_playlist_name_new_playlist_scene_on_event
+                0x000009a4       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+                0x000009a4                nfc_playlist_name_new_playlist_scene_on_event
+ .text.nfc_playlist_name_new_playlist_scene_on_exit
+                0x000009d8       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+                0x000009d8                nfc_playlist_name_new_playlist_scene_on_exit
+ .text.nfc_playlist_nfc_add_menu_callback
+                0x000009f4      0x140 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .text.nfc_playlist_nfc_add_scene_on_enter
+                0x00000b34       0x70 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+                0x00000b34                nfc_playlist_nfc_add_scene_on_enter
+ .text.nfc_playlist_nfc_add_scene_on_event
+                0x00000ba4        0xe build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+                0x00000ba4                nfc_playlist_nfc_add_scene_on_event
+ *fill*         0x00000bb2        0x2 
+ .text.nfc_playlist_nfc_add_scene_on_exit
+                0x00000bb4        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+                0x00000bb4                nfc_playlist_nfc_add_scene_on_exit
+ .text.nfc_playlist_nfc_duplicate_menu_callback
+                0x00000bc0       0x14 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .text.nfc_playlist_nfc_duplicate_scene_on_enter
+                0x00000bd4       0x6c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+                0x00000bd4                nfc_playlist_nfc_duplicate_scene_on_enter
+ .text.nfc_playlist_nfc_duplicate_scene_on_event
+                0x00000c40      0x140 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+                0x00000c40                nfc_playlist_nfc_duplicate_scene_on_event
+ .text.nfc_playlist_nfc_duplicate_scene_on_exit
+                0x00000d80        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+                0x00000d80                nfc_playlist_nfc_duplicate_scene_on_exit
+ .text.nfc_playlist_nfc_move_item_menu_callback
+                0x00000d8c        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .text.nfc_playlist_nfc_move_item_options_change_callback
+                0x00000d98       0xa8 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .text.nfc_playlist_nfc_move_item_scene_on_enter
+                0x00000e40       0xd8 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+                0x00000e40                nfc_playlist_nfc_move_item_scene_on_enter
+ .text.nfc_playlist_nfc_move_item_scene_on_event
+                0x00000f18      0x194 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+                0x00000f18                nfc_playlist_nfc_move_item_scene_on_event
+ .text.nfc_playlist_nfc_move_item_scene_on_exit
+                0x000010ac        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+                0x000010ac                nfc_playlist_nfc_move_item_scene_on_exit
+ .text.nfc_playlist_nfc_remove_menu_callback
+                0x000010b8        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .text.nfc_playlist_nfc_remove_options_change_callback
+                0x000010c4       0x68 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .text.nfc_playlist_nfc_remove_scene_on_enter
+                0x0000112c       0xdc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+                0x0000112c                nfc_playlist_nfc_remove_scene_on_enter
+ .text.nfc_playlist_nfc_remove_scene_on_event
+                0x00001208      0x184 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+                0x00001208                nfc_playlist_nfc_remove_scene_on_event
+ .text.nfc_playlist_nfc_remove_scene_on_exit
+                0x0000138c        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+                0x0000138c                nfc_playlist_nfc_remove_scene_on_exit
+ .text.nfc_playlist_playlist_edit_menu_callback
+                0x00001398        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .text.nfc_playlist_playlist_edit_scene_on_enter
+                0x000013a4       0xd8 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+                0x000013a4                nfc_playlist_playlist_edit_scene_on_enter
+ .text.nfc_playlist_playlist_edit_scene_on_event
+                0x0000147c       0x50 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+                0x0000147c                nfc_playlist_playlist_edit_scene_on_event
+ .text.nfc_playlist_playlist_edit_scene_on_exit
+                0x000014cc        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+                0x000014cc                nfc_playlist_playlist_edit_scene_on_exit
+ .text.nfc_playlist_playlist_rename_menu_callback
+                0x000014d8       0xe0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .text.nfc_playlist_playlist_rename_scene_on_enter
+                0x000015b8       0x98 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+                0x000015b8                nfc_playlist_playlist_rename_scene_on_enter
+ .text.nfc_playlist_playlist_rename_scene_on_event
+                0x00001650       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+                0x00001650                nfc_playlist_playlist_rename_scene_on_event
+ .text.nfc_playlist_playlist_rename_scene_on_exit
+                0x00001684       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+                0x00001684                nfc_playlist_playlist_rename_scene_on_exit
+ .text.nfc_playlist_playlist_select_menu_callback
+                0x000016a0       0xb4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .text.nfc_playlist_playlist_select_scene_on_enter
+                0x00001754       0x70 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+                0x00001754                nfc_playlist_playlist_select_scene_on_enter
+ .text.nfc_playlist_playlist_select_scene_on_event
+                0x000017c4        0xe build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+                0x000017c4                nfc_playlist_playlist_select_scene_on_event
+ *fill*         0x000017d2        0x2 
+ .text.nfc_playlist_playlist_select_scene_on_exit
+                0x000017d4        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+                0x000017d4                nfc_playlist_playlist_select_scene_on_exit
+ .text.nfc_playlist_settings_menu_callback
+                0x000017e0        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .text.nfc_playlist_settings_options_change_callback
+                0x000017ec       0xd4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .text.nfc_playlist_settings_update_view
+                0x000018c0      0x128 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .text.nfc_playlist_settings_scene_on_enter
+                0x000019e8      0x1f0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+                0x000019e8                nfc_playlist_settings_scene_on_enter
+ .text.nfc_playlist_settings_scene_on_event
+                0x00001bd8       0x64 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+                0x00001bd8                nfc_playlist_settings_scene_on_event
+ .text.nfc_playlist_settings_scene_on_exit
+                0x00001c3c        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+                0x00001c3c                nfc_playlist_settings_scene_on_exit
+ .text.nfc_playlist_view_playlist_content_scene_on_enter
+                0x00001c48      0x12c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+                0x00001c48                nfc_playlist_view_playlist_content_scene_on_enter
+ .text.nfc_playlist_view_playlist_content_scene_on_event
+                0x00001d74        0xe build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+                0x00001d74                nfc_playlist_view_playlist_content_scene_on_event
+ *fill*         0x00001d82        0x2 
+ .text.nfc_playlist_view_playlist_content_scene_on_exit
+                0x00001d84        0xc build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+                0x00001d84                nfc_playlist_view_playlist_content_scene_on_exit
+ .text.nfc_playlist_tick_event_callback
+                0x00001d90        0xc build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .text.nfc_playlist_back_event_callback
+                0x00001d9c        0xc build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .text.nfc_playlist_custom_callback
+                0x00001da8        0xc build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .text.nfc_playlist_load_settings
+                0x00001db4      0x1f8 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+                0x00001db4                nfc_playlist_load_settings
+ .text.nfc_playlist_save_settings
+                0x00001fac       0xd8 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+                0x00001fac                nfc_playlist_save_settings
+ .text.nfc_playlist_delete_settings
+                0x00002084       0x48 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+                0x00002084                nfc_playlist_delete_settings
+ .text.nfc_playlist_main
+                0x000020cc      0x26c build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+                0x000020cc                nfc_playlist_main
+ .text.nfc_playlist_worker_countdown
+                0x00002338       0x40 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .text.nfc_playlist_worker_delay
+                0x00002378       0x58 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .text.nfc_playlist_worker_task
+                0x000023d0      0x230 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .text.nfc_playlist_worker_alloc
+                0x00002600       0x7c build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+                0x00002600                nfc_playlist_worker_alloc
+ .text.nfc_playlist_worker_free
+                0x0000267c       0x40 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+                0x0000267c                nfc_playlist_worker_free
+ .text.nfc_playlist_worker_start
+                0x000026bc       0x14 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+                0x000026bc                nfc_playlist_worker_start
+ .text.nfc_playlist_worker_stop
+                0x000026d0       0x10 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+                0x000026d0                nfc_playlist_worker_stop
+ .text.nfc_playlist_worker_skip
+                0x000026e0        0x6 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+                0x000026e0                nfc_playlist_worker_skip
+ .text.nfc_playlist_worker_rewind
+                0x000026e6        0x6 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+                0x000026e6                nfc_playlist_worker_rewind
+ .text.nfc_playlist_led_worker_start
+                0x000026ec       0x2c build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+                0x000026ec                nfc_playlist_led_worker_start
+ .text.nfc_playlist_led_worker_stop
+                0x00002718       0x10 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+                0x00002718                nfc_playlist_led_worker_stop
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00002728      0x83c
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.nfc_playlist_failed_to_load_playlist_scene_on_enter.str1.1
+                0x00002728       0x31 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ *fill*         0x00002759        0x3 
+ .rodata.nfc_playlist_scene_handlers
+                0x0000275c       0x10 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+                0x0000275c                nfc_playlist_scene_handlers
+ .rodata.nfc_playlist_on_exit_handlers
+                0x0000276c       0x40 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+                0x0000276c                nfc_playlist_on_exit_handlers
+ .rodata.nfc_playlist_on_event_handlers
+                0x000027ac       0x40 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+                0x000027ac                nfc_playlist_on_event_handlers
+ .rodata.nfc_playlist_on_enter_handlers
+                0x000027ec       0x40 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+                0x000027ec                nfc_playlist_on_enter_handlers
+ .rodata.nfc_playlist_confirm_delete_scene_on_enter.str1.1
+                0x0000282c       0x1d build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .rodata.nfc_playlist_confirm_delete_scene_on_event.str1.1
+                0x00002849        0x8 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .rodata.nfc_playlist_emulation_scene_on_event.str1.1
+                0x00002851       0x9e build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .rodata.nfc_playlist_emulation_finished_scene_on_enter.str1.1
+                0x000028ef       0x27 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .rodata.nfc_playlist_error_playlist_already_exists_scene_on_enter.str1.1
+                0x00002916       0x41 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .rodata.nfc_playlist_main_menu_scene_on_enter.str1.1
+                0x00002957       0x57 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .rodata.nfc_playlist_name_new_playlist_menu_callback.str1.1
+                0x000029ae       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .rodata.nfc_playlist_name_new_playlist_scene_on_enter.str1.1
+                0x000029e6       0x10 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .rodata.nfc_playlist_nfc_add_menu_callback.str1.1
+                0x000029f6        0xd build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .rodata.nfc_playlist_nfc_add_scene_on_enter.str1.1
+                0x00002a03        0xf build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .rodata.nfc_playlist_nfc_duplicate_scene_on_enter.str1.1
+                0x00002a12       0x3c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .rodata.nfc_playlist_nfc_duplicate_scene_on_event.str1.1
+                0x00002a4e        0xd build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .rodata.nfc_playlist_nfc_move_item_options_change_callback.str1.1
+                0x00002a5b       0x27 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .rodata.nfc_playlist_nfc_move_item_scene_on_enter.str1.1
+                0x00002a82       0x3b build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .rodata.nfc_playlist_nfc_move_item_scene_on_event.str1.1
+                0x00002abd       0x16 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .rodata.nfc_playlist_nfc_remove_options_change_callback.str1.1
+                0x00002ad3        0x3 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .rodata.nfc_playlist_nfc_remove_scene_on_enter.str1.1
+                0x00002ad6       0x3a build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .rodata.nfc_playlist_nfc_remove_scene_on_event.str1.1
+                0x00002b10       0x10 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .rodata.nfc_playlist_playlist_edit_scene_on_enter.str1.1
+                0x00002b20       0x94 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .rodata.nfc_playlist_playlist_rename_menu_callback.str1.1
+                0x00002bb4        0xd build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .rodata.nfc_playlist_playlist_rename_scene_on_enter.str1.1
+                0x00002bc1       0x14 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .rodata.nfc_playlist_playlist_select_menu_callback.str1.1
+                0x00002bd5        0x8 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .rodata.nfc_playlist_playlist_select_scene_on_enter.str1.1
+                0x00002bdd       0x2c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .rodata.nfc_playlist_settings_options_change_callback.str1.1
+                0x00002c09        0xb build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .rodata.nfc_playlist_settings_scene_on_enter.str1.1
+                0x00002c14       0xb5 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ *fill*         0x00002cc9        0x3 
+ .rodata.options_emulate_delay
+                0x00002ccc       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .rodata.options_emulate_timeout
+                0x00002d00       0x30 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .rodata.nfc_playlist_view_playlist_content_scene_on_enter.str1.1
+                0x00002d30       0x52 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .rodata.nfc_playlist_load_settings.str1.1
+                0x00002d82       0x90 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .rodata.nfc_playlist_save_settings.str1.1
+                0x00002e12       0x6a build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .rodata.nfc_playlist_main.str1.1
+                0x00002e7c       0x37 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ *fill*         0x00002eb3        0x1 
+ .rodata.I_Playlist_10px
+                0x00002eb4        0xc build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+                0x00002eb4                I_Playlist_10px
+ .rodata._I_Playlist_10px
+                0x00002ec0        0x4 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+                0x00002ec0                _I_Playlist_10px
+ .rodata._I_Playlist_10px_0
+                0x00002ec4       0x15 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+                0x00002ec4                _I_Playlist_10px_0
+ .rodata.nfc_playlist_worker_task.str1.1
+                0x00002ed9       0x13 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .rodata.nfc_playlist_worker_alloc.str1.1
+                0x00002eec       0x14 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .rodata.options_emulate_delay
+                0x00002f00       0x34 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .rodata.options_emulate_timeout
+                0x00002f34       0x30 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss            0x00002f64        0xb
+ *(.bss)
+ *(.bss*)
+ .bss.text_str_static
+                0x00002f64        0x4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .bss.header_str_static
+                0x00002f68        0x4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .bss.selected_destination
+                0x00002f6c        0x1 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .bss.selected_target
+                0x00002f6d        0x1 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .bss.selected_line
+                0x00002f6e        0x1 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x4a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_aranges
+                0x00000038       0x18 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+ .debug_aranges
+                0x00000050       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_aranges
+                0x00000088       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_aranges
+                0x000000c0       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_aranges
+                0x000000f8       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_aranges
+                0x00000130       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_aranges
+                0x00000168       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_aranges
+                0x000001a0       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_aranges
+                0x000001d8       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_aranges
+                0x00000210       0x40 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_aranges
+                0x00000250       0x40 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_aranges
+                0x00000290       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_aranges
+                0x000002c8       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_aranges
+                0x00000300       0x38 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_aranges
+                0x00000338       0x48 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_aranges
+                0x00000380       0x30 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_aranges
+                0x000003b0       0x50 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_aranges
+                0x00000400       0x18 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+ .debug_aranges
+                0x00000418       0x60 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_aranges
+                0x00000478       0x28 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x12e95
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xcff build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_info    0x00000cff      0x618 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+ .debug_info    0x00001317      0xef2 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_info    0x00002209     0x1102 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_info    0x0000330b      0xcff build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_info    0x0000400a      0xd0b build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_info    0x00004d15      0xcc7 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_info    0x000059dc      0xeaf build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_info    0x0000688b      0xff4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_info    0x0000787f     0x10ef build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_info    0x0000896e     0x135a build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_info    0x00009cc8     0x129b build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_info    0x0000af63      0xd24 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_info    0x0000bc87      0xfa9 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_info    0x0000cc30      0xdbd build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_info    0x0000d9ed     0x13b2 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_info    0x0000ed9f      0xd8b build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_info    0x0000fb2a     0x1d06 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_info    0x00011830      0x184 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+ .debug_info    0x000119b4     0x10b3 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_info    0x00012a67      0x42e build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+
+.debug_abbrev   0x00000000     0x2f8b
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x255 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_abbrev  0x00000255      0x137 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+ .debug_abbrev  0x0000038c      0x29f build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_abbrev  0x0000062b      0x265 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_abbrev  0x00000890      0x255 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_abbrev  0x00000ae5      0x266 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_abbrev  0x00000d4b      0x20c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_abbrev  0x00000f57      0x208 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_abbrev  0x0000115f      0x274 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_abbrev  0x000013d3      0x2bf build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_abbrev  0x00001692      0x29e build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_abbrev  0x00001930      0x286 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_abbrev  0x00001bb6      0x208 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_abbrev  0x00001dbe      0x266 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_abbrev  0x00002024      0x241 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_abbrev  0x00002265      0x2ad build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_abbrev  0x00002512      0x23a build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_abbrev  0x0000274c      0x361 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_abbrev  0x00002aad       0xb1 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+ .debug_abbrev  0x00002b5e      0x2b0 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_abbrev  0x00002e0e      0x17d build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+
+.debug_line     0x00000000     0x7288
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x449 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_line.text.nfc_playlist_failed_to_load_playlist_menu_callback
+                0x00000449       0x2b build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_line.text.nfc_playlist_failed_to_load_playlist_scene_on_enter
+                0x00000474       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_line.text.nfc_playlist_failed_to_load_playlist_scene_on_event
+                0x000004a8       0x60 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_line.text.nfc_playlist_failed_to_load_playlist_scene_on_exit
+                0x00000508       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_line_end
+                0x00000524        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_line    0x00000524      0x16e build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+ .debug_line_end
+                0x00000692        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+ .debug_line    0x00000692      0x491 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_line.text.nfc_playlist_confirm_delete_menu_callback
+                0x00000b23       0x29 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_line.text.nfc_playlist_confirm_delete_scene_on_enter
+                0x00000b4c       0x5b build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_line.text.nfc_playlist_confirm_delete_scene_on_event
+                0x00000ba7       0x67 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_line.text.nfc_playlist_confirm_delete_scene_on_exit
+                0x00000c0e       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_line_end
+                0x00000c2a        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_line    0x00000c2a      0x490 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_line.text.nfc_playlist_emulation_dialog_callback
+                0x000010ba       0x27 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_line.text.nfc_playlist_emulation_scene_on_enter
+                0x000010e1       0x3c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_line.text.nfc_playlist_emulation_scene_on_event
+                0x0000111d      0x299 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_line.text.nfc_playlist_emulation_scene_on_exit
+                0x000013b6       0x5f build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_line_end
+                0x00001415        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_line    0x00001415      0x448 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_line.text.nfc_playlist_emulation_finished_menu_callback
+                0x0000185d       0x2b build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_line.text.nfc_playlist_emulation_finished_scene_on_enter
+                0x00001888       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_line.text.nfc_playlist_emulation_finished_scene_on_event
+                0x000018bc       0x60 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_line.text.nfc_playlist_emulation_finished_scene_on_exit
+                0x0000191c       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_line_end
+                0x00001938        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_line    0x00001938      0x453 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_line.text.nfc_playlist_error_playlist_already_exists_menu_callback
+                0x00001d8b       0x2b build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_line.text.nfc_playlist_error_playlist_already_exists_scene_on_enter
+                0x00001db6       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_line.text.nfc_playlist_error_playlist_already_exists_scene_on_event
+                0x00001dea       0x4f build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_line.text.nfc_playlist_error_playlist_already_exists_scene_on_exit
+                0x00001e39       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_line_end
+                0x00001e55        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_line    0x00001e55      0x3c6 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_line.text.nfc_playlist_main_menu_menu_callback
+                0x0000221b       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_line.text.nfc_playlist_main_menu_scene_on_enter
+                0x00002237       0x50 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_line.text.nfc_playlist_main_menu_scene_on_event
+                0x00002287       0x48 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_line.text.nfc_playlist_main_menu_scene_on_exit
+                0x000022cf       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_line_end
+                0x000022eb        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_line    0x000022eb      0x4d4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_line.text.nfc_playlist_name_new_playlist_menu_callback
+                0x000027bf       0x84 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_line.text.nfc_playlist_name_new_playlist_scene_on_enter
+                0x00002843       0x40 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_line.text.nfc_playlist_name_new_playlist_scene_on_event
+                0x00002883       0x3e build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_line.text.nfc_playlist_name_new_playlist_scene_on_exit
+                0x000028c1       0x27 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_line_end
+                0x000028e8        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_line    0x000028e8      0x4c9 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_line.text.nfc_playlist_nfc_add_menu_callback
+                0x00002db1       0xd1 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_line.text.nfc_playlist_nfc_add_scene_on_enter
+                0x00002e82       0x44 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_line.text.nfc_playlist_nfc_add_scene_on_event
+                0x00002ec6       0x25 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_line.text.nfc_playlist_nfc_add_scene_on_exit
+                0x00002eeb       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_line_end
+                0x00002f07        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_line    0x00002f07      0x520 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_line.text.nfc_playlist_nfc_duplicate_menu_callback
+                0x00003427       0x29 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_line.text.nfc_playlist_nfc_duplicate_scene_on_enter
+                0x00003450       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_line.text.nfc_playlist_nfc_duplicate_scene_on_event
+                0x00003484       0xc9 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_line.text.nfc_playlist_nfc_duplicate_scene_on_exit
+                0x0000354d       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_line_end
+                0x00003569        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_line    0x00003569      0x45b build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_line.text.nfc_playlist_nfc_move_item_menu_callback
+                0x000039c4       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_line.text.nfc_playlist_nfc_move_item_options_change_callback
+                0x000039e0       0x7f build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_line.text.nfc_playlist_nfc_move_item_scene_on_enter
+                0x00003a5f       0x7b build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_line.text.nfc_playlist_nfc_move_item_scene_on_event
+                0x00003ada      0x119 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_line.text.nfc_playlist_nfc_move_item_scene_on_exit
+                0x00003bf3       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_line_end
+                0x00003c0f        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_line    0x00003c0f      0x458 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_line.text.nfc_playlist_nfc_remove_menu_callback
+                0x00004067       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_line.text.nfc_playlist_nfc_remove_options_change_callback
+                0x00004083       0x71 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_line.text.nfc_playlist_nfc_remove_scene_on_enter
+                0x000040f4       0x81 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_line.text.nfc_playlist_nfc_remove_scene_on_event
+                0x00004175       0xfe build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_line.text.nfc_playlist_nfc_remove_scene_on_exit
+                0x00004273       0x18 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_line_end
+                0x0000428b        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_line    0x0000428b      0x3ca build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_line.text.nfc_playlist_playlist_edit_menu_callback
+                0x00004655       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_line.text.nfc_playlist_playlist_edit_scene_on_enter
+                0x00004671       0x51 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_line.text.nfc_playlist_playlist_edit_scene_on_event
+                0x000046c2       0x4c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_line.text.nfc_playlist_playlist_edit_scene_on_exit
+                0x0000470e       0x18 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_line_end
+                0x00004726        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_line    0x00004726      0x4f4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_line.text.nfc_playlist_playlist_rename_menu_callback
+                0x00004c1a       0x84 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_line.text.nfc_playlist_playlist_rename_scene_on_enter
+                0x00004c9e       0x52 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_line.text.nfc_playlist_playlist_rename_scene_on_event
+                0x00004cf0       0x3e build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_line.text.nfc_playlist_playlist_rename_scene_on_exit
+                0x00004d2e       0x28 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_line_end
+                0x00004d56        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_line    0x00004d56      0x44f build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_line.text.nfc_playlist_playlist_select_menu_callback
+                0x000051a5       0x86 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_line.text.nfc_playlist_playlist_select_scene_on_enter
+                0x0000522b       0x44 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_line.text.nfc_playlist_playlist_select_scene_on_event
+                0x0000526f       0x24 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_line.text.nfc_playlist_playlist_select_scene_on_exit
+                0x00005293       0x1b build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_line_end
+                0x000052ae        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_line    0x000052ae      0x379 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_line.text.nfc_playlist_settings_menu_callback
+                0x00005627       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_line.text.nfc_playlist_settings_options_change_callback
+                0x00005643       0xb9 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_line.text.nfc_playlist_settings_update_view
+                0x000056fc       0xff build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_line.text.nfc_playlist_settings_scene_on_enter
+                0x000057fb      0x119 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_line.text.nfc_playlist_settings_scene_on_event
+                0x00005914       0x6f build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_line.text.nfc_playlist_settings_scene_on_exit
+                0x00005983       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_line_end
+                0x0000599f        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_line    0x0000599f      0x415 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_line.text.nfc_playlist_view_playlist_content_scene_on_enter
+                0x00005db4       0xa9 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_line.text.nfc_playlist_view_playlist_content_scene_on_event
+                0x00005e5d       0x24 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_line.text.nfc_playlist_view_playlist_content_scene_on_exit
+                0x00005e81       0x1c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_line_end
+                0x00005e9d        0x0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_line    0x00005e9d      0x4d9 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_line.text.nfc_playlist_tick_event_callback
+                0x00006376       0x1b build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_line.text.nfc_playlist_back_event_callback
+                0x00006391       0x1c build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_line.text.nfc_playlist_custom_callback
+                0x000063ad       0x1d build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_line.text.nfc_playlist_load_settings
+                0x000063ca      0x1a5 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_line.text.nfc_playlist_save_settings
+                0x0000656f       0x61 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_line.text.nfc_playlist_delete_settings
+                0x000065d0       0x4d build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_line.text.nfc_playlist_main
+                0x0000661d      0x17a build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_line_end
+                0x00006797        0x0 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_line    0x00006797      0x152 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+ .debug_line_end
+                0x000068e9        0x0 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+ .debug_line    0x000068e9      0x387 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_line.text.nfc_playlist_worker_countdown
+                0x00006c70       0x5e build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_line.text.nfc_playlist_worker_delay
+                0x00006cce       0x7e build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_line.text.nfc_playlist_worker_task
+                0x00006d4c      0x1fd build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_line.text.nfc_playlist_worker_alloc
+                0x00006f49       0x7a build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_line.text.nfc_playlist_worker_free
+                0x00006fc3       0x43 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_line.text.nfc_playlist_worker_start
+                0x00007006       0x31 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_line.text.nfc_playlist_worker_stop
+                0x00007037       0x23 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_line.text.nfc_playlist_worker_skip
+                0x0000705a       0x23 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_line.text.nfc_playlist_worker_rewind
+                0x0000707d       0x23 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_line_end
+                0x000070a0        0x0 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_line    0x000070a0      0x1b0 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+ .debug_line.text.nfc_playlist_led_worker_start
+                0x00007250       0x22 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+ .debug_line.text.nfc_playlist_led_worker_stop
+                0x00007272       0x16 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+ .debug_line_end
+                0x00007288        0x0 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+
+.debug_frame    0x00000000      0xb24
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x70 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_frame   0x00000070       0x84 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_frame   0x000000f4       0x84 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_frame   0x00000178       0x70 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_frame   0x000001e8       0x74 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_frame   0x0000025c       0x74 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_frame   0x000002d0       0x94 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_frame   0x00000364       0xac build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_frame   0x00000410       0x84 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_frame   0x00000494       0xc4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_frame   0x00000558       0xb0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_frame   0x00000608       0x78 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_frame   0x00000680       0xa4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_frame   0x00000724       0x8c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_frame   0x000007b0       0xf0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_frame   0x000008a0       0x74 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_frame   0x00000914       0xec build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_frame   0x00000a00       0xf4 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_frame   0x00000af4       0x30 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+
+.debug_str      0x00000000    0x129d2
+ *(.debug_str)
+ .debug_str     0x00000000      0xe94 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_str     0x00000e94      0xdad build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+ .debug_str     0x00001c41      0xf47 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_str     0x00002b88     0x1147 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_str     0x00003ccf      0xe7f build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_str     0x00004b4e      0xeb6 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_str     0x00005a04      0xe03 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_str     0x00006807      0xf7f build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_str     0x00007786      0xf59 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_str     0x000086df     0x104c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_str     0x0000972b      0xfc9 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_str     0x0000a6f4      0xf55 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_str     0x0000b649      0xe7c build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_str     0x0000c4c5      0xfd4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_str     0x0000d499      0xce4 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_str     0x0000e17d      0xf31 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_str     0x0000f0ae      0xcb6 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_str     0x0000fd64     0x151e build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_str     0x00011282      0x268 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+ .debug_str     0x000114ea      0xccf build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_str     0x000121b9      0x819 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0x241d
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x213 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_loclists
+                0x00000213      0x1c5 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_loclists
+                0x000003d8      0x1d0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_loclists
+                0x000005a8      0x213 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_loclists
+                0x000007bb      0x19d build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_loclists
+                0x00000958      0x14d build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_loclists
+                0x00000aa5      0x17e build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_loclists
+                0x00000c23      0x1d0 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_loclists
+                0x00000df3      0x1fa build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_loclists
+                0x00000fed      0x2ec build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_loclists
+                0x000012d9      0x2be build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_loclists
+                0x00001597      0x141 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_loclists
+                0x000016d8      0x1ad build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_loclists
+                0x00001885      0x136 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_loclists
+                0x000019bb      0x397 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_loclists
+                0x00001d52      0x120 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_loclists
+                0x00001e72      0x315 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_loclists
+                0x00002187      0x215 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_loclists
+                0x0000239c       0x81 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x41b
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x25 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .debug_rnglists
+                0x00000025       0x32 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .debug_rnglists
+                0x00000057       0x26 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .debug_rnglists
+                0x0000007d       0x25 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .debug_rnglists
+                0x000000a2       0x25 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .debug_rnglists
+                0x000000c7       0x26 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .debug_rnglists
+                0x000000ed       0x26 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .debug_rnglists
+                0x00000113       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .debug_rnglists
+                0x00000147       0x43 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .debug_rnglists
+                0x0000018a       0x4a build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .debug_rnglists
+                0x000001d4       0x55 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .debug_rnglists
+                0x00000229       0x26 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .debug_rnglists
+                0x0000024f       0x27 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .debug_rnglists
+                0x00000276       0x32 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .debug_rnglists
+                0x000002a8       0x40 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .debug_rnglists
+                0x000002e8       0x2d build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .debug_rnglists
+                0x00000315       0x7a build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .debug_rnglists
+                0x0000038f       0x73 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .debug_rnglists
+                0x00000402       0x19 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_play_scene_failed_to_load_playlist.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_confirm_delete.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_emulation_finished.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_error_playlist_already_exists.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_main_menu.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_name_new_playlist.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_add.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_duplicate.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_move_item.o
+ .ARM.attributes
+                0x0000023c       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_nfc_remove.o
+ .ARM.attributes
+                0x00000270       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_edit.o
+ .ARM.attributes
+                0x000002a4       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_rename.o
+ .ARM.attributes
+                0x000002d8       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_playlist_select.o
+ .ARM.attributes
+                0x0000030c       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_settings.o
+ .ARM.attributes
+                0x00000340       0x34 build/f7-firmware-C/.extapps/nfc_playlist/scenes/nfc_playlist_scene_view_playlist_content.o
+ .ARM.attributes
+                0x00000374       0x34 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist.o
+ .ARM.attributes
+                0x000003a8       0x34 build/f7-firmware-C/.extapps/nfc_playlist/nfc_playlist_icons.o
+ .ARM.attributes
+                0x000003dc       0x34 build/f7-firmware-C/.extapps/nfc_playlist/playlist_worker(nfc_playlist_worker.o)
+ .ARM.attributes
+                0x00000410       0x34 build/f7-firmware-C/.extapps/nfc_playlist/led_worker(nfc_playlist_led_worker.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/nfc_playlist_d.elf elf32-littlearm)
+LOAD linker stubs

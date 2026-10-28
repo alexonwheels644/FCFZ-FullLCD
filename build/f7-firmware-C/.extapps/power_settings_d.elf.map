@@ -1,0 +1,641 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .text.power_get_pubsub
+                0x00000000       0x14 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .text.power_is_battery_healthy
+                0x00000000       0x20 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .text.power_enable_low_battery_level_notification
+                0x00000000       0x64 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .text.power_enable_otg
+                0x00000000       0x64 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .text.power_is_otg_enabled
+                0x00000000       0x18 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line.text.power_get_pubsub
+                0x00000000       0x56 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line.text.power_is_battery_healthy
+                0x00000000       0x58 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line.text.power_enable_low_battery_level_notification
+                0x00000000       0xb3 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line.text.power_enable_otg
+                0x00000000       0xa7 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line.text.power_is_otg_enabled
+                0x00000000       0x57 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+LOAD build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+LOAD build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+LOAD build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+LOAD build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+LOAD build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+LOAD build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+LOAD build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+LOAD build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+LOAD build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD build/f7-firmware-C/lib\libassets.a
+LOAD build/f7-firmware-C/lib\libassets.a
+
+.text           0x00000000     0x1420
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.about_screen_fw_version
+                0x00000000      0x174 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .text.about_screen_hw_version
+                0x00000174      0x120 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .text.about_screen_product
+                0x00000294       0xd0 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .text.about_settings_app
+                0x00000364      0x164 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+                0x00000364                about_settings_app
+ .text.power_off
+                0x000004c8       0x34 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+                0x000004c8                power_off
+ .text.power_reboot
+                0x000004fc       0x38 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+                0x000004fc                power_reboot
+ .text.power_get_info
+                0x00000534       0x2c build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+                0x00000534                power_get_info
+ .text.power_api_get_settings
+                0x00000560        0xc build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+                0x00000560                power_api_get_settings
+ .text.power_api_set_settings
+                0x0000056c       0x54 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+                0x0000056c                power_api_set_settings
+ .text.power_settings_scene_battery_info_update_model
+                0x000005c0       0x48 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .text.power_settings_scene_battery_info_on_enter
+                0x00000608       0x1c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+                0x00000608                power_settings_scene_battery_info_on_enter
+ .text.power_settings_scene_battery_info_on_event
+                0x00000624       0x24 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+                0x00000624                power_settings_scene_battery_info_on_event
+ .text.power_settings_scene_battery_info_on_exit
+                0x00000648        0x2 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+                0x00000648                power_settings_scene_battery_info_on_exit
+ *fill*         0x0000064a        0x2 
+ .text.power_settings_scene_power_off_dialog_callback
+                0x0000064c       0x10 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+                0x0000064c                power_settings_scene_power_off_dialog_callback
+ .text.power_settings_scene_power_off_on_enter
+                0x0000065c       0xd8 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+                0x0000065c                power_settings_scene_power_off_on_enter
+ .text.power_settings_scene_power_off_on_event
+                0x00000734       0x38 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+                0x00000734                power_settings_scene_power_off_on_event
+ .text.power_settings_scene_power_off_on_exit
+                0x0000076c        0xc build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+                0x0000076c                power_settings_scene_power_off_on_exit
+ .text.power_settings_scene_reboot_submenu_callback
+                0x00000778        0xc build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+                0x00000778                power_settings_scene_reboot_submenu_callback
+ .text.power_settings_scene_reboot_on_enter
+                0x00000784       0x54 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+                0x00000784                power_settings_scene_reboot_on_enter
+ .text.power_settings_scene_reboot_on_event
+                0x000007d8       0x3c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+                0x000007d8                power_settings_scene_reboot_on_event
+ .text.power_settings_scene_reboot_on_exit
+                0x00000814        0xc build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+                0x00000814                power_settings_scene_reboot_on_exit
+ .text.power_settings_scene_reboot_confirm_dialog_callback
+                0x00000820       0x10 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+                0x00000820                power_settings_scene_reboot_confirm_dialog_callback
+ .text.power_settings_scene_reboot_confirm_on_enter
+                0x00000830       0xe0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+                0x00000830                power_settings_scene_reboot_confirm_on_enter
+ .text.power_settings_scene_reboot_confirm_on_event
+                0x00000910       0x5c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+                0x00000910                power_settings_scene_reboot_confirm_on_event
+ .text.power_settings_scene_reboot_confirm_on_exit
+                0x0000096c        0xc build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+                0x0000096c                power_settings_scene_reboot_confirm_on_exit
+ .text.power_settings_scene_start_submenu_callback
+                0x00000978        0xc build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .text.power_settings_scene_start_charge_supress_percent_changed
+                0x00000984       0x54 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .text.power_settings_scene_start_auto_poweroff_delay_changed
+                0x000009d8       0x3c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .text.power_settings_scene_start_on_enter
+                0x00000a14      0x118 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+                0x00000a14                power_settings_scene_start_on_enter
+ .text.power_settings_scene_start_on_event
+                0x00000b2c       0x48 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+                0x00000b2c                power_settings_scene_start_on_event
+ .text.power_settings_scene_start_on_exit
+                0x00000b74        0xc build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+                0x00000b74                power_settings_scene_start_on_exit
+ .text.draw_stat
+                0x00000b80       0x7c build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .text.battery_info_input_callback
+                0x00000bfc       0x44 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .text.battery_info_draw_callback
+                0x00000c40      0x4a8 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .text.battery_info_alloc
+                0x000010e8       0x54 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+                0x000010e8                battery_info_alloc
+ .text.battery_info_free
+                0x0000113c       0x1c build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+                0x0000113c                battery_info_free
+ .text.battery_info_get_view
+                0x00001158        0x4 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+                0x00001158                battery_info_get_view
+ .text.battery_info_set_data
+                0x0000115c       0x34 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+                0x0000115c                battery_info_set_data
+ .text.power_settings_tick_event_callback
+                0x00001190        0xc build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .text.power_settings_back_event_callback
+                0x0000119c        0xc build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .text.power_settings_custom_event_callback
+                0x000011a8        0xc build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .text.power_settings_app_alloc
+                0x000011b4      0x140 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+                0x000011b4                power_settings_app_alloc
+ .text.power_settings_app_free
+                0x000012f4       0x90 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+                0x000012f4                power_settings_app_free
+ .text.power_settings_app
+                0x00001384       0x9c build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+                0x00001384                power_settings_app
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00001420      0x466
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.about_screen_fw_version.str1.1
+                0x00001420       0x60 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .rodata.about_screen_hw_version.str1.1
+                0x00001480       0x43 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .rodata.about_screen_product.str1.1
+                0x000014c3       0x5c build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .rodata.about_settings_app.str1.1
+                0x0000151f       0x25 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .rodata.about_screens
+                0x00001544        0xc build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+                0x00001544                about_screens
+ .rodata.power_settings_scene_handlers
+                0x00001550       0x10 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+                0x00001550                power_settings_scene_handlers
+ .rodata.power_settings_on_exit_handlers
+                0x00001560       0x14 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+                0x00001560                power_settings_on_exit_handlers
+ .rodata.power_settings_on_event_handlers
+                0x00001574       0x14 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+                0x00001574                power_settings_on_event_handlers
+ .rodata.power_settings_on_enter_handlers
+                0x00001588       0x14 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+                0x00001588                power_settings_on_enter_handlers
+ .rodata.power_settings_scene_power_off_on_enter.str1.1
+                0x0000159c       0x51 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .rodata.power_settings_scene_reboot_on_enter.str1.1
+                0x000015ed       0x2c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .rodata.power_settings_scene_reboot_confirm_on_enter.str1.1
+                0x00001619       0x9d build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .rodata.power_settings_scene_reboot_confirm_on_event.str1.1
+                0x000016b6        0x6 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .rodata.power_settings_scene_start_charge_supress_percent_changed.str1.1
+                0x000016bc        0x6 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .rodata.power_settings_scene_start_on_enter.str1.1
+                0x000016c2       0x3e build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .rodata.auto_poweroff_delay_value
+                0x00001700       0x34 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+                0x00001700                auto_poweroff_delay_value
+ .rodata.str1.1
+                0x00001734       0x3f build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ *fill*         0x00001773        0x1 
+ .rodata.auto_poweroff_delay_text
+                0x00001774       0x34 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+                0x00001774                auto_poweroff_delay_text
+ .rodata.battery_info_draw_callback.str1.1
+                0x000017a8       0xc2 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .rodata.power_settings_app_alloc.str1.1
+                0x0000186a        0xa build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .rodata.power_settings_app.str1.1
+                0x00001874       0x12 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x278
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x38 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_aranges
+                0x00000038       0x68 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_aranges
+                0x000000a0       0x18 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+ .debug_aranges
+                0x000000b8       0x38 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_aranges
+                0x000000f0       0x38 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_aranges
+                0x00000128       0x38 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_aranges
+                0x00000160       0x38 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_aranges
+                0x00000198       0x48 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_aranges
+                0x000001e0       0x50 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_aranges
+                0x00000230       0x48 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x6e05
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1126 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_info    0x00001126      0xba8 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_info    0x00001cce      0x363 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+ .debug_info    0x00002031      0x5f1 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_info    0x00002622      0x950 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_info    0x00002f72      0x719 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_info    0x0000368b      0x965 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_info    0x00003ff0      0xbae build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_info    0x00004b9e     0x14d2 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_info    0x00006070      0xd95 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+
+.debug_abbrev   0x00000000     0x159d
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x254 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_abbrev  0x00000254      0x20b build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_abbrev  0x0000045f      0x137 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+ .debug_abbrev  0x00000596      0x1cb build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_abbrev  0x00000761      0x1e9 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_abbrev  0x0000094a      0x1c6 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_abbrev  0x00000b10      0x219 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_abbrev  0x00000d29      0x24e build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_abbrev  0x00000f77      0x3de build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_abbrev  0x00001355      0x248 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+
+.debug_line     0x00000000     0x2f85
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x353 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_line.text.about_screen_fw_version
+                0x00000353       0xc3 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_line.text.about_screen_hw_version
+                0x00000416       0xc5 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_line.text.about_screen_product
+                0x000004db       0xbb build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_line.text.about_settings_app
+                0x00000596      0x190 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_line_end
+                0x00000726        0x0 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_line    0x00000726      0x2b7 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line.text.power_off
+                0x000009dd       0x67 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line.text.power_reboot
+                0x00000a44       0x3f build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line.text.power_get_info
+                0x00000a83       0x86 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line.text.power_api_get_settings
+                0x00000b09       0x2a build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line.text.power_api_set_settings
+                0x00000b33       0x7d build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line_end
+                0x00000bb0        0x0 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_line    0x00000bb0      0x17a build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+ .debug_line_end
+                0x00000d2a        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+ .debug_line    0x00000d2a      0x2a9 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_line.text.power_settings_scene_battery_info_update_model
+                0x00000fd3       0x2c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_line.text.power_settings_scene_battery_info_on_enter
+                0x00000fff       0x25 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_line.text.power_settings_scene_battery_info_on_event
+                0x00001024       0x35 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_line.text.power_settings_scene_battery_info_on_exit
+                0x00001059       0x18 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_line_end
+                0x00001071        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_line    0x00001071      0x36f build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_line.text.power_settings_scene_power_off_dialog_callback
+                0x000013e0       0x22 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_line.text.power_settings_scene_power_off_on_enter
+                0x00001402       0x4e build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_line.text.power_settings_scene_power_off_on_event
+                0x00001450       0x4f build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_line.text.power_settings_scene_power_off_on_exit
+                0x0000149f       0x17 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_line_end
+                0x000014b6        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_line    0x000014b6      0x2f7 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_line.text.power_settings_scene_reboot_submenu_callback
+                0x000017ad       0x1a build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_line.text.power_settings_scene_reboot_on_enter
+                0x000017c7       0x36 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_line.text.power_settings_scene_reboot_on_event
+                0x000017fd       0x56 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_line.text.power_settings_scene_reboot_on_exit
+                0x00001853       0x17 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_line_end
+                0x0000186a        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_line    0x0000186a      0x32c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_line.text.power_settings_scene_reboot_confirm_dialog_callback
+                0x00001b96       0x22 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_line.text.power_settings_scene_reboot_confirm_on_enter
+                0x00001bb8       0x65 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_line.text.power_settings_scene_reboot_confirm_on_event
+                0x00001c1d       0x7a build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_line.text.power_settings_scene_reboot_confirm_on_exit
+                0x00001c97       0x18 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_line_end
+                0x00001caf        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_line    0x00001caf      0x3c7 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_line.text.power_settings_scene_start_submenu_callback
+                0x00002076       0x1d build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_line.text.power_settings_scene_start_charge_supress_percent_changed
+                0x00002093       0x51 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_line.text.power_settings_scene_start_auto_poweroff_delay_changed
+                0x000020e4       0x49 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_line.text.power_settings_scene_start_on_enter
+                0x0000212d       0x9f build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_line.text.power_settings_scene_start_on_event
+                0x000021cc       0x6a build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_line.text.power_settings_scene_start_on_exit
+                0x00002236       0x18 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_line_end
+                0x0000224e        0x0 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_line    0x0000224e      0x35f build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_line.text.draw_stat
+                0x000025ad       0x34 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_line.text.battery_info_input_callback
+                0x000025e1       0x8f build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_line.text.battery_info_draw_callback
+                0x00002670      0x286 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_line.text.battery_info_alloc
+                0x000028f6       0x3d build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_line.text.battery_info_free
+                0x00002933       0x31 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_line.text.battery_info_get_view
+                0x00002964       0x1e build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_line.text.battery_info_set_data
+                0x00002982       0x39 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_line_end
+                0x000029bb        0x0 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_line    0x000029bb      0x3b8 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .debug_line.text.power_settings_tick_event_callback
+                0x00002d73       0x1b build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .debug_line.text.power_settings_back_event_callback
+                0x00002d8e       0x1e build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .debug_line.text.power_settings_custom_event_callback
+                0x00002dac       0x1d build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .debug_line.text.power_settings_app_alloc
+                0x00002dc9       0xc5 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .debug_line.text.power_settings_app_free
+                0x00002e8e       0x40 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .debug_line.text.power_settings_app
+                0x00002ece       0xb7 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ .debug_line_end
+                0x00002f85        0x0 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+
+.debug_frame    0x00000000      0x620
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xcc build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_frame   0x000000cc      0x110 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_frame   0x000001dc       0x78 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_frame   0x00000254       0x6c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_frame   0x000002c0       0x78 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_frame   0x00000338       0x88 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_frame   0x000003c0       0xbc build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_frame   0x0000047c       0xfc build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_frame   0x00000578       0xa8 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+
+.debug_str      0x00000000     0x5c82
+ *(.debug_str)
+ .debug_str     0x00000000      0xa15 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_str     0x00000a15      0xa5d build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_str     0x00001472      0x69b build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+ .debug_str     0x00001b0d      0x6c2 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_str     0x000021cf      0x96a build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_str     0x00002b39      0x7eb build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_str     0x00003324      0x9ca build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_str     0x00003cee      0xa2c build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_str     0x0000471a      0x99d build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_str     0x000050b7      0xbcb build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0x1154
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x2dd build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_loclists
+                0x000002dd      0x23a build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_loclists
+                0x00000517       0xdb build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_loclists
+                0x000005f2      0x185 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_loclists
+                0x00000777      0x137 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_loclists
+                0x000008ae      0x18a build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_loclists
+                0x00000a38      0x222 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_loclists
+                0x00000c5a      0x32f build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_loclists
+                0x00000f89      0x1cb build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x1fe
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x3c build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .debug_rnglists
+                0x0000003c       0x49 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .debug_rnglists
+                0x00000085       0x25 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .debug_rnglists
+                0x000000aa       0x26 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .debug_rnglists
+                0x000000d0       0x25 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .debug_rnglists
+                0x000000f5       0x26 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .debug_rnglists
+                0x0000011b       0x32 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .debug_rnglists
+                0x0000014d       0x7d build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .debug_rnglists
+                0x000001ca       0x34 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_about.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/power_settings/mock_imports/mock_power_api.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_battery_info.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_power_off.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_reboot_confirm.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/power_settings/scenes/power_settings_scene_start.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/power_settings/views/battery_info.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/power_settings/power_settings_app.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/power_settings_d.elf elf32-littlearm)
+LOAD linker stubs

@@ -1,0 +1,704 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .rodata.I_app_icon_10px
+                0x00000000        0xc build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .rodata._I_app_icon_10px
+                0x00000000        0x4 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .rodata._I_app_icon_10px_0
+                0x00000000       0x15 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .debug_info    0x00000000      0x184 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .debug_abbrev  0x00000000       0xb1 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .debug_aranges
+                0x00000000       0x18 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .debug_line    0x00000000      0x14c build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .debug_str     0x00000000      0x264 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ .debug_line_end
+                0x00000000        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+LOAD build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+LOAD build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+LOAD build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+LOAD build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+LOAD build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+LOAD build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+LOAD build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+LOAD build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+LOAD build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+LOAD build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+LOAD build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000     0x16b0
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.mfc_editor_scene_block_select_submenu_callback
+                0x00000000        0xc build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+                0x00000000                mfc_editor_scene_block_select_submenu_callback
+ .text.mfc_editor_scene_block_select_on_enter
+                0x0000000c      0x138 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+                0x0000000c                mfc_editor_scene_block_select_on_enter
+ .text.mfc_editor_scene_block_select_on_event
+                0x00000144       0x88 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+                0x00000144                mfc_editor_scene_block_select_on_event
+ .text.mfc_editor_scene_block_select_on_exit
+                0x000001cc        0xc build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+                0x000001cc                mfc_editor_scene_block_select_on_exit
+ .text.mfc_editor_scene_data_edit_block_view_changed_callback
+                0x000001d8        0x2 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+                0x000001d8                mfc_editor_scene_data_edit_block_view_changed_callback
+ *fill*         0x000001da        0x2 
+ .text.mfc_editor_scene_data_edit_block_view_save_callback
+                0x000001dc        0xc build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+                0x000001dc                mfc_editor_scene_data_edit_block_view_save_callback
+ .text.mfc_editor_scene_data_edit_on_enter
+                0x000001e8      0x188 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+                0x000001e8                mfc_editor_scene_data_edit_on_enter
+ .text.mfc_editor_scene_data_edit_on_event
+                0x00000370      0x110 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+                0x00000370                mfc_editor_scene_data_edit_on_event
+ .text.mfc_editor_scene_data_edit_on_exit
+                0x00000480       0x18 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+                0x00000480                mfc_editor_scene_data_edit_on_exit
+ .text.mfc_editor_scene_data_edit_access_bits_dialog_ex_callback
+                0x00000498       0x10 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+                0x00000498                mfc_editor_scene_data_edit_access_bits_dialog_ex_callback
+ .text.mfc_editor_scene_data_edit_access_bits_update_display
+                0x000004a8       0x84 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+                0x000004a8                mfc_editor_scene_data_edit_access_bits_update_display
+ .text.mfc_editor_scene_data_edit_access_bits_on_enter
+                0x0000052c      0x114 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+                0x0000052c                mfc_editor_scene_data_edit_access_bits_on_enter
+ .text.mfc_editor_scene_data_edit_access_bits_on_event
+                0x00000640       0x74 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+                0x00000640                mfc_editor_scene_data_edit_access_bits_on_event
+ .text.mfc_editor_scene_data_edit_access_bits_on_exit
+                0x000006b4        0xc build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+                0x000006b4                mfc_editor_scene_data_edit_access_bits_on_exit
+ .text.mfc_editor_scene_data_view_dialog_ex_callback
+                0x000006c0       0x10 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+                0x000006c0                mfc_editor_scene_data_view_dialog_ex_callback
+ .text.mfc_editor_scene_data_view_update_display
+                0x000006d0      0x468 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+                0x000006d0                mfc_editor_scene_data_view_update_display
+ .text.mfc_editor_scene_data_view_on_enter
+                0x00000b38       0x1c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+                0x00000b38                mfc_editor_scene_data_view_on_enter
+ .text.mfc_editor_scene_data_view_on_event
+                0x00000b54      0x150 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+                0x00000b54                mfc_editor_scene_data_view_on_event
+ .text.mfc_editor_scene_data_view_on_exit
+                0x00000ca4        0xc build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+                0x00000ca4                mfc_editor_scene_data_view_on_exit
+ .text.mfc_editor_scene_file_select_on_enter
+                0x00000cb0       0x4c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+                0x00000cb0                mfc_editor_scene_file_select_on_enter
+ .text.mfc_editor_scene_file_select_on_event
+                0x00000cfc        0xe build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+                0x00000cfc                mfc_editor_scene_file_select_on_event
+ .text.mfc_editor_scene_file_select_on_exit
+                0x00000d0a        0x2 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+                0x00000d0a                mfc_editor_scene_file_select_on_exit
+ .text.mfc_editor_scene_invalid_file_popup_callback
+                0x00000d0c        0xc build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+                0x00000d0c                mfc_editor_scene_invalid_file_popup_callback
+ .text.mfc_editor_scene_invalid_file_on_enter
+                0x00000d18       0x68 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+                0x00000d18                mfc_editor_scene_invalid_file_on_enter
+ .text.mfc_editor_scene_invalid_file_on_event
+                0x00000d80       0x24 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+                0x00000d80                mfc_editor_scene_invalid_file_on_event
+ .text.mfc_editor_scene_invalid_file_on_exit
+                0x00000da4        0xc build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+                0x00000da4                mfc_editor_scene_invalid_file_on_exit
+ .text.mfc_editor_scene_save_success_popup_callback
+                0x00000db0        0xc build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+                0x00000db0                mfc_editor_scene_save_success_popup_callback
+ .text.mfc_editor_scene_save_success_on_enter
+                0x00000dbc       0x7c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+                0x00000dbc                mfc_editor_scene_save_success_on_enter
+ .text.mfc_editor_scene_save_success_on_event
+                0x00000e38       0x24 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+                0x00000e38                mfc_editor_scene_save_success_on_event
+ .text.mfc_editor_scene_save_success_on_exit
+                0x00000e5c        0xc build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+                0x00000e5c                mfc_editor_scene_save_success_on_exit
+ .text.mfc_editor_scene_sector_select_submenu_callback
+                0x00000e68        0xc build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+                0x00000e68                mfc_editor_scene_sector_select_submenu_callback
+ .text.mfc_editor_scene_sector_select_on_enter
+                0x00000e74       0xa0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+                0x00000e74                mfc_editor_scene_sector_select_on_enter
+ .text.mfc_editor_scene_sector_select_on_event
+                0x00000f14       0x74 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+                0x00000f14                mfc_editor_scene_sector_select_on_event
+ .text.mfc_editor_scene_sector_select_on_exit
+                0x00000f88        0xc build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+                0x00000f88                mfc_editor_scene_sector_select_on_exit
+ .text.mfc_editor_app_custom_event_callback
+                0x00000f94        0xc build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x00000f94                mfc_editor_app_custom_event_callback
+ .text.mfc_editor_app_back_event_callback
+                0x00000fa0        0xc build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x00000fa0                mfc_editor_app_back_event_callback
+ .text.mfc_editor_app_tick_event_callback
+                0x00000fac        0xc build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x00000fac                mfc_editor_app_tick_event_callback
+ .text.mfc_editor_get_shadow_file_path
+                0x00000fb8       0x38 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .text.mfc_editor_app_alloc
+                0x00000ff0      0x13c build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x00000ff0                mfc_editor_app_alloc
+ .text.mfc_editor_app_free
+                0x0000112c       0xb0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x0000112c                mfc_editor_app_free
+ .text.mfc_editor_load_file
+                0x000011dc       0x7c build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x000011dc                mfc_editor_load_file
+ .text.mfc_editor_save_file
+                0x00001258       0x54 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x00001258                mfc_editor_save_file
+ .text.mfc_editor_prompt_load_file
+                0x000012ac      0x130 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x000012ac                mfc_editor_prompt_load_file
+ .text.mfc_editor_warn_risky_operation
+                0x000013dc       0x7c build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x000013dc                mfc_editor_warn_risky_operation
+ .text.mfc_editor_warn_unsaved_changes
+                0x00001458       0x88 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x00001458                mfc_editor_warn_unsaved_changes
+ .text.mfc_editor_app
+                0x000014e0       0x30 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x000014e0                mfc_editor_app
+ .text.mfc_editor_calculate_uid_bcc
+                0x00001510       0x24 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+                0x00001510                mfc_editor_calculate_uid_bcc
+ .text.mfc_editor_get_block_access_bits
+                0x00001534       0x88 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+                0x00001534                mfc_editor_get_block_access_bits
+ .text.mfc_editor_set_block_access_bits
+                0x000015bc       0xa8 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+                0x000015bc                mfc_editor_set_block_access_bits
+ .text.mfc_editor_furi_string_render_bytes
+                0x00001664       0x4c build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+                0x00001664                mfc_editor_furi_string_render_bytes
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x000016b0      0x826
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.mfc_editor_scene_handlers
+                0x000016b0       0x10 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+                0x000016b0                mfc_editor_scene_handlers
+ .rodata.mfc_editor_on_exit_handlers
+                0x000016c0       0x20 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+                0x000016c0                mfc_editor_on_exit_handlers
+ .rodata.mfc_editor_on_event_handlers
+                0x000016e0       0x20 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+                0x000016e0                mfc_editor_on_event_handlers
+ .rodata.mfc_editor_on_enter_handlers
+                0x00001700       0x20 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+                0x00001700                mfc_editor_on_enter_handlers
+ .rodata.mfc_editor_scene_block_select_on_enter.str1.1
+                0x00001720       0x46 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .rodata.mfc_editor_scene_data_edit_on_enter.str1.1
+                0x00001766       0x77 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .rodata.mfc_editor_scene_data_edit_access_bits_update_display.str1.1
+                0x000017dd       0x18 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .rodata.mfc_editor_scene_data_edit_access_bits_on_enter.str1.1
+                0x000017f5       0x39 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .rodata.mfc_editor_scene_data_view_update_display.str1.1
+                0x0000182e      0x2ba build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .rodata.mfc_editor_scene_invalid_file_on_enter.str1.1
+                0x00001ae8       0x35 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .rodata.mfc_editor_scene_save_success_on_enter.str1.1
+                0x00001b1d        0x6 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .rodata.mfc_editor_scene_sector_select_on_enter.str1.1
+                0x00001b23        0xa build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .rodata.mfc_editor_get_shadow_file_path.str1.1
+                0x00001b2d        0x8 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .rodata.mfc_editor_app_alloc.str1.1
+                0x00001b35       0x1d build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .rodata.mfc_editor_load_file.str1.1
+                0x00001b52       0x15 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .rodata.mfc_editor_save_file.str1.1
+                0x00001b67       0x15 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .rodata.mfc_editor_prompt_load_file.str1.1
+                0x00001b7c       0x7b build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .rodata.mfc_editor_warn_risky_operation.str1.1
+                0x00001bf7       0x6a build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .rodata.mfc_editor_warn_unsaved_changes.str1.1
+                0x00001c61       0x61 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .rodata.str1.1
+                0x00001cc2      0x209 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .rodata.mfc_editor_furi_string_render_bytes.str1.1
+                0x00001ecb        0xb build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+
+.data           0x00001ed8       0x40
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.access_sector_trailer_labels
+                0x00001ed8       0x20 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x00001ed8                access_sector_trailer_labels
+ .data.access_data_block_labels
+                0x00001ef8       0x20 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+                0x00001ef8                access_data_block_labels
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x298
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+ .debug_aranges
+                0x00000018       0x38 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_aranges
+                0x00000050       0x40 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_aranges
+                0x00000090       0x40 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_aranges
+                0x000000d0       0x40 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_aranges
+                0x00000110       0x30 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_aranges
+                0x00000140       0x38 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_aranges
+                0x00000178       0x38 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_aranges
+                0x000001b0       0x38 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_aranges
+                0x000001e8       0x78 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_aranges
+                0x00000260       0x38 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x7f90
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x420 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+ .debug_info    0x00000420      0xb6f build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_info    0x00000f8f      0xc87 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_info    0x00001c16      0xb07 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_info    0x0000271d     0x1511 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_info    0x00003c2e      0x655 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_info    0x00004283      0x811 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_info    0x00004a94      0x8bf build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_info    0x00005353      0x98f build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_info    0x00005ce2     0x1aca build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_info    0x000077ac      0x7e4 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+
+.debug_abbrev   0x00000000     0x1995
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x137 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+ .debug_abbrev  0x00000137      0x25f build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_abbrev  0x00000396      0x274 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_abbrev  0x0000060a      0x23f build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_abbrev  0x00000849      0x2f7 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_abbrev  0x00000b40      0x1e6 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_abbrev  0x00000d26      0x217 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_abbrev  0x00000f3d      0x22a build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_abbrev  0x00001167      0x23a build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_abbrev  0x000013a1      0x386 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_abbrev  0x00001727      0x26e build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+
+.debug_line     0x00000000     0x35a9
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x166 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+ .debug_line_end
+                0x00000166        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+ .debug_line    0x00000166      0x31e build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_line.text.mfc_editor_scene_block_select_submenu_callback
+                0x00000484       0x18 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_line.text.mfc_editor_scene_block_select_on_enter
+                0x0000049c       0xb1 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_line.text.mfc_editor_scene_block_select_on_event
+                0x0000054d       0x85 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_line.text.mfc_editor_scene_block_select_on_exit
+                0x000005d2       0x18 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_line_end
+                0x000005ea        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_line    0x000005ea      0x3da build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_line.text.mfc_editor_scene_data_edit_block_view_changed_callback
+                0x000009c4       0x16 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_line.text.mfc_editor_scene_data_edit_block_view_save_callback
+                0x000009da       0x15 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_line.text.mfc_editor_scene_data_edit_on_enter
+                0x000009ef      0x144 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_line.text.mfc_editor_scene_data_edit_on_event
+                0x00000b33       0xef build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_line.text.mfc_editor_scene_data_edit_on_exit
+                0x00000c22       0x2e build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_line_end
+                0x00000c50        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_line    0x00000c50      0x2eb build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_line.text.mfc_editor_scene_data_edit_access_bits_dialog_ex_callback
+                0x00000f3b       0x1e build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_line.text.mfc_editor_scene_data_edit_access_bits_update_display
+                0x00000f59       0x57 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_line.text.mfc_editor_scene_data_edit_access_bits_on_enter
+                0x00000fb0       0x98 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_line.text.mfc_editor_scene_data_edit_access_bits_on_event
+                0x00001048       0x91 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_line.text.mfc_editor_scene_data_edit_access_bits_on_exit
+                0x000010d9       0x18 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_line_end
+                0x000010f1        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_line    0x000010f1      0x3da build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_line.text.mfc_editor_scene_data_view_dialog_ex_callback
+                0x000014cb       0x1e build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_line.text.mfc_editor_scene_data_view_update_display
+                0x000014e9      0x25e build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_line.text.mfc_editor_scene_data_view_on_enter
+                0x00001747       0x26 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_line.text.mfc_editor_scene_data_view_on_event
+                0x0000176d      0x189 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_line.text.mfc_editor_scene_data_view_on_exit
+                0x000018f6       0x18 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_line_end
+                0x0000190e        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_line    0x0000190e      0x31d build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_line.text.mfc_editor_scene_file_select_on_enter
+                0x00001c2b       0x6a build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_line.text.mfc_editor_scene_file_select_on_event
+                0x00001c95       0x24 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_line.text.mfc_editor_scene_file_select_on_exit
+                0x00001cb9       0x18 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_line_end
+                0x00001cd1        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_line    0x00001cd1      0x2e2 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_line.text.mfc_editor_scene_invalid_file_popup_callback
+                0x00001fb3       0x15 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_line.text.mfc_editor_scene_invalid_file_on_enter
+                0x00001fc8       0x31 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_line.text.mfc_editor_scene_invalid_file_on_event
+                0x00001ff9       0x3e build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_line.text.mfc_editor_scene_invalid_file_on_exit
+                0x00002037       0x17 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_line_end
+                0x0000204e        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_line    0x0000204e      0x352 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_line.text.mfc_editor_scene_save_success_popup_callback
+                0x000023a0       0x15 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_line.text.mfc_editor_scene_save_success_on_enter
+                0x000023b5       0x34 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_line.text.mfc_editor_scene_save_success_on_event
+                0x000023e9       0x40 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_line.text.mfc_editor_scene_save_success_on_exit
+                0x00002429       0x17 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_line_end
+                0x00002440        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_line    0x00002440      0x31f build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_line.text.mfc_editor_scene_sector_select_submenu_callback
+                0x0000275f       0x16 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_line.text.mfc_editor_scene_sector_select_on_enter
+                0x00002775       0x8c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_line.text.mfc_editor_scene_sector_select_on_event
+                0x00002801       0x87 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_line.text.mfc_editor_scene_sector_select_on_exit
+                0x00002888       0x17 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_line_end
+                0x0000289f        0x0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_line    0x0000289f      0x433 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_app_custom_event_callback
+                0x00002cd2       0x1f build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_app_back_event_callback
+                0x00002cf1       0x1e build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_app_tick_event_callback
+                0x00002d0f       0x1b build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_get_shadow_file_path
+                0x00002d2a       0x38 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_app_alloc
+                0x00002d62       0xf4 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_app_free
+                0x00002e56       0x62 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_load_file
+                0x00002eb8       0x86 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_save_file
+                0x00002f3e       0x55 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_prompt_load_file
+                0x00002f93      0x104 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_warn_risky_operation
+                0x00003097       0x46 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_warn_unsaved_changes
+                0x000030dd       0x56 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line.text.mfc_editor_app
+                0x00003133       0x2d build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line_end
+                0x00003160        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_line    0x00003160      0x196 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+ .debug_line.text.mfc_editor_calculate_uid_bcc
+                0x000032f6       0xa7 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+ .debug_line.text.mfc_editor_get_block_access_bits
+                0x0000339d       0xb7 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+ .debug_line.text.mfc_editor_set_block_access_bits
+                0x00003454       0xfb build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+ .debug_line.text.mfc_editor_furi_string_render_bytes
+                0x0000354f       0x5a build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+ .debug_line_end
+                0x000035a9        0x0 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+
+.debug_frame    0x00000000      0x640
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x8c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_frame   0x0000008c       0xa0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_frame   0x0000012c       0x9c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_frame   0x000001c8       0xa0 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_frame   0x00000268       0x64 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_frame   0x000002cc       0x74 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_frame   0x00000340       0x74 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_frame   0x000003b4       0x8c build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_frame   0x00000440      0x168 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_frame   0x000005a8       0x98 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+
+.debug_str      0x00000000     0x6d0d
+ *(.debug_str)
+ .debug_str     0x00000000      0x803 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+ .debug_str     0x00000803      0xa27 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_str     0x0000122a      0xa37 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_str     0x00001c61      0xa09 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_str     0x0000266a      0xe0a build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_str     0x00003474      0x77e build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_str     0x00003bf2      0x75f build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_str     0x00004351      0x898 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_str     0x00004be9      0x8f6 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_str     0x000054df     0x132c build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_str     0x0000680b      0x502 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0x162a
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x1db build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_loclists
+                0x000001db      0x29a build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_loclists
+                0x00000475      0x247 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_loclists
+                0x000006bc      0x3f5 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_loclists
+                0x00000ab1       0x9d build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_loclists
+                0x00000b4e      0x10b build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_loclists
+                0x00000c59      0x10b build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_loclists
+                0x00000d64      0x207 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_loclists
+                0x00000f6b      0x394 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_loclists
+                0x000012ff      0x32b build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x351
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x52 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .debug_rnglists
+                0x00000052       0x39 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .debug_rnglists
+                0x0000008b       0x2d build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .debug_rnglists
+                0x000000b8       0xa2 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .debug_rnglists
+                0x0000015a       0x1f build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .debug_rnglists
+                0x00000179       0x25 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .debug_rnglists
+                0x0000019e       0x25 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .debug_rnglists
+                0x000001c3       0x45 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .debug_rnglists
+                0x00000208       0x71 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .debug_rnglists
+                0x00000279       0xd8 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_block_select.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_edit_access_bits.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_data_view.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_file_select.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_invalid_file.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_save_success.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/mfc_editor/scenes/mfc_editor_scene_sector_select.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_app.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_helpers.o
+ .ARM.attributes
+                0x0000023c       0x34 build/f7-firmware-C/.extapps/mfc_editor/mfc_editor_icons.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/mfc_editor_d.elf elf32-littlearm)
+LOAD linker stubs

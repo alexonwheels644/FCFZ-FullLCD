@@ -1,0 +1,1256 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_blink_start
+                0x00000000       0x24 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_blink_stop
+                0x00000000       0x10 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_dialog_message_freq_error
+                0x00000000       0x90 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .rodata.subghz_tx_start.str1.1
+                0x00000000       0x29 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_tx_start
+                0x00000000       0x58 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_key_load
+                0x00000000      0x49c build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_get_load_type_file
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_load_protocol_from_file
+                0x00000000       0x6c build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .rodata.subghz_file_available.str1.1
+                0x00000000       0x23 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_file_available
+                0x00000000       0x54 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_delete_file
+                0x00000000       0x48 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .rodata.subghz_get_next_name_file.str1.1
+                0x00000000        0x8 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_get_next_name_file
+                0x00000000       0xd8 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_save_to_file
+                0x00000000       0x3c build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_lock
+                0x00000000        0x8 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_unlock
+                0x00000000        0x8 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_is_locked
+                0x00000000        0xc build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_rx_key_state_set
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text.subghz_rx_key_state_get
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .rodata.str1.1
+                0x00000000      0x128 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .rodata.CSWTCH.14
+                0x00000000       0x10 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .rodata.CSWTCH.13
+                0x00000000       0x10 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_blink_start
+                0x00000000       0x2f build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_blink_stop
+                0x00000000       0x1a build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_dialog_message_freq_error
+                0x00000000       0x48 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_tx_start
+                0x00000000       0x58 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_key_load
+                0x00000000      0x349 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_get_load_type_file
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_load_protocol_from_file
+                0x00000000       0x65 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_file_available
+                0x00000000       0x5a build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_delete_file
+                0x00000000       0x47 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_get_next_name_file
+                0x00000000       0x7d build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_save_to_file
+                0x00000000       0x3a build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_lock
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_unlock
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_is_locked
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_rx_key_state_set
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_rx_key_state_get
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .rodata.subghz_txrx_radio_device_power_off.constprop.0.str1.1
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_radio_device_power_off.constprop.0
+                0x00000000       0x2c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_radio_device_power_on.constprop.0
+                0x00000000       0x2c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_is_database_loaded
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_set_tx_power
+                0x00000000       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_get_preset_name
+                0x00000000       0xa0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_get_preset
+                0x00000000       0x18 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .rodata.subghz_txrx_get_frequency_and_modulation.str1.1
+                0x00000000       0x14 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_get_frequency_and_modulation
+                0x00000000       0x78 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_get_latitude
+                0x00000000        0x8 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_get_longitude
+                0x00000000        0x8 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_sleep
+                0x00000000       0x18 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_set_need_save_callback
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_get_setting
+                0x00000000        0x4 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_hopper_get_state
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_hopper_set_state
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_hopper_unpause
+                0x00000000       0x10 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_hopper_pause
+                0x00000000       0x10 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_speaker_on
+                0x00000000       0x4c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_rx.isra.0
+                0x00000000       0x54 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_speaker_off
+                0x00000000       0x4c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_idle
+                0x00000000       0x28 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_rx_end
+                0x00000000       0x40 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_hopper_update
+                0x00000000       0xc4 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_speaker_mute
+                0x00000000       0x3c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_speaker_unmute
+                0x00000000       0x44 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_stop
+                0x00000000       0x78 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .rodata.subghz_txrx_tx_start.str1.1
+                0x00000000       0x4a build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_tx_start
+                0x00000000      0x17c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_rx_start
+                0x00000000       0x64 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_speaker_set_state
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_speaker_get_state
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_load_decoder_by_name_protocol
+                0x00000000       0x18 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_get_decoder
+                0x00000000        0x4 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_protocol_is_serializable
+                0x00000000        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_protocol_is_transmittable
+                0x00000000       0x2c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_receiver_set_filter
+                0x00000000        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_receiver_set_ignore_filter
+                0x00000000        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_set_rx_callback
+                0x00000000        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_set_raw_file_encoder_worker_callback_end
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_radio_device_is_external_connected
+                0x00000000       0x4c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .rodata.subghz_txrx_radio_device_set.str1.1
+                0x00000000       0x16 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_radio_device_set
+                0x00000000       0x68 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_radio_device_get
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_radio_device_get_rssi
+                0x00000000        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_radio_device_get_name
+                0x00000000        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_radio_device_is_frequency_valid
+                0x00000000        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_radio_device_check_tx
+                0x00000000        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_set_debug_pin_state
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_get_debug_pin_state
+                0x00000000        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_reset_dynamic_and_custom_btns
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_get_receiver
+                0x00000000        0x4 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text.subghz_txrx_set_preset_internal
+                0x00000000       0x7c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .rodata.tx_pa_table.0
+                0x00000000       0x11 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_radio_device_power_off.constprop.0
+                0x00000000       0x28 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_radio_device_power_on.constprop.0
+                0x00000000       0x28 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_is_database_loaded
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_set_tx_power
+                0x00000000       0x90 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_get_preset_name
+                0x00000000       0x7c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_get_preset
+                0x00000000       0x2a build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_get_frequency_and_modulation
+                0x00000000       0x68 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_get_latitude
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_get_longitude
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_sleep
+                0x00000000       0x31 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_set_need_save_callback
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_get_setting
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_hopper_get_state
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_hopper_set_state
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_hopper_unpause
+                0x00000000       0x28 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_hopper_pause
+                0x00000000       0x28 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_speaker_on
+                0x00000000       0x66 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_rx.isra.0
+                0x00000000       0x46 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_speaker_off
+                0x00000000       0x63 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_idle
+                0x00000000       0x3b build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_rx_end
+                0x00000000       0x40 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_hopper_update
+                0x00000000       0xd6 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_speaker_mute
+                0x00000000       0x5a build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_speaker_unmute
+                0x00000000       0x62 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_stop
+                0x00000000       0x85 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_tx_start
+                0x00000000      0x16d build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_rx_start
+                0x00000000       0x6d build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_speaker_set_state
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_speaker_get_state
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_load_decoder_by_name_protocol
+                0x00000000       0x3a build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_get_decoder
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_protocol_is_serializable
+                0x00000000       0x26 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_protocol_is_transmittable
+                0x00000000       0x61 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_receiver_set_filter
+                0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_receiver_set_ignore_filter
+                0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_set_rx_callback
+                0x00000000       0x18 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_set_raw_file_encoder_worker_callback_end
+                0x00000000       0x2c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_radio_device_is_external_connected
+                0x00000000       0x7b build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_radio_device_set
+                0x00000000       0x76 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_radio_device_get
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_radio_device_get_rssi
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_radio_device_get_name
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_radio_device_is_frequency_valid
+                0x00000000       0x1f build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_radio_device_check_tx
+                0x00000000       0x1f build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_set_debug_pin_state
+                0x00000000       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_get_debug_pin_state
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_reset_dynamic_and_custom_btns
+                0x00000000       0x2b build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_get_receiver
+                0x00000000       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_set_preset_internal
+                0x00000000       0x88 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+LOAD build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000     0x2c14
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.subghz_gen_info_reset
+                0x00000000        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+                0x00000000                subghz_gen_info_reset
+ .text.subghz_scene_set_type_fill_generation_infos
+                0x0000000c      0xc6c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+                0x0000000c                subghz_scene_set_type_fill_generation_infos
+ .text.subghz_scene_show_error_callback
+                0x00000c78       0x20 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+                0x00000c78                subghz_scene_show_error_callback
+ .text.subghz_scene_show_error_on_enter
+                0x00000c98       0xa0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+                0x00000c98                subghz_scene_show_error_on_enter
+ .text.subghz_scene_show_error_on_event
+                0x00000d38       0x88 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+                0x00000d38                subghz_scene_show_error_on_event
+ .text.subghz_scene_show_error_on_exit
+                0x00000dc0       0x3c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+                0x00000dc0                subghz_scene_show_error_on_exit
+ .text.subghz_scene_show_error_sub_popup_callback
+                0x00000dfc        0xc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+                0x00000dfc                subghz_scene_show_error_sub_popup_callback
+ .text.subghz_scene_show_error_sub_on_enter
+                0x00000e08       0x94 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+                0x00000e08                subghz_scene_show_error_sub_on_enter
+ .text.subghz_scene_show_error_sub_on_event
+                0x00000e9c       0x2c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+                0x00000e9c                subghz_scene_show_error_sub_on_event
+ .text.subghz_scene_show_error_sub_on_exit
+                0x00000ec8       0x30 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+                0x00000ec8                subghz_scene_show_error_sub_on_exit
+ .text.subghz_scene_set_key_byte_input_callback
+                0x00000ef8        0xc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+                0x00000ef8                subghz_scene_set_key_byte_input_callback
+ .text.subghz_scene_set_key_on_enter
+                0x00000f04       0x68 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+                0x00000f04                subghz_scene_set_key_on_enter
+ .text.subghz_scene_set_key_on_event
+                0x00000f6c       0xa0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+                0x00000f6c                subghz_scene_set_key_on_event
+ .text.subghz_scene_set_key_on_exit
+                0x0000100c       0x30 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+                0x0000100c                subghz_scene_set_key_on_exit
+ .text.subghz_scene_set_type_submenu_callback
+                0x0000103c        0xc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+                0x0000103c                subghz_scene_set_type_submenu_callback
+ .text.subghz_scene_set_type_on_enter
+                0x00001048       0x44 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+                0x00001048                subghz_scene_set_type_on_enter
+ .text.subghz_scene_set_type_generate_protocol_from_infos
+                0x0000108c      0x1f4 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+                0x0000108c                subghz_scene_set_type_generate_protocol_from_infos
+ .text.subghz_scene_set_type_on_event
+                0x00001280       0xc4 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+                0x00001280                subghz_scene_set_type_on_event
+ .text.subghz_scene_set_type_on_exit
+                0x00001344        0xc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+                0x00001344                subghz_scene_set_type_on_exit
+ .text.subghz_scene_save_name_text_input_callback
+                0x00001350        0xc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+                0x00001350                subghz_scene_save_name_text_input_callback
+ .text.subghz_scene_save_name_on_enter
+                0x0000135c       0xfc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+                0x0000135c                subghz_scene_save_name_on_enter
+ .text.subghz_scene_save_name_on_event
+                0x00001458       0xe0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+                0x00001458                subghz_scene_save_name_on_event
+ .text.subghz_scene_save_name_on_exit
+                0x00001538       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+                0x00001538                subghz_scene_save_name_on_exit
+ .text.subghz_scene_save_success_popup_callback
+                0x00001570        0xc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+                0x00001570                subghz_scene_save_success_popup_callback
+ .text.subghz_scene_save_success_on_enter
+                0x0000157c       0x7c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+                0x0000157c                subghz_scene_save_success_on_enter
+ .text.subghz_scene_save_success_on_event
+                0x000015f8       0x40 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+                0x000015f8                subghz_scene_save_success_on_event
+ .text.subghz_scene_save_success_on_exit
+                0x00001638        0xc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+                0x00001638                subghz_scene_save_success_on_exit
+ .text.subghz_txrx_gen_data_protocol
+                0x00001644       0xf0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001644                subghz_txrx_gen_data_protocol
+ .text.subghz_txrx_gen_data_protocol_and_te
+                0x00001734       0x7c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001734                subghz_txrx_gen_data_protocol_and_te
+ .text.subghz_txrx_gen_keeloq_protocol
+                0x000017b0       0x98 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x000017b0                subghz_txrx_gen_keeloq_protocol
+ .text.subghz_txrx_gen_keeloq_seed_protocol
+                0x00001848       0xb4 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001848                subghz_txrx_gen_keeloq_seed_protocol
+ .text.subghz_txrx_gen_nice_flor_s_protocol
+                0x000018fc       0x7c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x000018fc                subghz_txrx_gen_nice_flor_s_protocol
+ .text.subghz_txrx_gen_faac_slh_protocol
+                0x00001978       0xbc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001978                subghz_txrx_gen_faac_slh_protocol
+ .text.subghz_txrx_gen_alutech_at_4n_protocol
+                0x00001a34       0x74 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001a34                subghz_txrx_gen_alutech_at_4n_protocol
+ .text.subghz_txrx_gen_came_atomo_protocol
+                0x00001aa8       0x6c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001aa8                subghz_txrx_gen_came_atomo_protocol
+ .text.subghz_txrx_gen_somfy_telis_protocol
+                0x00001b14       0x74 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001b14                subghz_txrx_gen_somfy_telis_protocol
+ .text.subghz_txrx_gen_somfy_keytis_protocol
+                0x00001b88       0x74 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001b88                subghz_txrx_gen_somfy_keytis_protocol
+ .text.subghz_txrx_gen_kinggates_stylo_4k_protocol
+                0x00001bfc       0x74 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001bfc                subghz_txrx_gen_kinggates_stylo_4k_protocol
+ .text.subghz_txrx_gen_beninca_arc_protocol
+                0x00001c70       0x70 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001c70                subghz_txrx_gen_beninca_arc_protocol
+ .text.subghz_txrx_gen_jarolift_protocol
+                0x00001ce0       0x74 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001ce0                subghz_txrx_gen_jarolift_protocol
+ .text.subghz_txrx_gen_ditec_gol4_protocol
+                0x00001d54       0x74 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001d54                subghz_txrx_gen_ditec_gol4_protocol
+ .text.subghz_txrx_gen_secplus_v2_protocol
+                0x00001dc8       0x64 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001dc8                subghz_txrx_gen_secplus_v2_protocol
+ .text.subghz_txrx_gen_secplus_v1_protocol
+                0x00001e2c       0x54 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001e2c                subghz_txrx_gen_secplus_v1_protocol
+ .text.subghz_txrx_gen_phoenix_v2_protocol
+                0x00001e80       0x6c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001e80                subghz_txrx_gen_phoenix_v2_protocol
+ .text.subghz_txrx_gen_serial_gangqi
+                0x00001eec       0x2c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001eec                subghz_txrx_gen_serial_gangqi
+ .text.subghz_txrx_gen_key_marantec
+                0x00001f18       0x54 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+                0x00001f18                subghz_txrx_gen_key_marantec
+ .text.subghz_scene_set_seed_byte_input_callback
+                0x00001f6c        0xc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+                0x00001f6c                subghz_scene_set_seed_byte_input_callback
+ .text.subghz_scene_set_seed_on_enter
+                0x00001f78       0x74 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+                0x00001f78                subghz_scene_set_seed_on_enter
+ .text.subghz_scene_set_seed_on_event
+                0x00001fec       0xb8 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+                0x00001fec                subghz_scene_set_seed_on_event
+ .text.subghz_scene_set_seed_on_exit
+                0x000020a4       0x30 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+                0x000020a4                subghz_scene_set_seed_on_exit
+ .text.subghz_custom_event_callback
+                0x000020d4        0xc build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+                0x000020d4                subghz_custom_event_callback
+ .text.subghz_back_event_callback
+                0x000020e0        0xc build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+                0x000020e0                subghz_back_event_callback
+ .text.subghz_tick_event_callback
+                0x000020ec        0xc build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+                0x000020ec                subghz_tick_event_callback
+ .text.subghz_alloc
+                0x000020f8      0x180 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+                0x000020f8                subghz_alloc
+ .text.subghz_free
+                0x00002278       0xec build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+                0x00002278                subghz_free
+ .text.subghz_add_manually
+                0x00002364       0x88 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+                0x00002364                subghz_add_manually
+ .text.subghz_scene_set_counter_byte_input_callback
+                0x000023ec        0xc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+                0x000023ec                subghz_scene_set_counter_byte_input_callback
+ .text.subghz_scene_set_counter_on_enter
+                0x000023f8       0x98 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+                0x000023f8                subghz_scene_set_counter_on_enter
+ .text.subghz_scene_set_counter_on_event
+                0x00002490      0x214 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+                0x00002490                subghz_scene_set_counter_on_event
+ .text.subghz_scene_set_counter_on_exit
+                0x000026a4       0x30 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+                0x000026a4                subghz_scene_set_counter_on_exit
+ .text.subghz_save_protocol_to_file
+                0x000026d4       0xd8 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+                0x000026d4                subghz_save_protocol_to_file
+ .text.subghz_rename_file
+                0x000027ac       0x68 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+                0x000027ac                subghz_rename_file
+ .text.subghz_file_name_clear
+                0x00002814       0x24 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+                0x00002814                subghz_file_name_clear
+ .text.subghz_path_is_file
+                0x00002838       0x10 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+                0x00002838                subghz_path_is_file
+ .text.subghz_txrx_free
+                0x00002848       0x58 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+                0x00002848                subghz_txrx_free
+ .text.subghz_txrx_set_preset
+                0x000028a0       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+                0x000028a0                subghz_txrx_set_preset
+ .text.subghz_txrx_get_fff_data
+                0x000028d8        0x4 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+                0x000028d8                subghz_txrx_get_fff_data
+ .text.subghz_txrx_set_default_preset
+                0x000028dc       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+                0x000028dc                subghz_txrx_set_default_preset
+ .text.subghz_txrx_alloc
+                0x00002914       0xf8 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+                0x00002914                subghz_txrx_alloc
+ .text.subghz_scene_set_button_byte_input_callback
+                0x00002a0c        0xc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+                0x00002a0c                subghz_scene_set_button_byte_input_callback
+ .text.subghz_scene_set_button_on_enter
+                0x00002a18       0x68 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+                0x00002a18                subghz_scene_set_button_on_enter
+ .text.subghz_scene_set_button_on_event
+                0x00002a80       0x50 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+                0x00002a80                subghz_scene_set_button_on_event
+ .text.subghz_scene_set_button_on_exit
+                0x00002ad0       0x30 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+                0x00002ad0                subghz_scene_set_button_on_exit
+ .text.subghz_scene_set_serial_byte_input_callback
+                0x00002b00        0xc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+                0x00002b00                subghz_scene_set_serial_byte_input_callback
+ .text.subghz_scene_set_serial_on_enter
+                0x00002b0c       0x6c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+                0x00002b0c                subghz_scene_set_serial_on_enter
+ .text.subghz_scene_set_serial_on_event
+                0x00002b78       0x6c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+                0x00002b78                subghz_scene_set_serial_on_event
+ .text.subghz_scene_set_serial_on_exit
+                0x00002be4       0x30 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+                0x00002be4                subghz_scene_set_serial_on_exit
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00002c14     0x1274
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.subghz_scene_set_type_fill_generation_infos.str1.1
+                0x00002c14      0x22f build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .rodata.subghz_scene_show_error_on_enter.str1.1
+                0x00002e43        0x8 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ *fill*         0x00002e4b        0x1 
+ .rodata.subghz_sequence_sd_error
+                0x00002e4c       0x10 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .rodata.subghz_scene_handlers
+                0x00002e5c       0x10 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+                0x00002e5c                subghz_scene_handlers
+ .rodata.subghz_on_exit_handlers
+                0x00002e6c       0x28 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+                0x00002e6c                subghz_on_exit_handlers
+ .rodata.subghz_on_event_handlers
+                0x00002e94       0x28 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+                0x00002e94                subghz_on_event_handlers
+ .rodata.subghz_on_enter_handlers
+                0x00002ebc       0x28 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+                0x00002ebc                subghz_on_enter_handlers
+ .rodata.subghz_scene_set_key_on_enter.str1.1
+                0x00002ee4       0x21 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .rodata.subghz_scene_set_key_on_event.str1.1
+                0x00002f05       0x33 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .rodata.subghz_scene_set_key_on_exit.str1.1
+                0x00002f38        0x1 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .rodata.subghz_scene_set_type_generate_protocol_from_infos.str1.1
+                0x00002f39       0x43 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .rodata.str1.1
+                0x00002f7c      0x703 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ *fill*         0x0000367f        0x1 
+ .rodata.submenu_names
+                0x00003680      0x178 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .rodata.subghz_scene_save_name_on_enter.str1.1
+                0x000037f8       0x25 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .rodata.subghz_scene_save_name_on_event.str1.1
+                0x0000381d       0x13 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .rodata.subghz_scene_save_success_on_enter.str1.1
+                0x00003830        0x6 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .rodata.subghz_txrx_gen_data_protocol.str1.1
+                0x00003836       0x72 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_data_protocol_and_te.str1.1
+                0x000038a8       0x3e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_keeloq_protocol.str1.1
+                0x000038e6       0x13 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_keeloq_seed_protocol.str1.1
+                0x000038f9        0x5 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_nice_flor_s_protocol.str1.1
+                0x000038fe        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_faac_slh_protocol.str1.1
+                0x0000390a       0x17 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_alutech_at_4n_protocol.str1.1
+                0x00003921        0xe build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_came_atomo_protocol.str1.1
+                0x0000392f        0xb build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_somfy_telis_protocol.str1.1
+                0x0000393a        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_somfy_keytis_protocol.str1.1
+                0x00003946        0xd build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_kinggates_stylo_4k_protocol.str1.1
+                0x00003953       0x12 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_beninca_arc_protocol.str1.1
+                0x00003965        0xc build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_jarolift_protocol.str1.1
+                0x00003971        0x9 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_ditec_gol4_protocol.str1.1
+                0x0000397a        0xb build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_secplus_v2_protocol.str1.1
+                0x00003985        0xe build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_secplus_v1_protocol.str1.1
+                0x00003993        0xe build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_txrx_gen_phoenix_v2_protocol.str1.1
+                0x000039a1        0xb build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .rodata.subghz_scene_set_seed_on_enter.str1.1
+                0x000039ac       0x22 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .rodata.subghz_scene_set_seed_on_event.str1.1
+                0x000039ce       0x33 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .rodata.subghz_scene_set_seed_on_exit.str1.1
+                0x00003a01        0x1 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .rodata.subghz_alloc.str1.1
+                0x00003a02       0x19 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .rodata.subghz_add_manually.str1.1
+                0x00003a1b       0x2c build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .rodata.subghz_scene_set_counter_on_enter.str1.1
+                0x00003a47       0x25 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .rodata.subghz_scene_set_counter_on_event.str1.1
+                0x00003a6c       0x33 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .rodata.subghz_scene_set_counter_on_exit.str1.1
+                0x00003a9f        0x1 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .rodata.subghz_key_load.str1.1
+                0x00003aa0      0x1a9 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .rodata.subghz_save_protocol_to_file.str1.1
+                0x00003c49       0x1c build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .rodata.subghz_load_protocol_from_file.str1.1
+                0x00003c65       0x11 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .rodata.subghz_rename_file.str1.1
+                0x00003c76       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .rodata.subghz_txrx_get_preset_name.str1.1
+                0x00003c94      0x101 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .rodata.subghz_txrx_alloc.str1.1
+                0x00003d95       0xa9 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .rodata.subghz_scene_set_button_on_enter.str1.1
+                0x00003e3e       0x24 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .rodata.subghz_scene_set_button_on_exit.str1.1
+                0x00003e62        0x1 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .rodata.subghz_scene_set_serial_on_enter.str1.1
+                0x00003e63       0x24 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+ .rodata.subghz_scene_set_serial_on_exit.str1.1
+                0x00003e87        0x1 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x5f0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .debug_aranges
+                0x00000028       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_aranges
+                0x00000060       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_aranges
+                0x00000098       0x18 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+ .debug_aranges
+                0x000000b0       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_aranges
+                0x000000e8       0x40 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_aranges
+                0x00000128       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_aranges
+                0x00000160       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_aranges
+                0x00000198       0xb0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_aranges
+                0x00000248       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_aranges
+                0x00000280       0x48 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_aranges
+                0x000002c8       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_aranges
+                0x00000300       0xb8 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_aranges
+                0x000003b8      0x1c8 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_aranges
+                0x00000580       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_aranges
+                0x000005b8       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x1ba0b
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x13ec build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .debug_info    0x000013ec     0x1ae9 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_info    0x00002ed5     0x18c9 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_info    0x0000479e      0x49e build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+ .debug_info    0x00004c3c     0x15e1 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_info    0x0000621d     0x1b35 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_info    0x00007d52     0x1a62 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_info    0x000097b4     0x158b build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_info    0x0000ad3f     0x2e1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_info    0x0000db5d     0x160f build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_info    0x0000f16c     0x1c16 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_info    0x00010d82     0x17d9 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_info    0x0001255b     0x36e9 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_info    0x00015c44     0x3354 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_info    0x00018f98     0x1533 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_info    0x0001a4cb     0x1540 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+
+.debug_abbrev   0x00000000     0x2e8e
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x235 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .debug_abbrev  0x00000235      0x2fb build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_abbrev  0x00000530      0x295 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_abbrev  0x000007c5      0x137 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+ .debug_abbrev  0x000008fc      0x294 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_abbrev  0x00000b90      0x347 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_abbrev  0x00000ed7      0x2a4 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_abbrev  0x0000117b      0x27a build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_abbrev  0x000013f5      0x37c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_abbrev  0x00001771      0x29e build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_abbrev  0x00001a0f      0x327 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_abbrev  0x00001d36      0x2f5 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_abbrev  0x0000202b      0x3ea build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_abbrev  0x00002415      0x562 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_abbrev  0x00002977      0x285 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_abbrev  0x00002bfc      0x292 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+
+.debug_line     0x00000000     0x7aa9
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x2c8 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .debug_line.text.subghz_gen_info_reset
+                0x000002c8       0x18 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .debug_line.text.subghz_scene_set_type_fill_generation_infos
+                0x000002e0      0x912 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .debug_line_end
+                0x00000bf2        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .debug_line    0x00000bf2      0x61c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_line.text.subghz_scene_show_error_callback
+                0x0000120e       0x47 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_line.text.subghz_scene_show_error_on_enter
+                0x00001255       0x42 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_line.text.subghz_scene_show_error_on_event
+                0x00001297       0xa2 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_line.text.subghz_scene_show_error_on_exit
+                0x00001339       0x2a build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_line_end
+                0x00001363        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_line    0x00001363      0x5b3 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_line.text.subghz_scene_show_error_sub_popup_callback
+                0x00001916       0x15 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_line.text.subghz_scene_show_error_sub_on_enter
+                0x0000192b       0x38 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_line.text.subghz_scene_show_error_sub_on_event
+                0x00001963       0x3a build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_line.text.subghz_scene_show_error_sub_on_exit
+                0x0000199d       0x29 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_line_end
+                0x000019c6        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_line    0x000019c6      0x152 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+ .debug_line_end
+                0x00001b18        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+ .debug_line    0x00001b18      0x575 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_line.text.subghz_scene_set_key_byte_input_callback
+                0x0000208d       0x15 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_line.text.subghz_scene_set_key_on_enter
+                0x000020a2       0x72 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_line.text.subghz_scene_set_key_on_event
+                0x00002114       0x96 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_line.text.subghz_scene_set_key_on_exit
+                0x000021aa       0x2d build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_line_end
+                0x000021d7        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_line    0x000021d7      0x58e build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_line.text.subghz_scene_set_type_submenu_callback
+                0x00002765       0x16 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_line.text.subghz_scene_set_type_on_enter
+                0x0000277b       0x5d build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_line.text.subghz_scene_set_type_generate_protocol_from_infos
+                0x000027d8      0x154 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_line.text.subghz_scene_set_type_on_event
+                0x0000292c       0x8e build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_line.text.subghz_scene_set_type_on_exit
+                0x000029ba       0x18 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_line_end
+                0x000029d2        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_line    0x000029d2      0x6b6 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_line.text.subghz_scene_save_name_text_input_callback
+                0x00003088       0x19 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_line.text.subghz_scene_save_name_on_enter
+                0x000030a1       0xee build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_line.text.subghz_scene_save_name_on_event
+                0x0000318f       0xa2 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_line.text.subghz_scene_save_name_on_exit
+                0x00003231       0x3a build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_line_end
+                0x0000326b        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_line    0x0000326b      0x56c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_line.text.subghz_scene_save_success_popup_callback
+                0x000037d7       0x15 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_line.text.subghz_scene_save_success_on_enter
+                0x000037ec       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_line.text.subghz_scene_save_success_on_event
+                0x00003820       0x44 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_line.text.subghz_scene_save_success_on_exit
+                0x00003864       0x1a build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_line_end
+                0x0000387e        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_line    0x0000387e      0x415 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_data_protocol
+                0x00003c93       0xed build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_data_protocol_and_te
+                0x00003d80       0x70 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_keeloq_protocol
+                0x00003df0       0x7d build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_keeloq_seed_protocol
+                0x00003e6d       0xb1 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_nice_flor_s_protocol
+                0x00003f1e       0x69 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_faac_slh_protocol
+                0x00003f87       0xc0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_alutech_at_4n_protocol
+                0x00004047       0x69 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_came_atomo_protocol
+                0x000040b0       0x69 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_somfy_telis_protocol
+                0x00004119       0x69 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_somfy_keytis_protocol
+                0x00004182       0x69 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_kinggates_stylo_4k_protocol
+                0x000041eb       0x69 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_beninca_arc_protocol
+                0x00004254       0x69 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_jarolift_protocol
+                0x000042bd       0x69 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_ditec_gol4_protocol
+                0x00004326       0x69 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_secplus_v2_protocol
+                0x0000438f       0x5f build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_secplus_v1_protocol
+                0x000043ee       0x59 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_phoenix_v2_protocol
+                0x00004447       0x69 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_serial_gangqi
+                0x000044b0       0x40 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line.text.subghz_txrx_gen_key_marantec
+                0x000044f0       0x72 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line_end
+                0x00004562        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_line    0x00004562      0x576 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_line.text.subghz_scene_set_seed_byte_input_callback
+                0x00004ad8       0x15 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_line.text.subghz_scene_set_seed_on_enter
+                0x00004aed       0x90 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_line.text.subghz_scene_set_seed_on_event
+                0x00004b7d       0xb0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_line.text.subghz_scene_set_seed_on_exit
+                0x00004c2d       0x2d build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_line_end
+                0x00004c5a        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_line    0x00004c5a      0x5f1 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_line.text.subghz_custom_event_callback
+                0x0000524b       0x1f build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_line.text.subghz_back_event_callback
+                0x0000526a       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_line.text.subghz_tick_event_callback
+                0x00005288       0x1b build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_line.text.subghz_alloc
+                0x000052a3      0x144 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_line.text.subghz_free
+                0x000053e7       0x99 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_line.text.subghz_add_manually
+                0x00005480       0x57 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_line_end
+                0x000054d7        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_line    0x000054d7      0x579 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_line.text.subghz_scene_set_counter_byte_input_callback
+                0x00005a50       0x15 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_line.text.subghz_scene_set_counter_on_enter
+                0x00005a65       0xbe build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_line.text.subghz_scene_set_counter_on_event
+                0x00005b23      0x2d1 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_line.text.subghz_scene_set_counter_on_exit
+                0x00005df4       0x2d build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_line_end
+                0x00005e21        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_line    0x00005e21      0x76e build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_save_protocol_to_file
+                0x0000658f       0xa3 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_rename_file
+                0x00006632       0x66 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_file_name_clear
+                0x00006698       0x2b build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line.text.subghz_path_is_file
+                0x000066c3       0x1a build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line_end
+                0x000066dd        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_line    0x000066dd      0x4d9 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_free
+                0x00006bb6       0x3b build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_set_preset
+                0x00006bf1       0x5d build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_get_fff_data
+                0x00006c4e       0x1e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_set_default_preset
+                0x00006c6c       0x4b build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line.text.subghz_txrx_alloc
+                0x00006cb7       0xff build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line_end
+                0x00006db6        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_line    0x00006db6      0x553 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_line.text.subghz_scene_set_button_byte_input_callback
+                0x00007309       0x15 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_line.text.subghz_scene_set_button_on_enter
+                0x0000731e       0x6f build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_line.text.subghz_scene_set_button_on_event
+                0x0000738d       0x58 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_line.text.subghz_scene_set_button_on_exit
+                0x000073e5       0x2d build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_line_end
+                0x00007412        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_line    0x00007412      0x553 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+ .debug_line.text.subghz_scene_set_serial_byte_input_callback
+                0x00007965       0x15 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+ .debug_line.text.subghz_scene_set_serial_on_enter
+                0x0000797a       0x77 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+ .debug_line.text.subghz_scene_set_serial_on_event
+                0x000079f1       0x8b build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+ .debug_line.text.subghz_scene_set_serial_on_exit
+                0x00007a7c       0x2d build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+ .debug_line_end
+                0x00007aa9        0x0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+
+.debug_frame    0x00000000     0x10b4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x4c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .debug_frame   0x0000004c       0x88 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_frame   0x000000d4       0x80 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_frame   0x00000154       0x98 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_frame   0x000001ec       0xb4 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_frame   0x000002a0       0x90 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_frame   0x00000330       0x78 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_frame   0x000003a8      0x2a4 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_frame   0x0000064c       0x94 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_frame   0x000006e0       0xac build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_frame   0x0000078c       0x94 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_frame   0x00000820      0x248 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_frame   0x00000a68      0x530 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_frame   0x00000f98       0x8c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_frame   0x00001024       0x90 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+
+.debug_str      0x00000000    0x1b0b5
+ *(.debug_str)
+ .debug_str     0x00000000      0xcbb build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .debug_str     0x00000cbb     0x2153 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_str     0x00002e0e     0x1f86 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_str     0x00004d94      0x80b build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+ .debug_str     0x0000559f     0x1a99 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_str     0x00007038     0x1d23 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_str     0x00008d5b     0x1fd3 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_str     0x0000ad2e     0x19bc build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_str     0x0000c6ea     0x1b0f build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_str     0x0000e1f9     0x1aa2 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_str     0x0000fc9b     0x1766 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_str     0x00011401     0x1c24 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_str     0x00013025     0x2748 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_str     0x0001576d     0x24fa build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_str     0x00017c67     0x1a27 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_str     0x0001968e     0x1a27 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0x753c
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000     0x3745 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .debug_loclists
+                0x00003745      0x1a6 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_loclists
+                0x000038eb      0x147 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_loclists
+                0x00003a32      0x1b2 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_loclists
+                0x00003be4      0x9c9 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_loclists
+                0x000045ad      0x21a build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_loclists
+                0x000047c7       0xec build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_loclists
+                0x000048b3     0x105a build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_loclists
+                0x0000590d      0x1ca build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_loclists
+                0x00005ad7      0x194 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_loclists
+                0x00005c6b      0x249 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_loclists
+                0x00005eb4      0x770 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_loclists
+                0x00006624      0xc0e build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_loclists
+                0x00007232      0x1a0 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_loclists
+                0x000073d2      0x16a build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x516
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0x1a build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .debug_rnglists
+                0x0000001a       0x27 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .debug_rnglists
+                0x00000041       0x26 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .debug_rnglists
+                0x00000067       0x26 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .debug_rnglists
+                0x0000008d       0x3c build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .debug_rnglists
+                0x000000c9       0x27 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .debug_rnglists
+                0x000000f0       0x25 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .debug_rnglists
+                0x00000115       0x9c build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .debug_rnglists
+                0x000001b1       0x26 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .debug_rnglists
+                0x000001d7       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .debug_rnglists
+                0x0000020b       0x27 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .debug_rnglists
+                0x00000232       0xc3 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .debug_rnglists
+                0x000002f5      0x1d7 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .debug_rnglists
+                0x000004cc       0x25 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .debug_rnglists
+                0x000004f1       0x25 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_gen_info.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error.o
+ .ARM.attributes
+                0x00000068       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_show_error_sub.o
+ .ARM.attributes
+                0x0000009c       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene.o
+ .ARM.attributes
+                0x000000d0       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_key.o
+ .ARM.attributes
+                0x00000104       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_type.o
+ .ARM.attributes
+                0x00000138       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_name.o
+ .ARM.attributes
+                0x0000016c       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_save_success.o
+ .ARM.attributes
+                0x000001a0       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx_create_protocol_key.o
+ .ARM.attributes
+                0x000001d4       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_seed.o
+ .ARM.attributes
+                0x00000208       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/subghz.o
+ .ARM.attributes
+                0x0000023c       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_counter.o
+ .ARM.attributes
+                0x00000270       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/subghz_i.o
+ .ARM.attributes
+                0x000002a4       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/helpers/subghz_txrx.o
+ .ARM.attributes
+                0x000002d8       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_button.o
+ .ARM.attributes
+                0x0000030c       0x34 build/f7-firmware-C/.extapps/subghz_add_manually/scenes/subghz_scene_set_serial.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/subghz_add_manually_d.elf elf32-littlearm)
+LOAD linker stubs

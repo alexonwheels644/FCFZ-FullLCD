@@ -1,0 +1,278 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000     0x2708
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.suica_navigation_raw_callback
+                0x00000000        0x4 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_on_exit
+                0x00000004       0xa4 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_on_event
+                0x000000a8       0x90 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_on_enter
+                0x00000138      0x2f0 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_parse_train_code
+                0x00000428      0x32c build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_parse
+                0x00000754      0x15c build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_view_history_timer_callback
+                0x000008b0        0xc build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_view_history_exit_callback
+                0x000008bc       0x2c build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_view_history_enter_callback
+                0x000008e8       0x40 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_view_history_custom_event_callback
+                0x00000928       0x34 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_parse_detail_callback
+                0x0000095c       0x4c build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_poller_callback
+                0x000009a8      0x304 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_history_input_callback
+                0x00000cac       0x90 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_draw_train_page_1.isra.0
+                0x00000d3c      0x2a0 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_history_draw_callback
+                0x00000fdc     0x1724 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .text.suica_plugin_ep
+                0x00002700        0x8 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+                0x00002700                suica_plugin_ep
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00002708      0x974
+ *(.rodata)
+ .rodata        0x00002708        0x7 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.suica_on_event.str1.1
+                0x0000270f       0x2b build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .rodata.suica_on_enter.str1.1
+                0x0000273a       0x7b build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .rodata.suica_parse_train_code.str1.1
+                0x000027b5       0x75 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .rodata.suica_parse_detail_callback.str1.1
+                0x0000282a       0x22 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .rodata.suica_poller_callback.str1.1
+                0x0000284c       0xfd build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .rodata.suica_draw_train_page_1.isra.0.str1.1
+                0x00002949       0x46 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .rodata.suica_history_draw_callback.str1.1
+                0x0000298f       0x46 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .rodata.str1.1
+                0x000029d5      0x1f0 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ *fill*         0x00002bc5        0x3 
+ .rodata.suica_plugin_descriptor
+                0x00002bc8        0xc build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .rodata.suica_plugin
+                0x00002bd4       0x10 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .rodata.RailwaysList
+                0x00002be4      0x498 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+
+.data           0x0000307c        0x8
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.suica_service_names
+                0x0000307c        0x8 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+                0x0000307c                suica_service_names
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x98
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x98 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x82bf
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x82bf build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+
+.debug_abbrev   0x00000000      0x634
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x634 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+
+.debug_line     0x00000000     0x1cfb
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0xa20 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_navigation_raw_callback
+                0x00000a20       0x1d build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_on_exit
+                0x00000a3d       0x6b build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_on_event
+                0x00000aa8       0x76 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_on_enter
+                0x00000b1e      0x1cf build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_parse_train_code
+                0x00000ced      0x220 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_parse
+                0x00000f0d      0x169 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_view_history_timer_callback
+                0x00001076       0x1a build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_view_history_exit_callback
+                0x00001090       0x2c build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_view_history_enter_callback
+                0x000010bc       0x4e build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_view_history_custom_event_callback
+                0x0000110a       0x40 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_parse_detail_callback
+                0x0000114a       0x43 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_poller_callback
+                0x0000118d      0x29f build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_history_input_callback
+                0x0000142c       0x86 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_draw_train_page_1.isra.0
+                0x000014b2      0x104 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_history_draw_callback
+                0x000015b6      0x72c build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line.text.suica_plugin_ep
+                0x00001ce2       0x19 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ .debug_line_end
+                0x00001cfb        0x0 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+
+.debug_frame    0x00000000      0x274
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x274 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+
+.debug_str      0x00000000     0x3f8e
+ *(.debug_str)
+ .debug_str     0x00000000     0x3f8e build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+                0x00000000     0x11c0
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000     0x11c0 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000      0x1ca
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000      0x1ca build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/suica_plugin/scenes/plugins/suica.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/suica_plugin_d.elf elf32-littlearm)
+LOAD linker stubs

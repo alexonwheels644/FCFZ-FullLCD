@@ -1,0 +1,330 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o (__aeabi_i2d)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text          0x00000000        0x0 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .data          0x00000000        0x0 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .bss           0x00000000        0x0 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .comment       0x00000000       0x1c build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .data          0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+LOAD build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x00000000     0x11e8
+ *(.text)
+ .text          0x00000000      0x378 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x00000000                __aeabi_drsub
+                0x00000008                __aeabi_dsub
+                0x00000008                __subdf3
+                0x0000000c                __aeabi_dadd
+                0x0000000c                __adddf3
+                0x00000284                __floatunsidf
+                0x00000284                __aeabi_ui2d
+                0x000002a4                __floatsidf
+                0x000002a4                __aeabi_i2d
+                0x000002c8                __aeabi_f2d
+                0x000002c8                __extendsfdf2
+                0x0000030c                __floatundidf
+                0x0000030c                __aeabi_ul2d
+                0x0000031c                __floatdidf
+                0x0000031c                __aeabi_l2d
+ *(.stub)
+ *(.text*)
+ .text.js_subghz_destroy
+                0x00000378       0x30 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_create
+                0x000003a8      0x1c4 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_end
+                0x0000056c       0x88 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_set_idle
+                0x000005f4       0x7c build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_transmit_file
+                0x00000670      0x62c build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_is_external
+                0x00000c9c       0x78 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_set_frequency
+                0x00000d14       0xec build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_get_frequency
+                0x00000e00       0x84 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_get_state
+                0x00000e84       0x94 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_get_rssi
+                0x00000f18       0x98 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_set_rx
+                0x00000fb0       0x7c build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_setup
+                0x0000102c       0xa4 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .text.js_subghz_ep
+                0x000010d0        0x8 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+                0x000010d0                js_subghz_ep
+ .text.radio_device_loader_power_on
+                0x000010d8       0x2c build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .text.radio_device_loader_is_connect_external
+                0x00001104       0x58 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+                0x00001104                radio_device_loader_is_connect_external
+ .text.radio_device_loader_end
+                0x0000115c       0x38 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+                0x0000115c                radio_device_loader_end
+ .text.radio_device_loader_set
+                0x00001194       0x54 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+                0x00001194                radio_device_loader_set
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x000011e8      0x4e2
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.js_subghz_create.str1.1
+                0x000011e8       0x5d build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .rodata.js_subghz_end.str1.1
+                0x00001245       0x13 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .rodata.js_subghz_transmit_file.str1.1
+                0x00001258      0x3bc build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .rodata.js_subghz_set_frequency.str1.1
+                0x00001614       0x48 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .rodata.js_subghz_get_state.str1.1
+                0x0000165c        0x1 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .rodata.js_subghz_setup.str1.1
+                0x0000165d       0x17 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .rodata.str1.1
+                0x00001674       0x15 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ *fill*         0x00001689        0x3 
+ .rodata.CSWTCH.26
+                0x0000168c        0xc build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .rodata.plugin_descriptor
+                0x00001698        0xc build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .rodata.js_subghz_desc
+                0x000016a4       0x10 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .rodata.radio_device_loader_end.str1.1
+                0x000016b4        0xb build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .rodata.radio_device_loader_set.str1.1
+                0x000016bf        0xb build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xb8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x80 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_aranges
+                0x00000080       0x38 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x3b4d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x2ff5 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_info    0x00002ff5      0xb58 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+
+.debug_abbrev   0x00000000      0x6f5
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x437 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_abbrev  0x00000437      0x2be build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+
+.debug_line     0x00000000     0x11ef
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x549 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_destroy
+                0x00000549       0x32 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_create
+                0x0000057b       0x65 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_end
+                0x000005e0       0x5f build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_set_idle
+                0x0000063f       0x5a build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_transmit_file
+                0x00000699      0x490 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_is_external
+                0x00000b29       0x4d build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_set_frequency
+                0x00000b76       0xa8 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_get_frequency
+                0x00000c1e       0x4d build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_get_state
+                0x00000c6b       0x67 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_get_rssi
+                0x00000cd2       0x6b build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_set_rx
+                0x00000d3d       0x5a build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_setup
+                0x00000d97       0x77 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line.text.js_subghz_ep
+                0x00000e0e       0x19 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line_end
+                0x00000e27        0x0 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_line    0x00000e27      0x23d build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .debug_line.text.radio_device_loader_power_on
+                0x00001064       0x3e build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .debug_line.text.radio_device_loader_is_connect_external
+                0x000010a2       0x90 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .debug_line.text.radio_device_loader_end
+                0x00001132       0x57 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .debug_line.text.radio_device_loader_set
+                0x00001189       0x66 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .debug_line_end
+                0x000011ef        0x0 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+
+.debug_frame    0x00000000      0x2bc
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x21c build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_frame   0x0000021c       0xa0 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+
+.debug_str      0x00000000     0x25a5
+ *(.debug_str)
+ .debug_str     0x00000000     0x1bcc build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_str     0x00001bcc      0x9d9 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000       0xaa
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0xaa c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+
+.debug_loclists
+                0x00000000      0x813
+ *(.debug_loclists)
+ .debug_loclists
+                0x00000000      0x6cf build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_loclists
+                0x000006cf      0x144 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x00000000       0xe7
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x00000000       0xb3 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .debug_rnglists
+                0x000000b3       0x34 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/js_subghz.o
+ .ARM.attributes
+                0x00000034       0x34 build/f7-firmware-C/.extapps/js_subghz/modules/js_subghz/radio_device_loader.o
+ .ARM.attributes
+                0x00000068       0x22 c:/oled_flipper/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/js_subghz_d.elf elf32-littlearm)
+LOAD linker stubs
