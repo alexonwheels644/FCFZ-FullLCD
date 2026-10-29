@@ -11,13 +11,11 @@
 #define CONTRAST_ERC 32
 #define CONTRAST_MGG 28
 
-/* Адрес дисплея ST7567 */
 #define ST7567_I2C_ADDRESS 0x3F
 
 volatile bool display_needs_reinit = false;
 volatile bool display_is_sleeping = false;
 
-/* Фейковый ШИМ-счетчик для плавной регулировки яркости */
 static uint8_t pwm_counter = 0;
 
 uint8_t u8g2_gpio_and_delay_stm32(u8x8_t* u8x8, uint8_t msg, uint8_t arg_int, void* arg_ptr) {
@@ -60,7 +58,6 @@ uint8_t u8g2_gpio_and_delay_stm32(u8x8_t* u8x8, uint8_t msg, uint8_t arg_int, vo
 }
 
 uint8_t u8x8_byte_hw_i2c_stm32(u8x8_t* u8x8, uint8_t msg, uint8_t arg_int, void* arg_ptr) {
-    /* ИСПРАВЛЕНО: Сделали нормальный массив на 128 байт, компилятор пропустит */
     static uint8_t buffer[128];  
     static uint16_t buf_idx = 0;
     
@@ -198,13 +195,10 @@ uint8_t u8x8_d_ssd1306_common(u8x8_t* u8x8, uint8_t msg, uint8_t arg_int, void* 
         } while(arg_int > 0);
 
         u8x8_cad_EndTransfer(u8x8);
-
-        /* Генерируем программный ШИМ на пине PB0 прямо во время отправки графики */
         LL_GPIO_SetPinMode(GPIOB, LL_GPIO_PIN_0, LL_GPIO_MODE_OUTPUT);
         if(display_is_sleeping) {
-            LL_GPIO_ResetOutputPin(GPIOB, LL_GPIO_PIN_0); /* Ноль вольт во время сна */
+            LL_GPIO_ResetOutputPin(GPIOB, LL_GPIO_PIN_0);
         } else {
-            /* Считываем текущее положение ползунка бэклайта из системных настроек Флиппера */
             if(furi_record_exists(RECORD_NOTIFICATION)) {
                 NotificationApp* notif = furi_record_open(RECORD_NOTIFICATION);
                 uint8_t target_brightness = (uint8_t)(notif->settings.display_brightness * 4.0f); 
@@ -212,12 +206,12 @@ uint8_t u8x8_d_ssd1306_common(u8x8_t* u8x8, uint8_t msg, uint8_t arg_int, void* 
 
                 pwm_counter = (pwm_counter + 1) % 4;
                 if(pwm_counter < target_brightness) {
-                    LL_GPIO_SetOutputPin(GPIOB, LL_GPIO_PIN_0); /* 3.3В */
+                    LL_GPIO_SetOutputPin(GPIOB, LL_GPIO_PIN_0); 
                 } else {
-                    LL_GPIO_ResetOutputPin(GPIOB, LL_GPIO_PIN_0); /* 0В */
+                    LL_GPIO_ResetOutputPin(GPIOB, LL_GPIO_PIN_0); 
                 }
             } else {
-                LL_GPIO_SetOutputPin(GPIOB, LL_GPIO_PIN_0); /* Дефолт 100% если сервис занят */
+                LL_GPIO_SetOutputPin(GPIOB, LL_GPIO_PIN_0); 
             }
         }
         break;

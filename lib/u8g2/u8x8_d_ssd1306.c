@@ -1,6 +1,5 @@
 /*
 
-  u8x8_d_ssd1306_128x64_noname.c (Финальная версия под ST7567 I2C)
 
   Universal 8bit Graphics Library (https://github.com)
 
@@ -38,27 +37,25 @@
 static const uint8_t u8x8_d_st7567_128x64_init_seq[] = {
   U8X8_START_TRANSFER(),             	
   
-  U8X8_C(0x0e2),                        /* Аппаратный сброс контроллера */
-  U8X8_C(0x0ae),		                /* Display OFF */
+  U8X8_C(0x0e2),                        
+  U8X8_C(0x0ae),	
   
-  /* ИСПРАВЛЕНО: Меняем на 0xA1, чтобы убрать зеркальное отображение по горизонтали */
-  U8X8_C(0x0a1),                        /* ADC: Reverse */
-  U8X8_C(0x0c0),                        /* COM: Normal */
+  U8X8_C(0x0a1),                       
+  U8X8_C(0x0c0),                       
   
-  U8X8_C(0x0a6),				        /* Display Mode: Normal */
-  U8X8_C(0x0a4),				        /* All Pixels OFF */
-  U8X8_C(0x0a3),                        /* LCD Bias: 1/7 */
+  U8X8_C(0x0a6),				      
+  U8X8_C(0x0a4),				       
+  U8X8_C(0x0a3),                      
   
-  U8X8_C(0x02f),                        /* Power Control: Включение встроенных бустеров */
+  U8X8_C(0x02f),                      
   
-  /* Твой идеальный рабочий контраст: Resistor Ratio 0x22 */
   U8X8_CA(0x020 | 0x02, 0x010),         
   
-  U8X8_C(0x081),                        /* Команда электронной яркости */
-  U8X8_C(0x1a),                         /* Значение электронной контрастности (26 из 63) */
+  U8X8_C(0x081),                       
+  U8X8_C(0x1a),                         
   
-  U8X8_C(0x040),		                /* Set Display Start Line to 0 */
-  U8X8_C(0x0af),                        /* Display ON */
+  U8X8_C(0x040),		               
+  U8X8_C(0x0af),                       
     
   U8X8_END_TRANSFER(),             	
   U8X8_END()             			    
@@ -132,7 +129,6 @@ static uint8_t u8x8_d_ssd1306_sh1106_generic(u8x8_t *u8x8, uint8_t msg, uint8_t 
       x *= 8;
       x += u8x8->x_offset;
     
-      /* Специфичная для ST7567 постраничная адресация столбцов */
       u8x8_cad_SendCmd(u8x8, 0x010 | (x >> 4) );
       u8x8_cad_SendCmd(u8x8, 0x000 | (x & 15) );
       u8x8_cad_SendCmd(u8x8, 0x0b0 | (((u8x8_tile_t *)arg_ptr)->y_pos) );
@@ -153,7 +149,6 @@ static uint8_t u8x8_d_ssd1306_sh1106_generic(u8x8_t *u8x8, uint8_t msg, uint8_t 
   return 1;
 }
 
-/* Настройки таймингов шины под ST7567 */
 static const u8x8_display_info_t u8x8_st7567_128x64_display_info =
 {
   /* chip_enable_level = */ 0,
@@ -172,13 +167,12 @@ static const u8x8_display_info_t u8x8_st7567_128x64_display_info =
   /* write_pulse_width_ns = */ 150,	
   /* tile_width = */ 16,                
   /* tile_height = */ 8,                
-  /* default_x_offset = */ 4,           /* ИСПРАВЛЕНО: Сдвигаем на 4 пикселя вправо для компенсации */
+  /* default_x_offset = */ 4,        
   /* flipmode_x_offset = */ 4,
   /* pixel_width = */ 128,
   /* pixel_height = */ 64
 };
 
-/* Точка входа, вызываемая прошивкой Flipper Zero */
 uint8_t u8x8_d_ssd1306_128x64_noname(u8x8_t *u8x8, uint8_t msg, uint8_t arg_int, void *arg_ptr)
 {
   if ( u8x8_d_ssd1306_sh1106_generic(u8x8, msg, arg_int, arg_ptr) != 0 )

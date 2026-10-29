@@ -406,7 +406,6 @@ i2c_write_byte(u8x8, data[i]);
 i2c_stop(u8x8);
 }
 uint8_t u8x8_byte_sw_i2c(u8x8_t* u8x8, uint8_t msg, uint8_t arg_int, void* arg_ptr) {
-    /* УВЕЛИЧИЛИ БУФЕР: Дисплеи типа ST7567 за раз могут выбрасывать длинные цепочки инициализации */
     static uint8_t buffer[128]; 
     static uint8_t buf_idx = 0;
 
@@ -430,8 +429,6 @@ uint8_t u8x8_byte_sw_i2c(u8x8_t* u8x8, uint8_t msg, uint8_t arg_int, void* arg_p
         break;
     case U8X8_MSG_BYTE_END_TRANSFER:
         if(buf_idx > 0) {
-            /* ДВОЙНОЙ УДАР: Шлём инициализацию на оба возможных физических адреса в шине, 
-               чтобы один из них гарантированно зацепил контроллер дисплея */
             i2c_transfer(u8x8, 0x3F, buf_idx, buffer);
             i2c_transfer(u8x8, 0x3F << 1, buf_idx, buffer);
         }
